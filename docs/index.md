@@ -10,6 +10,11 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
+<details markdown="1">
+<summary>Design Notes</summary>
+*I really agree with Dungeon Antology's [vision of class design](https://dungeonantology.com/2020/08/09/glog-class-design/). I aim to have few yet impactful abilities for them, and for the classes to fulfil at least one of the 3 classic roles of DnD. — SaltyGoo*
+</details>
+
 # Header 1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
