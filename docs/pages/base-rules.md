@@ -52,7 +52,7 @@ A character has 4 <b>main attributes</b>:
 <details markdown="1">
 <summary><i>Example: Using an attribute</i></summary>
 > Brett is trying to run away from a raging lizardfolk. The GM tells him to roll with Might. Brett rolls a total of 6, to which he adds his Might score, which is 1, for a total of 7. It's a partial success.
-> Brett manages to run away, however the GM determines that the lizardfolk turns back to call for reinforcements. Looks like stealing the urn of Udd just went from bad to worse.
+> <br>Brett manages to run away, however the GM determines that the lizardfolk turns back to call for reinforcements. Looks like stealing the urn of Udd just went from bad to worse.
 </details>
 <br>
 A <b>savvy</b> is any domain of knowledge or savoir-faire (such as <i>Eavesdropping</i>, <i>Rock-climbing</i> or <i>Knowing when a room is silent or full of quiet things</i>) in which the character is proficient. It takes up a slot in a character's Mind. A character is assumed to have the general knowledge of any adventurer (making simple knots, basic survival knowledge, speaking a local tongue), but savvy characters automatically succeed in doing what they're savvy in. Even if the situation would be impossible for a normal adventurer, a savvy character can still attempt it.
@@ -60,7 +60,7 @@ A <b>savvy</b> is any domain of knowledge or savoir-faire (such as <i>Eavesdropp
 <details markdown="1">
 <summary><i>Example: Using a savvy</i></summary>
 > Rihanna and Brett are crawling through a dark underground right beneath the main temple of the lizardfolk. A heavy door with a strange stone mechanism blocks their path, and it seems as if they'll have to turn back.
-> However, Rihanna is savvy in Stonework. She argues to the GM that her character would be able to find weak spots to potentially lever the door out of the way, given she uses her crowbar. The GM accepts, and Rihanna's character successfully removes the obstacle from their path, revealing a large, 7-legged creature skittering behind he door, awoken by the sound of Rihanna's work.
+> <br>However, Rihanna is savvy in Stonework. She argues to the GM that her character would be able to find weak spots to potentially lever the door out of the way, given she uses her crowbar. The GM accepts, and Rihanna's character successfully removes the obstacle from their path, revealing a large, 7-legged creature skittering behind he door, awoken by the sound of Rihanna's work.
 </details>
 <br>
 <b>Hit Points</b> are the amount of damage a character can endure before taking <b>Wounds</b>.
