@@ -7,4 +7,4 @@ title: Base Rules
 
 yippee kay yay
 
-[back](./index.html)
+[back](https://bartapapa.github.io/legend/)
