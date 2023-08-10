@@ -22,4 +22,22 @@ Certain situations can grant <b>boons</b> or <b>banes</b>. These are additional 
 That's all!
 </details>
 
+<details markdown="1">
+<summary><b>Create a character</b></summary>
+A character has 4 main attributes:
+*  <b>Might.</b> This is sheer physical strength, hardiness, resistance to pain. Generally used to break down doors, crush a skull, and holding one's breath.
+*  <b>Grace.</b> This is agility, quickness and reactivity. Generally used to run across tightropes, play the piano, and ride beasts.
+*  <b>Wit.</b> This is thinking quickly, perception and charm. Generally used to sense when being observed, compel a guard to look the other way or swipe the noble's purse.
+*  <b>Lore.</b> This is understanding, education and breadth of knowledge. Generally used to calculate hypergeometry, know dining etiquette, and comprehend cyphers.
+
+A character starts with 0 in all of these attributes.
+
+A character also starts with 6 <b>Hit Points</b> (or <b>HP</b>), 10 <b>Inventory</b> slots and 10 <b>Mind</b> slots.
+
+Choose your character's <b>Class</b>, and get its <b>Starting equipment</b> in your inventory and its <b>Starting skills</b> in your mind.
+Choose your character's <b>Background</b>, as well as one or two <b>Goals</b> - the GM will reward you for following these.
+
+You're done!
+</details>
+
 <a href="{{ "/" | absolute_url }}">Home</a>
