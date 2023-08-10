@@ -7,4 +7,4 @@ title: Base Rules
 
 yippee kay yay
 
-[back](./)
+[back](./index.html)
