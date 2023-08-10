@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Base Rules
+permalink: /base_rules
 ---
 
 ## Base rules
