@@ -5,7 +5,7 @@ permalink: /base-rules/
 ---
 <small>Rules inspired by Arnold K's [Goblin Laws of Gaming (GLoG)](http://goblinpunch.blogspot.com/2020/04/lair-of-lamb-final.html), Skerples' [Many Rats on Sticks edition](https://coinsandscrolls.blogspot.com/2019/10/osr-glog-based-homebrew-v2-many-rats-on.html), the general GloG community and many OSR-adjacent systems.</small>
 
----
+***
 
 <details markdown="1">
 <summary><b>How to play</b></summary>
@@ -24,7 +24,7 @@ Certain situations can grant <b>boons</b> or <b>banes</b>. These are additional 
 That's all!
 </details>
 
----
+***
 
 <details markdown="1">
 <summary><b>Create a character</b></summary>
@@ -38,7 +38,7 @@ Choose your character's <b>Background</b>, as well as one or two <b>Goals</b> - 
 You're done!
 </details>
 
----
+***
 
 <details markdown="1">
 <summary><b>Attributes, Stats and Savvies</b></summary>
@@ -55,7 +55,7 @@ A character has 4 <b>main attributes</b>:
 > Brett manages to run away, however the GM determines that the lizardfolk turns back to call for reinforcements. Looks like stealing the urn of Udd just went from bad to worse.
 </details>
 
-A <b>savvy</b> is any domain of knowledge or savoir-faire (such as <i>Eavesdropping</i>, <i>Rock-climbing</i> or <i>Knowing when a room is silent or full of quiet things</i>) in which the character is proficient. A character is assumed to have the general knowledge of any adventurer (making simple knots, basic survival knowledge, speaking a local tongue), but savvy characters automatically succeed in doing what they're savvy in. Even if the situation would be impossible for a normal adventurer, a savvy character can still attempt it.
+A <b>savvy</b> is any domain of knowledge or savoir-faire (such as <i>Eavesdropping</i>, <i>Rock-climbing</i> or <i>Knowing when a room is silent or full of quiet things</i>) in which the character is proficient. It takes up a slot in a character's Mind. A character is assumed to have the general knowledge of any adventurer (making simple knots, basic survival knowledge, speaking a local tongue), but savvy characters automatically succeed in doing what they're savvy in. Even if the situation would be impossible for a normal adventurer, a savvy character can still attempt it.
 
 <details markdown="1">
 <summary><i>Example: Using a savvy</i></summary>
@@ -67,5 +67,18 @@ A <b>savvy</b> is any domain of knowledge or savoir-faire (such as <i>Eavesdropp
 
 <b>Armor</b> is the quantity of damage you ignore when taking damage from attacks. You start with 0 Armor, although certain classes give Armor as part of their starting equipment.
 </details>
+
+***
+
+<details markdown="1">
+<summary><b>Inventory, Mind and Goals</b></summary>
+<b>Inventory</b>. You have 10 slots, which can be filled with objects, or bundles of 3 objects of small objects like daggers or potions. Specific ammo, such as arrows or bolts, take up 1 slot but don't expire, unless <b>something bad happens</b>. Your inventory will also fill up with <b>Fatigue</b> and <b>Scars</b> along the way. If you have to add something to your inventory and you don't have enough space, you are <b>Exhausted</b> and can't do much of anything except crawl.
+
+<b>Mind</b>. You have 10 slots, which can be filled with savvies, beliefs, and followers. Your mind will also fill up with <b>Stress</b> and <b>Scars</b> along the way. If you have to add something to your mind and you don't have enough space, you <b>Crack</b> and can't do much of anything except whimper.
+
+<b>Scars</b> can be removed with certain kinds of magic. When that isn't around, sometimes being gagged and thrown in a holding cell for a couple of days, or violently flagellating in penance does the trick.
+</details>
+
+***
 
 <a href="{{ "/" | absolute_url }}">Home</a>
