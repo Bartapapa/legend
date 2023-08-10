@@ -8,4 +8,4 @@ permalink: /base-rules/
 
 yippee kay yay
 
-<a href="{{ site.baseurl }}">Home</a>
+<a href="{{ "/" | absolute_url }}">Home</a>
