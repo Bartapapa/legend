@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to base rules](./pages/base-rules.html).
+[Link to base rules]({{ site.baseurl }}/base-rules/).
 
 There should be whitespace between paragraphs.
 
