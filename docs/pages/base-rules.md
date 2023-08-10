@@ -8,4 +8,4 @@ permalink: /base-rules/
 
 yippee kay yay
 
-[back](https://bartapapa.github.io/legend/)
+[back](./index.html)
