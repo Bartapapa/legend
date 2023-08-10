@@ -74,7 +74,7 @@ A <b>savvy</b> is any domain of knowledge or savoir-faire (such as <i>Eavesdropp
 <summary><b>Inventory, Mind and Goals</b></summary>
 <b>Inventory</b>. You have 10 slots, which can be filled with objects, or bundles of 3 objects of small objects like daggers or potions. Specific ammo, such as arrows or bolts, take up 1 slot but don't expire, unless <b>something bad happens</b>. Your inventory will also fill up with <b>Fatigue</b> and <b>Scars</b> along the way. If you have to add something to your inventory and you don't have enough space, you are <b>Exhausted</b> and can't do much of anything except crawl.
 
-<b>Mind</b>. You have 10 slots, which can be filled with savvies, beliefs, and followers. Your mind will also fill up with <b>Stress</b> and <b>Scars</b> along the way. If you have to add something to your mind and you don't have enough space, you <b>Crack</b> and can't do much of anything except whimper.
+<b>Mind</b>. You have 10 slots, which can be filled with savvies, beliefs, and followers. Your mind will also fill up with <b>Stress</b> and <b>Scars</b> along the way. If you have to add something to your mind and you don't have enough space, you <b>Crack</b> and can't do much of anything except whimper. Although, before that happens, you can totally just forget one of your beliefs or savvies. Just don't expect to be getting it back soon.
 
 <b>Scars</b> can be removed with certain kinds of magic. When that isn't around, sometimes being gagged and thrown in a holding cell for a couple of days, or violently flagellating in penance does the trick.
 </details>
