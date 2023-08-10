@@ -8,4 +8,4 @@ permalink: /base-rules/
 
 yippee kay yay
 
-[back](./index.html)
+<a href="{{ site.baseurl }}">Home</a>
