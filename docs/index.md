@@ -1,10 +1,10 @@
----
+l---
 layout: default
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./pages/another-page.html).
+[Link to base rules](./pages/base-rules.html).
 
 There should be whitespace between paragraphs.
 
