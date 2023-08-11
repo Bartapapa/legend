@@ -44,18 +44,23 @@ You can taste and smell magic around you. You know when an object is magical by 
 
 Additionally, you know the ritual to carve spells into the inside of your skull. Over the course of 8 hours, you can destroy an object which has a spell caught within. Doing so fuses the spell into you, taking up 1 Mind slot. This is why mage-hunters cut off their bounty's head. The Magic user can remove a spell from their Mind over the course of 10 minutes if they so wish, liberating the spot. Some spells like the cozy interior of the Magic user's cranium, so it might not be without effort to do so.
 
+If the Magic user has a scroll or an empty spellbook prepared for the spell, it can cast the spell into that instead of letting it run away.
+
 ## Spells
 Roll the dice that is marked, and add any modifiers. You get the corresponding spell from your school's spell list. If you already have it, you take the one above or below until you reach a new spell.
 
 When you acquire a new spell, you can choose to either have it as a spellbook of your creation, or already have it carved inside your head.
 
 ## Spell breeding
-You can attempt to merge and crossbreed two spells into a new spell. 
+You can attempt to merge and crossbreed two spells into a new spell. This takes a week of uninterrupted work. Both spells need to be stored on separate spellbooks or scrolls initially. These two spells are destroyed. You produce, as you choose, either:
+*  A random spell from your spell list (1d10).
+*  A random spell from a random spell list (1d12).
+*  A [mutant](/class/magic-user#spell-mutations) version of one of the two spells.
 
 ## Familiar spell
 Choose a spell you cast often. You ignore mishaps provoked by doubles when casting this spell.
 
-Additionally, roll one [Positive mutation](/class/magic-user#spell-mutations) for the spell.
+Additionally, roll one [positive mutation](/class/magic-user#spell-mutations) for the spell.
 
 ## Spell mastery
 Choose a spell you cast often. You can always cast this spell with 1 MD, even if you don't have any left.
