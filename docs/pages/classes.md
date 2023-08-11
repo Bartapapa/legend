@@ -16,7 +16,6 @@ The <a href="{{ site.baseurl }}/classes/fighter">Fighter</a>
 
 </details>
 <br>
-
 The <a href="{{ site.baseurl }}/classes/magic-user">Magic user</a>
 
 <details markdown="1">
@@ -27,7 +26,6 @@ The <a href="{{ site.baseurl }}/classes/magic-user">Magic user</a>
 
 </details>
 <br>
-
 The <a href="{{ site.baseurl }}/classes/specialist">Specialist</a>
 
 <details markdown="1">
