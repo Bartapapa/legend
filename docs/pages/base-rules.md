@@ -153,10 +153,18 @@ While Dying, you can spend your entire turn (action and movement) to try and sta
 
 Stabilizing does not heal your Wounds. You can however heal all your wounds by taking a <b>Scar</b>. You decide whether your Scar takes place in your Inventory or Mind. You can't remove Scars except with exceptional magic or other very complicated tasks. However, when you do get a scar, you also note down the situation in which you acquired it. You can use your new Scar as if it were a Savvy.
 
-<u><b>Healing:</b></u> A 6-hour rest in good conditions (something to eat, warm, and sheltered) removes all Wounds and heals HP to full. A 10-minute break where you eat a sandwich or something heals 1d6+Might HP, although only once per day.
+<u><b>Healing:</b></u> An 8-hour rest in good conditions (something to eat, warm, and sheltered) removes all Wounds and heals HP to full. A 10-minute break where you eat a sandwich or something heals 1d6+Might HP, although only once per day.
+</details>
 
 ***
 
+<details markdown="1">
+<summary><b>Exploration</b></summary>
+When exploring or going through a locale, like a house, a dungeon, or the ruins of a village inside a forest, the locale is divided into interconnected <b>Rooms</b>. Actions that are spent inside a Room take <b>10 minutes</b>, such as investigating, fighting, or gleaning info from the blood on the walls.
+
+When exploring the great outdoors, where the scale becomes entire forests and mountains, actions take up what's called a <b>Watch</b> (or 4 hours). The great outdoors is made up of interconnected <b>Areas</b>. There are 6 Watches in a day: Dawn, Midday, Afternoon, Evening, Dusk, Midnight. Moving from one Area to a connected one takes a Watch. A good sleep takes 2 Watches.
+
+</details>
 
 
 <a href="{{ "/" | absolute_url }}">Home</a>
