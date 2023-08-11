@@ -166,5 +166,90 @@ When exploring the great outdoors, where the scale becomes entire forests and mo
 
 </details>
 
+***
+
+<details markdown="1">
+<summary><b>Treasures</b></summary>
+Anything you pick up can have a value. Instead of taking into account the precise value of objects, they are divided into 4 categories of worth:
+*  <b>Trash</b>. This has absolutely no value, like a bent fork.
+*  <b>Mundane</b>. A bag of silver coins, a wood-carved brooch, or a pair of simple earrings.
+*  <b>Valuable</b>. A bag of gold coins, a painting by a well-known artist, or a horse.
+*  <b>Treasure</b>. A bag of platinum coins, a spellbook, or a crown of a forgotten lord.
+
+You generally can trade an object for an object of similar value. Some objects can't be traded for, they must be earned or found. Shopkeeps, questgivers, wandering traders, kings, warlords and such can all accept treasures for certain services. In general, 4 Mundane objects are a Valuable, and 4 Valuable objects are a Treasure.
+
+Most valuable objects have <b>Traits</b> that further define them. An apothecary might be trying to find a kind of valuable, while an exorcist willing to part with a spellbook might want another kind.
+*  <b>Civilized</b>. Cut gemstones, coin, paintings and deeds.
+*  <b>Wild</b>. Unicorn horn, displacer rat tentacle, tank turtle shell and eye of newt.
+*  <b>Technological</b>. Chess-playing automaton, clockwork heart, golden stopwatch and shrieking engine.
+*  <b>Occult</b>. Pickled crow feet, sacrificial dagger, wizard skull, and flayed human skin.
+*  <b>Aberrant</b>. Black hole pearl, fractal blade, acidic lime-green goop, and bottled whisper from beyond the stars.
+*  <b>Dungeon</b>. Obsidian skull, adamantium doorknob, orb of annihilation, and drow silkmail.
+*  <b>Religious</b>. Platinum prayer beads, decrepit tome of tenets, prayer rug and saint fingerbones.
+
+</details>
+
+***
+
+<details markdown="1">
+<summary><b>Advancement and Carousing</b></summary>
+When you are back in the city, it is time to reap the rewards of your adventure. By spending your valuables and treasures while carousing, you can potentially level up. When you spend the equivalent of a Treasure, you level up.
+
+<details markdown="1">
+<summary><b>Celebrate</b></summary>
+Get drunk and get known! For each Valuable spent this way, spend a day hungover and get a new <b>Friend</b>. Your friend stays in this town, and can do favors for you. If you end up spending the equivalent of a Treasure, one of your Friends becomes a <b>Follower</b> who'll follow you on your adventures. They act as a classless level 0 character (same as level 1, but no class) until they level up. Followers take a Mind slot.
+</details>
+<br>
+<details markdown="1">
+<summary><b>Build a home</b></summary>
+For each Valuable spent this way, you get 1 piece of mundane furniture. If you end up spending the equivalent of a Treasure, you are now the proud owner of a small house. For each additional Treasure you spend, even on subsequent carousing actions, you can increase the size of your house. The people who might work in your home will probably never set out on an adventure with you, however they are loyal to you and will automatically do what is expected of them, and can do favors for you if they're asked nicely (or paid more).
+*  <b>Small</b>. A cottage. It is always filled with the necessities to live, such as food and bedding, as well as basic rooms such as a kitchen, a living room and 2 bedrooms.
+*  <b>Medium</b>. A two-story home. It has a large field in which cattle can live if you bring them back here.
+*  <b>Large</b>. A villa. It has a large garden in which plants can thrive if you bring them back to plant here. You also have 1 housekeeper and 1 guard.
+*  <b>Mansion</b>. It has a large, full library with plenty of books on common principles of various domains of knowledge. You have an additional housekeeper and guard.
+*  <b>Castle</b>. For each additional treasure, you can add a very specific room, such as a smithing room, alchemy room or even a bakery. You have 5 housekeepers and 5 guards.
+</details>
+<br>
+<details markdown="1">
+<summary><b>Train a savvy</b></summary>
+For each Valuable spent this way, you can add an <b>Expertise</b> to one of your Savvies, which allows you to succeed in near-impossible odds in a very specific context of application of your savvy. If you end up spending the equivalent of a Treasure, you gain an entirely new Savvy.
+</details>
+</details>
+
+<details markdown="1">
+<summary><b>Leveling up</b></summary>
+When you level up, you get to do each of the following:
+*  <b>Increase your HP</b>. You roll as many d6 as you have class levels. This becomes your new HP total. If the new total is less than your current one, increase your old total by +1.
+*  <b>Advance in a class</b>. Get the benefits of the next set of abilities of your class, or get the starting abilities of a new class.
+*  <b>Find new ideals</b>. Remove, replace or gain new Ideals that you place in your Mind.
+*  <b>Heal a scar</b>. Remove one of your characters' Scars if you wish. It'll never truly disappear.
+</details>
+
+<details markdown="1">
+<summary><b>Leveling 4 and onward</b></summary>
+When you are level 4, you don't get any new classes or class abilities. You can continue leveling up and getting the other benefits of leveling up.
+  
+However, starting from this point, you can <b>Retire</b> your character, which then becomes a Non-Playable Character in the hands of the GM. Congratulations! You survived your adventuring career and made a name of yourself. You can make a new character.
+</details>
+
+***
+
+<details markdown="1">
+<summary><b>Spellcasting</b></summary>
+Some classes can cast spells. They have <b>Magic Dice</b> (or <b>MD</b>) that they use to do so.
+  
+<u><b>Casting a spell:</b></u> Whenever you cast a spell, you decide how many MD to invest in it, up to your maximum number of MD or 4, whichever is lower. The effects of the spell depend on the number of [dice] invested, as well as the [sum] of all results.
+
+If an MD rolls a 6, you lose it, and can't use it anymire. Generally, classes recuperate lost MD after a good rest, although some of them don't.
+
+Every time you roll doubles (the same result on 2 different dice), there's a <b>Mishap</b>.
+
+<u><b>Mishaps:</b></u> These happen when you roll doubles when casting a spell. In this case, <b>something bad happens</b>, as determined by the GM. The effects of the mishap depend on the spell cast. Triples or quadruples are even worse.
+
+</details>
+
+***
+
+
 
 <a href="{{ "/" | absolute_url }}">Home</a>
