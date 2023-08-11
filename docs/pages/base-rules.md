@@ -194,12 +194,12 @@ Most valuable objects have <b>Traits</b> that further define them. An apothecary
 <details markdown="1">
 <summary><b>Advancement and Carousing</b></summary>
 When you are back in the city, it is time to reap the rewards of your adventure. By spending your valuables and treasures while carousing, you can potentially level up. When you spend the equivalent of a Treasure, you level up.
-
+<br>
 <details markdown="1">
 <summary><b>Celebrate</b></summary>
 Get drunk and get known! For each Valuable spent this way, spend a day hungover and get a new <b>Friend</b>. Your friend stays in this town, and can do favors for you. If you end up spending the equivalent of a Treasure, one of your Friends becomes a <b>Follower</b> who'll follow you on your adventures. They act as a classless level 0 character (same as level 1, but no class) until they level up. Followers take a Mind slot.
 </details>
-<br>
+
 <details markdown="1">
 <summary><b>Build a home</b></summary>
 For each Valuable spent this way, you get 1 piece of mundane furniture. If you end up spending the equivalent of a Treasure, you are now the proud owner of a small house. For each additional Treasure you spend, even on subsequent carousing actions, you can increase the size of your house. The people who might work in your home will probably never set out on an adventure with you, however they are loyal to you and will automatically do what is expected of them, and can do favors for you if they're asked nicely (or paid more).
@@ -209,7 +209,7 @@ For each Valuable spent this way, you get 1 piece of mundane furniture. If you e
 *  <b>Mansion</b>. It has a large, full library with plenty of books on common principles of various domains of knowledge. You have an additional housekeeper and guard.
 *  <b>Castle</b>. For each additional treasure, you can add a very specific room, such as a smithing room, alchemy room or even a bakery. You have 5 housekeepers and 5 guards.
 </details>
-<br>
+
 <details markdown="1">
 <summary><b>Train a savvy</b></summary>
 For each Valuable spent this way, you can add an <b>Expertise</b> to one of your Savvies, which allows you to succeed in near-impossible odds in a very specific context of application of your savvy. If you end up spending the equivalent of a Treasure, you gain an entirely new Savvy.
