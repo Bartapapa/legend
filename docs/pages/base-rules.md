@@ -3,7 +3,7 @@ layout: post
 title: Base Rules
 permalink: /base-rules/
 ---
-<small>Rules inspired by Arnold K's [Goblin Laws of Gaming (GLoG)](http://goblinpunch.blogspot.com/2020/04/lair-of-lamb-final.html), Skerples' [Many Rats on Sticks edition](https://coinsandscrolls.blogspot.com/2019/10/osr-glog-based-homebrew-v2-many-rats-on.html), the general GloG community and many OSR-adjacent systems.</small>
+<small>Rules inspired by Arnold K's [Goblin Laws of Gaming (GLoG)](http://goblinpunch.blogspot.com/2020/04/lair-of-lamb-final.html), Skerples' [Many Rats on Sticks edition](https://coinsandscrolls.blogspot.com/2019/10/osr-glog-based-homebrew-v2-many-rats-on.html), Salty Goo's [modified GloG](https://saltygoo.github.io/2020/11/09/base-rules/), the general GloG community and many OSR-adjacent systems.</small>
 
 ***
 
@@ -72,39 +72,39 @@ A <b>savvy</b> is any domain of knowledge or savoir-faire (such as <i>Eavesdropp
 
 <details markdown="1">
 <summary><b>Inventory, Mind and Goals</b></summary>
-<b>Inventory</b>. You have 10 slots, which can be filled with objects, or bundles of 3 objects of small objects like daggers or potions. Specific ammo, such as arrows or bolts, take up 1 slot but don't expire, unless <b>something bad happens</b>. Your inventory will also fill up with <b>Fatigue</b> and <b>Scars</b> along the way. If you have to add something to your inventory and you don't have enough space, you are <b>Exhausted</b> and can't do much of anything except crawl.
+<u><b>Inventory</b></u>. You have 10 slots, which can be filled with objects, or bundles of 3 objects of small objects like daggers or potions. Specific ammo, such as arrows or bolts, take up 1 slot but don't expire, unless <b>something bad happens</b>. Your inventory will also fill up with <b>Fatigue</b> and <b>Scars</b> along the way. If you have to add something to your inventory and you don't have enough space, you are <b>Exhausted</b> and can't do much of anything except crawl.
 
-<b>Mind</b>. You have 10 slots, which can be filled with savvies, beliefs, and followers. Your mind will also fill up with <b>Stress</b> and <b>Scars</b> along the way. If you have to add something to your mind and you don't have enough space, you <b>Crack</b> and can't do much of anything except whimper. Although, before that happens, you can totally just forget one of your beliefs or savvies. Just don't expect to be getting it back soon.
+<u><b>Mind</b></u>. You have 10 slots, which can be filled with savvies, beliefs, and followers. Your mind will also fill up with <b>Stress</b> and <b>Scars</b> along the way. If you have to add something to your mind and you don't have enough space, you <b>Crack</b> and can't do much of anything except whimper. Although, before that happens, you can totally just forget one of your beliefs or savvies. Just don't expect to be getting it back soon.
 
-<b>Scars</b> can be removed with certain kinds of magic. When that isn't around, sometimes being gagged and thrown in a holding cell for a couple of days, or violently flagellating in penance does the trick.
+<u><b>Scars</b></u> can be removed with certain kinds of magic. When that isn't around, sometimes being gagged and thrown in a holding cell for a couple of days, or violently flagellating in penance does the trick.
 </details>
 
 ***
 
 <details markdown="1">
 <summary><b>Melee weapons</b></summary>
-<u>Improvised</u> weapons (rocks, chairs, bottles) deal 1d3 damage. Most of them <b>break</b> on max damage.
+<u><b>Improvised</b></u> weapons (rocks, chairs, bottles) deal 1d3 damage. Most of them <b>break</b> on max damage.
 
-<u>Light</u> weapons (daggers, javelins) deal 1d6 damage. You can use one in your off-hand, and can be thrown.
+<u><b>Light</b></u> weapons (daggers, javelins) deal 1d6 damage. You can use one in your off-hand, and can be thrown.
 
-<u>Medium</u> weapons (swords, axes) deal 1d6+1 damage. If wielded in two hands, roll twice and take the best.
+<u><b>Medium</b></u> weapons (swords, axes) deal 1d6+1 damage. If wielded in two hands, roll twice and take the best.
 
-<u>Heavy</u> weapons (greatswords, massive clubs) deal 2d6 damage. Need two hands to be wielded.
+<u><b>Heavy</b></u> weapons (greatswords, massive clubs) deal 2d6 damage. Need two hands to be wielded.
 
-<u>Polearms</u> deal 1d6+2 damage. They need two hands to be wielded. One boon on attacks against anyone whose weapon doesn't reach as far as yours. Can be difficult to use in narrow spaces.
+<u><b>Polearms</b></u> deal 1d6+2 damage. They need two hands to be wielded. One boon on attacks against anyone whose weapon doesn't reach as far as yours. Can be difficult to use in narrow spaces.
 
-<u>Two-weapon fighting</u>. When you attack and miss, you can roll again.
+<u><b>Two-weapon fighting</b></u>. When you attack and miss, you can roll again.
 </details>
 
 <details markdown="1">
 <summary><b>Ranged weapons</b></summary>
-<u>Light</u> weapons (darts) deal 1 damage. Can attack twice.
+<u><b>Light</b></u> weapons (darts) deal 1 damage. Can attack twice.
   
-<u>Medium</u> weapons (slings) deal 1d3 damage.
+<u><b>Medium</b></u> weapons (slings) deal 1d3 damage.
 
-<u>Heavy</u> weapons (bows) deal 1d6 damage. They need two hands.
+<u><b>Heavy</b></u> weapons (bows) deal 1d6 damage. They need two hands.
 
-<u>Mechanical</u> weapons (crossbows, muskets) deal 2d6 damage. They need to be reloaded by spending your action.
+<u><b>Mechanical</b></u> weapons (crossbows, muskets) deal 2d6 damage. They need to be reloaded by spending your action.
 </details>
 
 <details markdown="1">
@@ -122,15 +122,15 @@ Anyone using a shield can use their reaction to block attacks, reducing their da
 <details markdown="1">
 <summary><b>Combat</b></summary>
 
-<u>Turn order:</u> The players act before the enemies, unless the enemies surprised the players.
+<u><b>Turn order:</b></u> The players act before the enemies, unless the enemies surprised the players.
 
-<u>Your turn:</u> When it's your turn, you can do one movement and one action, like attacking or casting a spell. One movement is moving to somewhere nearby - sometimes the GM will ask you to roll for difficult siuations. You can tell a bit of information to your allies during your turn.
+<u><b>Your turn:</b></u> When it's your turn, you can do one movement and one action, like attacking or casting a spell. One movement is moving to somewhere nearby - sometimes the GM will ask you to roll for difficult siuations. You can tell a bit of information to your allies during your turn.
 
-<u>Attacking:</u> You can spend your action to attack a target you can reach with your weapon. For melee weapons, that's at arm's length. You can throw certain weapons if you can see the whites of your target's eyes. If you can see the silhouette and a few details of your target, you can use a ranged weapon. To attack, you roll - you generally use Might for melee weapons, and Grace for ranged weapons. If successful, you deal the weapon's damage to your target.
+<u><b>Attacking:</b></u> You can spend your action to attack a target you can reach with your weapon. For melee weapons, that's at arm's length. You can throw certain weapons if you can see the whites of your target's eyes. If you can see the silhouette and a few details of your target, you can use a ranged weapon. To attack, you roll - you generally use Might for melee weapons, and Grace for ranged weapons. If successful, you deal the weapon's damage to your target.
 
 <i>On the enemies' turn, they might want to attack you back.</i>
 
-<u>Defending:</u> When an enemy attacks you, describe how you're going to defend yourself - dodge out of the way, take the brunt of the blow with your armor, flow with your enemies' attack, etc. This will help the GM determine what attribute you add to your roll. A partial success can mean half damage.
+<u><b>Defending:</b></u> When an enemy attacks you, describe how you're going to defend yourself - dodge out of the way, take the brunt of the blow with your armor, flow with your enemies' attack, etc. This will help the GM determine what attribute you add to your roll. A partial success can mean half damage.
 
 <details markdown="1">
 <summary><i>Example: Combat</i></summary>
@@ -142,5 +142,21 @@ Anyone using a shield can use their reaction to block attacks, reducing their da
 <br>
 
 </details>
+
+***
+
+<details markdown="1">
+<summary><b>Dying, Wounds, Scars and Healing</b></summary>
+<u><b>Dying:</b></u> When you have 0 Hit Points, you're <b>Dying</b>. While dying, you get a <b>Wound</b> at the end of each of your turns. If you reach 10 Wounds, you die - make a new character. Each point of damage taken while you're dying also gives you 1 Wound.
+
+While Dying, you can spend your entire turn (action and movement) to try and stabilize. Roll Might, and on a success you stabilize and return to 1 HP. An ally can spend their action to attempt to stabilize you, but they need some medical tools for that. Whatever happens, if you regain HP, like from healing magic or potions, you stabilize.
+
+Stabilizing does not heal your Wounds. You can however heal all your wounds by taking a <b>Scar</b>. You decide whether your Scar takes place in your Inventory or Mind. You can't remove Scars except with exceptional magic or other very complicated tasks. However, when you do get a scar, you also note down the situation in which you acquired it. You can use your new Scar as if it were a Savvy.
+
+<u><b>Healing:</b></u> A 6-hour rest in good conditions (something to eat, warm, and sheltered) removes all Wounds and heals HP to full. A 10-minute break where you eat a sandwich or something heals 1d6+Might HP, although only once per day.
+
+***
+
+
 
 <a href="{{ "/" | absolute_url }}">Home</a>
