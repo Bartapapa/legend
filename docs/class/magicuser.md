@@ -50,12 +50,15 @@ Roll the dice that is marked, and add any modifiers. You get the corresponding s
 When you acquire a new spell, you can choose to either have it as a spellbook of your creation, or already have it carved inside your head.
 
 ## Spell breeding
-
+You can attempt to merge and crossbreed two spells into a new spell. 
 
 ## Familiar spell
-Choose a spell you cast often. You ignore mishaps provoked by doubles when casting this spell. Additionally
+Choose a spell you cast often. You ignore mishaps provoked by doubles when casting this spell.
+
+Additionally, roll one [Positive mutation](/class/magic-user#spell-mutations) for the spell.
 
 ## Spell mastery
+Choose a spell you cast often. You can always cast this spell with 1 MD, even if you don't have any left.
 
 ## Spell mutations
 <small>Stolen from Arnold K's [Spell mutations](https://goblinpunch.blogspot.com/2016/05/mutant-spells.html).</small>
@@ -67,7 +70,7 @@ When you find a spell out in the wild, roll 1d6. On a 1, the spell is a <b>Mutan
 
 <b>3: Improved subtlety.</b> Nobody can tell if you're casting this spell.
 
-<b>4: Improved strength.</b> Targets have a bane to resist the spell.
+<b>4: Improved strength.</b> The spell has a boon on attack or power rolls.
 
 <b>5: Improved effect.</b> The spell does more of what it already does. 1d6 becomes 2d6 or 1d6+2, whatever.
 
@@ -88,25 +91,25 @@ When you find a spell out in the wild, roll 1d6. On a 1, the spell is a <b>Mutan
 <br>
 <details markdown="1">
 <summary>Drawbacks</summary>
-<b>2:</b> 
+<b>2: Catalyst.</b> The spell needs a certain kind of useless item or consumable reagent to be cast. This object always takes up an Inventory slot.
 
-<b>3:</b> 
+<b>3: Obvious.</b> The spell needs very marked motions or sounds to be cast, like screaming at the top of your lungs or russian dancing.
 
-<b>4:</b> 
+<b>4: Weak.</b> The spell has a bane on power or attack rolls.
 
 <b>5: Worsened effect.</b> The spell does less of what it already does. 1d6 becomes 1d3 or whatever.
 
-<b>6:</b> 
+<b>6: Worsened range.</b> Range is decreased by one step.
 
 <b>7: Doubled.</b> Roll twice on this table. Reroll 7s.
 
-<b>8: Worsened duration.</b> 
+<b>8: Worsened applicability.</b> Spell is more narrowly applied. Charm beast becomes Charm dog.
 
-<b>9:</b>
+<b>9: Lazy.</b> The spell takes effect 1 round later.
 
-<b>10:</b> 
+<b>10: Aneurysm.</b> The spell deals [dice] damage to the user.
 
-<b>11:</b> 
+<b>11: Exhausting.</b> You are stunned for the next turn after casting this spell.
 
-<b>12:</b> 
+<b>12: Erratic.</b> The spell has a 3-in-6 risk of going off in a random direction or affecting random targets.
 </details>
