@@ -36,5 +36,7 @@ The <a href="{{ site.baseurl }}/classes/specialist">Specialist</a>. Master of ev
 *  The <a href="{{ site.baseurl }}/classes/burglar">Burglar</a>. Crash into buildings and take stuff.
 *  The <a href="{{ site.baseurl }}/classes/thug">Thug</a>. Stick those hands up.
 *  The <a href="{{ site.baseurl }}/classes/wandering-clergyman">Wandering Sage</a>. Knows things, discover more.
+*  The <a href="{{ site.baseurl }}/classes/gaggle-of-goblins">Gaggle of Goblins</a>. Green, mean, and severely maladapted to survival.
+
 
 </details>
