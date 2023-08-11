@@ -8,8 +8,6 @@ permalink: /classes/fighter
 
 >Descriptive text here.
 >
->text-align: right;
->Whatever person thing.
+><p style="text-align: right">- Person who said something</p>
 
-text-align: left;
-hello!
+The fighter's one of the classes of all time.
