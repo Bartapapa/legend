@@ -37,15 +37,15 @@ You are particularly weak to any effect that causes <b>bleeding</b>, and have a 
 ## Devour
 Your teeth are a weapon that deals 1d6 damage. You can eat anything as big as a chicken and softer than stone as a ration. You have a boon on resisting the effects of rot and poison you ingest.
 
-You can eat a spellbook in 10 minutes. Doing so, you imprint the spell onto one of your Bloat, allowing you to cast it even while not having the spellbook. The only way of losing this spell is losing the Bloat.
+You can eat a spellbook (or scroll, or whatever) in 10 minutes. Doing so, you imprint the spell onto one of your Bloat, allowing you to cast it even while not having the spellbook. The only way of losing this spell is losing the Bloat.
 
 ## Caloric burn
 A bloatmage can use their fatty tissues to artificially create magic. Each time they cast a spell, they can choose to spontaneously generate MD to power the spell, up to the number of Bloat they have. Doing so deals [generated dice] damage to the bloatmage, unless there's a mishap, in which case it deals [sum] damage.
 
 ## Enhanced devour
-Your teeth become a weapon that deals 1d6+2 damage. You can swallow things as big as children by distending your mouth as an action. Doing so, you gain 1 temporary Bloat if the creature had any magical abilities. This Bloat lasts until the next hour, after which it is presumably crushed by your gut. You can simply carry things this way without getting Bloat, although you have to expel them an hour later.
+Your teeth become a weapon that deals 1d6+2 damage. You can swallow things as big as children by distending your mouth as an action. Doing so, you gain 1 temporary Bloat if the creature had any magical abilities. This Bloat lasts until the next hour, after which it is presumably crushed by your gut. You can simply carry things this way without getting Bloat, although you have to expel them an hour later. You can only swallow as much as two child-sized objects this way before meeting your end in a Monty Python-esque kind of way.
 
-You can eat a spellbook in an action.
+You can eat a spellbook (or scroll, or whatever) in an action.
 
 ## Consume power
 When the bloatmage <b>Devours</b> a magical object or creature, or consumes a larger magical creature or object in its entirety, they can acquire a random spell or spell-like effect from that creature that is imprinted onto one of their Bloats. Different effects can be imprinted onto the Bloat at your GM's discretion.
