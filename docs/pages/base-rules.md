@@ -83,6 +83,7 @@ A <b>savvy</b> is any domain of knowledge or savoir-faire (such as <i>Eavesdropp
 
 <details markdown="1">
 <summary><b>Melee weapons</b></summary>
+
 <u><b>Improvised</b></u> weapons (rocks, chairs, bottles) deal 1d3 damage. Most of them <b>break</b> on max damage.
 
 <u><b>Light</b></u> weapons (daggers, javelins) deal 1d6 damage. You can use one in your off-hand, and can be thrown.
@@ -98,6 +99,7 @@ A <b>savvy</b> is any domain of knowledge or savoir-faire (such as <i>Eavesdropp
 
 <details markdown="1">
 <summary><b>Ranged weapons</b></summary>
+  
 <u><b>Light</b></u> weapons (darts) deal 1 damage. Can attack twice.
   
 <u><b>Medium</b></u> weapons (slings) deal 1d3 damage.
