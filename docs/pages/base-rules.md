@@ -117,4 +117,28 @@ You can't swim, sneak or jump when wearing 3 or more pieces of armor.
 Anyone using a shield can use their reaction to block attacks, reducing their damage by 1d6.
 </details>
 
+***
+
+<details markdown="1">
+<summary><b>Combat</b></summary>
+
+<u>Turn order:</u> The players act before the enemies, unless the enemies surprised the players.
+<u>Your turn:</u> When it's your turn, you can do one movement and one action, like attacking or casting a spell. One movement is moving to somewhere nearby - sometimes the GM will ask you to roll for difficult siuations. You can tell a bit of information to your allies during your turn.
+<u>Attacking:</u> You can spend your action to attack a target you can reach with your weapon. For melee weapons, that's at arm's length. You can throw certain weapons if you can see the whites of your target's eyes. If you can see the silhouette and a few details of your target, you can use a ranged weapon. To attack, you roll - you generally use Might for melee weapons, and Grace for ranged weapons. If successful, you deal the weapon's damage to your target.
+
+<i>On the enemies' turn, they might want to attack you back.</i>
+
+<u>Defending:</u> When an enemy attacks you, describe how you're going to defend yourself - dodge out of the way, take the brunt of the blow with your armor, flow with your enemies' attack, etc. This will help the GM determine what attribute you add to your roll. A partial success can mean half damage.
+
+<details markdown="1">
+<summary><i>Example: Combat</i></summary>
+> Rihanna and Brett have entered combat with a lizardman grunt and a lizardman shaman. Rihanna decides to move in through the brush and attack the shaman first using her spear by jumping on them. She rolls Might, and gets a total of 9. The GM determines that the partial success means they deal full damage, but jumping has put her in a disadvantaged situation and the shaman will take the opportunity.
+> <br>Brett decides to take the grunt's focus, and uses his bow to attack from where he's hiding. Since he's advantaged, he has a boon to his attack. He rolls Grace, and gets a total of 11. A success! He deals full damage to the grunt, who turns his way and roars.
+> <br>The shaman bears down on Rihanna, and tries to take a bite out of her. Rihanna states that she's rolling away, so the GM says she rolls Grace, and Rihanna rolls a total of 10. However, the shaman is advantaged, and so she adds a bane to her roll, changing the total result to a 6. Failure! She takes a total of 4 damage from the lizardman's fangs!
+> <br>Now it's up to the grunt. Hopefully, Brett will be able to help his companion soon enough...
+</details>
+<br>
+
+</details>
+
 <a href="{{ "/" | absolute_url }}">Home</a>
