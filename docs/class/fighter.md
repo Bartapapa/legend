@@ -4,6 +4,7 @@ title: The Fighter
 permalink: /classes/fighter
 ---
 <small>Adapted from Skerples' [Fighter](https://coinsandscrolls.blogspot.com/2017/06/osr-class-fighters.html) and Hilander's [Fighter](https://shadowandfae.blogspot.com/2022/03/the-fighter-secrets-of-blade.html).</small>
+
 ***
 
 >Descriptive text here.
