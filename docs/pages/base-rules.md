@@ -28,7 +28,7 @@ That's all!
 
 <details markdown="1">
 <summary><b>Create a character</b></summary>
-A character starts with 0 in all of 4 main attributes. This can change with the choice of Class and Background.
+A character starts with 0 in all of 4 main attributes. This can change with the choice of Traits, Background and Class.
 
 A character also starts with 6 <b>Hit Points</b> (or <b>HP</b>), 10 <b>Inventory</b> slots and 10 <b>Mind</b> slots.
 
