@@ -3,7 +3,7 @@ layout: post
 title: The Veteran
 permalink: /classes/veteran
 ---
-<small>Adapted from Oblidisideryptch's [Veteran](https://oblidisideryptch.blogspot.com/2019/03/glog-class-veteran.html).</small>
+<small>Adapted from Oblidisideryptch's [Veteran](https://oblidisideryptch.blogspot.com/2019/03/glog-class-veteran.html) and Numbers Aren't Real's [Zouave](https://as-they-must.blogspot.com/2019/10/gun-on-your-shoulder-class-fighter.html).</small>
 
 ***
 
@@ -19,7 +19,7 @@ permalink: /classes/veteran
 
 For every step of Veteran the character takes, they get +1 Inventory slot.
 
-<b>A:</b> Weathered, Surly air
+<b>A:</b> Weathered, Nonplussed
 
 <b>B:</b> Firm grunt
 
@@ -30,9 +30,10 @@ For every step of Veteran the character takes, they get +1 Inventory slot.
 ## Weathered
 You start with a [Scar](https://bartapapa.github.io/legend/base-rules/). Who, or what, gave it to you?
 
-This Scar, and any other that you gain over the course of your career, are special. A bond exists between you and the object, creature, or situation that caused the Scar. If it's a creature, you can sense when they're close. If it's an object, you know who made it. If it's a situation, you have a boon to act against such situations.
+This Scar, and any other that you gain over the course of your career, are special. A bond exists between you and the object, creature, or situation that caused the Scar. You deal +1 damage to things that are related to any of your Scars. This damage is cumulative.
 
-## Surly air
+## Nonplussed
+You've seen it, <i>twice</i>. You have a boon on rolls to resist effects such as fear. If you succeed, your followers also get this boon.
 
 ## Firm grunt
 You've mastered the art of communicating all intention in one sound. You can grunt at something with a modicum of intelligence or sense of self-preservation (people, dogs, bees, trees) - explain to the GM what this grunt means in one sentence with a maximum number of nouns, verbs, adverbs and adjectives equal to the number of steps you have as a veteran. The thing will understand you perfectly, and act according to its personality (the GM can ask for a reaction roll).
