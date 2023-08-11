@@ -32,8 +32,9 @@ A character starts with 0 in all of 4 main attributes. This can change with the 
 
 A character also starts with 6 <b>Hit Points</b> (or <b>HP</b>), 10 <b>Inventory</b> slots and 10 <b>Mind</b> slots.
 
-Choose your character's <b>Class</b>, and get its <b>Starting equipment</b> in your inventory and its <b>Starting savvies</b> in your mind.
+Choose 3 <b>Traits</b>, which change your character in unique ways.
 Choose your character's <b>Background</b>, as well as one or two <b>Goals</b> - the GM will reward you for following these.
+Choose your character's <b>Class</b>, and get its <b>Starting equipment</b> in your inventory and its <b>Starting savvies</b> in your mind.
 
 You're done!
 </details>
@@ -223,7 +224,7 @@ For each Valuable spent this way, you can add an <b>Expertise</b> to one of your
 When you level up, you get to do each of the following:
 *  <b>Increase your HP</b>. You roll as many d6 as you have class levels. This becomes your new HP total. If the new total is less than your current one, increase your old total by +1.
 *  <b>Advance in a class</b>. Get the benefits of the next set of abilities of your class, or get the starting abilities of a new class.
-*  <b>Find new ideals</b>. Remove, replace or gain new Ideals that you place in your Mind.
+*  <b>Find new goals</b>. Remove, replace or gain new Goals that you place in your Mind.
 *  <b>Heal a scar</b>. Remove one of your characters' Scars if you wish. It'll never truly disappear.
 </details>
 
