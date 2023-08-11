@@ -81,4 +81,40 @@ A <b>savvy</b> is any domain of knowledge or savoir-faire (such as <i>Eavesdropp
 
 ***
 
+<details markdown="1">
+<summary><b>Melee weapons</b></summary>
+<u>Improvised</u> weapons (rocks, chairs, bottles) deal 1d3 damage. Most of them <b>break</b> on max damage.
+
+<u>Light</u> weapons (daggers, javelins) deal 1d6 damage. You can use one in your off-hand, and can be thrown.
+
+<u>Medium</u> weapons (swords, axes) deal 1d6+1 damage. If wielded in two hands, roll twice and take the best.
+
+<u>Heavy</u> weapons (greatswords, massive clubs) deal 2d6 damage. Need two hands to be wielded.
+
+<u>Polearms</u> deal 1d6+2 damage. They need two hands to be wielded. One boon on attacks against anyone whose weapon doesn't reach as far as yours. Can be difficult to use in narrow spaces.
+
+<u>Two-weapon fighting</u>. When you attack and miss, you can roll again.
+</details>
+
+<details markdown="1">
+<summary><b>Ranged weapons</b></summary>
+<u>Light</u> weapons (darts) deal 1 damage. Can attack twice.
+  
+<u>Medium</u> weapons (slings) deal 1d3 damage.
+
+<u>Heavy</u> weapons (bows) deal 1d6 damage. They need two hands.
+
+<u>Mechanical</u> weapons (crossbows, muskets) deal 2d6 damage. They need to be reloaded by spending your action.
+</details>
+
+<details markdown="1">
+<summary><b>Armor</b></summary>
+Each piece of armor you have in your inventory increases your <b>Armor</b> by 1, reducing damage taken by attacks. You can wear a maximum of 5 pieces of armor. <br>
+You can't swim, sneak or jump when wearing 3 or more pieces of armor.
+</details>
+<details markdown="1">
+<summary><b>Shields</b></summary>
+Anyone using a shield can use their reaction to block attacks, reducing their damage by 1d6.
+</details>
+
 <a href="{{ "/" | absolute_url }}">Home</a>
