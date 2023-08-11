@@ -46,6 +46,7 @@ Here's a list of all common Strikes. More exotic ones exist, but they need to be
 *  <b>Sundering strike:</b> Make an attack with 1 bane. On a successful hit, you deal no damage to the target, but you either reduce the armor score of your target by the number of damage dice your weapon has, or you impose a bane on the target’s attack rolls using this weapon. If another object is targeted, the GM determines the effects accordingly. This can stack, and lasts until the next time they tend to their equipment (generally after a short rest).
 *  <b>Switch-up strike:</b> Switch places with a nearby ally, then attack.
 </details>
+<br>
 
 ## Notches
 When you reach 10, 20, 30, 40 and 50 kills in combat with a weapon type (like daggers, or longswords), you gain an ability that only you can use when you use this weapon type.
