@@ -55,7 +55,7 @@ When you acquire a new spell, you can choose to either have it as a spellbook of
 You can attempt to merge and crossbreed two spells into a new spell. This takes a week of uninterrupted work. Both spells need to be stored on separate spellbooks or scrolls initially. These two spells are destroyed. You produce, as you choose, either:
 *  A random spell from your spell list (1d10).
 *  A random spell from a random spell list (1d12).
-*  A <a href="{{ "/" | absolute_url | permalink}}#spell-mutations">mutant</a> version of one of the two spells.
+*  A <a href="{{ "/" | absolute_url }}/classes/magic-user#spell-mutations">mutant</a> version of one of the two spells.
 
 ## Familiar spell
 Choose a spell you cast often. You ignore mishaps provoked by doubles when casting this spell.
