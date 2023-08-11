@@ -10,16 +10,20 @@ permalink: /classes/fighter
 >
 ><p style="text-align: right">- Person who said something</p>
 
-<b><u>Starting equipment:</u></b>
-<b><u>Starting savvies:</u></b>
+<b><u>Starting equipment:</u></b> A helmet (Armor) and gambison (Armor), a medium melee weapon and shield / a heavy melee weapon / two light melee weapons, a bow and arrows.
+
+<b><u>Starting savvies:</u></b> <i>Weaponry</i>, and your choice between <i>Farming</i>, <i>Warfare</i> and <i>Sailing</i>.
 
 ***
 
 For every step of Fighter the character takes, they get +1 to attack rolls and maneuver rolls.
 
 <b>A:</b> 2 Strikes, Notches
+
 <b>B:</b> Parry
+
 <b>C:</b> Additional attack
+
 <b>D:</b> Eyes of a killer
 
 ## Strikes
