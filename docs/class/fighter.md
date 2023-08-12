@@ -21,14 +21,14 @@ For every step of Fighter the character takes, they get +1 to attack rolls and m
 
 <b>A:</b> 2 Strikes, Notches
 
-<b>B:</b> Parry
+<b>B:</b> Parry, Additional attack
 
-<b>C:</b> Additional attack
+<b>C:</b> 2 Strikes
 
 <b>D:</b> Eyes of a killer
 
 ## Strikes
-Fighters perfect special attacks called Strikes. Whenever they attack, instead of doing a normal attack, they can choose to do one of the Strikes that they know. Fighters start with 2 known Strikes, and get an additional strike for every additional Fighter step they take. When doing so, they can replace one they already know with another one they have access to.
+Fighters perfect special attacks called Strikes. Whenever they attack, instead of doing a normal attack, they can choose to do one of the Strikes that they know. Fighters start with 2 known Strikes, and get 2 additional strikes at step C. Each time they level up, they can replace one they already know with another one they have access to.
 
 Here's a list of all common Strikes. More exotic ones exist, but they need to be taught by a master.
 <details markdown="1">
