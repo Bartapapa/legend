@@ -55,12 +55,12 @@ If you're in <b>Fall</b>, you don't need to roll. You however take all damage.
 ## Additional attack
 When the character attacks, they can roll an additional time to attack the same or another target.
 
-## Courage / Stand tall
+## Courage/Stand tall
 When you or your allies must roll to resist the effects of fear, you can roll with a bonus equal to your Triumph's HD if it is higher than the bonus you'd normally roll. You cannot use this ability if the Knight errant is already afraid.
 
 If you're in <b>Fall</b>, you can suffer an additional amount of Wounds equal to your Triumph's HD before dying.
 
-## Foeslayer / Unbreakable
+## Foeslayer/Unbreakable
 When you challenge someone in physical combat, you deal an additional amount of damage equal to your Triumph's HD.
 
 If you're in <b>Fall</b>, you have additional Armor against all damage caused to you by the target of your challenge equal to your Triumph's HD.
