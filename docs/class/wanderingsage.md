@@ -45,7 +45,7 @@ Additionally, you get one of the following tricks. Roll 1d6 to know which. If yo
 ## Mysteries
 You have an additional attribute, called <b>Mysteries</b>. This starts at 0. Every time you encounter something strange or mysterious, write down a question related to that and increase your Mysteries by 1. Big, bad questions with far-reaching answers, not trivial ones. Whenever you are in a place where you can spend some time to get precise information, such as a library, archive, or mausoleum belonging to a thousand-year lineage, roll Mysteries. On a 13+, ask one of your questions to the GM, who will give you an honest answer. Cross that question out and reduce your Mysteries by the highest result of the 2d6, minimum 0.
 
-If you learn the answer to your question organically, this doesn't reduce your Mysteries stat. You only reduce this stat when you use this ability.
+If you learn the answer to your question organically through gameplay, this doesn't reduce your Mysteries attribute. You only reduce it when you use this ability.
 
 ## Well-met
 You find that people are keen to aid you on the road, if you find the right words. When entering a town, if you, as a player, can speak aloud a small proverb or ideom, or a line or two of a poem you recently read or wrote, some inhabitants will always lend you a hand and give you and your party a place to stay for the night, as well as a warm meal. 
