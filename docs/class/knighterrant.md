@@ -39,17 +39,28 @@ Challenging someone or something that is obviously weaker, or of a lower standin
 Take note of the highest HD of any creatures you've defeated by challenging them. This is known as your <b>Triumph</b>.
 
 ## Rise/Fall
+This is a <b>flip ability</b>.
 
-## Bodyguard
-When an adjacent ally is hit by an attack, you can use your reaction to take the damage yourself. The damage is reduced by half.
+It starts as <b>Rise</b>. If ever you suffer a great defeat, such as letting a town be destroyed, it becomes <b>Fall</b>. If you succeed at a great victory, such as defeating a great evil, it becomes <b>Rise</b>.
+
+Certain knight errant abilities change whether you're in Rise or Fall.
+
+Any creature with noble blood or an understanding of knighthood, as well as magical creatures, know whether you're in Rise or Fall. Their initial Reaction roll will probably have a boon or bane according to this, depending on how they view knighthood in general.
+
+## Bodyguard/Sacrifice
+When an adjacent ally is hit by an attack, you can use your reaction to take the damage yourself. Roll Grace. If successful, your ally takes no damage, and you take half damage.
+
+If you're in <b>Fall</b>, you don't need to roll. You however take all damage.
 
 ## Additional attack
 When the character attacks, they can roll an additional time to attack the same or another target.
 
-## Courage
-When you or your allies must roll to resist the effects of fear, you can roll with a bonus equal to your Triumph's HD if it is higher than the bonus you'd normally roll. You cannot use this effect if the Knight errant is already afraid.
+## Courage / Stand tall
+When you or your allies must roll to resist the effects of fear, you can roll with a bonus equal to your Triumph's HD if it is higher than the bonus you'd normally roll. You cannot use this ability if the Knight errant is already afraid.
 
-## Foeslayer
-When you challenge someone in physical combat, you deal an additional amount of damage equal to the highest HD of any creature you've defeated in challenge.
+If you're in <b>Fall</b>, you can suffer an additional amount of Wounds equal to your Triumph's HD before dying.
 
-This effect takes place unless the last challenge you've had was a defeat. Once you defeat something via a challenge again, this effect is reinstated.
+## Foeslayer / Unbreakable
+When you challenge someone in physical combat, you deal an additional amount of damage equal to your Triumph's HD.
+
+If you're in <b>Fall</b>, you have additional Armor against all damage caused to you by the target of your challenge equal to your Triumph's HD.
