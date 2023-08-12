@@ -14,6 +14,7 @@ The <a href="{{ site.baseurl }}/classes/fighter">Fighter</a>. Master of combat. 
 *  The <a href="{{ site.baseurl }}/classes/knight-errant">Knight Errant</a>. Challenge fools and suffer none.
 *  The <a href="{{ site.baseurl }}/classes/champion">Champion</a>. Chosen by god.
 *  The <a href="{{ site.baseurl }}/classes/dwarf">Dwarf</a>. Stout and beardy.
+*  The <a href="{{ site.baseurl }}/classes/warrior-poet">Warrior Poet</a>. The quill, as mighty as the blade.
 
 </details>
 <br>
