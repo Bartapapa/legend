@@ -49,7 +49,9 @@ You cannot ask the same question twice, or even related questions.
 ## Blind faith
 You have a boon on any roll to resist any emotional or mental effect that would make you go against your tenets.
 
-Additionally, if you acquire a Scar that is in your Mind, you can decide not to link it to a situation or creature, but rather note down "BLIND FAITH". You can use any blind faith Scar to grant you +1 FD. If you do so, the Scar transforms into "DOUBT", and doesn't help you at all.
+Additionally, if you acquire a Scar that is in your Mind, you can decide not to link it to a situation or creature, but rather note down "BLIND FAITH". You can use any blind faith Scar to grant you +1 FD. If you do so, the Scar transforms into "DOUBT". When this happens, take one of your tenets and inverse it, or change one word in it. You cannot change one tenet two times. You use this new tenet to be granted FD.
+
+If all of your tenets have changed, you become a <b>Heretic</b>. You have the enmity of pretty much any civilized creature. It is now the conviction of your newfound beliefs which grant you power and faith. If you defeat your church (whatever that means), you are pardoned and your tenets become the new tenets of your god.
 
 ## Miracle
 When you get this ability, you get a Miracle attribute which starts at 1. It increases every time you level up, and every time you succeed at a great task in your god's interests.
