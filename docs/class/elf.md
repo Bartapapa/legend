@@ -95,9 +95,9 @@ For every step of Elf the character takes, they get +1 Magic dice. Elves are [sp
 ## Immortal perfection
 You're perfect in every way. You're also immortal, and may never die - at least, never die as an elf.
 
-You start with 2 in each of your attributes. Whenever you would gain a Scar, instead of having it mangle your body or mind, you reduce one of your attributes by 1.
+You start with 2 in each of your attributes. Whenever you would gain a Scar, instead of placing one in your Inventory or Mind, you instead reduce one of your attributes by 1.
 
-Getting dirty, humiliated or otherwise suffering from anything that reminds people you aren't perfect makes you suffer 1 Wound.
+Getting dirty, humiliated or otherwise suffering from anything that reminds people you aren't perfect makes you suffer 1 Wound. This Wound cannot be healed by any means except by correcting it (cleaning up, restoring your pride, etc).
 
 If ever one of your attributes reaches 0, or you accumulate 10 Wounds, you become a human - banal, mortal, and imperfect; lose all your Elf levels.
 
