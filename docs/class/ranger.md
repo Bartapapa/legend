@@ -3,7 +3,7 @@ layout: post
 title: The Ranger
 permalink: /classes/ranger
 ---
-<small>Adapted from Skerples' [Fighter](https://coinsandscrolls.blogspot.com/2017/06/osr-class-fighters.html) and Hilander's [Fighter](https://shadowandfae.blogspot.com/2022/03/the-fighter-secrets-of-blade.html).</small>
+<small>Adapted from G.R Michael's [Ranger](https://as-they-must.blogspot.com/2022/04/they-do-not-know-how-to-do-right-glog.html).</small>
 
 ***
 
@@ -11,55 +11,42 @@ permalink: /classes/ranger
 >
 ><p style="text-align: right">- Person who said something</p>
 
-<b><u>Starting equipment:</u></b> A helmet (Armor) and gambison (Armor), a medium melee weapon and shield / a heavy melee weapon / two light melee weapons, a bow and arrows.
+<b><u>Starting equipment:</u></b> Stiff leathers (Armor), Heavy boots, Big knife (light melee), A bow and arrows / crossbow and bolts.
 
-<b><u>Starting savvies:</u></b> <i>Weaponry</i>, and your choice between <i>Farming</i>, <i>Warfare</i> and <i>Sailing</i>.
+<b><u>Starting savvies:</u></b> <i>Outdoorsmanship</i>, and your choice between <i>Savage beasts</i>, <i>Tracks</i> and <i>Herbology</i>.
 
 ***
 
-For every step of Fighter the character takes, they get +1 to attack rolls and maneuver rolls.
+For every step of Ranger the character takes, they get +1 Favored Land.
 
-<b>A:</b> 2 Strikes, Notches
+<b>A:</b> 2 Favored Land, Hunter from far lands
 
-<b>B:</b> Parry, Additional attack
+<b>B:</b> Trail
 
-<b>C:</b> 2 Strikes
+<b>C:</b> Bestial takedown
 
-<b>D:</b> Eyes of a killer
+<b>D:</b> ???
 
-## Strikes
-Fighters perfect special attacks called Strikes. Whenever they attack, instead of doing a normal attack, they can choose to do one of the Strikes that they know. Fighters start with 2 known Strikes, and get 2 additional strikes at step C. Each time they level up, they can replace one they already know with another one they have access to.
+## Favored land
+Choose two of the following adjectives: <b>barren, populated, abandoned, forested, frigid, windswept, arid, damp, craggy, dark, coastal, spooky</b>. While in an area described by that adjective, you can light a fire (given tools, fuel, an hour and cooperative weather), find enough food for one person, follow tracks a local day old, and may protect one person from poor conditions.
 
-Here's a list of all common Strikes. More exotic ones exist, but they need to be taught by a master.
-<details markdown="1">
-<summary>List of strikes</summary>
-*  <b>Charging strike:</b> If you moved at least a few steps during your turn, make an attack against 1 target with a melee weapon. On a hit, the target is also shoved back.
-*  <b>Cleaving strike:</b> Make an attack with a melee weapon with 1 bane. On a successful hit, you automatically deal your damage to up to two other targets in range.
-*  <b>Defensive strike:</b> Make an attack with 1 bane. Whether you hit or not, the target has 1 bane against all attacks aimed at you for the following round.
-*  <b>Disarming strike:</b> Make an attack with 1 bane. On a successful hit, you deal half damage to your target, and they drop their currently wielded weapon (or one of them, if they have two).
-*  <b>Lunging strike:</b> Make an attack with a melee weapon with 1 bane. You can reach farther than usual with this attack.
-*  <b>Piercing strike:</b> Make an attack with 1 bane. On a successful hit, ignore the target’s armor score.
-*  <b>Pinning strike:</b> Make an attack with 1 bane with a weapon capable of piercing. On a successful hit, deal half damage. The target can’t move until it takes an action to remove the weapon. If the weapon is a melee weapon, you can’t attack with it either until it’s pulled out.
-*  <b>Powerful strike:</b> Make an attack with 1 bane with a melee weapon. On a successful hit, roll twice the damage dice.
-*  <b>Precise strike:</b> Forego your movement. Doing so, roll damage automatically – no need for an attack roll.
-*  <b>Shield strike:</b> Make an attack with 1 bane with a shield. On a successful hit, deal 1d6 damage, and all attacks against that target have a boon, until at least one attack hits.
-*  <b>Sundering strike:</b> Make an attack with 1 bane. On a successful hit, you deal no damage to the target, but you either reduce the armor score of your target by the number of damage dice your weapon has, or you impose a bane on the target’s attack rolls using this weapon. If another object is targeted, the GM determines the effects accordingly. This can stack, and lasts until the next time they tend to their equipment (generally after a short rest).
-*  <b>Switch-up strike:</b> Switch places with a nearby ally, then attack.
-</details>
-<br>
+Every time you level up, select another adjective. Effects stack. Adjectives may be selected multiple times.
 
-## Notches
-When you reach 10, 20, 30, 40 and 50 kills in combat with a weapon type (like daggers, or longswords), you gain an ability that only you can use when you use this weapon type.
-You can gain the same ability twice. Gain an ability from the following list:
-*  +1 damage.
-*  Special weapon trait (negotiated with the GM) – for example, instantly draw the weapon, wield 2-handed weapon in 1 hand, be able to use the weapon as a specific tool, etc…
-*  Be able to tell at a glance whether the user of the same type of weapon would have more or less notches than you (generally, 10*HD notches is a good guess).
+## Hunter from far lands
+You have +1 on attack rolls against unintelligent beasts for each of the following things you know about it: its age, sex, proper scientific name, and where it slept last night.
 
-## Parry
-When you, or an ally within reach, are hit with an attack, you can use your reaction to reduce damage dealt by 1d6. If you are using a shield, roll 2d6 and keep the best.
+People tend to believe what you say in regards to the wilderness if you show that you have a bigger knife than them.
 
-## Additional attack
-When the character attacks, they can roll an additional time to attack the same or another target.
+## Trail
+You can follow a trail of up to [number of ranger steps] days old, so long as you know who, or what, created it.
 
-## Eyes of a killer
-You project a menacing aura around you. At any moment during combat, you can choose how weak creatures react to you. They either avoid fighting you at all costs, or gang up on you while ignoring your allies. Weak creatures are any creature that has 2 HD or less. In non-combat situations, you can terrorize them, make them run or cower. Other Fighters, or other characters with steps in a fighter-like class, know that you're not be trifled with at just a glance.
+## Bestial takedown
+When the ranger attacks, they can roll an additional time to attack the same or another target, as long as it's an unintelligent beast.
+
+As an action, you can attempt a bestial takedown on an unintelligent beast with less HD than you have steps in Ranger. You jump on the creature. Describe what strange, esoteric method you're using (sticking your thumbs in its earholes, stroking it under the neck, giving it a noogie will yelling YEE-HAW, etc) and roll 2d6 and add your steps as Ranger.
+* <b>Failure.</b> It pissed it off even more. Now it's out for blood, and it won't run away.
+* <b>Partial success.</b> The creature is stunned for 1 round.
+* <b>Success.</b> It immediately pacifies the creature. If you don't threaten it further, it won't follow.
+* <b>Great success.</b> It immediately pacifies the creature, and changes its Reaction to friendly.
+
+## ???
