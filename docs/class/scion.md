@@ -21,25 +21,42 @@ For every step of Scion the character takes, they get +1 Omen. Scions are [spell
 
 <b>A:</b> Omens, Faith
 
-<b>B:</b> 
+<b>B:</b> Prayer
 
-<b>C:</b> 
+<b>C:</b> Blind faith
 
 <b>D:</b> 
 
 ## Omens
 Scions do not choose their spells. Their god does. Every day.
 
-When you wake up, you lose all previous spells you've had granted by this class, and acquire a number of spells according to the number of steps you have in Scion. The GM chooses these spells according to things that might happen in the day - it is up to the player to interpret what the spells mean. Getting a spell that grants resistance to fire can mean seeing a dragon in the near future. Or perhaps having to walk on lava.
+When you wake up, you lose all previous spells you've had granted by this class, and acquire a number of spells according to the number of steps you have in Scion. These spells take up slots in your Mind. The GM chooses these spells according to things that might happen in the day - it is up to the player to interpret what the spells mean. Getting a spell that grants resistance to fire can mean seeing a dragon in the near future. Or perhaps having to walk on lava.
 
 Your god can give you any spell it wishes. It doesn't care about spell lists or classes. It generally remains within the purview of its domains of influence, however nothing is forcing it to do so.
 
 ## Faith
 Scions have <b>Faith dice</b> (or FD), which act like magic dice in every way except that when they're lost, they cannot be regained. Scions are granted FD when they act according to the wishes of their god. Make up 4 different tenets that your god wants you to follow. You can check out the [Tenets](https://bartapapa.github.io/legend/classes/scion#tenets) if you're in a hurry.
 
-## Parry
+## Prayer
+Once per day, you can take 10 minutes to pray to your god, beseeching it for answers. Ask a question - the GM rolls 2d6 and add the number of steps you have in Scion. You don't get to know the result.
+* <b>Failure.</b> You get a completely nonsensical vision.
+* <b>Partial success.</b> You get a moderately useful vision that is difficult to interpret.
+* <b>Success.</b> You get a very useful vision that is somewhat difficult to interpret.
+* <b>Great success.</b> You get a detailed vision that is hard to misunderstand.
 
-## Additional attack
+You cannot ask the same question twice, or even related questions.
+
+## Blind faith
+You have a boon on any roll to resist any emotional or mental effect that would make you go against your tenets.
+
+Additionally, if you acquire a Scar that is in your Mind, you can decide not to link it to a situation or creature, but rather note down "BLIND FAITH". You can use any blind faith Scar to grant you +1 FD. If you do so, the Scar transforms into "DOUBT", and doesn't help you at all.
+
+## Miracle
+When you get this ability, you get a Miracle attribute which starts at 1. It increases every time you level up, and every time you succeed at a great task in your god's interests.
+
+Miracles are powerful, world-changing events. You can ask for almost anything as long as it's related to your god's portfolio, and doesn't go against your god's interests.
+
+You can attempt a miracle once per session. When you do so, roll Miracle. On a 13+, the miracle succeeds, and your Miracle score is reduced to 0.
 
 ## Tenets
 Gods want you o do things in their name. A lot of gods want similar things - you can mix-and-match these according to their general domain of influence.
