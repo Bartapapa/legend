@@ -60,12 +60,36 @@ For every step of Elf the character takes, they get +1 Magic dice. Elves are [sp
   
   You are surrounded by the harmonious sounds of a five-piece band for the duration of the spell. The exact instruments vary caster to caster, and the unseen band can play any song you've heard before. It cannot duplicate speech. You can also opt to center the effect on an adjacent location, rather than on yourself.
 
-* <b>7: </b>
-* <b>8: </b>
-* <b>9: </b>
-* <b>10: </b>
-* <b>11: </b>
-* <b>12: </b>
+* <b>7: Floral salvage.</b>
+  R: touch, T: creature, D: instantaneous.
+  
+  Flowers (caster chooses the type) erupt from the target's wounds. Target takes 1 damage for every point of damage it has already taken, not exceeding [sum]x2. Save for half. If this damage kills the target, their corpse is entirely consumed by plant growth, and turns into a beautiful tree covered in flowers. Height is 2d4 x creature's HD in feet. 
+
+* <b>8: Beautify.</b>
+  R: touch, T: creature or object, D: [sum] hours, or if >6 permanent.
+  
+  While Illusion of Youth is merely an illusion, this is the real deal. You won't get any younger but you and the things you own will look as good as new, or possibly better. Expect Elf Wizards to cast this on themselves openly (just in case), and on their allies (secretly, if required).
+
+* <b>9: Magic arrow.</b>
+  R: Far, T: creature or object, D: instantaneous.
+  
+  Target takes [sum] + [dice] damage, no save. You have to fire this spell using a bow. The spell is the arrow.
+
+* <b>10: Serpents of the Earth.</b>
+  R: Touch, T: section of natural soil or stone, D: concentration.
+  
+  [Sum] enormous serpents of HD 1d4 crawl up from the dirt. They have +[dice] to attack, [dice] Armor, and deal 1d6+HD damage, except for the 1 HD serpents, which are small and bite for 1 damage + deadly poison. Serpents are not controlled by the caster. They're just pissed off snakes.
+
+* <b>11: Elegant judgment</b>
+  R: Far, T: room-sized space, D: instantaneous.
+  
+  Does [sum] damage on a success, or half on partial. Like a fireball, but the flames are purple and gold. Creatures who are beautiful, non-sentient creatures, beautiful objects, the dead, or other Elves are immune to this spell.
+
+* <b>12: Rain of arrows</b>
+  R: Far, T: room-sized space, D: instantaneous.
+  
+  Does [sum] damage. As fireball except that the caster fires an arrow into the air (which turns into a multitude) and the damage is all piercing damage. Doesn't work in places with low ceilings (less than 100').
+
 </details>
 
 ## Immortal perfection
