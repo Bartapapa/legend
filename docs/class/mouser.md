@@ -65,4 +65,4 @@ When the character attacks, they can roll an additional time to attack the same 
 You increase your ability to cause carnage by striking weak spots. When you hit a weak spot, the penalty continues applying until the target uses its action (unless, of course, the weak spot was obliterated, such as gouging the eye out or shredding the tongue).
 
 ## Fancier hat
-If you take damage, you can opt to lose your fancy hat. When you do so, gain a Scar. Time goes slow as you see your life flash past your eyes. In order to use this ability again, you're going to need to pick it up. Use this ability too many times, and <b>Death of Small Beasts</b> will come for you. They do not like to be cheated for so long.
+If you take damage, you can opt to lose your fancy hat, and take 0 damage. When you do so, gain a Scar. It gets ejected [damage you would've suffered] meters away. Time goes slow as you see your life flash past your eyes. In order to use this ability again, you're going to need to pick it up. Use this ability too many times, and <b>Death of Small Beasts</b> will come for you. They do not like to be cheated for so long.
