@@ -25,7 +25,7 @@ For every step of Elf the character takes, they get +1 Magic dice. Elves are [sp
 
 <b>C:</b> Elven stride, Elf magic (1d6+4).
 
-<b>D:</b> Noblesse obligé, Elf magic (1d6+6).
+<b>D:</b> Perfect shot, Elf magic (1d6+6).
 
 ## Immortal perfection
 You're perfect in every way. You're also immortal, and may never die - at least, never die as an elf.
@@ -45,5 +45,5 @@ When you hit someone with an arrow, you can cast one of your elf spells on them,
 ## Elven stride
 Natural, non-magical terrain doesn't affect you negatively in any way. You can walk on calm water. Your hair remains splendid after swimming in saltwater. Mud doesn't stain your boots. You don't cave into snow when you tread on it. Thorns part before you. Sand holds you just enough.
 
-## Elven greatness
-When a party member succeeds at a non-combat roll, or automatically succeeds at an action because of a Savvy, you can do the same. You just do it <i>better</i>.
+## Perfect shot
+When you successfully hit someone with an arrow, you can do one second attack with your bow and arrow.
