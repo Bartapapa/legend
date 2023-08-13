@@ -6,9 +6,10 @@ permalink: /base-rules/
 <small>Rules inspired by Arnold K's [Goblin Laws of Gaming (GLoG)](http://goblinpunch.blogspot.com/2020/04/lair-of-lamb-final.html), Skerples' [Many Rats on Sticks edition](https://coinsandscrolls.blogspot.com/2019/10/osr-glog-based-homebrew-v2-many-rats-on.html), Salty Goo's [modified GloG](https://saltygoo.github.io/2020/11/09/base-rules/), the general GloG community and many OSR-adjacent systems.</small>
 
 ***
+## How to play
 
 <details markdown="1">
-<summary><b>## How to play</b></summary>
+<summary><b>How to play</b></summary>
 The game's a bit like a conversation between two groups of people - there are <b>players</b>, who incarnate characters in the world, and say what they do, and there is one <b>Game Master</b>, or <b>GM</b>, who describes the situation, gives context and interprets the rules. All you need is pencils, erasers, a handful of six-sided dice (or <b>d6s</b>), and some time on your hands.
 
 When a player decides their character does something risky, the GM can ask them to <b>roll 2d6</b>, called a <b>challenge roll</b>. The results are added together, and compared to the following:
@@ -25,9 +26,10 @@ That's all!
 </details>
 
 ***
+## Character creation
 
 <details markdown="1">
-<summary><b>## Create a character</b></summary>
+<summary><b>Create a character</b></summary>
 A character starts with 0 in all of 4 main attributes. This can change with the choice of Traits, Background and Class.
 
 A character also starts with 6 <b>Hit Points</b> (or <b>HP</b>), 10 <b>Inventory</b> slots and 10 <b>Mind</b> slots.
@@ -40,9 +42,10 @@ You're done!
 </details>
 
 ***
+## Attributes
 
 <details markdown="1">
-<summary><b>## Attributes, Stats and Savvies</b></summary>
+<summary><b>Attributes, Stats and Savvies</b></summary>
 
 A character has 4 <b>main attributes</b>:
 *  <u><b>Might.</b></u> This is sheer physical strength, hardiness, resistance to pain. Generally used to break down doors, crush a skull, and holding one's breath.
@@ -51,7 +54,7 @@ A character has 4 <b>main attributes</b>:
 *  <u><b>Lore.</b></u> This is understanding, education and breadth of knowledge. Generally used to calculate hypergeometry, know dining etiquette, and comprehend cyphers.
 
 <details markdown="1">
-<summary><i>## Example: Using an attribute</i></summary>
+<summary><i>Example: Using an attribute</i></summary>
 > Brett is trying to run away from a raging lizardfolk. The GM tells him to roll with Might. Brett rolls a total of 6, to which he adds his Might score, which is 1, for a total of 7. It's a partial success.
 > <br>Brett manages to run away, however the GM determines that the lizardfolk turns back to call for reinforcements. Looks like stealing the urn of Udd just went from bad to worse.
 </details>
@@ -59,7 +62,7 @@ A character has 4 <b>main attributes</b>:
 A <b>savvy</b> is any domain of knowledge or savoir-faire (such as <i>Eavesdropping</i>, <i>Rock-climbing</i> or <i>Knowing when a room is silent or full of quiet things</i>) in which the character is proficient. It takes up a slot in a character's Mind. A character is assumed to have the general knowledge of any adventurer (making simple knots, basic survival knowledge, speaking a local tongue), but savvy characters automatically succeed in doing what they're savvy in. Even if the situation would be impossible for a normal adventurer, a savvy character can still attempt it.
 
 <details markdown="1">
-<summary><i>## Example: Using a savvy</i></summary>
+<summary><i>Example: Using a savvy</i></summary>
 > Rihanna and Brett are crawling through a dark underground right beneath the main temple of the lizardfolk. A heavy door with a strange stone mechanism blocks their path, and it seems as if they'll have to turn back.
 > <br>However, Rihanna is savvy in Stonework. She argues to the GM that her character would be able to find weak spots to potentially lever the door out of the way, given she uses her crowbar. The GM accepts, and Rihanna's character successfully removes the obstacle from their path, revealing a large, 7-legged creature skittering behind he door, awoken by the sound of Rihanna's work.
 </details>
@@ -70,9 +73,10 @@ A <b>savvy</b> is any domain of knowledge or savoir-faire (such as <i>Eavesdropp
 </details>
 
 ***
+## Inventory and Mind
 
 <details markdown="1">
-<summary><b>## Inventory, Mind and Goals</b></summary>
+<summary><b>Inventory, Mind and Goals</b></summary>
 
 <u><b>Inventory</b></u>. You have 10 slots, which can be filled with objects, or bundles of 3 objects of small objects like daggers or potions. Specific ammo, such as arrows or bolts, take up 1 slot but don't expire, unless <b>something bad happens</b>. Your inventory will also fill up with <b>Fatigue</b> and <b>Scars</b> along the way. If you have to add something to your inventory and you don't have enough space, you are <b>Exhausted</b> and can't do much of anything except crawl.
 
@@ -125,9 +129,10 @@ Anyone using a shield can use their reaction to block attacks, reducing their da
 </details>
 
 ***
+## Combat
 
 <details markdown="1">
-<summary><b>## Combat</b></summary>
+<summary><b>Combat</b></summary>
 
 <u><b>Turn order:</b></u> The players act before the enemies, unless the enemies surprised the players.
 
@@ -151,9 +156,10 @@ Anyone using a shield can use their reaction to block attacks, reducing their da
 </details>
 
 ***
+##Wounds
 
 <details markdown="1">
-<summary><b>## Dying, Wounds, Scars and Healing</b></summary>
+<summary><b>Dying, Wounds, Scars and Healing</b></summary>
 <u><b>Dying:</b></u> When you have 0 Hit Points, you're <b>Dying</b>. While dying, you get a <b>Wound</b> at the end of each of your turns. If you reach 10 Wounds, you die - make a new character. Each point of damage taken while you're dying also gives you 1 Wound.
 
 While Dying, you can spend your entire turn (action and movement) to try and stabilize. Roll Might, and on a success you stabilize and return to 1 HP. An ally can spend their action to attempt to stabilize you, but they need some medical tools for that. Whatever happens, if you regain HP, like from healing magic or potions, you stabilize.
@@ -164,9 +170,10 @@ Stabilizing does not heal your Wounds. You can however heal all your wounds by t
 </details>
 
 ***
+## Exploration
 
 <details markdown="1">
-<summary><b>## Exploration</b></summary>
+<summary><b>Exploration</b></summary>
 When exploring or going through a locale, like a house, a dungeon, or the ruins of a village inside a forest, the locale is divided into interconnected <b>Rooms</b>. Actions that are spent inside a Room take <b>10 minutes</b>, such as investigating, fighting, or gleaning info from the blood on the walls.
 
 When exploring the great outdoors, where the scale becomes entire forests and mountains, actions take up what's called a <b>Watch</b> (or 4 hours). The great outdoors is made up of interconnected <b>Areas</b>. There are 6 Watches in a day: Dawn, Midday, Afternoon, Evening, Dusk, Midnight. Moving from one Area to a connected one takes a Watch. A good sleep takes 2 Watches.
@@ -174,9 +181,10 @@ When exploring the great outdoors, where the scale becomes entire forests and mo
 </details>
 
 ***
+## Treasures
 
 <details markdown="1">
-<summary><b>## Treasures</b></summary>
+<summary><b>Treasures</b></summary>
 Anything you pick up can have a value. Instead of taking into account the precise value of objects, they are divided into 4 categories of worth:
 *  <b>Trash</b>. This has absolutely no value, like a bent fork.
 *  <b>Mundane</b>. A bag of silver coins, a wood-carved brooch, or a pair of simple earrings.
@@ -197,9 +205,10 @@ Most valuable objects have <b>Traits</b> that further define them. An apothecary
 </details>
 
 ***
+## Advancement
 
 <details markdown="1">
-<summary><b>## Advancement and Carousing</b></summary>
+<summary><b>Advancement and Carousing</b></summary>
 When you are back in the city, it is time to reap the rewards of your adventure. By spending your valuables and treasures while carousing, you can potentially level up. When you spend the equivalent of a Treasure, you level up.
 <br>
 <details markdown="1">
@@ -240,9 +249,10 @@ However, starting from this point, you can <b>Retire</b> your character, which t
 </details>
 
 ***
+## Spellcasting
 
 <details markdown="1">
-<summary><b>## Spellcasting</b></summary>
+<summary><b>Spellcasting</b></summary>
 Some classes can cast spells. They have <b>Magic Dice</b> (or <b>MD</b>) that they use to do so.
   
 <u><b>Casting a spell:</b></u> Whenever you cast a spell, you decide how many MD to invest in it, up to your maximum number of MD or 4, whichever is lower. The effects of the spell depend on the number of [dice] invested, as well as the [sum] of all results.
