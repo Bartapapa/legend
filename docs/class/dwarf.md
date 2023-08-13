@@ -25,7 +25,7 @@ For every step of Dwarf the character takes, they get +1 Inventory slot.
 
 <b>C:</b> Delver's heart
 
-<b>D:</b> Eyes of a killer
+<b>D:</b> Stubborn
 
 ## Bearded
 All dwarves have beards. Your beard takes up a space in your Inventory. You can remove it by shaving it, although it grows back fully after a week. You can braid up to 4 Valuables into your beard.
