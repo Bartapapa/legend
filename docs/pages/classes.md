@@ -14,7 +14,7 @@ The <a href="{{ site.baseurl }}/classes/fighter">Fighter</a>. Master of combat. 
 *  The <a href="{{ site.baseurl }}/classes/knight-errant">Knight Errant</a>. Challenge fools and suffer none.
 *  The <a href="{{ site.baseurl }}/classes/champion">Champion</a>. Chosen by god.
 *  The <a href="{{ site.baseurl }}/classes/dwarf">Dwarf</a>. Stout and beardy.
-*  The <a href="{{ site.baseurl }}/classes/warrior-poet">Warrior Poet</a>. The quill, as mighty as the blade.
+*  The <a href="{{ site.baseurl }}/classes/thug">Thug</a>. Stick those hands up.
 
 </details>
 
@@ -39,9 +39,9 @@ The <a href="{{ site.baseurl }}/classes/specialist">Specialist</a>. Master of ev
 <summary><b>Specialist-like classes</b></summary>
 *  The <a href="{{ site.baseurl }}/classes/assassin">Assassin</a>. Investigate people and murder them.
 *  The <a href="{{ site.baseurl }}/classes/burglar">Burglar</a>. Crash into buildings and take stuff.
-*  The <a href="{{ site.baseurl }}/classes/thug">Thug</a>. Stick those hands up.
-*  The <a href="{{ site.baseurl }}/classes/wandering-sage">Wandering Sage</a>. Knows things, discover more.
-*  The <a href="{{ site.baseurl }}/classes/gaggle-of-goblins">Gaggle of Goblins</a>. Green, mean, and severely maladapted to survival.
+*  The <a href="{{ site.baseurl }}/classes/wandering-sage">Wandering Sage</a>. Know things, discover more.
+*  The <a href="{{ site.baseurl }}/classes/gnome">Gnome</a>. Be small and mischievous.
+*  The <a href="{{ site.baseurl }}/classes/gaggle-of-goblins">Gaggle of Goblins</a>. Green, mean, and severely maladapted.
 
 
 </details>
