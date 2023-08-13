@@ -32,7 +32,9 @@ You're as small as a mouse, and benefit and suffer from all of the advantages an
 
 You only have 1 HP, and can't gain more HP than that, ever, through any circumstance. Armor doesn't work on you. You can only deal 1 damage. You can only carry things that are smaller than you. Tall people will think less of you. You're considered to have -3 Might, although this can be changed with magic, for example.
 
-However, you've got <b>Lucky dice</b> (or LD). These lucky dice are d6s. You can roll them whenever you take damage - if the [sum] is more than the damage you took, you actually avoided it entirely, luckily. You only lose LD when it comes up as '6'. You can even avoid attacks that you didn't see coming, because, let's face it - it's hard shooting a mouse with an arrow. Otherwise, you follow the same rules for Wounds as everyone else. You can recuperate 1 lost LD when you wake up, and when you show everyone that your size doesn't matter.
+However, you've got <b>Lucky dice</b> (or LD). These lucky dice are d6s. You can roll them whenever you take damage - if the [sum] is more than the damage you took, you actually avoided it entirely, luckily. You only lose LD when it comes up as '6'. You can even avoid attacks that you didn't see coming, because, let's face it - it's hard shooting a mouse with an arrow. Using these LD, you can even reroll d6s rolled by the GM - <i>any</i> d6s rolled by the GM, even after you heard the consequences. If you use an LD to replace such a die, you have to use the second result, though.
+
+Otherwise, you follow the same rules for Wounds as everyone else. You can recuperate 1 lost LD when you wake up, and when you show everyone that your size doesn't matter.
 
 ## Scurry
 Enemies can't stop you by trying to block your path. With acrobatics and speed, you zip and dive past their feet or other appendages. You always find a way of moving at the same speed as your allies (so you can still move into a nearby spot by use of your movement). You can freely climb onto enemies you're in contact with, no check required (unless they're really slippery).
