@@ -17,7 +17,7 @@ permalink: /classes/bloatmage
 
 ***
 
-For every step of Bloatmage the character takes, they get +1 Bloat. Bloatmages are [spellcasters](https://bartapapa.github.io/legend/base-rules).
+For every step of Bloatmage the character takes, they get +1 Bloat. Bloatmages are [spellcasters](https://bartapapa.github.io/legend/base-rules#spellcasting).
 
 <b>A:</b> Bloat, Devour
 
