@@ -15,6 +15,7 @@ The <a href="{{ site.baseurl }}/classes/fighter">Fighter</a>. Master of combat. 
 *  The <a href="{{ site.baseurl }}/classes/champion">Champion</a>. Chosen by god.
 *  The <a href="{{ site.baseurl }}/classes/dwarf">Dwarf</a>. Stout and beardy.
 *  The <a href="{{ site.baseurl }}/classes/thug">Thug</a>. Stick those hands up.
+*  The <a href="{{ site.baseurl }}/classes/mouser">Mouser</a>. It's not the size that counts.
 
 </details>
 
