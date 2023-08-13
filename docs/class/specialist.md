@@ -30,7 +30,7 @@ For every step of Specialist the character takes after the first, the Specialist
 ## Tricks
 Specialist have a bunch of tricks up their sleeve. Whenever you get a Trick, roll d66 twice (roll 2d6, and read them left-to-right for a two-digit number), and choose which one you want.
 <details markdown="1">
-<summary>List of strikes</summary>
+<summary>List of tricks</summary>
 *  <b>11: Acquired Immunity.</b> You can smell poison. You have a boon to resist poisons.
 *  <b>12: Acrobat.</b> You take half damage from falling, and can jump two times farther.
 *  <b>13: Brawler.</b> Any improvised weapon deals 1d6 damage in your hands.
