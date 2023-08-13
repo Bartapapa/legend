@@ -32,7 +32,7 @@ As a Knight, the challenges you offer don't only carry social weight, but magica
 
 For ordinary humans, the consequences of refusing a challenge are social embarrassment proportional to their standing among their peers. But for magical creatures, they can lose power and privileges, be sent into agonizing spasms or even die.
 
-You can challenge any creature capable of understanding you and capable of being offended, but only once. If the circumstances or context changes dramatically between you both, you may challenge them again. In combat, you can challenge any creature you can see and who can hear you by yelling at them. Generally, creatures who accept will attack you.
+You can challenge any creature capable of understanding you and capable of being offended, but only once. If the circumstances or context changes dramatically between you both, you may challenge them again. In combat, you can challenge any creature you can see and who can hear you by yelling at them. In-combat, creatures who accept will generally attack you.
 
 Challenging someone or something that is obviously weaker, or of a lower standing than you generally means that you suffer the negative consequences of refusal, <i>especially</i> if you are subsequently defeated.
 
