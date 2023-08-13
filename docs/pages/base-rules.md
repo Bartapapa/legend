@@ -233,7 +233,7 @@ For each Valuable spent this way, you can add an <b>Expertise</b> to one of your
 </details>
 
 <details markdown="1">
-<summary><b>## Leveling up</b></summary>
+<summary><b>Leveling up</b></summary>
 When you level up, you get to do each of the following:
 *  <b>Increase your HP</b>. You roll as many d6 as you have class levels. This becomes your new HP total. If the new total is less than your current one, increase your old total by +1.
 *  <b>Advance in a class</b>. Get the benefits of the next set of abilities of your class, or get the starting abilities of a new class.
@@ -242,7 +242,7 @@ When you level up, you get to do each of the following:
 </details>
 
 <details markdown="1">
-<summary><b>## Leveling 4 and onward</b></summary>
+<summary><b>Leveling 4 and onward</b></summary>
 When you are level 4, you don't get any new classes or class abilities. You can continue leveling up and getting the other benefits of leveling up.
   
 However, starting from this point, you can <b>Retire</b> your character, which then becomes a Non-Playable Character in the hands of the GM. Congratulations! You survived your adventuring career and made a name of yourself. You can make a new character.
