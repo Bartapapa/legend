@@ -11,55 +11,90 @@ permalink: /classes/scion
 >
 ><p style="text-align: right">- Person who said something</p>
 
-<b><u>Starting equipment:</u></b> Robes befitting the traditions of your religion, a staff (light melee) and a dagger.
+<b><u>Starting equipment:</u></b> Robes befitting the traditions of your religion, a wooden holy symbol, a staff (light melee) and a dagger.
 
 <b><u>Starting savvies:</u></b> <i>Tenets and tales of your god</i>, and your choice between <i>Mythology</i>, <i>Herbology</i> and <i>Getting lost</i>.
 
 ***
 
-For every step of Fighter the character takes, they get +1 to attack rolls and maneuver rolls.
+For every step of Scion the character takes, they get +1 Omen. Scions are [spellcasters](https://bartapapa.github.io/legend/base-rules).
 
-<b>A:</b> 2 Strikes, Notches
+<b>A:</b> Omens, Faith
 
-<b>B:</b> Parry, Additional attack
+<b>B:</b> 
 
-<b>C:</b> 2 Strikes
+<b>C:</b> 
 
-<b>D:</b> Eyes of a killer
+<b>D:</b> 
 
-## Strikes
-Fighters perfect special attacks called Strikes. Whenever they attack, instead of doing a normal attack, they can choose to do one of the Strikes that they know. Fighters start with 2 known Strikes, and get 2 additional strikes at step C. Each time they level up, they can replace one they already know with another one they have access to.
+## Omens
+Scions do not choose their spells. Their god does. Every day.
 
-Here's a list of all common Strikes. More exotic ones exist, but they need to be taught by a master.
-<details markdown="1">
-<summary>List of strikes</summary>
-*  <b>Charging strike:</b> If you moved at least a few steps during your turn, make an attack against 1 target with a melee weapon. On a hit, the target is also shoved back.
-*  <b>Cleaving strike:</b> Make an attack with a melee weapon with 1 bane. On a successful hit, you automatically deal your damage to up to two other targets in range.
-*  <b>Defensive strike:</b> Make an attack with 1 bane. Whether you hit or not, the target has 1 bane against all attacks aimed at you for the following round.
-*  <b>Disarming strike:</b> Make an attack with 1 bane. On a successful hit, you deal half damage to your target, and they drop their currently wielded weapon (or one of them, if they have two).
-*  <b>Lunging strike:</b> Make an attack with a melee weapon with 1 bane. You can reach farther than usual with this attack.
-*  <b>Piercing strike:</b> Make an attack with 1 bane. On a successful hit, ignore the target’s armor score.
-*  <b>Pinning strike:</b> Make an attack with 1 bane with a weapon capable of piercing. On a successful hit, deal half damage. The target can’t move until it takes an action to remove the weapon. If the weapon is a melee weapon, you can’t attack with it either until it’s pulled out.
-*  <b>Powerful strike:</b> Make an attack with 1 bane with a melee weapon. On a successful hit, roll twice the damage dice.
-*  <b>Precise strike:</b> Forego your movement. Doing so, roll damage automatically – no need for an attack roll.
-*  <b>Shield strike:</b> Make an attack with 1 bane with a shield. On a successful hit, deal 1d6 damage, and all attacks against that target have a boon, until at least one attack hits.
-*  <b>Sundering strike:</b> Make an attack with 1 bane. On a successful hit, you deal no damage to the target, but you either reduce the armor score of your target by the number of damage dice your weapon has, or you impose a bane on the target’s attack rolls using this weapon. If another object is targeted, the GM determines the effects accordingly. This can stack, and lasts until the next time they tend to their equipment (generally after a short rest).
-*  <b>Switch-up strike:</b> Switch places with a nearby ally, then attack.
-</details>
-<br>
+When you wake up, you lose all previous spells you've had granted by this class, and acquire a number of spells according to the number of steps you have in Scion. The GM chooses these spells according to things that might happen in the day - it is up to the player to interpret what the spells mean. Getting a spell that grants resistance to fire can mean seeing a dragon in the near future. Or perhaps having to walk on lava.
 
-## Notches
-When you reach 10, 20, 30, 40 and 50 kills in combat with a weapon type (like daggers, or longswords), you gain an ability that only you can use when you use this weapon type.
-You can gain the same ability twice. Gain an ability from the following list:
-*  +1 damage.
-*  Special weapon trait (negotiated with the GM) – for example, instantly draw the weapon, wield 2-handed weapon in 1 hand, be able to use the weapon as a specific tool, etc…
-*  Be able to tell at a glance whether the user of the same type of weapon would have more or less notches than you (generally, 10*HD notches is a good guess).
+Your god can give you any spell it wishes. It doesn't care about spell lists or classes. It generally remains within the purview of its domains of influence, however nothing is forcing it to do so.
+
+## Faith
+Scions have <b>Faith dice</b> (or FD), which act like magic dice in every way except that when they're lost, they cannot be regained. Scions are granted FD when they act according to the wishes of their god. Make up 4 different tenets that your god wants you to follow. You can check out the [Tenets](https://bartapapa.github.io/legend/classes/scion#tenets) if you're in a hurry.
 
 ## Parry
-When you, or an ally within reach, are hit with an attack, you can use your reaction to reduce damage dealt by 1d6. If you are using a shield, roll 2d6 and keep the best.
 
 ## Additional attack
-When the character attacks, they can roll an additional time to attack the same or another target.
 
-## Eyes of a killer
-You project a menacing aura around you. At any moment during combat, you can choose how weak creatures react to you. They either avoid fighting you at all costs, or gang up on you while ignoring your allies. Weak creatures are any creature that has 2 HD or less. In non-combat situations, you can terrorize them, make them run or cower. Other Fighters, or other characters with steps in a fighter-like class, know that you're not be trifled with at just a glance.
+## Tenets
+Gods want you o do things in their name. A lot of gods want similar things - you can mix-and-match these according to their general domain of influence.
+<details markdown="1">
+<summary>Authority</summary>
+*  Punish sinners and criminals.
+*  Convert nonbelievers.
+*  Spread the rule of law.
+*  Defend those who obey the law.
+</details>
+
+<details markdown="1">
+<summary>Battle</summary>
+*  Openly confront your enemies.
+*  Crush opposition.
+*  Fight your own battles.
+*  Strive to die in battle.
+</details>
+
+<details markdown="1">
+<summary>Blood</summary>
+*  Shed 1+ HP of blood in the morn.
+*  Ritually sacrifice a creature with at least 1 HD.
+*  Drink blood of an enemy that has been previously shed.
+*  Reek of blood, bathe in its mire.
+</details>
+
+<details markdown="1">
+<summary>Creation</summary>
+*  Bring beautiful things into being.
+*  Empower others to create.
+*  Show others the beauty of creation.
+*  Protect the knowledge and technique of creation.
+</details>
+
+<details markdown="1">
+<summary>Knowledge</summary>
+*  Learn secrets about the worls.
+*  Record data.
+*  Speak truth to those who spread falsehood.
+*  Recover lost and forgotten things for all to behold.
+</details>
+
+<details markdown="1">
+<summary>Wild</summary>
+*  Destroy abominations against nature like the undead.
+*  Spread life into dead places.
+*  Prey on those below you in the food chain.
+*  Oppose the spread of civilization.
+</details>
+
+<details markdown="1">
+<summary>Trickery</summary>
+*  Act in secret.
+*  Subvert authority.
+*  Execute a plan.
+*  Instill chaos.
+</details>
