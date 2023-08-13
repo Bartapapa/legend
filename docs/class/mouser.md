@@ -25,7 +25,7 @@ For every step of Mouser the character takes, they get +1 Lucky dice.
 
 <b>C:</b> Weaker spots
 
-<b>D:</b> 
+<b>D:</b> Fancier hat
 
 ## Tiny luck
 You're as small as a mouse, and benefit and suffer from all of the advantages and drawbacks that that entails.
@@ -62,4 +62,5 @@ When the character attacks, they can roll an additional time to attack the same 
 ## Weaker spots
 You increase your ability to cause carnage by striking weak spots. When you hit a weak spot, the penalty continues applying until the target uses its action (unless, of course, the weak spot was obliterated, such as gouging the eye out or shredding the tongue).
 
-## 
+## Fancier hat
+If you take damage, you can opt to lose your fancy hat. When you do so, gain a Scar. Time goes slow as you see your life flash past your eyes. In order to use this ability again, you're going to need to pick it up. Use this ability too many times, and <b>Death of Small Beasts</b> will come for you. They do not like to be cheated for so long.
