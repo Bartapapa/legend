@@ -42,7 +42,7 @@ The <a href="{{ site.baseurl }}/classes/specialist">Specialist</a>. Master of ev
 *  The <a href="{{ site.baseurl }}/classes/burglar">Burglar</a>. Crash into buildings and take stuff.
 *  The <a href="{{ site.baseurl }}/classes/wandering-sage">Wandering Sage</a>. Know things, discover more.
 *  The <a href="{{ site.baseurl }}/classes/gnome">Gnome</a>. Be small and mischievous.
-*  The <a href="{{ site.baseurl }}/classes/ranger">Ranger</a>. Adapt. Survive. Overcome.
+*  The <a href="{{ site.baseurl }}/classes/outback-ranger">Outback Ranger</a>. Adapt. Survive. Overcome.
 *  The <a href="{{ site.baseurl }}/classes/gaggle-of-goblins">Gaggle of Goblins</a>. Green, mean, and severely maladapted.
 
 
