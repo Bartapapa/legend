@@ -25,7 +25,7 @@ For every step of Scion the character takes, they get +1 Omen. Scions are [spell
 
 <b>C:</b> Blind faith
 
-<b>D:</b> 
+<b>D:</b> Miracle
 
 ## Omens
 Scions do not choose their spells. Their god does. Every day.
