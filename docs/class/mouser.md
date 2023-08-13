@@ -17,7 +17,7 @@ permalink: /classes/mouser
 
 ***
 
-For every step of Mouser the character takes, they get +1 ???.
+For every step of Mouser the character takes, they get +1 Lucky dice.
 
 <b>A:</b> Tiny luck, Scurry, Weak spot
 
@@ -27,18 +27,18 @@ For every step of Mouser the character takes, they get +1 ???.
 
 <b>D:</b> Stubborn
 
-## Tiny
+## Tiny luck
 You're as small as a mouse, and benefit and suffer from all of the advantages and drawbacks that that entails.
 
-You only have 1 HP, and can't gain more HP than that, ever, through any circumstance. Armor doesn't work on you. You can only deal 1 damage. You can only carry things that are smaller than you.
+You only have 1 HP, and can't gain more HP than that, ever, through any circumstance. Armor doesn't work on you. You can only deal 1 damage. You can only carry things that are smaller than you. You're considered to have -3 Might, although this can be changed with magic, for example.
 
-However, you're very <b>lucky</b>.
+However, you've got <b>Lucky dice</b>. These lucky dice are d6s. You can roll them just like magic dice - if the [sum] is more than the damage you took, you actually avoided it entirely. You only lose LD when it comes up as '6'. You can even avoid attacks that you didn't see coming, because, let's face it - it's hard shooting a mouse with an arrow. Otherwise, you follow the same rules for Wounds as everyone else.
 
 ## Scurry
 Enemies can't stop you by trying to block your path. With acrobatics and speed, you zip and dive past their feet or other appendages. You always find a way of moving at the same speed as your allies (so you can still move into a nearby spot by use of your movement). You can freely climb onto enemies you're in contact with, no check required (unless they're really slippery).
 
 ## Weak spot
-Whenever you successfuly land an attack, you deal damage as usual, but you also hit a weak spot.
+Whenever you successfuly land an attack, you deal damage as usual, but you also hit a weak spot. 
 
 ## Greed
 For every inventory slot filled with Valuables or Treasures, you get +1 HP. Each Valuable braided into your beard grants +1 HP.
