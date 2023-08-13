@@ -261,7 +261,7 @@ If an MD rolls a 6, you lose it, and can't use it anymire. Generally, classes re
 
 Every time you roll doubles (the same result on 2 different dice), there's a <b>Mishap</b>.
 
-<u><b>Mishaps:</b></u> These happen when you roll doubles when casting a spell. In this case, <b>something bad happens</b>, as determined by the GM. The effects of the mishap depend on the spell cast. Triples or quadruples are even worse.
+<u><b>Mishaps:</b></u> These happen when you roll doubles when casting a spell. In this case, <b>something bad happens</b>, as determined by the GM. The effects of the mishap depend on the spell cast. Triples or quadruples are even worse. Mishaps can be something like making whatever it's supposed to fix worse, or fixing it in some unwanted way, or being cast on someone else, or fizzling, or damaging the caster, or...
 
 </details>
 
