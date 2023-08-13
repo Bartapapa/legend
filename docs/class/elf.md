@@ -3,7 +3,7 @@ layout: post
 title: The Elf
 permalink: /classes/elf
 ---
-<small>Adapted from Rise Up Comus' [Elf](http://riseupcomus.blogspot.com/2020/05/classic-fantasy-races-for-glog.html) and SaltyGoo's [Elf](https://saltygoo.github.io/class/magic-user/elf).</small>
+<small>Adapted from Skerples' [Elf](https://coinsandscrolls.blogspot.com/2017/05/osr-elves-and-elf-wizards.html) and SaltyGoo's [Elf](https://saltygoo.github.io/class/magic-user/elf).</small>
 
 ***
 
@@ -26,6 +26,35 @@ For every step of Elf the character takes, they get +1 Magic dice. Elves are [sp
 <b>C:</b> Elven stride, Elf magic (1d6+4).
 
 <b>D:</b> Perfect shot, Elf magic (1d6+6).
+
+## Elven magic
+<details markdown="1">
+<summary><b>List of Elf spells</b></summary>
+* <b>1: Clarity.</b>
+  R: Nearby, T: [dice] creatures, D: Instantaneous
+  Target makes another Save against a emotion-affecting effect (fear, anger, sadness, pleasure, pain). This can affect yourself.
+
+* <b>2: Speak with Birds.</b>
+  R: Far, T: birds, D: 20 minutes
+  You can talk to a bird, and it can talk back. If there is a party of 3-6 adventurer's moving through the forest nearby, a random songbird has a [dice]-in-6 chance of knowing where they are and if they're doing anything extra weird. Birds of prey are rarer, but more observant.
+
+* <b>3: Blossom.</b>
+  R: Touch, T: plant, D: permanent
+  Touched plant flourishes. Seeds germinate, flowerbuds swell and bloom, and a sickly plant regains vigor. Heals [sum] HP to a plant creature. If cast on a fruit, the fruit will grow up to the maximum normal size or 2x as big (whichever is smaller). Yes, you can use this to double your rations, as long as your rations are fruit or vegetables. 
+
+* <b>4: Illusion of youth.</b>
+  R: Touch, T: creature, D: [dice] days, or if [sum] > 12, until death
+  Elves age slowly, but their last few decades condense a lifetime of ugliness. This spell cloaks you or your companions. You'll probably want to cast if before meeting a High Elf. Remember, you can't "see through" illusions, but you can pop it with a good solid blow. 
+
+* <b>5: </b>
+* <b>6: </b>
+* <b>7: </b>
+* <b>8: </b>
+* <b>9: </b>
+* <b>10: </b>
+* <b>11: </b>
+* <b>12: </b>
+</details>
 
 ## Immortal perfection
 You're perfect in every way. You're also immortal, and may never die - at least, never die as an elf.
