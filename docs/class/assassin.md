@@ -3,7 +3,7 @@ layout: post
 title: The Assassin
 permalink: /classes/assassin
 ---
-<small>Adapted from G.R Michael's [Assassin](https://as-they-must.blogspot.com/2022/04/they-do-not-know-how-to-do-right-glog.html).</small>
+<small>Adapted from G.R Michael's [Assassin](https://as-they-must.blogspot.com/2022/04/they-do-not-know-how-to-do-right-glog.html) and Pathfinder's [Assassin](https://www.d20pfsrd.com/classes/prestige-classes/core-rulebook/assassin/).</small>
 
 ***
 
@@ -11,55 +11,42 @@ permalink: /classes/assassin
 >
 ><p style="text-align: right">- Person who said something</p>
 
-<b><u>Starting equipment:</u></b> A helmet (Armor) and gambison (Armor), a medium melee weapon and shield / a heavy melee weapon / two light melee weapons, a bow and arrows.
+<b><u>Starting equipment:</u></b> Manhunter tomahawk (light melee weapon), spooky mask, makeup kit, collection of wigs, leathers (Armor).
 
-<b><u>Starting savvies:</u></b> <i>Weaponry</i>, and your choice between <i>Farming</i>, <i>Warfare</i> and <i>Sailing</i>.
+<b><u>Starting savvies:</u></b> <i>Disguises</i>, and your choice between <i>Courtly etiquette</i>, <i>Esoteric knowledge</i> and <i>Underbelly</i>.
 
 ***
 
-For every step of Fighter the character takes, they get +1 to attack rolls and maneuver rolls.
+For every step of Assassin the character takes, they get +1 HP.
 
-<b>A:</b> 2 Strikes, Notches
+<b>A:</b> Quick win, Assassinate
 
-<b>B:</b> Parry, Additional attack
+<b>B:</b> Mr. So-and-so
 
-<b>C:</b> 2 Strikes
+<b>C:</b> Invisible stalker
 
-<b>D:</b> Eyes of a killer
+<b>D:</b> True death
 
-## Strikes
-Fighters perfect special attacks called Strikes. Whenever they attack, instead of doing a normal attack, they can choose to do one of the Strikes that they know. Fighters start with 2 known Strikes, and get 2 additional strikes at step C. Each time they level up, they can replace one they already know with another one they have access to.
+## Quick win
+You have a boon on all attack and maneuver rolls during the first turn of combat.
 
-Here's a list of all common Strikes. More exotic ones exist, but they need to be taught by a master.
+## Assassinate
+If the enemy doesn't suspect an attack, you can attempt to assassinate them. The attack is an automatic hit. They immediately die, no save, if their HD is less than the number of important facts you know about the person, to a maximum of the number of steps you have in assassin. Important facts are anything that is information that couldn't be gleaned from just looking at the person.
+
+This also works in combat, but only during the first round, as long as you haven't attacked anyone else.
+
+## Mr. So-and-so
+When carousing, the assassin has another action available to them.
+
 <details markdown="1">
-<summary>List of strikes</summary>
-*  <b>Charging strike:</b> If you moved at least a few steps during your turn, make an attack against 1 target with a melee weapon. On a hit, the target is also shoved back.
-*  <b>Cleaving strike:</b> Make an attack with a melee weapon with 1 bane. On a successful hit, you automatically deal your damage to up to two other targets in range.
-*  <b>Defensive strike:</b> Make an attack with 1 bane. Whether you hit or not, the target has 1 bane against all attacks aimed at you for the following round.
-*  <b>Disarming strike:</b> Make an attack with 1 bane. On a successful hit, you deal half damage to your target, and they drop their currently wielded weapon (or one of them, if they have two).
-*  <b>Lunging strike:</b> Make an attack with a melee weapon with 1 bane. You can reach farther than usual with this attack.
-*  <b>Piercing strike:</b> Make an attack with 1 bane. On a successful hit, ignore the target’s armor score.
-*  <b>Pinning strike:</b> Make an attack with 1 bane with a weapon capable of piercing. On a successful hit, deal half damage. The target can’t move until it takes an action to remove the weapon. If the weapon is a melee weapon, you can’t attack with it either until it’s pulled out.
-*  <b>Powerful strike:</b> Make an attack with 1 bane with a melee weapon. On a successful hit, roll twice the damage dice.
-*  <b>Precise strike:</b> Forego your movement. Doing so, roll damage automatically – no need for an attack roll.
-*  <b>Shield strike:</b> Make an attack with 1 bane with a shield. On a successful hit, deal 1d6 damage, and all attacks against that target have a boon, until at least one attack hits.
-*  <b>Sundering strike:</b> Make an attack with 1 bane. On a successful hit, you deal no damage to the target, but you either reduce the armor score of your target by the number of damage dice your weapon has, or you impose a bane on the target’s attack rolls using this weapon. If another object is targeted, the GM determines the effects accordingly. This can stack, and lasts until the next time they tend to their equipment (generally after a short rest).
-*  <b>Switch-up strike:</b> Switch places with a nearby ally, then attack.
+<summary><b>Forge identity</b></summary>
+
+For each Valuable spent this way, spend a day creating a new identity of a common folk (peasant, merchant, etc,...), complete with papers and disguise. You acquire the disguise as an item in your Inventory. If you end up spending the equivalent of a Treasure, one of your identities is that of a person of interest belonging to an organization, group, or religion (state which one specifically), and well-regarded within it. You can take someone else's identity, although confidants will never be duped.
 </details>
 <br>
 
-## Notches
-When you reach 10, 20, 30, 40 and 50 kills in combat with a weapon type (like daggers, or longswords), you gain an ability that only you can use when you use this weapon type.
-You can gain the same ability twice. Gain an ability from the following list:
-*  +1 damage.
-*  Special weapon trait (negotiated with the GM) – for example, instantly draw the weapon, wield 2-handed weapon in 1 hand, be able to use the weapon as a specific tool, etc…
-*  Be able to tell at a glance whether the user of the same type of weapon would have more or less notches than you (generally, 10*HD notches is a good guess).
+## Invisible stalker
+In any non-combat scene, as long as your position hasn't been accurately defined yet, you can choose to just disappear. People who were keeping an eye out for you suspect something is up. You can reappear anytime by stating so - in the shadows, in a cupboard, masquerading as an unnamed NPC standing by, etc. Until you state that you are there, you don't actually hear or know anything that's going on in the current scene.
 
-## Parry
-When you, or an ally within reach, are hit with an attack, you can use your reaction to reduce damage dealt by 1d6. If you are using a shield, roll 2d6 and keep the best.
-
-## Additional attack
-When the character attacks, they can roll an additional time to attack the same or another target.
-
-## Eyes of a killer
-You project a menacing aura around you. At any moment during combat, you can choose how weak creatures react to you. They either avoid fighting you at all costs, or gang up on you while ignoring your allies. Weak creatures are any creature that has 2 HD or less. In non-combat situations, you can terrorize them, make them run or cower. Other Fighters, or other characters with steps in a fighter-like class, know that you're not be trifled with at just a glance.
+## True death
+The assassin's technique becomes otherworldly, and their death-dealing affects even those who are supposed to be immune to it. Any creature killed by the assassin via their assassinate ability is impossible to resurrect, their soul destroyed by the attack. This affects creatures which do not normally die in the conventional sense.
