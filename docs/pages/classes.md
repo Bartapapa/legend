@@ -17,7 +17,9 @@ The <a href="{{ site.baseurl }}/classes/fighter">Fighter</a>. Master of combat. 
 *  The <a href="{{ site.baseurl }}/classes/warrior-poet">Warrior Poet</a>. The quill, as mighty as the blade.
 
 </details>
-<br>
+
+***
+
 The <a href="{{ site.baseurl }}/classes/magic-user">Magic user</a>. Master of magic. Cast spells and change reality.
 
 <details markdown="1">
@@ -28,7 +30,9 @@ The <a href="{{ site.baseurl }}/classes/magic-user">Magic user</a>. Master of ma
 *  The <a href="{{ site.baseurl }}/classes/elf">Elf</a>. Tragically better than everyone else.
 
 </details>
-<br>
+
+***
+
 The <a href="{{ site.baseurl }}/classes/specialist">Specialist</a>. Master of everything else. Be charming and do crime.
 
 <details markdown="1">
