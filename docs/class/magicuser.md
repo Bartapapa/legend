@@ -17,7 +17,7 @@ permalink: /classes/magic-user
 
 ***
 
-For every step of Magic user the character takes, they get +1 <b>Magic dice</b>.
+For every step of Magic user the character takes, they get +1 <b>Magic dice</b>. Magic users are [spellcasters](https://bartapapa.github.io/legend/base-rules#spellcasting).
 
 <b>A:</b> Wizard school, Magic sense, 2 spells (1d6)
 
