@@ -17,7 +17,7 @@ permalink: /classes/scion
 
 ***
 
-For every step of Scion the character takes, they get +1 Omen. Scions are [spellcasters](https://bartapapa.github.io/legend/base-rules).
+For every step of Scion the character takes, they get +1 Omen. Scions are [spellcasters](https://bartapapa.github.io/legend/base-rules#spellcasting).
 
 <b>A:</b> Omens, Faith
 
