@@ -156,7 +156,7 @@ Anyone using a shield can use their reaction to block attacks, reducing their da
 </details>
 
 ***
-##Wounds
+## Wounds
 
 <details markdown="1">
 <summary><b>Dying, Wounds, Scars and Healing</b></summary>
