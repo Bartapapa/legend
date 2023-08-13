@@ -1,7 +1,7 @@
 ---
 layout: post
-title: The Ranger
-permalink: /classes/ranger
+title: The Outback Ranger
+permalink: /classes/outback-ranger
 ---
 <small>Adapted from G.R Michael's [Ranger](https://as-they-must.blogspot.com/2022/04/they-do-not-know-how-to-do-right-glog.html).</small>
 
@@ -17,7 +17,7 @@ permalink: /classes/ranger
 
 ***
 
-For every step of Ranger the character takes, they get +1 Favored Land.
+For every step of Outback Ranger the character takes, they get +1 Favored Land.
 
 <b>A:</b> 2 Favored Land, Hunter from far lands
 
@@ -38,7 +38,7 @@ You have +1 on attack rolls against unintelligent beasts for each of the followi
 People tend to believe what you say in regards to the wilderness if you show that you have a bigger knife than them.
 
 ## Trail
-You can follow a trail of up to [number of ranger steps] days old, so long as you know who, or what, created it.
+You can follow a trail of up to [number of outback ranger steps] days old, so long as you know who, or what, created it.
 
 ## Bestial takedown
 When the ranger attacks, they can roll an additional time to attack the same or another target, as long as it's an unintelligent beast.
