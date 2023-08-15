@@ -233,6 +233,8 @@ Bonus item: Blindfold (can see nearby invisible things when worn over eyes)
 <details markdown="1">
 <summary><b>61. Darkvision</b></summary>
 You can see in the dark as if you had a torch in your hand.
+
+Bonus item: Magnifying glass (can be used to burn ants)
 </details>
 
 <details markdown="1">
@@ -240,4 +242,34 @@ You can see in the dark as if you had a torch in your hand.
 At the start of the day, roll a d6. Once per day, you can replace the result of <i>any</i> d6 roll by this result.
 
 Bonus item: Pair of dice (loaded? Who knows)
+</details>
+
+<details markdown="1">
+<summary><b>63. [Beast] speaker</b></summary>
+Choose some kind of beast. Cats. Crows. Newts. You can talk to them. Doesn't mean they like you.
+
+Bonus item: Small [beast] (as Follower, 1 HP, likes you)
+</details>
+
+<details markdown="1">
+<summary><b>64. Ghoul attack survivor</b></summary>
+By being very quiet, you can tell the difference between silence because there's nothing there, or silence because something doesn't want to be noticed.
+
++1 Lore.
+</details>
+
+<details markdown="1">
+<summary><b>65. Virtuoso</b></summary>
+You're <i>very</i> good at playing your instrument. People will stop what they're doing, as long as there's nothing threatening around, to listen.
+
+Bonus item: Portable instrument of your choice (not very good quality)
+
++1 Grace.
+</details>
+
+<details markdown="1">
+<summary><b>66. Did I say that?</b></summary>
+Once per day, you can rewind the last words your character said, if the result isn't to your liking.
+
++1 Wit.
 </details>
