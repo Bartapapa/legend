@@ -109,11 +109,37 @@ You have 1 base Magic dice. If you wave your hands around, you can make harmless
 -1 Lore.
 </details>
 
+<details markdown="1">
+<summary><b>42. Undead</b></summary>
+You are cold to the touch. You're gaunt. Or perhaps you're just a skeleton, really - you choose; People will react accordingly. You don't remember what you were before, although your body does. You don't need to breathe or eat, and you won't age, even magically.
+
+-2 Lore.
+</details>
+
 ## Faith traits
 <details markdown="1">
 <summary><b>51. Zealous</b></summary>
 During lunch, instead of eating, you can follow an esoteric ritual proper to your faith. Define it now.
 Bonus item: Bloody whip (light melee, only deals damage on targets with 0 armor)
+</details>
+
+<details markdown="1">
+<summary><b>52. Oathbound</b></summary>
+Define your principal duty. You have a boon on all rolls to resist effects which would make you go against this duty.
+Bonus item: Tragic memento (Once per day, hold it in your hand and state your duty aloud before acting to have a boon on the roll)
+</details>
+
+<details markdown="1">
+<summary><b>53. Preacher</b></summary>
+When you take an hour to proselytize to a crowd, [Wit]d6 people assist. Half of them are interested in what you say and keep looking. A quarter of them dislike what you say. You have a [Wit]-in-d6 chance to attract the attention of a fervent who'll help you, and potentially become your Follower. If so, they start with a Loyalty of 2.
+
++1 Wit.
+</details>
+
+<details markdown="1">
+<summary><b>53. Prophecized</b></summary>
+When anyone, even the GM, naturally rolls snake eyes (double '1's on a roll) or double '6's, you may state aloud, 'As the prophecy foretold.' You regain all HP, and the <i>very next</i> roll will be maximized (if it was double '1's) or minimized (if it was double '6's).
+Bonus item: Birthmark (As Scar, except if ever you lose this, you aren't Prophecized anymore)
 </details>
 
 ## General traits
