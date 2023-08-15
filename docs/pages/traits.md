@@ -22,7 +22,7 @@ Instead of a race, this can be an organization, clan, family or other form of gr
 <details markdown="1">
 <summary><b>12. Dwarf</b></summary>
 You have a beard, which takes up an Inventory slot. You can shave it off, but it'll regrow to full after a week. You can braid up to 3 Valuables into your beard. For each Valuable you have braided into your beard, you have +1 HP.
-Bonus item: A helmet (Armor)
+Bonus item: A dented helmet (Armor, can act as a Shield, but is then destroyed)
 
 Might or Lore +1, Wit -1. 
 </details>
@@ -53,7 +53,7 @@ Lore -1.
 <details markdown="1">
 <summary><b>21. Bloodthirsty</b></summary>
 You love the smell of blood - yours or others. If you deal damage to an undamaged enemy, you heal 1 HP. If you're bathed in the mire of blood by the end of combat, heal all HP.
-Bonus item: Notched axe (medium melee)
+Bonus item: Notched axe (medium melee. Other warriors might want to compare. Some might want to kill you to prove a point)
 
 +1 Grace.
 </details>
@@ -67,7 +67,7 @@ Bonus item: Iron shield
 <details markdown="1">
 <summary><b>23. Hard to kill</b></summary>
 You aren't penalized by your current number of Wounds when you attempt to Stabilize.
-Bonus item: Toothmarked leather belt
+Bonus item: Toothmarked leather belt (if you bite on it, you have a boon on any roll to resist pain effects)
 
 +1 Might.
 </details>
@@ -75,7 +75,7 @@ Bonus item: Toothmarked leather belt
 <details markdown="1">
 <summary><b>24. Vandal</b></summary>
 You deal maximum damage to unattended objects.
-Bonus item: Spiked leather straps
+Bonus item: Spiked leather straps (Armor)
 </details>
 
 <details markdown="1">
@@ -89,7 +89,7 @@ If you find a good, contextual insult to yell at your enemy during your turn ('g
 <summary><b>26. Hate of X</b></summary>
 When you get this trait, replace X by some kind of creature. Orcs. Humans. Dogs. Trees.
 If your target rsembles, even closely, the subject of your hate, you deal +2 damage to them.
-Bonus item: Trophy from a slain X.
+Bonus item: Trophy from a slain X (might anger or intimidate. Who knows)
 </details>
 
 ## Social traits
@@ -102,8 +102,16 @@ Bonus item: Lucky tankard (if you drink booze from it, heal 1d6 HP)
 </details>
 
 ## Magic traits
+<details markdown="1">
+<summary><b>41. Magical talent</b></summary>
+You have 1 base Magic dice. If you wave your hands around, you can make harmless flashes and puffs of smoke appear from your fingertips.
+</details>
 
 ## Faith traits
+<details markdown="1">
+<summary><b>41. Aided by fate</b></summary>
+Once per day, you can change the value of <i>any</i> rolled d6 tipping it one step to one of its sides.
+</details>
 
 ## General traits
 <details markdown="1">
