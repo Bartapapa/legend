@@ -96,11 +96,11 @@ A <b>savvy</b> is any domain of knowledge or savoir-faire (such as <i>Eavesdropp
 
 <u><b>Light</b></u> weapons (daggers, javelins) deal 1d6 damage. You can use one in your off-hand, and can be thrown.
 
-<u><b>Medium</b></u> weapons (swords, axes) deal 1d6+1 damage. If wielded in two hands, roll twice and take the best.
+<u><b>Medium</b></u> weapons (swords, axes) deal 1d6+Might damage. If wielded in two hands, roll twice and take the best.
 
-<u><b>Heavy</b></u> weapons (greatswords, massive clubs) deal 2d6 damage. Need two hands to be wielded.
+<u><b>Heavy</b></u> weapons (greatswords, massive clubs) deal 2d6+Might damage. Need two hands to be wielded.
 
-<u><b>Polearms</b></u> deal 1d6+2 damage. They need two hands to be wielded. One boon on attacks against anyone whose weapon doesn't reach as far as yours. Can be difficult to use in narrow spaces.
+<u><b>Polearms</b></u> deal 1d6+Might damage. They need two hands to be wielded. One boon on attacks against anyone whose weapon doesn't reach as far as yours. Can be difficult to use in narrow spaces (1 bane).
 
 <u><b>Two-weapon fighting</b></u>. When you attack and miss, you can roll again.
 </details>
