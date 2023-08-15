@@ -34,9 +34,10 @@ A character starts with 0 in all of 4 main attributes. This can change with the 
 
 A character also starts with 6 <b>Hit Points</b> (or <b>HP</b>), 10 <b>Inventory</b> slots and 10 <b>Mind</b> slots.
 
-Choose 3 <b>Traits</b>, which change your character in unique ways.
-Choose your character's <b>Background</b>, as well as one or two <b>Goals</b> - the GM will reward you for following these.
-Choose your character's <b>Class</b>, and get its <b>Starting equipment</b> in your inventory and its <b>Starting savvies</b> in your mind.
+Choose or roll 3 <b>Traits</b>, which change your character in unique ways.
+Choose or roll your character's <b>Failed career</b>.
+
+Each character starts with 3 rations (1 slot), 3 torches (1 slot), and 1 light weapon.
 
 You're done!
 </details>
@@ -48,10 +49,10 @@ You're done!
 <summary><b>Attributes, Stats and Savvies</b></summary>
 
 A character has 4 <b>main attributes</b>:
-*  <u><b>Might.</b></u> This is sheer physical strength, hardiness, resistance to pain. Generally used to break down doors, crush a skull, and holding one's breath.
-*  <u><b>Grace.</b></u> This is agility, quickness and reactivity. Generally used to run across tightropes, play the piano, and ride beasts.
-*  <u><b>Wit.</b></u> This is thinking quickly, perception and charm. Generally used to sense when being observed, compel a guard to look the other way or swipe the noble's purse.
-*  <u><b>Lore.</b></u> This is understanding, education and breadth of knowledge. Generally used to calculate hypergeometry, know dining etiquette, and comprehend cyphers.
+*  <u><b>Might.</b></u> This is sheer physical strength, hardiness, resistance to pain. Generally used to run fast, break down doors, crush a skull, and holding one's breath. Can be added to the damage roll of certain weapons, and adds Inventory slots.
+*  <u><b>Grace.</b></u> This is agility, quickness and reactivity. Generally used to run across tightropes, play the piano, and ride beasts. Generally added to attack rolls.
+*  <u><b>Wit.</b></u> This is thinking quickly, perception and charm. Generally used to sense when being observed, compel a guard to look the other way or swipe the noble's purse. Generally added to reaction rolls.
+*  <u><b>Lore.</b></u> This is understanding, education and breadth of knowledge. Generally used to calculate hypergeometry, know dining etiquette, and comprehend cyphers. Adds Mind slots.
 
 <details markdown="1">
 <summary><i>Example: Using an attribute</i></summary>
@@ -78,13 +79,11 @@ A <b>savvy</b> is any domain of knowledge or savoir-faire (such as <i>Eavesdropp
 <details markdown="1">
 <summary><b>Inventory, Mind and Goals</b></summary>
 
-<u><b>Inventory</b></u>. You have 10 slots, which can be filled with objects, or bundles of 3 objects of small objects like daggers or potions. Specific ammo, such as arrows or bolts, take up 1 slot but don't expire, unless <b>something bad happens</b>. Your inventory will also fill up with <b>Fatigue</b> and <b>Scars</b> along the way. If you have to add something to your inventory and you don't have enough space, you are <b>Exhausted</b> and can't do much of anything except crawl.
+<u><b>Inventory</b></u>. You have 10 slots, which can be filled with objects, or bundles of 3 objects of small objects like daggers or potions. Specific ammo, such as arrows or bolts, take up 1 slot but don't expire, unless <b>something bad happens</b>. Your inventory will also fill up with <b>Fatigue</b> and <b>Scars</b> along the way. If you have to add something to your inventory and you don't have enough space, you are <b>reduced to 0 HP.</b>
 
-<u><b>Mind</b></u>. You have 10 slots, which can be filled with savvies, beliefs, and followers. Your mind will also fill up with <b>Stress</b> and <b>Scars</b> along the way. If you have to add something to your mind and you don't have enough space, you <b>Crack</b> and can't do much of anything except whimper. Although, before that happens, you can totally just forget one of your beliefs or savvies. Just don't expect to be getting it back soon.
+<u><b>Mind</b></u>. You have 10 slots, which can be filled with savvies, beliefs, and followers. Your mind will also fill up with <b>Stress</b> and <b>Scars</b> along the way. If you have to add something to your mind and you don't have enough space, you <b>Crack</b> and can't do much of anything except whimper. 
 
 <u><b>Scars</b></u> can be removed with certain kinds of magic. When that isn't around, sometimes being gagged and thrown in a holding cell for a couple of days, or violently flagellating in penance does the trick.
-
-As a general rule, you can have as many items as you want on you, really, as long as it seems plausible. But if you want to be able to mechanically <i>use</i> them, they need to either in your Inventory or your Mind.
 </details>
 
 ***
@@ -160,13 +159,15 @@ Anyone using a shield can use their reaction to block attacks, reducing their da
 
 <details markdown="1">
 <summary><b>Dying, Wounds, Scars and Healing</b></summary>
-<u><b>Dying:</b></u> When you have 0 Hit Points, you're <b>Dying</b>. While dying, you get a <b>Wound</b> at the end of each of your turns. If you reach 10 Wounds, you die - make a new character. Each point of damage taken while you're dying also gives you 1 Wound.
+<u><b>Dying:</b></u> When you have 0 Hit Points, all damage you sustain is converted to <b>Wounds</b>. If you have 0 HP and you get Wounded, roll Might with a penalty equal to your number of Wounds. On a Failure, you're <b>Dying</b>. At the end of each of your turns when you're Dying, you gain 1 Wound.
 
-While Dying, you can spend your entire turn (action and movement) to try and stabilize. Roll Might, and on a success you stabilize and return to 1 HP. An ally can spend their action to attempt to stabilize you, but they need some medical tools for that. Whatever happens, if you regain HP, like from healing magic or potions, you stabilize.
+If you reach 10 Wounds, you die - make a new character. 
+
+While Dying, you can spend your entire turn (action and movement) to try and stabilize. Roll Might, and on a success you stabilize and you're not Dying anymore. An ally can spend their action to attempt to stabilize you, but they need some medical tools for that. Whatever happens, if you regain HP, like from healing magic or potions, you stabilize.
 
 Stabilizing does not heal your Wounds. You can however heal all your wounds by taking a <b>Scar</b>. You decide whether your Scar takes place in your Inventory or Mind. You can't remove Scars except with exceptional magic or other very complicated tasks. However, when you do get a scar, you also note down the situation in which you acquired it. You can use your new Scar as if it were a Savvy.
 
-<u><b>Healing:</b></u> An 8-hour rest in good conditions (something to eat, warm, and sheltered) removes all Wounds and heals HP to full. A 10-minute break where you eat a sandwich or something heals 1d6+Might HP, although only once per day.
+<u><b>Healing:</b></u> An 8-hour rest in good conditions (something to eat, warm, and sheltered) removes all Wounds and heals HP to full. An hour-long break where you eat a sandwich or something heals all HP, although only once per day; this is called <b>Lunch</b>.
 </details>
 
 ***
@@ -253,7 +254,7 @@ However, starting from this point, you can <b>Retire</b> your character, which t
 
 <details markdown="1">
 <summary><b>Spellcasting</b></summary>
-Some classes can cast spells. They have <b>Magic Dice</b> (or <b>MD</b>) that they use to do so.
+Some people can cast spells. They have <b>Magic Dice</b> (or <b>MD</b>) that they use to do so. For every <b>Magical</b>b> object the character has in their Inventory or Mind, they gain 1 Magic Dice, which is a d6.
   
 <u><b>Casting a spell:</b></u> Whenever you cast a spell, you decide how many MD to invest in it, up to your maximum number of MD or 4, whichever is lower. The effects of the spell depend on the number of [dice] invested, as well as the [sum] of all results.
 
