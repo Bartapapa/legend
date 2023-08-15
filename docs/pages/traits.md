@@ -31,22 +31,32 @@ Might or Lore +1, Wit -1.
 <details markdown="1">
 <summary><b>13. Elf</b></summary>
 Whenever you're dirtied, humiliated, or otherwise shown in a less-than-ideal light, you take a Wound. These Wounds don't heal until you've taken care of where it comes from (cleaning up, regaining your pride, etc).
+  
 All attributes +2.
 </details>
 
 <details markdown="1">
 <summary><b>14. Gnome</b></summary>
+You can't wield medium or heavy melee weapons, or mechanical ranged weapons. When you sleep, you can ask the GM, "If I do X, will Y happen?". The GM can truthfully answer by Yes, No or Maybe.
+
 Wit or Lore +1, Might -1.
 </details>
 
 <details markdown="1">
 <summary><b>15. Beastman</b></summary>
 You're an orc (pigman), a goblin (ratman) or a gnoll (dogman).
+
+Scars you acquire give you either +1 Armor (if Inventory) or +1 HP (if Mind).
+
 Might or Grace +1, Lore -2.
 </details>
 
 <details markdown="1">
 <summary><b>16. Automaton</b></summary>
+You have an attribute called PURPOSE (all caps is non-optional). It is always equal to your highest attribute. State your purpose in three words (for example, DEFEND-THIS-AREA, MUST-PROTECT-GEORGE, SLAY-ALL-MUTANTS, etc). Whenever you are in a situation where you're doing your purpose, roll PURPOSE instead of the normal attribute.
+State also something that doesn't compute, in one word (for example, LOVE, WAR or TAXES). Whenever you're confronted with what you can't compute, either fall to 0 HP or shut down and reboot after a minute.
+Someone with the appropriate tools can reprogram you while you're sleeping. They choose your new purpose. You choose what doesn't compute.
+
 Lore -1.
 </details>
 
@@ -268,8 +278,8 @@ Bonus item: Portable instrument of your choice (not very good quality)
 </details>
 
 <details markdown="1">
-<summary><b>66. Did I say that?</b></summary>
-Once per day, you can rewind the last words your character said, if the result isn't to your liking.
+<summary><b>66. Dwarfism</b></summary>
+You're a small individual. You can't wield medium or heavy weapons, or mechanical ranged weapons. You have a boon on any non-combat roll where your size would be advantageous.
 
-+1 Wit.
+Bonus item: Footstool (reach those high places)
 </details>
