@@ -30,7 +30,7 @@ Might or Lore +1, Wit -1.
 
 <details markdown="1">
 <summary><b>13. Elf</b></summary>
-Whenever you're dirtied, humiliated, or otherwise shown in a less-than-ideal light, you take a Wound. These Wounds don't heal until you've taken care of where it comes from (cleaning up, regaining your pride, etc).
+You're immortal to age, and can't be magically aged. Whenever you're dirtied, humiliated, or otherwise shown in a less-than-ideal light, you take a Wound. These Wounds don't heal until you've taken care of where it comes from (cleaning up, regaining your pride, etc).
   
 All attributes +2.
 </details>
