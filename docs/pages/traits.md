@@ -12,7 +12,9 @@ You can see clearly in low-lit areas. When an area is only lit by candlelight, s
 </details>
 <details markdown="1">
 <summary><b>People</b></summary>
-You actually belong to a race or sub-race of people. All the Traits you have are shared among these people. Describe a few defining aesthetic features. You have 1 <b>Friend</b> from this group of people, probably from where you come from. They'll help you out anytime if you meet them.
+You actually belong to a race or sub-race of people. All the Traits you have are shared among these people. Describe a few defining aesthetic features. You have 1 <b>Friend</b> from this group of people, probably from where you come from. They'll help you out anytime if you meet them. In the outside world, you represent these people. Act accordingly.
+
+If you have a [Community] trait, you can acquire this for free.
 
 Instead of a race, this can be an organization, clan, family or other form of group of people.
 </details>
