@@ -77,7 +77,7 @@ A <b>savvy</b> is any domain of knowledge or savoir-faire (such as <i>Eavesdropp
 ## Inventory and Mind
 
 <details markdown="1">
-<summary><b>Inventory, Mind and Goals</b></summary>
+<summary><b>Inventory, Mind</b></summary>
 
 <u><b>Inventory</b></u>. You have 10 slots, which can be filled with objects, or bundles of 3 objects of small objects like daggers or potions. Specific ammo, such as arrows or bolts, take up 1 slot but don't expire, unless <b>something bad happens</b>. Your inventory will also fill up with <b>Fatigue</b> and <b>Scars</b> along the way. If you have to add something to your inventory and you don't have enough space, you are <b>reduced to 0 HP.</b>
 
