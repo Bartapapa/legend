@@ -124,7 +124,7 @@ You can't swim, sneak or jump when wearing 3 or more pieces of armor.
 </details>
 <details markdown="1">
 <summary><b>Shields</b></summary>
-Anyone using a shield can use their reaction to block attacks, reducing their damage by 1d6.
+Anyone using a shield can use their reaction to block attacks, reducing their damage by 1d6. Before rolling, you can state that you sunder your shield, nullifying all damage but destroying it in the process)
 </details>
 
 ***
