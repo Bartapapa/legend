@@ -22,7 +22,7 @@ Instead of a race, this can be an organization, clan, family or other form of gr
 <details markdown="1">
 <summary><b>12. Dwarf</b></summary>
 You have a beard, which takes up an Inventory slot. You can shave it off, but it'll regrow to full after a week. You can braid up to 3 Valuables into your beard. For each Valuable you have braided into your beard, you have +1 HP.
-Bonus item: A dented helmet (Armor, can act as a Shield, but is then destroyed)
+Bonus item: A dented helmet (acts as a Shield)
 
 Might or Lore +1, Wit -1. 
 </details>
@@ -61,7 +61,7 @@ Bonus item: Notched axe (medium melee. Other warriors might want to compare. Som
 <details markdown="1">
 <summary><b>22. Cautious fighter</b></summary>
 If you don't attack or cast a spell during a round of combat, your Armor is 5 (unless it was already higher).
-Bonus item: Iron shield
+Bonus item: Rampart shield (Armor, acts as a wall if you plant it firmly in the ground)
 </details>
 
 <details markdown="1">
@@ -105,16 +105,25 @@ Bonus item: Lucky tankard (if you drink booze from it, heal 1d6 HP)
 <details markdown="1">
 <summary><b>41. Magical talent</b></summary>
 You have 1 base Magic dice. If you wave your hands around, you can make harmless flashes and puffs of smoke appear from your fingertips.
+
+-1 Lore.
 </details>
 
 ## Faith traits
 <details markdown="1">
-<summary><b>41. Aided by fate</b></summary>
-Once per day, you can change the value of <i>any</i> rolled d6 tipping it one step to one of its sides.
+<summary><b>51. Zealous</b></summary>
+During lunch, instead of eating, you can follow an esoteric ritual proper to your faith. Define it now.
+Bonus item: Bloody whip (light melee, only deals damage on targets with 0 armor)
 </details>
 
 ## General traits
 <details markdown="1">
 <summary><b>61. Darkvision</b></summary>
 You can see in the dark as if you had a torch in your hand.
+</details>
+
+<details markdown="1">
+<summary><b>62. Aided by fate</b></summary>
+At the start of the day, roll a d6. Once per day, you can replace the result of <i>any</i> d6 roll by this result.
+Bonus item: Pair of dice (loaded? Who knows)
 </details>
