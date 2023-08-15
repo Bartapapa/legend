@@ -22,6 +22,7 @@ Instead of a race, this can be an organization, clan, family or other form of gr
 <details markdown="1">
 <summary><b>12. Dwarf</b></summary>
 You have a beard, which takes up an Inventory slot. You can shave it off, but it'll regrow to full after a week. You can braid up to 3 Valuables into your beard. For each Valuable you have braided into your beard, you have +1 HP.
+
 Bonus item: A dented helmet (acts as a Shield)
 
 Might or Lore +1, Wit -1. 
@@ -53,6 +54,7 @@ Lore -1.
 <details markdown="1">
 <summary><b>21. Bloodthirsty</b></summary>
 You love the smell of blood - yours or others. If you deal damage to an undamaged enemy, you heal 1 HP. If you're bathed in the mire of blood by the end of combat, heal all HP.
+
 Bonus item: Notched axe (medium melee. Other warriors might want to compare. Some might want to kill you to prove a point)
 
 +1 Grace.
@@ -61,12 +63,14 @@ Bonus item: Notched axe (medium melee. Other warriors might want to compare. Som
 <details markdown="1">
 <summary><b>22. Cautious fighter</b></summary>
 If you don't attack or cast a spell during a round of combat, your Armor is 5 (unless it was already higher).
+
 Bonus item: Rampart shield (Armor, acts as a wall if you plant it firmly in the ground)
 </details>
 
 <details markdown="1">
 <summary><b>23. Hard to kill</b></summary>
 You aren't penalized by your current number of Wounds when you attempt to Stabilize.
+
 Bonus item: Toothmarked leather belt (if you bite on it, you have a boon on any roll to resist pain effects)
 
 +1 Might.
@@ -75,6 +79,7 @@ Bonus item: Toothmarked leather belt (if you bite on it, you have a boon on any 
 <details markdown="1">
 <summary><b>24. Vandal</b></summary>
 You deal maximum damage to unattended objects.
+
 Bonus item: Spiked leather straps (Armor)
 </details>
 
@@ -89,6 +94,7 @@ If you find a good, contextual insult to yell at your enemy during your turn ('g
 <summary><b>26. Hate of X</b></summary>
 When you get this trait, replace X by some kind of creature. Orcs. Humans. Dogs. Trees.
 If your target rsembles, even closely, the subject of your hate, you deal +2 damage to them.
+
 Bonus item: Trophy from a slain X (might anger or intimidate. Who knows)
 </details>
 
@@ -96,9 +102,45 @@ Bonus item: Trophy from a slain X (might anger or intimidate. Who knows)
 <details markdown="1">
 <summary><b>31. Chugger</b></summary>
 You make friends around drink. If you chug a pint in front of someone, you get a boon to your Reaction roll.
+
 Bonus item: Lucky tankard (if you drink booze from it, heal 1d6 HP)
 
 -1 Wit.
+</details>
+
+<details markdown="1">
+<summary><b>32. Charming</b></summary>
+As long as you're the one doing the talking, you have +1 to all Reaction rolls.
+
+Bonus item: Palm-sized mirror (great for looking around corners)
+</details>
+
+<details markdown="1">
+<summary><b>33. Liar</b></summary>
+Once per day, you can tell a lie that isn't obviously false, and people will believe you for [Wit] minutes. Then they'll realize the supercherie, and come to get you.
+
++1 Wit.
+</details>
+
+<details markdown="1">
+<summary><b>34. Gallows humor</b></summary>
+If you tell a dark joke during lunch, others who can hear you can heal as many Wounds as you have Scars in your Mind.
+
+Bonus item: Trauma (as Scar in mind, but it's what allows you to tell such dark jokes)
+</details>
+
+<details markdown="1">
+<summary><b>35. Influence</b></summary>
+Your name bears importance and power. Most people of your kind will recognize you. You can force people to act towards you and your party as if you had a 10 on the Reaction roll - for a time. That is, unless they're above you on the hierarchical food chain.
+
+Bonus item: Signet ring (Valuable, proof of your name)
+</details>
+
+<details markdown="1">
+<summary><b>36. Boisterous</b></summary>
+You can convince everyone you're the most important part of your party.
+
+Bonus item: Flashy cloak (Armor, only if you have no other armor)
 </details>
 
 ## Magic traits
@@ -116,16 +158,46 @@ You are cold to the touch. You're gaunt. Or perhaps you're just a skeleton, real
 -2 Lore.
 </details>
 
+<details markdown="1">
+<summary><b>43. Oozeblooded</b></summary>
+You can split yourself into pieces tha can all autonomously act. Don't lose them.
+
++1 Grace, -1 Might.
+</details>
+
+<details markdown="1">
+<summary><b>44. Arcane lineage</b></summary>
+You can tell if an object is magical by licking it.
+
+Bonus item: Jade pearl (can be knocked against your head once a day to get one Magic dice that lasts 1 hour)
+</details>
+
+<details markdown="1">
+<summary><b>45. Third eye</b></summary>
+You have a grotesque third eye on your forehead. As long as its open and uncovered, once per day you can roll the Reaction roll on an initial meeting with someone without having to interact with them (essentially knowing the result of the first Reaction roll in advance). When you see someone you know, you know their reaction roll toward you. These reaction rolls can be subject to change.
+
+Bonus item: Wide-brimmed hat (hides most of your face)
+</details>
+
+<details markdown="1">
+<summary><b>46. Twisted tattoo</b></summary>
+When you roll 2 or more Magic dice, you can make one dice result equal another's. These doubles are counted towards Mishaps.
+
+Bonus item: Magical tattoo (As Scar in your Mind, except is magical)
+</details>
+
 ## Faith traits
 <details markdown="1">
 <summary><b>51. Zealous</b></summary>
 During lunch, instead of eating, you can follow an esoteric ritual proper to your faith. Define it now.
+
 Bonus item: Bloody whip (light melee, only deals damage on targets with 0 armor)
 </details>
 
 <details markdown="1">
 <summary><b>52. Oathbound</b></summary>
 Define your principal duty. You have a boon on all rolls to resist effects which would make you go against this duty.
+
 Bonus item: Tragic memento (Once per day, hold it in your hand and state your duty aloud before acting to have a boon on the roll)
 </details>
 
@@ -137,9 +209,24 @@ When you take an hour to proselytize to a crowd, [Wit]d6 people assist. Half of 
 </details>
 
 <details markdown="1">
-<summary><b>53. Prophecized</b></summary>
+<summary><b>54. Prophecized</b></summary>
 When anyone, even the GM, naturally rolls snake eyes (double '1's on a roll) or double '6's, you may state aloud, 'As the prophecy foretold.' You regain all HP, and the <i>very next</i> roll will be maximized (if it was double '1's) or minimized (if it was double '6's).
+
 Bonus item: Birthmark (As Scar, except if ever you lose this, you aren't Prophecized anymore)
+</details>
+
+<details markdown="1">
+<summary><b>55. Of the cloth</b></summary>
+When you wear your robes openly, you are recognized as a member of your clergy. The general populace appreciates you, and are willing to shelter you and your party for a night unless you pose a threat.
+
+Bonus item: Cloth of the clergy (acts as Armor against evil spirits and demons)
+</details>
+
+<details markdown="1">
+<summary><b>56. Blind faith</b></summary>
+When you follow your faith without consideration of the danger, heal 1 HP.
+
+Bonus item: Blindfold (can see nearby invisible things when worn over eyes)
 </details>
 
 ## General traits
@@ -151,5 +238,6 @@ You can see in the dark as if you had a torch in your hand.
 <details markdown="1">
 <summary><b>62. Aided by fate</b></summary>
 At the start of the day, roll a d6. Once per day, you can replace the result of <i>any</i> d6 roll by this result.
+
 Bonus item: Pair of dice (loaded? Who knows)
 </details>
