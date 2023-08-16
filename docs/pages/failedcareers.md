@@ -208,38 +208,66 @@ Bonus item: makeup kit (a brush, some red, blue and brown powders, lipstick)
 </details>
 
 <details markdown="1">
-<summary><b>45. People</b></summary>
+<summary><b>45. Blacksmith</b></summary>
+You know the heat of the forge. You can live comfortably in extreme heat conditions. You can recognize different metals, and you recognize all blacksmith's stamps from these parts (and legendary ones, too).
 
+Bonus item: whetstone (by spending 10 minutes sharpening a metal weapon, the user has a boon to any attack roll with that weapon until they hit)
+
++1 Might or Lore.
 </details>
 
 <details markdown="1">
-<summary><b>46. People</b></summary>
+<summary><b>46. Wetnurse</b></summary>
+You took care of litle ones. You have a boon on reaction rolls with children, or baby beasts.
 
+Bonus item: three cloth diapers (it's hard to clean out the stains)
+
++1 Wit.
 </details>
 
 <details markdown="1">
-<summary><b>51. People</b></summary>
+<summary><b>51. Stonecutter</b></summary>
+You recognize different types of stone, and can tell if a type of stone is not from around these parts. By examining stone for a minute, you can tell where to strike with tools to make it crack easily (the stone is considered half HP).
 
+Bonus item: heavy iron chisel (can easily etch engravings into stone, even with your bare hand)
+
++1 Might or Grace.
 </details>
 
 <details markdown="1">
-<summary><b>52. People</b></summary>
+<summary><b>52. Tanner</b></summary>
+With an hour of time, you can skin a good portion of any beast. The quality of the skin depends on the beast's health before dying, as well as how many holes it has now that it's dead. You can recognize the quality of leathers at a glance, and how they'd fare in certain conditions.
 
+Bonus item: skinning knife (light melee, fragile)
+
++1 Grace.
 </details>
 
 <details markdown="1">
-<summary><b>53. People</b></summary>
+<summary><b>53. Banker</b></summary>
+You can tell the value of any Civilized object at a glance.
 
+Bonus item: iron scales (you know how to make it slightly tip in favor of one side, if you wish)
+
++1 Wit.
 </details>
 
 <details markdown="1">
-<summary><b>54. People</b></summary>
+<summary><b>54. Thug</b></summary>
+You've been known to intimidate people with a grunt. If you wish, you can force people to act as if you had rolled a 10 on their Reaction roll. They'll hate you for it, but won't tell you up front. This won't affect anyone who believes they're stronger than you.
 
+Bonus item: Debt journal (several names are crossed off, others are circled)
+
++1 Might.
 </details>
 
 <details markdown="1">
-<summary><b>55. People</b></summary>
+<summary><b>55. Falconer</b></summary>
+You can recognize birds of prey at a glance. You also know how to communicate to them, not with words but with your body.
 
+Bonus item: Heavy gloves (count as Armor, but only against teeth, claws and talons)
+
++1 Grace or Wit.
 </details>
 
 <details markdown="1">
