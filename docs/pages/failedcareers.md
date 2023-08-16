@@ -55,8 +55,12 @@ Bonus item: nightshade (can be made into an ingested poison)
 </details>
 
 <details markdown="1">
-<summary><b>16. ???</b></summary>
+<summary><b>16. Jeweler</b></summary>
+By looking at gems closely, you can immediately tell their worth. By spending a week with your tools, you can increase the value of gems by one step. You can't do it twice on the same gems.
 
+Bonus item: small toolbox
+
++1 Grace.
 </details>
 
 <details markdown="1">
@@ -81,7 +85,7 @@ Bonus item: oar (medium melee, two-handed)
 <summary><b>23. Cook</b></summary>
 You know how to prepare plenty of foods, and know when something tastes off (you don't know whether it's bad or poisonous). Over Lunch, you can transform any number of inventory slots' worth of foodstuffs into a meal. If your party eats the meal, they have a bonus to HP equal to the number of inventory slots worth of food you put into it.
 
-Bonus item: iron ladle (improvised melee)
+Bonus item: iron ladle (if you take a sip from it and smack your lips, people and creatures will want to taste as well)
 
 +1 Lore.
 </details>
@@ -105,23 +109,39 @@ Bonus item: dented lantern
 </details>
 
 <details markdown="1">
-<summary><b>26. People</b></summary>
+<summary><b>26. Locksmith</b></summary>
+Locksmith or "locksmith". You can open pretty much any simple lock if you're given a few seconds. You can do it quietly if you're given a few minutes.
 
+Bonus item: lockpicks
+
++1 Grace.
 </details>
 
 <details markdown="1">
-<summary><b>31. People</b></summary>
+<summary><b>31. Gravedigger</b></summary>
+You can dig holes three times as fast as any other person. You can tell if earth ahs been disturbed recently, and you always have a uneasy feeling of how deep you are beneath the earth.
 
+Bonus item: gold ring (Valuable. It has a symbol on it. Hope it didn't belong to anyone important)
+
++1 Might.
 </details>
 
 <details markdown="1">
-<summary><b>32. People</b></summary>
+<summary><b>32. Hunter</b></summary>
+By spending an hour in a natural area, you can know which kinds of small beasts live around here, and where they would go if they needed to drink or sleep.
 
+Bonus item: dead rabbit (neck is twisted 180 degrees)
+
++1 Grace or Lore.
 </details>
 
 <details markdown="1">
-<summary><b>33. People</b></summary>
+<summary><b>33. Drunkard</b></summary>
+You're better off drunk anyways. If you're absolutely hammered, you know what pisses people off. Once per time you're drunk, you can reroll any one d6 you roll. You always take the second roll.
 
+Bonus item: bottle of strong liquor (it's half-full)
+
++1 Might or Wit.
 </details>
 
 <details markdown="1">
