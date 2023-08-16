@@ -263,18 +263,18 @@ When you level up, you get to do each of the following:
 
 | Adventuring gear   | (d66)             |          |
 |:-------------------|:------------------|:---------|
-| 11  Air bladder       | 21  Small coffer & key | 31 |
-| 12  Fire oil          | 22  Beast repellent | 32 |
-| 13  Antitoxin         | 23  Animal lure | 33 |
-| 14  Chain (3m)        | 24  Spyglass | 34 |
-| 15  Rope (10m)        | 25  Tinderbox | 35 |
-| 16  Grappling hook    | 26  Soothing salve| 36 |
-| 41  Large sack        | 51  Spirit ward | 61 |
-| 42  Bear trap         | 52 | 62 |
-| 43  Lockpicks         | 53 | 63 |
-| 44  Pick              | 54 | 64 |
-| 45  Manacales         | 55 | 65 |
-| 46  Folding pole (3m) | 56 | 66 |
+| 11  Air bladder       | 21  Small coffer & key  | 31  Signal horn          |
+| 12  Fire oil          | 22  Beast repellent     | 32  3 pitons             |
+| 13  Antitoxin         | 23  Animal lure         | 33  Spool of twine (20m) |
+| 14  Chain (3m)        | 24  Spyglass            | 34  Whistle              |
+| 15  Rope (10m)        | 25  Tinderbox           | 35  3 Beef jerky strips  |
+| 16  Grappling hook    | 26  Soothing salve      | 36  Pot of honey         |
+| 41  Large sack        | 51  Spirit ward         | 61  Small tent           |
+| 42  Bear trap         | 52  Folding ladder (6m) | 62  Censer               |
+| 43  Lockpicks         | 53  Hammock             | 63  Fishing pole         |
+| 44  Pick              | 54  Brass bell          | 64  Buoy                 |
+| 45  Manacales         | 55  Metal saw           | 65  Scent cloak          |
+| 46  Folding pole (3m) | 56  Small mirror        | 66  Heavy blanket        |
 
 ***
 
