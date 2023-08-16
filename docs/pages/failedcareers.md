@@ -319,11 +319,16 @@ Bonus item: Three metal hoops (you can pass through them)
 <summary><b>65. Hermit</b></summary>
 You know about the changing weather and the seasons. When you entire a new natural area, you can ask the GM if you feel as if the natural balance of the environment has been skewed. You'll receive an honest answer.
 
-Bonus item
+Bonus item: Walking stick (nobody can forcibly take it away from you)
 
++2 Lore.
 </details>
 
 <details markdown="1">
-<summary><b>66. People</b></summary>
+<summary><b>66. Wizard apprentice</b></summary>
+You were the apprentice of a wizard, and you followed in their steps until you couldn't no more. You know about the arts of the arcane.
 
+Bonus item: Spellbook (random spell inside)
+
++1 Lore.
 </details>
