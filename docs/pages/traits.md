@@ -9,37 +9,39 @@ A character is defined by several <b>Traits</b> which give unique ways of playin
 
 Choose or roll d66 (don't add the results, just read them from left-to-right)
 
-## Community traits
+## Generation traits (can only be taken on character creation)
 <details markdown="1">
 <summary><b>11. People</b></summary>
-You actually belong to a race or sub-race of people. All the Traits you have are shared among these people. Describe a few defining aesthetic features. You have 1 <b>Friend</b> from this group of people, probably from where you come from. They'll help you out anytime if you meet them. In the outside world, you represent these people. Act accordingly.
 
-If you already have a [Community] trait, you can acquire this for free.
-
-Instead of a race, this can be an organization, clan, family or other form of group of people.
 </details>
 
 <details markdown="1">
 <summary><b>12. Dwarf</b></summary>
-You have a beard, which takes up an Inventory slot. You can shave it off, but it'll regrow to full after a week. You can braid up to 3 Valuables into your beard. For each Valuable you have braided into your beard, you have +1 HP.
+<b>Level 1:</b> You have a beard, which takes up an Inventory slot. You can shave it off, but it'll regrow to full after a week. You can braid up to 4 Valuables into your beard (thus taking the same slot). For each Valuable you have braided into your beard, you have +1 HP.
+
+<b>Level 2:</b> You can smell gold, jewels, treasure and precious metals. If you stand at a crossroads and sniff, the GM will tell you which direction has the most treasure. If you sniff an empty room, the GM will tell you if you smell the scent of hidden riches.
 
 Bonus item: A dented helmet (acts as a Shield)
 
-Might or Lore +1, Wit -1. 
+Roll 2 additional d4. If they land on Might, add 1, if they land on Wit, remove 1.
 </details>
 
 <details markdown="1">
 <summary><b>13. Elf</b></summary>
-You're immortal to age, and can't be magically aged. Whenever you're dirtied, humiliated, or otherwise shown in a less-than-ideal light, you take a Wound. These Wounds don't heal until you've taken care of where it comes from (cleaning up, regaining your pride, etc).
-  
+<b>Level 1:</b> You're immortal to age, and can't be magically aged. Whenever you're dirtied, humiliated, or otherwise shown in a less-than-ideal light, you take a Wound. These Wounds don't heal until you've taken care of where it comes from (cleaning up, regaining your pride, etc).
+
+<b>Level 2:</b> Natural, non-magical terrain doesn't affect you negatively in any way. You can walk on calm water. Your hair remains splendid after swimming in saltwater. Mud doesn't stain your boots. You don't cave into snow when you tread on it. Thorns part before you. Sand holds you just enough.
+
 All attributes +2.
 </details>
 
 <details markdown="1">
 <summary><b>14. Gnome</b></summary>
-You can't wield medium or heavy melee weapons, or mechanical ranged weapons. When you sleep, you can ask the GM, "If I do X, will Y happen?". The GM can truthfully answer by Yes, No or Maybe.
+<b>Level 1:</b> You can't wield medium or heavy melee weapons, or mechanical ranged weapons. When you sleep, you can ask the GM, "If I do X, will Y happen?". The GM can truthfully answer by Yes, No or Maybe.
 
-Wit or Lore +1, Might -1.
+<b>Level 2:</b> 
+
+Roll 2 additional d4. If they land on Lore, add 1, if they land on Might, remove 1.
 </details>
 
 <details markdown="1">
