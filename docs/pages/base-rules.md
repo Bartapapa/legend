@@ -245,22 +245,39 @@ When you level up, you get to do each of the following:
 
 ***
 ## Starting gear
-
+<details markdown="1">
+<summary><b>Armor</b></summary>
+  
 | Armor        | (2d6)             |          |          |
 |:-------------|:------------------|:---------|:---------|
 | 2-4          | 5-8               | 9-10     | 11-12    |
 | nothing      | 1 piece           | 2 pieces | 3 pieces |
 
+</details>
+
+<details markdown="1">
+<summary><b>Shield</b></summary>
+  
 | Shield       | (2d6)             |
 |:-------------|:------------------|
 | 2-8          | 9-12              |
 | no shield    | shield            |
 
+</details>
+
+<details markdown="1">
+<summary><b>Weapons</b></summary>
+  
 | Weapons      | (2d6)        |              |                      |
 |:-------------|:-------------|:-------------|:---------------------|
 | 2-5          | 6-8          | 9-10         | 11-12                |
 | light melee  | medium melee | ranged       | heavy melee, polearm |
 
+</details>
+
+<details markdown="1">
+<summary><b>Adventuring gear</b></summary>
+  
 | Adventuring gear   | (d66)             |          |
 |:-------------------|:------------------|:---------|
 | 11  Air bladder       | 21  Small coffer & key  | 31  Signal horn          |
@@ -276,6 +293,11 @@ When you level up, you get to do each of the following:
 | 45  Manacales         | 55  Metal saw           | 65  Scent cloak          |
 | 46  Folding pole (3m) | 56  Small mirror        | 66  Heavy blanket        |
 
+</details>
+
+<details markdown="1">
+<summary><b>Tools</b></summary>
+  
 | Tools   | (d66)             |          |
 |:-------------------|:------------------|:---------|
 | 11  Simple lock & key     | 21  Medical tools      | 31  White flag             |
@@ -286,10 +308,22 @@ When you level up, you get to do each of the following:
 | 16  Magnifying glass      | 26  Wooden holy symbol | 36  Sack of lye            |
 | 41  Crowbar               | 51  Bronze gong        | 61  String of garlic       |
 | 42  Earplugs              | 52  Sack of nightsoil  | 62  Animal musk pouch      |
-| 43  Glass cutter          | 53  Card set           | 63  Iron ingot             |
+| 43  Glass cutter          | 53  Card set           | 63  Bottle of holy water   |
 | 44  Metal glove           | 54  Unusual dice       | 64  Poker, tongs & scraper |
 | 45  Smoked goggles        | 55  3 horseshoes       | 65  Cooking pots           |
 | 46  Hourglass             | 56  Small puzzle box   | 66  3 Glass vials          |
+
+</details>
+
+<details markdown="1">
+<summary><b>Bonus items</b></summary>
+  
+| Bonus item        | (2d6)             |          |          |
+|:-------------|:------------------|:---------|:---------|
+| 2-5          | 6-7               | 8-9     | 10-12    |
+| Tool      | Adventuring gear           | Armor <i>or</i> weapon | Spellbook (random [spell](https://bartapapa.github.io/legend/base-rules#spellcasting)) |
+
+</details>
 
 ***
 
@@ -306,6 +340,11 @@ If an MD rolls a 6, you lose it, and can't use it anymire. Generally, classes re
 Every time you roll doubles (the same result on 2 different dice), there's a <b>Mishap</b>.
 
 <u><b>Mishaps:</b></u> These happen when you roll doubles when casting a spell. In this case, <b>something bad happens</b>, as determined by the GM. The effects of the mishap depend on the spell cast. Triples or quadruples are even worse. Mishaps can be something like making whatever it's supposed to fix worse, or fixing it in some unwanted way, or being cast on someone else, or fizzling, or damaging the caster, or...
+
+</details>
+
+<details markdown="1">
+<summary><b>List of known spells</b></summary>
 
 </details>
 
