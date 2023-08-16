@@ -35,9 +35,11 @@ A character starts with 0 in all of 4 main attributes.
 A character also starts with 6 <b>Hit Points</b> (or <b>HP</b>), 10 <b>Inventory</b> slots and 10 <b>Mind</b> slots.
 
 Choose or roll 2 <b>Traits</b>, which change your character in unique ways.
-Choose or roll your character's <b>Failed career</b>.
+Choose or roll your character's <b>Failed career</b>. It takes up a slot in your Mind.
+Choose, or create, as many Goals as you'd like - you'll be rewarded for completing them.
 
 Each character starts with 3 rations (1 slot), 3 torches (1 slot), and 1 light weapon.
+Roll on each [starting gear](https://bartapapa.github.io/legend/base-rules#starting-gear) table once.
 
 You're done!
 </details>
@@ -236,20 +238,46 @@ For each Valuable spent this way, you can add an <b>Expertise</b> to one of your
 <details markdown="1">
 <summary><b>Leveling up</b></summary>
 When you level up, you get to do each of the following:
-*  <b>Increase your HP</b>. You roll as many d6 as you have class levels. This becomes your new HP total. If the new total is less than your current one, increase your old total by +1.
-*  <b>Advance in a class</b>. Get the benefits of the next set of abilities of your class, or get the starting abilities of a new class.
+*  <b>Increase your HP</b>. Reroll your max HP, and add +2. You have a max of 10 base HP (modifiers can still apply).
 *  <b>Find new goals</b>. Remove, replace or gain new Goals that you place in your Mind.
 *  <b>Heal a scar</b>. Remove one of your characters' Scars if you wish. It'll never truly disappear.
 </details>
 
-<details markdown="1">
-<summary><b>Leveling 4 and onward</b></summary>
-When you are level 4, you don't get any new classes or class abilities. You can continue leveling up and getting the other benefits of leveling up.
-  
-However, starting from this point, you can <b>Retire</b> your character, which then becomes a Non-Playable Character in the hands of the GM. Congratulations! You survived your adventuring career and made a name of yourself. You can make a new character.
-</details>
+***
+## Starting gear
+
+| Armor        | (2d6)             |          |          |
+|:-------------|:------------------|:---------|:---------|
+| 2-4          | 5-8               | 9-10     | 11-12    |
+| nothing      | 1 piece           | 2 pieces | 3 pieces |
+
+| Shield       | (2d6)             |
+|:-------------|:------------------|
+| 2-8          | 9-12              |
+| no shield    | shield            |
+
+| Weapons      | (2d6)        |              |                      |
+|:-------------|:-------------|:-------------|:---------------------|
+| 2-5          | 6-8          | 9-10         | 11-12                |
+| light melee  | medium melee | ranged       | heavy melee, polearm |
+
+| Adventuring gear   | (d66)             |          |
+|:-------------------|:------------------|:---------|
+| 11  Air bladder       | 21  Small coffer & key | 31 |
+| 12  Fire oil          | 22  Beast repellent | 32 |
+| 13  Antitoxin         | 23  Animal lure | 33 |
+| 14  Chain (3m)        | 24  Spyglass | 34 |
+| 15  Rope (10m)        | 25  Tinderbox | 35 |
+| 16  Grappling hook    | 26  Soothing salve| 36 |
+| 41  Large sack        | 51  Spirit ward | 61 |
+| 42  Bear trap         | 52 | 62 |
+| 43  Lockpicks         | 53 | 63 |
+| 44  Pick              | 54 | 64 |
+| 45  Manacales         | 55 | 65 |
+| 46  Folding pole (3m) | 56 | 66 |
 
 ***
+
 ## Spellcasting
 
 <details markdown="1">
@@ -265,9 +293,5 @@ Every time you roll doubles (the same result on 2 different dice), there's a <b>
 <u><b>Mishaps:</b></u> These happen when you roll doubles when casting a spell. In this case, <b>something bad happens</b>, as determined by the GM. The effects of the mishap depend on the spell cast. Triples or quadruples are even worse. Mishaps can be something like making whatever it's supposed to fix worse, or fixing it in some unwanted way, or being cast on someone else, or fizzling, or damaging the caster, or...
 
 </details>
-
-***
-
-
 
 <a href="{{ "/" | absolute_url }}">Home</a>
