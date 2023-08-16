@@ -145,38 +145,66 @@ Bonus item: bottle of strong liquor (it's half-full)
 </details>
 
 <details markdown="1">
-<summary><b>34. People</b></summary>
+<summary><b>34. Town crier</b></summary>
+You know how to barter news. In town, you can cry out each bit of new recent information you've acquired. If the people haven't heard it before, you can find out a new rumor on a 1-to-1 basis.
 
+Bonus item: copper bell (when heard, people will turn their eyes to you)
+
++1 Wit or Lore.
 </details>
 
 <details markdown="1">
-<summary><b>35. People</b></summary>
+<summary><b>35. Ratcatcher</b></summary>
+When you stay somewhere for at least an hour, you know if there are any vermin that live nearby. You can follow their trace back to where they sleep.
 
+Bonus item: bottle trap (a bit of cheese is fixed inside))
+
++1 Grace or Wit.
 </details>
 
 <details markdown="1">
-<summary><b>36. People</b></summary>
+<summary><b>36. Saltmaker</b></summary>
+You know about what things would yield salt, if dried, and what kind of salt it would be. You know basic wards against evil spirits based only on salt, and how to make them.
 
+Bonus item: pocket of salt (can be flung into people's eyes)
+
++1 Might.
 </details>
 
 <details markdown="1">
-<summary><b>41. People</b></summary>
+<summary><b>41. Woodcarver</b></summary>
+You know how to work wood to your advantage, and about the different types of wood. Over lunch, as long as you have some wood, you can make light melee weapons, but they are all Fragile (break on max damage).
 
+Bonus item: wood chisel
+
++1 Grace or Lore.
 </details>
 
 <details markdown="1">
-<summary><b>42. People</b></summary>
+<summary><b>42. Conman</b></summary>
+You've duped many people. Given a few minutes, you can sell any Trash as a Valuable to an unsuspecting person. They'll find out after an hour or two, and they'll hate you for it.
 
+Bonus item: vial of snake oil (worthless except for summoning devils)
+
++1 Wit.
 </details>
 
 <details markdown="1">
-<summary><b>43. People</b></summary>
+<summary><b>43. Saboteur</b></summary>
+You have a knack at knowing how to derail mechanisms. If you're given a non-magical mechanical object for a minute, you can break it and render it unusable. If you spend 10 minutes, you can make it inconspicuous.
 
+Bonus item: small iron chisel (it's very worn down, but works wonders)
+
++1 Grace or Lore.
 </details>
 
 <details markdown="1">
-<summary><b>44. People</b></summary>
+<summary><b>44. Actor</b></summary>
+You know about plays and other entertainment venues present in town after being there for an hour. By listening to someone for an hour, you can unerringly mimic their voice.
 
+Bonus item: makeup kit (a brush, some red, blue and brown powders, lipstick)
+
++1 Wit.
 </details>
 
 <details markdown="1">
