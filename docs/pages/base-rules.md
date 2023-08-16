@@ -34,7 +34,7 @@ A character starts with 0 in all of 4 main attributes.
 
 A character also starts with 6 <b>Hit Points</b> (or <b>HP</b>), 10 <b>Inventory</b> slots and 10 <b>Mind</b> slots.
 
-Choose or roll 3 <b>Traits</b>, which change your character in unique ways.
+Choose or roll 2 <b>Traits</b>, which change your character in unique ways.
 Choose or roll your character's <b>Failed career</b>.
 
 Each character starts with 3 rations (1 slot), 3 torches (1 slot), and 1 light weapon.
