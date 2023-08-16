@@ -301,15 +301,15 @@ When you level up, you get to do each of the following:
 | Tools   | (d66)             |          |
 |:-------------------|:------------------|:---------|
 | 11  Simple lock & key     | 21  Medical tools      | 31  White flag             |
-| 12  Abacus                | 22  Wooden instrument  | 32  Lantern                |
+| 12  Abacus                | 22  Instrument         | 32  Lantern                |
 | 13  Bellows               | 23  Stretcher          | 33  Hornet grenade         |
-| 14  Block & tackle pulley | 24  Fake coins         | 34  Thurible               |
+| 14  Block & tackle        | 24  Fake coins         | 34  Thurible               |
 | 15  Shears                | 25  Empty rat cage     | 35  Smelling salts         |
-| 16  Magnifying glass      | 26  Wooden holy symbol | 36  Sack of lye            |
+| 16  Magnifying glass      | 26  Iron symbol        | 36  Sack of lye            |
 | 41  Crowbar               | 51  Bronze gong        | 61  String of garlic       |
 | 42  Earplugs              | 52  Sack of nightsoil  | 62  Animal musk pouch      |
 | 43  Glass cutter          | 53  Card set           | 63  Bottle of holy water   |
-| 44  Metal glove           | 54  Unusual dice       | 64  Poker, tongs & scraper |
+| 44  Metal glove           | 54  Unusual dice       | 64  Iron tongs             |
 | 45  Smoked goggles        | 55  3 horseshoes       | 65  Cooking pots           |
 | 46  Hourglass             | 56  Small puzzle box   | 66  3 Glass vials          |
 
@@ -318,7 +318,7 @@ When you level up, you get to do each of the following:
 <details markdown="1">
 <summary><b>Bonus items</b></summary>
   
-| Bonus item        | (2d6)             |          |          |
+| Bonus        | (2d6)             |          |          |
 |:-------------|:------------------|:---------|:---------|
 | 2-5          | 6-7               | 8-9     | 10-12    |
 | Tool      | Adventuring gear           | Armor <i>or</i> weapon | Spellbook (random [spell](https://bartapapa.github.io/legend/base-rules#spellcasting)) |
