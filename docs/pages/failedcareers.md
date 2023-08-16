@@ -271,32 +271,55 @@ Bonus item: Heavy gloves (count as Armor, but only against teeth, claws and talo
 </details>
 
 <details markdown="1">
-<summary><b>56. People</b></summary>
+<summary><b>56. Tactician</b></summary>
+You know about the history of war, and how to deal with grouped battles. When a fight breaks out, you can ask the GM where the nearest exits are, and what tactics your enemies plan to use (flanking, bum rush, picking off the weak, etc). The GM gives an honest answer.
 
+Bonus item: Warhorn (very loud)
+
++1 Wit or Lore.
 </details>
 
 <details markdown="1">
-<summary><b>61. People</b></summary>
+<summary><b>61. Assassin</b></summary>
+You know about important names. For every bit of important information you have against a target that wouldn't be known just by looking at it, you deal +1 damage to it.
 
+Bonus item: Piano wire (metallic, can also tie hands together)
+
++1 Might or Grace.
 </details>
 
 <details markdown="1">
-<summary><b>62. People</b></summary>
+<summary><b>62. Vagabond</b></summary>
+You know about streets, and you can recognize immediate ill intention in people's eyes. If you cover yourself in rags, you'll never be noticed by anyone who doesn't care for the homeless.
 
+Bonus item: Shredded cloak (can hide your entire body, doesn't keep you warm though)
+
++1 Wit.
 </details>
 
 <details markdown="1">
-<summary><b>63. People</b></summary>
+<summary><b>63. Bourgeois</b></summary>
+You know about families of import and social etiquette. You can easily infiltrate VIP events without notice, and the higher classes will share gossip with you freely. You cannot, however, get rid of the stench of wealth about you, and people from the lower classes will distrust you.
 
+Bonus item: Monocle or cigarette holder (you look like a different person when you're wearing it)
+
++1 Wit or Lore.
 </details>
 
 <details markdown="1">
-<summary><b>64. People</b></summary>
+<summary><b>64. Circus contortionist</b></summary>
+You know about wandering troupes. You can bend yourself in nearly-impossible ways, and can perform folding feats without having to roll the dice. if it's particularly difficult, roll Grace. On a failure, your Grace is reduced to 0 until you take Lunch or a long rest.
 
+Bonus item: Three metal hoops (you can pass through them)
+
++1 Grace.
 </details>
 
 <details markdown="1">
-<summary><b>65. People</b></summary>
+<summary><b>65. Hermit</b></summary>
+You know about the changing weather and the seasons. When you entire a new natural area, you can ask the GM if you feel as if the natural balance of the environment has been skewed. You'll receive an honest answer.
+
+Bonus item
 
 </details>
 
