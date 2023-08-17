@@ -326,7 +326,7 @@ When you level up, you get to do each of the following:
 | Bonus        | (2d6)             |          |          |
 |:-------------|:------------------|:---------|:---------|
 | 2-5          | 6-7               | 8-9     | 10-12    |
-| Tool      | Adventuring gear           | Armor <i>or</i> weapon | Spellbook (random [spell](https://bartapapa.github.io/legend/base-rules#spellcasting)) |
+| Tool      | Adventuring gear           | Armor <i>or</i> Weapons | Spellbook (random [spell](https://bartapapa.github.io/legend/base-rules#spellcasting)) |
 
 </details>
 
