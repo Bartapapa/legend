@@ -302,3 +302,33 @@ Once per session, you can declare that you know someone who can help you with yo
 <summary><b>236. Zen mind</b></summary>
 Whenever you're affected by great emotion, you can take an action to take a breath and put that emotion in your Mind. You won't be affected by it for the time being, but you'll need to let it out at one point or another. If you speak calmly and directly to people, they won't start having overt displays of emotion, unless they already were prior to you talking to them.
 </details>
+
+<details markdown="1">
+<summary><b>241. Tinker</b></summary>
+By taking an hour's worth of time, you can either merge to previously unmerged items together, or create a new item. To do so, destroy two unmerged items. If you can make a new name of an item from the letters making up the letters of both destroyed items, you create that item. Merged items and created items in this way are useless to anyone else. You may need some tools to successfully merge or create certain items.
+</details>
+
+<details markdown="1">
+<summary><b>242. Coward</b></summary>
+You run faster if you're running away from something. Unless it's really fast, it won't catch you. When you're running away from something dangerous, you can run through a door or entrance and reappear at another unrelated door or exit in sight of the first.
+</details>
+
+<details markdown="1">
+<summary><b>243. Evaluate</b></summary>
+You instantly know the value of any Civilized object, as well as any object related to your Failed career. Objects you give to people related to your Failed career count as one step more valuable.
+</details>
+
+<details markdown="1">
+<summary><b>244. Rat's mind</b></summary>
+When someone tries to read your mind or detect the equivalent of your alignment, you can feed them false information. They won't realize it's false. If you're affected by a spell that would take your free will away from you, you can, as an action, put that effect in your Mind and regain control of yourself. When you rest, you can roll +Wit to destroy it.
+</details>
+
+<details markdown="1">
+<summary><b>245. Courage</b></summary>
+You have a boon on rolls to resist fear. You automatically succeed when you have a Scar related to whatever is trying to affect you in such a way. If you succeed, all your Followers, as well as your Party, has a boon to their own roll.
+</details>
+
+<details markdown="1">
+<summary><b>246. Well-known</b></summary>
+Once per session, when you meet a named NPC, you can declare that you know them. They know you too, and not necessarily in a good way. You know one bit of important information about them (anything that wouldn't be immediately knowable by looking at them) - ask a question related to them to the GM, and you'll get an honest answer.
+</details>
