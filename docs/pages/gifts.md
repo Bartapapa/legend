@@ -138,3 +138,77 @@ When you take an hour to proselytize in a town, you attract 4d6 people. Half of 
 <summary><b>152. Prophecized</b></summary>
 Whenever anyone rolls double '1's or '6's, you may state aloud, 'As the Prophecy foretold'. Doing so, you regain all HP, and the <i>very next</i> 2d6 roll will either be maximized (if previously double '1's) or minimized (if previously double '2's).
 </details>
+
+<details markdown="1">
+<summary><b>153. Of the cloth</b></summary>
+Whenever you wear the vestments of your faith, you are recognized as an ordained person of that faith. Most people will be agreeable with you, and if you ask, they can shelter you and your party for the night. You immediately recognize if someone belongs to the same faith as you.
+</details>
+
+<details markdown="1">
+<summary><b>154. Guided by Fate</b></summary>
+Every time you rest, roll a d6, and note down the result. Once per rest, you can replace the result of <i>any</i> d6 you see by that result.
+</details>
+
+<details markdown="1">
+<summary><b>155. [Beast] speaker</b></summary>
+When you get this Gift, choose a kind of beast. Dogs, cats, bats, worms, ants, etc. You can speak to these beasts freely, and understand what they say to you in return. This doesn't mean they'll like you, but most will be intrigued by someone speaking their language.
+</details>
+
+<details markdown="1">
+<summary><b>156. Spellmind</b></summary>
+Acquire a Magic die.
+  
+When you get this Gift, roll a random spell from the list of spells. This spell takes up a slot in your Mind.
+</details>
+
+<details markdown="1">
+<summary><b>161. Spirit [Beast]</b></summary>
+Acquire a Magic die.
+  
+When you get this Gift, choose a kind of beast no smaller than a cat, and no larger than a horse. Dog, bear, wolf, giant cockroach, etc. You can use Magic dice to summon it as an action. It has [dice] HD, [sum] HP, and deals 1d6+[dice] damage. You can give it orders that it'll try to do as well as it can. It can do whatever a normal beast of that type could normally. If it is killed, you lose its associated Magic die until a week passes, after which it returns and you can summon the spirit again.
+</details>
+
+<details markdown="1">
+<summary><b>162. Alert</b></summary>
+You can't be surprised by anything, and you have a sixth sense that tells you when danger is about to happen. You know the difference between a room that is silent because nothing is there, and a room that is silent because something is trying not to make a sound.
+</details>
+
+<details markdown="1">
+<summary><b>163. Alert</b></summary>
+You can't be surprised by anything, and you have a sixth sense that tells you when danger is about to happen. You know the difference between a room that is silent because nothing is there, and a room that is silent because something is trying not to make a sound.
+</details>
+
+<details markdown="1">
+<summary><b>164. Assassinate</b></summary>
+For each bit of important information you have on a target, you deal +1 damage. Important information is anything that has a tangible utility to you or your party, and isn't immediately knowable by just looking at a person. This maxes out at +6 damage. When you kill an enemy, they make no sound.
+</details>
+
+<details markdown="1">
+<summary><b>165. Mr. So-and-so</b></summary>
+By spending a day and paying one Valuable, you can create the identity of a common person (peasant, merchant, etc) complete with papers and disguise, which takes up 1 Inventory slot. By spending a week and paying one Treasure, you can create the identity of a person of interest (higher-up in an organization, baron, etc) and be well-regarded within it due to false credentials. You can attempt to steal someone's identity, although their confidants will never be duped.
+</details>
+
+<details markdown="1">
+<summary><b>166. Stalker</b></summary>
+In any non-combat situation where your position hasn't been accurately defined yet, you can state that you're disappearing. People keeping an eye out for you know something is up. You can reappear anytime by stating so - in the shadows, in a cupboard, disguised as an unnamed NPC nearby, etc. Until you state that you're there, you can't actually hear or see anything that's happening in that scene.
+</details>
+
+<details markdown="1">
+<summary><b>211. Gluttony</b></summary>
+You have 1 Bloat, which takes up an Inventory slot. You can eat anything edible as large as a chicken and softer than wood over Lunch, and count it as a ration. You're unaffected by rot. You gain +2 HP if you have Bloat. As long as you eat 2 rations per day, your Bloat remains, or else it disappears. To recuperate it, you'll need to eat 2 rations each day for a week.
+</details>
+
+<details markdown="1">
+<summary><b>212. Mysteries</b></summary>
+Whenever you come across something unanswered in the world, note down one Big Question, which takes up a slot in your Mind. A Big Question is anything that has a meaningful, and interesting, answer. Whenever you're in an archive of knowledge, you can roll 2d6 once, and add +1 for each Big Question you have. On a Success, the GM gives you an honest answer to one of your Big Questions. You can always remove Big Questions from your Mind, but you can never ask the same question again.
+</details>
+
+<details markdown="1">
+<summary><b>213. Wild feast</b></summary>
+You can chop of a chunk of meat from anything freshly killed. It takes up an Inventory slot. If you eat it while its fresh (which takes 10 minutes) you acquire a random power from it. It can be one of its attribute scores, it can be an ability it had, an attack, or even a spell. The GM chooses. The power remains until the next time you Rest or you eat another chunk of meat.
+</details>
+
+<details markdown="1">
+<summary><b>214. Stoic</b></summary>
+You can chop of a chunk of meat from anything freshly killed. It takes up an Inventory slot. If you eat it while its fresh (which takes 10 minutes) you acquire a random power from it. It can be one of its attribute scores, it can be an ability it had, or even a spell. The GM chooses. The power remains until the next time you Rest or you eat another chunk of meat.
+</details>
