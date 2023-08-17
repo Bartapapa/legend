@@ -332,3 +332,77 @@ You have a boon on rolls to resist fear. You automatically succeed when you have
 <summary><b>246. Well-known</b></summary>
 Once per session, when you meet a named NPC, you can declare that you know them. They know you too, and not necessarily in a good way. You know one bit of important information about them (anything that wouldn't be immediately knowable by looking at them) - ask a question related to them to the GM, and you'll get an honest answer.
 </details>
+
+<details markdown="1">
+<summary><b>251. One-line master</b></summary>
+Whenever you say a one-liner, and everyone around the table laughs, groans, pinches the bridge of their nose or says 'oh my god shut up', you heal 1 HP. When you meet someone, you immediately know what to say to piss them off.
+</details>
+
+<details markdown="1">
+<summary><b>252. Were-[Beast]</b></summary>
+When you acquire this trait, replace [Beast] with any beast. Cat, Wolf, Anteater, Dragonfly, etc. You can morph to and from this shape as an action - even stopping at the middle in some awkward half-beast half-your-original-shape where you have the benefits and drawbacks of both forms. If you go outside during a full moon, you will transform into your full form and barely be able to control yourself. You keep your attributes when you're shapeshifted.
+</details>
+
+<details markdown="1">
+<summary><b>253. Nighteye</b></summary>
+Your jet-black eyes allow you to see in the dark as if it were sunlight, unless there's any source of light near you. If you look intently into someone's eyes for a few seconds, you'll know their surface intentions in regards to anything they're saying.
+</details>
+
+<details markdown="1">
+<summary><b>254. Fel metabolism</b></summary>
+You're immune to poison. When you suffer damage from poison, it heals you. You can choose to deal Wounds to yourself to gain a bonus to a roll for a physical action (+1 per Wound taken).
+</details>
+
+<details markdown="1">
+<summary><b>255. Fractured form</b></summary>
+Acquire 1 Magic die.
+
+You're filled with Writhing insects. They take up an Inventory slot. When you take damage, you can spend Magic die to have them swarm out of your body, losing them from your Inventory. This deals [dice] damage to you. The swarm has [sum] HP, deals 1d6+[dice] damage wherever they are, and makes everyone uncomfortable. When they come back to you, you recuperate [dice] HP, and they tell you what they saw and what they tasted. If the swarm is killed, it regrows inside your body over the course of a week.
+</details>
+
+<details markdown="1">
+<summary><b>256. Pitch</b></summary>
+You can exude a black tar-like substance from your pores. It is greasy or adhesive, as you wish when you exude it. It is also extremely flammable.
+</details>
+
+<details markdown="1">
+<summary><b>261. Death-shrouded</b></summary>
+Your Death follows you around, invisible and intangible, visible only by you. When you are Wounded, others might be able to catch glimpses of it. You can see the HP and number of Wounds of any creature you see.
+</details>
+
+<details markdown="1">
+<summary><b>262. Last rites</b></summary>
+When you close the eyes of a recently slain creature, you can ask its Body (not its Soul) one question, that it will answer truthfully. The Body knows everything that it felt, saw and sensed, but doesn't have access to logic or memory (unless it was muscle memory). Once asked, the Body rests and doesn't answer further questions.
+</details>
+
+<details markdown="1">
+<summary><b>263. Shade</b></summary>
+When you snuff a light, you can focus so that all lights you can see are snuffed at the exact same time. You can tell whether you or your party has been noticed or not, as long as they are nearby.
+</details>
+
+<details markdown="1">
+<summary><b>264. Entropic touch</b></summary>
+When you touch someone or something with your bare hands, you damage them and age them. Steel rusts, flesh decays. You can deal 1d6 damage this way, ignoring Armor. Gloves you wear, strangely, aren't affected.
+</details>
+
+<details markdown="1">
+<summary><b>265. Sage advice</b></summary>
+When you and your party are atempting to take a group action, you can all roll together, add the results together and divide them by the number of participants - that's your actual result for the entire party. Members of your party can all act as if they had your Failed Career (you've explained plenty of times how it worked).
+</details>
+
+<details markdown="1">
+<summary><b>266. Bonded</b></summary>
+Choose another person in your party. You cannot choose another person, and this bond only breaks when that party member abandons the party or dies. You immediately sense when that person is in danger, you are immune to fear when that person is dying, and your heart beats stronger when that person is nearby.
+</details>
+
+<details markdown="1">
+<summary><b>311. Defy Death</b></summary>
+Once per rest, when you would die, you can laugh at the face of your Death and remain alive with 9 Wounds. If you were at 0 HP, heal 1 HP. When you do so, place a DEATH BOUNTY (capitals aren't optional) in your Mind. You'll meet your Death when you next rest, who'll demand an explanation for this. They'll ask something of you to remove your DEATH BOUNTY. If you get too many DEATH BOUNTIES... You die, and can't be brought back.
+</details>
+
+<details markdown="1">
+<summary><b>312. Smite</b></summary>
+Acquire 1 Magic die.
+
+You can spend magic dice to smite a target you can see with divine power. Speak a phrase condemning a target you can see. You deal [sum]+[dice] damage as a beam of fire descends from the skies - if the damage isn't enough to reduce its HP to 0, it is unscathed and immune to any further Smites from you, forever. If the damage is enough, their body is destroyed, as is their soul. If you destroy them, roll 1d6. On a 1, you add them to your Mind as a Dark Passenger. They will speak to you again.
+</details>
