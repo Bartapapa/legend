@@ -289,6 +289,16 @@ Once per rest, you can automatically escape from restraints (rope, manacles, soc
 </details>
 
 <details markdown="1">
-<summary><b>233. Escape artist</b></summary>
-Once per rest, you can automatically escape from restraints (rope, manacles, social convention, etc) as long as you could plausibly do so. You can always ask the GM, 'What's the best exit to take to get out of here?' and you'll get an honest answer.
+<summary><b>234. Field medic</b></summary>
+You can automatically stabilize yourself or an ally with proper tools (you still need to use an action). If you're bare-handed, you need to roll +Wit. You can always ask the GM, 'What made this wound?' and you'll get an honest answer.
+</details>
+
+<details markdown="1">
+<summary><b>235. Web of contacts</b></summary>
+Once per session, you can declare that you know someone who can help you with your predicament. They might not like you. When you stay in town for a week, you automatically have a web of contacts who'll do up to mildly illegal things for you, but expect compensation in return.
+</details>
+
+<details markdown="1">
+<summary><b>236. Zen mind</b></summary>
+Whenever you're affected by great emotion, you can take an action to take a breath and put that emotion in your Mind. You won't be affected by it for the time being, but you'll need to let it out at one point or another. If you speak calmly and directly to people, they won't start having overt displays of emotion, unless they already were prior to you talking to them.
 </details>
