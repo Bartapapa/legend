@@ -268,7 +268,7 @@ Miracles aren't for banal uses - they are world-altering powers. be careful with
 
 <details markdown="1">
 <summary><b>226. Automaton</b></summary>
-You're a robot. Gain a PURPOSE attribute (capitals not optional). Your PURPOSE score is always equal to the highest score between your 4 base attributes. State your PURPOSE, which is a 3-word directive (PROTECT-THIS-DUDE, FIND-THE-ARTEFACT, KILL-ALL-HUMANS, etc). Whenever you do an action related to your PURPOSE, you can roll +PURPOSE instead of any other attribute. State also what DOESN'T COMPUTE, which is a 1-word concept (Love, War, Taxes, etc). Whenever you're confronted to what DOESN'T COMPUTE, you can choose to either take 1 Wound or shut down for a minute to reboot.
+You're a robot. Gain a PURPOSE attribute (capitals not optional). Your PURPOSE score is always equal to the highest score between your 4 base attributes. State your PURPOSE, which is a 3-word directive (PROTECT-THIS-DUDE, FIND-THE-ARTEFACT, KILL-ALL-HUMANS, etc). Whenever you do an action related to your PURPOSE, you can roll +PURPOSE instead of any other attribute. State also what DOESN'T COMPUTE, which is a 1-word concept (Love, War, Taxes, etc). Whenever you're confronted to what DOESN'T COMPUTE, you can choose to either take 1 Wound or shut down for a minute to reboot - this only happens once per scene/encounter.
 
 Someone can reprogram you while you sleep by opening the back of your head case. Doing so, they state a new 3-word PURPOSE. You, however, choose what DOESN'T COMPUTE.
 </details>
