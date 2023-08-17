@@ -30,16 +30,21 @@ That's all!
 
 <details markdown="1">
 <summary><b>Create a character</b></summary>
-A character starts with 0 in all of 4 main attributes.
+A character starts with 0 in all attributes. For each attribute, in order, roll for attribute changes using the table below:
+  
+| Attribute change | (2d6)             |          |          |
+|:-------------|:------------------|:---------|:---------|
+| 2-4          | 5-8               | 9-10     | 11-12    |
+| -1           | +0                | +1       | +2       |
 
 A character also starts with 6 <b>Hit Points</b> (or <b>HP</b>), 10 <b>Inventory</b> slots and 10 <b>Mind</b> slots.
 
-Choose or roll 2 <b>Traits</b>, which change your character in unique ways.
-Choose or roll your character's <b>Failed career</b>. It takes up a slot in your Mind.
+Choose or roll 2 <b>[Gifts](https://bartapapa.github.io/legend/gifts)</b>, which change your character in unique ways.
+Choose or roll your character's <b>[Gifts](https://bartapapa.github.io/legend/failed-careers)</b>. It takes up a slot in your Mind. It gives you a few starting items, as well as a bonus to one of your attributes.
 Choose, or create, as many Goals as you'd like - you'll be rewarded for completing them.
 
 Each character starts with 3 rations (1 slot), 3 torches (1 slot), and 1 light weapon.
-Roll on each [starting gear](https://bartapapa.github.io/legend/base-rules#starting-gear) table once.
+Roll once for your [bonus gear](https://bartapapa.github.io/legend/base-rules#starting-gear).
 
 You're done!
 </details>
