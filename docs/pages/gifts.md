@@ -349,10 +349,8 @@ You're immune to poison. When you suffer damage from poison, it heals you. You c
 </details>
 
 <details markdown="1">
-<summary><b>255. Fractured form</b></summary>
-Acquire 1 Magic die.
-
-You're filled with Writhing insects. They take up an Inventory slot. When you take damage, you can spend Magic die to have them swarm out of your body, losing them from your Inventory. This deals [dice] damage to you. The swarm has [sum] HP, deals 1d6+[dice] damage wherever they are, and makes everyone uncomfortable. When they come back to you, you recuperate [dice] HP, and they tell you what they saw and what they tasted. If the swarm is killed, it regrows inside your body over the course of a week.
+<summary><b>255. Warcry</b></summary>
+Once per rest, you can use an action to shout at the air. Every member in your party heals a number of HP equal to your Might, minimum 1. Weak creatures (of 2 HD or less) are terrified of you, and you can choose whether they cower or flee. You can cause a commotion in pretty much any social environment when doing so.
 </details>
 
 <details markdown="1">
@@ -396,10 +394,8 @@ Once per rest, when you would die, you can laugh at the face of your Death and r
 </details>
 
 <details markdown="1">
-<summary><b>312. Smite</b></summary>
-Acquire 1 Magic die.
-
-You can spend magic dice to smite a target you can see with divine power. Speak a phrase condemning a target you can see. You deal [sum]+[dice] damage as a beam of fire descends from the skies - if the damage isn't enough to reduce its HP to 0, it is unscathed and immune to any further Smites from you, forever. If the damage is enough, their body is destroyed, as is their soul. If you destroy them, roll 1d6. On a 1, you add them to your Mind as a Dark Passenger. They will speak to you again.
+<summary><b>312. Bloodhound</b></summary>
+When you cross someone's gaze, you can mark them down into your Mind, taking up a slot. You constantly have a feeling of the direction in which they are related to you, as well as their distance. You know if they're sleeping. You can smell their fear if they're nearby. If you find traces of someone's passage, you know if those traces are theirs.
 </details>
 
 <details markdown="1">
