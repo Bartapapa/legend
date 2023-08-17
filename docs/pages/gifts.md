@@ -272,3 +272,23 @@ You're a robot. Gain a PURPOSE attribute (capitals not optional). Your PURPOSE s
 
 Someone can reprogram you while you sleep by opening the back of your head case. Doing so, they state a new 3-word PURPOSE. You, however, choose what DOESN'T COMPUTE.
 </details>
+
+<details markdown="1">
+<summary><b>231. Always ready</b></summary>
+Whenever you leave town, you can spend 1 Valuable or 1 Treasure. Doing so, you acquire an unnamed package, that takes up a slot in your Inventory. Whenever you wish, you can decide to open up the unnamed package, which reveals that it was something that you could've purchased with a Valuable (or Treasure, if you spent that) and could've been held in such a box. You can have bundles of items inside if you wish.
+</details>
+
+<details markdown="1">
+<summary><b>232. Acrobat</b></summary>
+You can jump two times higher, farther, and you take the least amount of damage possible from falling when you're in control. Once per rest, you can automatically succeed at a feat of acrobatics.
+</details>
+
+<details markdown="1">
+<summary><b>233. Escape artist</b></summary>
+Once per rest, you can automatically escape from restraints (rope, manacles, social convention, etc) as long as you could plausibly do so. You can always ask the GM, 'What's the best exit to take to get out of here?' and you'll get an honest answer.
+</details>
+
+<details markdown="1">
+<summary><b>233. Escape artist</b></summary>
+Once per rest, you can automatically escape from restraints (rope, manacles, social convention, etc) as long as you could plausibly do so. You can always ask the GM, 'What's the best exit to take to get out of here?' and you'll get an honest answer.
+</details>
