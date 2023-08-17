@@ -20,7 +20,7 @@ Bonus items:
 
 <details markdown="1">
 <summary><b>12. Engineer</b></summary>
-You worked on heavy machinery, and even on certain automatons. By spending an hour with a mechanic object and your tools, you can make light repairs or alterations. For anything more, you'll need a workshop.
+You worked on machinery, heavy and light. You know the equivalent of 'peak technology' is in your world, and understand how it works. 
 
 Bonus item: iron toolbox (with plenty of bits and bobs, although they're all a little rusty)
 
