@@ -13,36 +13,36 @@ Choose or roll d66 (don't add the results, just read them from left-to-right)
 <summary><b>11. Astrologer</b></summary>
 You studied the stars and constellations, their mythological signifance as well as how to navigate based on them. Name a constellation you often look for, and why it is important to you. Your findings regarding this constellation were laughed at by the academy, and you were ousted.
 
-Bonus items: 
+Bonus items: Heavy book of constellations (300-page book, most of it your handwriting), Reticled spyglass (allows you to judge distances)
 
 +1 Lore.
 </details>
 
 <details markdown="1">
 <summary><b>12. Engineer</b></summary>
-You worked on machinery, heavy and light. You know the equivalent of 'peak technology' is in your world, and understand how it works. 
+You worked on machinery, heavy and light. You know the equivalent of 'peak technology' is in your world, and understand how it works. Name a machine you invented, and what it was used for. During public demonstrations, it dangerously broke down, and your guild rescinded your license.
 
-Bonus item: iron toolbox (with plenty of bits and bobs, although they're all a little rusty)
+Bonus item: Iron toolbox (with plenty of bits and bobs, although they're all a little worn), Jar of black grease (half of it's left)
 
-+1 Might or Grace.
++1 Might.
 </details>
 
 <details markdown="1">
 <summary><b>13. Historian</b></summary>
-You know how to recognize old objects of interest. While these are Trash to others, they count as Valuables to a collector or another historian.
+You recognize old objects and places of interest, when and where they come from. You know the Old Tongue. Declare a theory that, as far as you know, is true. You were laughed at by the academy, and when you wouldn't budge, you were shunned.
 
-Bonus item: old dusty book (once per day, you can attempt to glean information about a place, a person or item. Roll a d6. On a 6, the GM gives you a vague hint or tidbit about that)
+Bonus item: Old dusty book (plenty of notes on your domain of interest), Stamp of a forgotten family (nobility from a long time ago)
 
 +1 Lore.
 </details>
 
 <details markdown="1">
 <summary><b>14. Chirurgeon</b></summary>
-You know basic anatomy and biology of beasts and humanoids alike. You know many details of the anatomy and biology of humanoids of your species, and deal +1 damage to them when using light melee weapons. Over Lunch, with your tools, you can remove 1 Wound from someone.
+You know basic anatomy and biology of beasts and humanoids alike. You know many details of the anatomy and biology of humanoids of your species, and what to do to staunch bleeding, mend wounds and save lives. Name a corpse you dug out of its grave to study. When it was found out, you were ousted from the academy. The family of the deceased hate you.
 
-Bonus item: unusual utensils (as a Medical kit)
+Bonus item: Unusual utensils (as a Medical kit), Jar with hand (it's kept in formaldehyde, and it has a strange marking)
 
-+1 Grace or Lore.
++1 Lore.
 </details>
 
 <details markdown="1">
