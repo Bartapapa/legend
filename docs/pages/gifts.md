@@ -31,7 +31,6 @@ If you so wish, you can walk around as if you weighed only 5 kilograms. You can 
 
 <details markdown="1">
 <summary><b>115. Dwarfism</b></summary>
-Only available at character generation, or if a severe magical mishap occurs.
 You're half as small as the average human. You can't wield heavy weapons (melee or otherwise) or polearms, and need two hands to wield medium weapons.
 </details>
 
@@ -92,10 +91,50 @@ Once per rest, you can tell a lie that isn't obviously false. The people you tel
 
 <details markdown="1">
 <summary><b>135. Gallows humor</b></summary>
-Over lunch, you can tell a dark joke. Roll a general reaction roll. If Uncertain, they heal 1 Wound. If Helpful or Friendly, they heal 1 Wound plus how many Mind Scars you have. In social contexts, you can draw people to you who have similar Mind Scars as you - if you joke around, you're sure to stumble upon at least 1 person with similar issues.
+Over lunch, you can tell a dark joke. Roll a general reaction roll. If Uncertain, your party heals 1 Wound. If Helpful or Friendly, they heal 1 Wound plus how many Mind Scars you have. In social contexts, you can draw people to you who have similar Mind Scars as you - if you joke around, you're sure to stumble upon at least 1 person with similar issues.
 </details>
 
 <details markdown="1">
 <summary><b>136. Influent</b></summary>
 Your name bears influence and power. Most people of your race will recognize you. By flaunting your influence, you can force people to act Helpful towards you, although their initial Reaction towards you degrades by one step. People above you on the social totem pole are unaffected by this.
+</details>
+
+<details markdown="1">
+<summary><b>141. Jester</b></summary>
+You can convince anyone that you're the most or least important person in a group. You can always ask the GM, 'Who's the most important person around here?', and the GM will give you a truthful answer - even if someone else is pretending to be important.
+</details>
+
+<details markdown="1">
+<summary><b>142. Skeleton</b></summary>
+You're a skeleton. Sharp and piercing weapons deal half damage to you, but crushing weapons deal double. You don't need to breathe, or eat, or sleep. People around you will react accordingly to your appearance - generally, the living hate the undead. The dead hate the undead.
+</details>
+
+<details markdown="1">
+<summary><b>143. Oozeblooded</b></summary>
+Portions cut off from your body can still be moved as if guided by you - even if your head is cut off. Over Lunch, you can reattach limbs. If you reattach them the wrong way, it'll be really uncomfortable.
+</details>
+
+<details markdown="1">
+<summary><b>144. Arcane talent</b></summary>
+You start with 1 base Magic die. If lost, you recuperate it if you have a good night's sleep. You can taste and smell magic in the air, as well as magic in objects.
+</details>
+
+<details markdown="1">
+<summary><b>145. Third eye</b></summary>
+You have a grotesque third eye on your forehead. As long as its open and uncovered, you can pre-emptively roll Reaction rolls with people you've never met before that you can see, before interacting with them. If you've interacted with someone, you can tell their current disposition towards you. These values may change depending on context.
+</details>
+
+<details markdown="1">
+<summary><b>146. Zealous</b></summary>
+Over Lunch, instead of eating, you can follow a strange esoteric ritual. Describe it. When you interact with a person of faith for a few minutes, you can immediately tell how strong is their conviction and belief in their faith.
+</details>
+
+<details markdown="1">
+<summary><b>151. Preacher</b></summary>
+When you take an hour to proselytize in a town, you attract 4d6 people. Half of them are interested by what you have to say. A quarter of them resent what you say. There's a 1-in-6 chance that one of these people is enamored by what you have to say, and will gladly join you as a Follower, with a starting Loyalty of 2.
+</details>
+
+<details markdown="1">
+<summary><b>152. Prophecized</b></summary>
+Whenever anyone rolls double '1's or '6's, you may state aloud, 'As the Prophecy foretold'. Doing so, you regain all HP, and the <i>very next</i> 2d6 roll will either be maximized (if previously double '1's) or minimized (if previously double '2's).
 </details>
