@@ -11,11 +11,11 @@ Choose or roll d66 (don't add the results, just read them from left-to-right)
 
 <details markdown="1">
 <summary><b>11. Astrologer</b></summary>
-You know how to read the stars and constellations, and navigate using them. Sometimes, you can read fate in the stars. Once per session, you can look up at the stars for 1 hour. Doing so, the GM will state one word, related to something that you'll probably come across the next day.
+You studied the stars and constellations, their mythological signifance as well as how to navigate based on them. Name a constellation you often look for, and why it is important to you. Your findings regarding this constellation were laughed at by the academy, and you were ousted.
 
-Bonus item: book of star maps (you can name constellations)
+Bonus items: 
 
-+2 Lore, -1 Might.
++1 Lore.
 </details>
 
 <details markdown="1">
