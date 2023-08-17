@@ -39,7 +39,7 @@ A character starts with 0 in all attributes. For each attribute, in order, roll 
 
 A character also starts with 6 <b>Hit Points</b> (or <b>HP</b>), 10 <b>Inventory</b> slots and 10 <b>Mind</b> slots.
 
-Choose or roll 2 <b>[Gifts](https://bartapapa.github.io/legend/gifts)</b>, which change your character in unique ways.
+Choose or roll 2 <b>[Gifts](https://bartapapa.github.io/legend/gifts)</b>, which each take up a slot in your Mind.
 Choose or roll your character's <b>[Gifts](https://bartapapa.github.io/legend/failed-careers)</b>. It takes up a slot in your Mind. It gives you a few starting items, as well as a bonus to one of your attributes.
 Choose, or create, as many Goals as you'd like - you'll be rewarded for completing them.
 
