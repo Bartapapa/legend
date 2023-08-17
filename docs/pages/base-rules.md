@@ -32,10 +32,10 @@ That's all!
 <summary><b>Create a character</b></summary>
 A character starts with 0 in all attributes. For each attribute, in order, roll for attribute changes using the table below:
   
-| Attribute change | (2d6)             |          |          |
-|:-------------|:------------------|:---------|:---------|
-| 2-4          | 5-8               | 9-10     | 11-12    |
-| -1           | +0                | +1       | +2       |
+| Attribute change | (2d6) |       |       |
+|:-----------------|:------|:------|:------|
+| 2-4              | 5-8   | 9-10  | 11-12 |
+| -1               | +0    | +1    | +2    |
 
 A character also starts with 6 <b>Hit Points</b> (or <b>HP</b>), 10 <b>Inventory</b> slots and 10 <b>Mind</b> slots.
 
