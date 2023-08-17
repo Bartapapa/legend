@@ -10,8 +10,10 @@ A character is defined by several <b>Gifts</b> which give unique ways of playing
 Choose or roll d666 (don't add the results, just read them from left-to-right)
 
 <details markdown="1">
-<summary><b>111. Greed</b></summary>
-For every Valuable or Treasure you have that takes up an Inventory slot, you gain +1 HP. You can smell gold, jewels and other precious metals - if you sniff at a crossroads, the GM will tell you in which direction are the most riches.
+<summary><b>111. Spellmind</b></summary>
+Acquire a Magic die.
+  
+When you get this Gift, roll a random spell from the list of spells. This spell takes up a slot in your Mind.
 </details>
 
 <details markdown="1">
@@ -155,10 +157,8 @@ When you get this Gift, choose a kind of beast. Dogs, cats, bats, worms, ants, e
 </details>
 
 <details markdown="1">
-<summary><b>156. Spellmind</b></summary>
-Acquire a Magic die.
-  
-When you get this Gift, roll a random spell from the list of spells. This spell takes up a slot in your Mind.
+<summary><b>156. Greed</b></summary>
+For every Valuable or Treasure you have that takes up an Inventory slot, you gain +1 HP. You can smell gold, jewels and other precious metals - if you sniff at a crossroads, the GM will tell you in which direction are the most riches.
 </details>
 
 <details markdown="1">
@@ -236,8 +236,10 @@ At the end of a good night's sleep, you can spend Magic dice. You can ask [dice]
 </details>
 
 <details markdown="1">
-<summary><b>222. Throng</b></summary>
-You're not an individual person, but a multitude. You can all look the same, or actually be different people. Whenever you take HP damage, some of you are knocked out in tragic-comic fashion. Whenever you recuperate HP, some of you regain consciousness, crawl out of debris, etc. Any mundane item you have in your Inventory or Mind is duplicated so each of you can use it - however its in terrible condition and not really usable by any other person. Magical items in your Inventory or Mind remain unique, and can be given normally. You can, however, only use them once per scene as one of you uses it before blending into the mass. Whenever you do laborious work, you do the work of 10 people in the same time. In-combat, you're always considered adjacent to everyone.
+<summary><b>222. Spellmind</b></summary>
+Acquire a Magic die.
+  
+When you get this Gift, roll a random spell from the list of spells. This spell takes up a slot in your Mind.
 </details>
 
 <details markdown="1">
@@ -250,13 +252,6 @@ When you <i>demand</i> that someone oppose you in a challenge of wits, strength 
 Acquire 1 Magic die.
 
 At dawn each day, the thing/deity/power that gives you your vision imparts its wisdom in the form of a spell, your Omen, which comes from the list of spells. It takes up a slot in your Mind, and your GM chooses it for you, depending on what you may encounter before next Dawn.
-</details>
-
-<details markdown="1">
-<summary><b>224. Scion</b></summary>
-Acquire 1 Magic die.
-
-Make up 3 tenets of your faith. These are the tenets you should follow. Your Magic dice become Faith dice, which act in exactly the same manner as Magic dice, but aren't recovered after a long rest like they usually would. Rather, you recover them by acting according to your tenets. Additionally, anyone in your party with the same faith as you can use your Faith dice with your permission, no matter the distance, to cast their own spells or any spells you have in your Mind.
 </details>
 
 <details markdown="1">
@@ -405,4 +400,44 @@ Once per rest, when you would die, you can laugh at the face of your Death and r
 Acquire 1 Magic die.
 
 You can spend magic dice to smite a target you can see with divine power. Speak a phrase condemning a target you can see. You deal [sum]+[dice] damage as a beam of fire descends from the skies - if the damage isn't enough to reduce its HP to 0, it is unscathed and immune to any further Smites from you, forever. If the damage is enough, their body is destroyed, as is their soul. If you destroy them, roll 1d6. On a 1, you add them to your Mind as a Dark Passenger. They will speak to you again.
+</details>
+
+<details markdown="1">
+<summary><b>313. Throng</b></summary>
+You're not an individual person, but a multitude. You can all look the same, or actually be different people. Whenever you take HP damage, some of you are knocked out in tragic-comic fashion. Whenever you recuperate HP, some of you regain consciousness, crawl out of debris, etc. Any mundane item you have in your Inventory or Mind is duplicated so each of you can use it - however its in terrible condition and not really usable by any other person. Magical items in your Inventory or Mind remain unique, and can be given normally. You can, however, only use them once per scene as one of you uses it before blending into the mass. Whenever you do laborious work, you do the work of 10 people in the same time. In-combat, you're always considered adjacent to everyone.
+</details>
+
+<details markdown="1">
+<summary><b>314. Scion</b></summary>
+Acquire 1 Magic die.
+
+Make up 3 tenets of your faith. These are the tenets you should follow. Your Magic dice become Faith dice, which act in exactly the same manner as Magic dice, but aren't recovered after a long rest like they usually would. Rather, you recover them by acting according to your tenets. Additionally, anyone in your party with the same faith as you can use your Faith dice with your permission, no matter the distance, to cast their own spells or any spells you have in your Mind.
+</details>
+
+<details markdown="1">
+<summary><b>333. Spellmind</b></summary>
+Acquire a Magic die.
+  
+When you get this Gift, roll a random spell from the list of spells. This spell takes up a slot in your Mind.
+</details>
+
+<details markdown="1">
+<summary><b>444. Spellmind</b></summary>
+Acquire a Magic die.
+  
+When you get this Gift, roll a random spell from the list of spells. This spell takes up a slot in your Mind.
+</details>
+
+<details markdown="1">
+<summary><b>555. Spellmind</b></summary>
+Acquire a Magic die.
+  
+When you get this Gift, roll a random spell from the list of spells. This spell takes up a slot in your Mind.
+</details>
+
+<details markdown="1">
+<summary><b>666. Spellmind</b></summary>
+Acquire a Magic die.
+  
+When you get this Gift, roll a random spell from the list of spells. This spell takes up a slot in your Mind.
 </details>
