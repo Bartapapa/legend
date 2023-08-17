@@ -209,6 +209,66 @@ You can chop of a chunk of meat from anything freshly killed. It takes up an Inv
 </details>
 
 <details markdown="1">
-<summary><b>214. Stoic</b></summary>
-You can chop of a chunk of meat from anything freshly killed. It takes up an Inventory slot. If you eat it while its fresh (which takes 10 minutes) you acquire a random power from it. It can be one of its attribute scores, it can be an ability it had, or even a spell. The GM chooses. The power remains until the next time you Rest or you eat another chunk of meat.
+<summary><b>214. Square meal</b></summary>
+Over Lunch, if you take a chug of an alcoholic drink, you heal 1 Wound. When doing this, if you can describe a point in time in your character's career where things were worse than your party's current situation, everyone heals 1 Wound as well (other plays and the GM have to agree, grimly nod, or go 'sometimes life be like that').
+</details>
+
+<details markdown="1">
+<summary><b>215. Notches</b></summary>
+Choose one of your weapons. In combat, when you kill something with this weapon, it gains a Notch. At 10, 20, 30, 40 and 50 Notches, select one upgrade below that only you can use when you wield that weapon. You can choose the same ability more than once.
+*  +1 damage.
+*  As an action, attack and maneuver at the same time (specify what kind of maneuver exactly).
+*  Special weapon ability (draw weapon instinctively, wield 2-handed weapon in 1 hand, use weapon as specific tool, etc. Define with GM).
+</details>
+
+<details markdown="1">
+<summary><b>216. Weaponsmaster</b></summary>
+Acquire 1 Magic die.
+
+When making an attack, you can spend Magic die to increase your damage or to make additional attacks. When you increase your damage, you increase it by [sum]. When you make additional attacks, you make [dice] additional attacks on the same or other targets.
+</details>
+
+<details markdown="1">
+<summary><b>221. Dreamer</b></summary>
+Acquire 1 Magic die.
+
+At the end of a good night's sleep, you can spend Magic dice. You can ask [dice] questions that follow the following structure, 'If I do X, will Y happen?'. The GM gives an honest Yes/No/Maybe answer for each question.
+</details>
+
+<details markdown="1">
+<summary><b>222. Throng</b></summary>
+You're not an individual person, but a multitude. You can all look the same, or actually be different people. Whenever you take HP damage, some of you are knocked out in tragic-comic fashion. Whenever you recuperate HP, some of you regain consciousness, crawl out of debris, etc. Any mundane item you have in your Inventory or Mind is duplicated so each of you can use it - however its in terrible condition and not really usable by any other person. Magical items in your Inventory or Mind remain unique, and can be given normally. You can, however, only use them once per scene as one of you uses it before blending into the mass. Whenever you do laborious work, you do the work of 10 people in the same time. In-combat, you're always considered adjacent to everyone.
+</details>
+
+<details markdown="1">
+<summary><b>223. Challenge</b></summary>
+When you <i>demand</i> that someone oppose you in a challenge of wits, strength or violence, they must accept or suffer consequences. Consequences for a normal person are light humiliation - for people higher up in social standing, rank, or divine influence, the consequences can be demotion, shame, even death. You can challenge anything that understands you and is capable of being offended.
+</details>
+
+<details markdown="1">
+<summary><b>224. Omen</b></summary>
+Acquire 1 Magic die.
+
+At dawn each day, the thing/deity/power that gives you your vision imparts its wisdom in the form of a spell, your Omen, which comes from the list of spells. It takes up a slot in your Mind, and your GM chooses it for you, depending on what you may encounter before next Dawn.
+</details>
+
+<details markdown="1">
+<summary><b>224. Scion</b></summary>
+Acquire 1 Magic die.
+
+Make up 3 tenets of your faith. These are the tenets you should follow. Your Magic dice become Faith dice, which act in exactly the same manner as Magic dice, but aren't recovered after a long rest like they usually would. Rather, you recover them by acting according to your tenets. Additionally, anyone in your party with the same faith as you can use your Faith dice with your permission, no matter the distance, to cast their own spells or any spells you have in your Mind.
+</details>
+
+<details markdown="1">
+<summary><b>225. Miracle</b></summary>
+Name your God, and what they want. You acquire the Piety attribute, which starts at 0. It can only increase by accomplishing great deeds that your God wants. Once per day, you can attempt to perform a Miracle. Roll 2d6+Piety. On 13+, your miracle is accomplished. Your Piety score then returns to 0.
+  
+Miracles aren't for banal uses - they are world-altering powers. be careful with them.
+</details>
+
+<details markdown="1">
+<summary><b>226. Miracle</b></summary>
+Name your God, and what they want. You acquire the Piety attribute, which starts at 0. It can only increase by accomplishing great deeds that your God wants. Once per day, you can attempt to perform a Miracle. Roll 2d6+Piety. On 13+, your miracle is accomplished. Your Piety score then returns to 0.
+  
+Miracles aren't for banal uses - they are world-altering powers. be careful with them.
 </details>
