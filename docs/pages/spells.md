@@ -18,6 +18,8 @@ Every time you roll doubles (the same result on 2 different dice), there's a <b>
 
 </details>
 
+***
+
 {% capture posts %}
   {% for post in site.tags.spell %}
     |{{ post.title }}#{{ post.url }}
