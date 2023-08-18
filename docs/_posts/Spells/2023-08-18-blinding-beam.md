@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: spell thaumaturgy
-title: Bridge
+title: Blinding beam
 ---
 <b>D:</b> Varies <b>T:</b> Creature of [dice]*2 HD <b>R:</b> 20m
 
