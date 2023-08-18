@@ -250,6 +250,17 @@ When you level up, you get to do each of the following:
 
 ***
 ## Starting gear
+
+<details markdown="1">
+<summary><b>Bonus starting item</b></summary>
+  
+| Bonus        | (2d6)             |          |          |
+|:-------------|:------------------|:---------|:---------|
+| 2-5          | 6-7               | 8-9     | 10-12    |
+| Tool      | Adventuring gear           | Armor <i>or</i> Weapons | Spellbook (random [spell](https://bartapapa.github.io/legend/base-rules#spellcasting)) |
+
+</details>
+
 <details markdown="1">
 <summary><b>Armor</b></summary>
   
@@ -257,16 +268,6 @@ When you level up, you get to do each of the following:
 |:-------------|:------------------|:---------|:---------|
 | 2-4          | 5-8               | 9-10     | 11-12    |
 | nothing      | 1 piece           | 2 pieces | 3 pieces |
-
-</details>
-
-<details markdown="1">
-<summary><b>Shield</b></summary>
-  
-| Shield       | (2d6)             |
-|:-------------|:------------------|
-| 2-8          | 9-12              |
-| no shield    | shield            |
 
 </details>
 
@@ -317,16 +318,6 @@ When you level up, you get to do each of the following:
 | 44  Metal glove           | 54  Unusual dice       | 64  Iron tongs             |
 | 45  Smoked goggles        | 55  3 horseshoes       | 65  Cooking pots           |
 | 46  Hourglass             | 56  Small puzzle box   | 66  3 Glass vials          |
-
-</details>
-
-<details markdown="1">
-<summary><b>Bonus items</b></summary>
-  
-| Bonus        | (2d6)             |          |          |
-|:-------------|:------------------|:---------|:---------|
-| 2-5          | 6-7               | 8-9     | 10-12    |
-| Tool      | Adventuring gear           | Armor <i>or</i> Weapons | Spellbook (random [spell](https://bartapapa.github.io/legend/base-rules#spellcasting)) |
 
 </details>
 
