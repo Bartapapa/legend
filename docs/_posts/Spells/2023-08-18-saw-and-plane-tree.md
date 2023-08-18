@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: spell artifice
-title: Bridge
+title: Saw and plane tree
 ---
 <b>D:</b> Instantaneous <b>T:</b> One tree (one saw) <b>R:</b> Touch
 
