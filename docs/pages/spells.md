@@ -19,12 +19,11 @@ Every time you roll doubles (the same result on 2 different dice), there's a <b>
 
 <details markdown="1">
 <summary><b>Mishaps</b></summary>
-
-You can use this table of Mishaps if you can't think of any.
+<small>Adapted from Cairn's rules for [GLOG magic](https://cairnrpg.com/hacks/glog-magic/)</small>
 
 | Mishap [sum] |                   |
 |:-------------|:------------------|
-| 2            |                   |
+| 2            | You can't use your Magic dice for 1d6 hours. Any attempt to manipulate magic fails.                  |
 | 3            |                   |
 | 4            |                   |
 | 5            |                   |
