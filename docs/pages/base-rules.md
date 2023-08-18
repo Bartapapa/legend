@@ -333,14 +333,7 @@ Some people can cast spells. They have <b>Magic Dice</b> (or <b>MD</b>) that the
 
 If an MD rolls a 6, you lose it, and can't use it anymire. Generally, classes recuperate lost MD after a good rest, although some of them don't.
 
-Every time you roll doubles (the same result on 2 different dice), there's a <b>Mishap</b>.
-
-<u><b>Mishaps:</b></u> These happen when you roll doubles when casting a spell. In this case, <b>something bad happens</b>, as determined by the GM. The effects of the mishap depend on the spell cast. Triples or quadruples are even worse. Mishaps can be something like making whatever it's supposed to fix worse, or fixing it in some unwanted way, or being cast on someone else, or fizzling, or damaging the caster, or...
-
-</details>
-
-<details markdown="1">
-<summary><b>List of known spells</b></summary>
+Every time you roll doubles (the same result on 2 different dice), there's a <b>[Mishap](https://bartapapa.github.io/legend/spells)</b>.
 
 </details>
 
