@@ -30,7 +30,7 @@ Every time you roll doubles (the same result on 2 different dice), there's a <b>
 {% for post in sortedposts %}
 {% assign postitems = post | split: '#' %}
 {% unless forloop.first %}
-  <li> <a href="{{ "/" | absolute_url {{ postitems[1] }} }}"> {{ postitems[0] }}</a></li> 
+  <li> <a href="{{ "/" | absolute_url }}{{ postitems[1] }}"> {{ postitems[0] }}</a></li> 
 {% endunless %}
 {% endfor %} 
 </ol>
