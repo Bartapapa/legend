@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: spell elementalism
-title: Bridge
+title: Thunderclap
 ---
 <b>D:</b> Instantaneous <b>T:</b> creature or object <b>R:</b> 60m
 
