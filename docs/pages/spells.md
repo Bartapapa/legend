@@ -21,7 +21,7 @@ Every time you roll doubles (the same result on 2 different dice), there's a <b>
 ***
 
 {% capture pages %}
-  {% for post in site.tags.spell %}
+  {% for page in site.tags.spell %}
     |{{ page.title }}#{{ page.url }}
   {% endfor %}
 {% endcapture %}
