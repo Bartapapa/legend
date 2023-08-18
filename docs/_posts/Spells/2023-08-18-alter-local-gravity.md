@@ -3,7 +3,7 @@ layout: post
 tags: spell metaarcane
 title: Alter local gravity
 ---
-<b>D:</b> [Sum] Rounds <b>T:</b> [Sum]*2m cubes, all attached to one another via one side <b>R:</b> 20m
+<b>D:</b> [Sum] Rounds <b>T:</b> An area of [Sum]*2 cubic meters <b>R:</b> 20m
 
 An area that you specify has its gravity altered either
 * an angle that you specify (90 degrees left, 180 degrees up)
