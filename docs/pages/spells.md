@@ -20,17 +20,17 @@ Every time you roll doubles (the same result on 2 different dice), there's a <b>
 
 ***
 
-{% capture pages %}
-  {% for page in site.tags.spell %}
-    |{{ page.title }}#{{ page.url }}
+{% capture posts %}
+  {% for post in site.tags.spell %}
+    |{{ post.title }}#{{ post.url }}
   {% endfor %}
 {% endcapture %}
-{% assign sortedpages = pages | split: '|' | sort %}
+{% assign sortedposts = posts | split: '|' | sort %}
 <ol>
-{% for page in sortedpages %}
-{% assign pageitems = page | split: '#' %}
+{% for post in sortedposts %}
+{% assign postitems = post | split: '#' %}
 {% unless forloop.first %}
-  <li> <a href="{{ site.baseurl }}{{ pageitems[1] }}">{{ pageitems[0] }}</a></li> 
+  <li> <a href="{{ site.baseurl }}{{ postitems[1] }}">{{ postitems[0] }}</a></li> 
 {% endunless %}
 {% endfor %} 
 </ol>
