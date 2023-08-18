@@ -1,7 +1,34 @@
-Fractured form
+---
+layout: post
+title: All spells
+permalink: /spells/
+---
 
-You're filled with Writhing insects. They take up an Inventory slot. When you take damage, you can spend Magic die to have them swarm out of your body, losing them from your Inventory. This deals [dice] damage to you. The swarm has [sum] HP, deals 1d6+[dice] damage wherever they are, and makes everyone uncomfortable. When they come back to you, you recuperate [dice] HP, and they tell you what they saw and what they tasted. If the swarm is killed, it regrows inside your body over the course of a week.
+<details markdown="1">
+<summary><b>How spellcasting works</b></summary>
+Some people can cast spells. They have <b>Magic Dice</b> (or <b>MD</b>) that they use to do so. For every <b>Magical</b>b> object the character has in their Inventory or Mind, they gain 1 Magic Dice, which is a d6. Some Gifts can also give Magic Dice.
+  
+<u><b>Casting a spell:</b></u> Whenever you cast a spell, you decide how many MD to invest in it, up to your maximum number of MD or 4, whichever is lower. The effects of the spell depend on the number of [dice] invested, as well as the [sum] of all results.
 
-Smite
+If an MD rolls a 6, you lose it, and can't use it anymire. Generally, classes recuperate lost MD after a good rest, although some of them don't.
 
-You can spend magic dice to smite a target you can see with divine power. Speak a phrase condemning a target you can see. You deal [sum]+[dice] damage as a beam of fire descends from the skies - if the damage isn't enough to reduce its HP to 0, it is unscathed and immune to any further Smites from you, forever. If the damage is enough, their body is destroyed, as is their soul. If you destroy them, roll 1d6. On a 1, you add them to your Mind as a Dark Passenger. They will speak to you again.
+Every time you roll doubles (the same result on 2 different dice), there's a <b>Mishap</b>.
+
+<u><b>Mishaps:</b></u> These happen when you roll doubles when casting a spell. In this case, <b>something bad happens</b>, as determined by the GM. The effects of the mishap depend on the spell cast. Triples or quadruples are even worse. Mishaps can be something like making whatever it's supposed to fix worse, or fixing it in some unwanted way, or being cast on someone else, or fizzling, or damaging the caster, or...
+
+</details>
+
+{% capture posts %}
+  {% for post in site.tags.spell %}
+    |{{ post.title }}#{{ post.url }}
+  {% endfor %}
+{% endcapture %}
+{% assign sortedposts = posts | split: '|' | sort %}
+<ol>
+{% for post in sortedposts %}
+{% assign postitems = post | split: '#' %}
+{% unless forloop.first %}
+  <li> <a href="{{ postitems[1] }}"> {{ postitems[0] }}</a></li> 
+{% endunless %}
+{% endfor %} 
+</ol>
