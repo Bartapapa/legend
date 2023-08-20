@@ -3,17 +3,33 @@ layout: post
 title: Additional rules
 permalink: /additional-rules/
 ---
-<small>Rules inspired by Arnold K's [Goblin Laws of Gaming (GLoG)](http://goblinpunch.blogspot.com/2020/04/lair-of-lamb-final.html), Skerples' [Many Rats on Sticks edition](https://coinsandscrolls.blogspot.com/2019/10/osr-glog-based-homebrew-v2-many-rats-on.html), Salty Goo's [modified GloG](https://saltygoo.github.io/2020/11/09/base-rules/), [Cairn](https://cairnrpg.com/), the general GloG community and many OSR-adjacent systems.</small>
+<small>Additional rules that can potentially be used in conjunction with the base rules. Ask your GM.</small>
 
 ***
-## Contacts
+## Social
+
+### Contacts
+
+### Keys & Locks
 
 Contacts, Key & Lock system, Merchants
 
-Poison deals direct wounds
+***
+## Adventuring
 
+### Exhaustion
 Exhaustion as Wounds
 
-Advanced exploration
+### Languages
 
-Downtime
+### Light
+
+### Poisons and disease
+Poison deals direct wounds
+
+### Falling
+
+### Fire and acid
+
+### Huge treasures and pillaging
+<small>Rules inspired by Luka Rejec's [Ultraviolet Grasslands](https://www.drivethrurpg.com/product/241606/The-Ultraviolet-Grasslands--Free-Introduction).</small>
