@@ -59,7 +59,7 @@ If additional doses of the same poison are administered before the initial Onset
 </details>
 
 <details markdown="1">
-<summary><i>Example disease: ghoul fever/i></summary>
+<summary><i>Example disease: ghoul fever</i></summary>
 <b>O:</b> 1 hour <b>D:</b> 1 week (1 day) <b>Damage:</b> 1 Wound (1 Wound)
 
 <b>Side effects:</b>
@@ -70,13 +70,14 @@ If additional doses of the same poison are administered before the initial Onset
 5.  Aversion to meat that doesn't belong to members of their own species. If no such meat exists, rotting meat works.
 
 <b>Death effect:</b> If the character has suffered from the 3rd side effect at least, the character's Soul is destroyed, with only the Flesh soul remaining, and becomes an NPC Ghoul. 
+
 </details>
 
 ### Curses
 Curses are similar to poisons and diseases, apart from them all having an immediate Onset and they are placed within a character's Mind, not Inventory. Very few of them deal direct damage. 
 
 <details markdown="1">
-<summary><i>Example curse: blinding curse/i></summary>
+<summary><i>Example curse: blinding curse</i></summary>
 D:</b> permanent (1 week)
 
 <b>Side effects:</b>
