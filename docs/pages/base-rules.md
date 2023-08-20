@@ -86,9 +86,9 @@ A <b>savvy</b> is any domain of knowledge or savoir-faire (such as <i>Eavesdropp
 <details markdown="1">
 <summary><b>Inventory, Mind</b></summary>
 
-<u><b>Inventory</b></u>. You have 10 slots, which can be filled with objects, or bundles of 3 objects of small objects like daggers or potions. Specific ammo, such as arrows or bolts, take up 1 slot but don't expire, unless <b>something bad happens</b>. Your inventory will also fill up with <b>Fatigue</b> and <b>Scars</b> along the way. If you have to add something to your inventory and you don't have enough space, you are <b>reduced to 0 HP.</b>
+<u><b>Inventory</b></u>. You have 10 slots, which can be filled with objects, or bundles of 3 objects of small objects like daggers or potions. Specific ammo, such as arrows or bolts, take up 1 slot but don't expire, unless <b>something bad happens</b>. Your inventory will also fill up with <b>Scars</b> along the way. If you have to add something to your inventory and you don't have enough space, you are <b>reduced to 0 HP.</b>
 
-<u><b>Mind</b></u>. You have 10 slots, which can be filled with savvies, beliefs, and followers. Your mind will also fill up with <b>Stress</b> and <b>Scars</b> along the way. If you have to add something to your mind and you don't have enough space, you <b>Crack</b> and can't do much of anything except whimper. 
+<u><b>Mind</b></u>. You have 10 slots, which can be filled with savvies, beliefs, and followers. Your mind will also fill up with <b>Scars</b> along the way. If you have to add something to your mind and you don't have enough space, you <b>Crack</b> and can't do much of anything except whimper. 
 
 <u><b>Scars</b></u> can be removed with certain kinds of magic. When that isn't around, sometimes being gagged and thrown in a holding cell for a couple of days, or violently flagellating in penance does the trick.
 </details>
@@ -178,13 +178,27 @@ Stabilizing does not heal your Wounds. You can however heal all your wounds by t
 </details>
 
 ***
-## Exploration
+## Exploration and Encounters
 
 <details markdown="1">
 <summary><b>Exploration</b></summary>
 When exploring or going through a locale, like a house, a dungeon, or the ruins of a village inside a forest, the locale is divided into interconnected <b>Rooms</b>. Actions that are spent inside a Room take <b>10 minutes</b>, such as investigating, fighting, or gleaning info from the blood on the walls.
 
 When exploring the great outdoors, where the scale becomes entire forests and mountains, actions take up what's called a <b>Watch</b> (or 4 hours). The great outdoors is made up of interconnected <b>Areas</b>. There are 6 Watches in a day: Dawn, Midday, Afternoon, Evening, Dusk, Midnight. Moving from one Area to a connected one takes a Watch. A good sleep takes 2 Watches.
+
+</details>
+
+<details markdown="1">
+<summary><b>Encounters</b></summary>
+When first meeting with a creature and the GM isn't sure of the kind of first impression you're making, they might ask for a Reaction roll. What the creature then does then depends on the result. The character who is perceived as the most important by the creature (generally, the most prominent character) adds +Wit to the roll. The GM rolls 1d6, and the player rolls 1d6, so that the players don't know the full result.
+
+| Reaction roll | (2d6) | General | Social | Monster             |                   |
+|:--------------|:------|:--------|:-------| <i>feels weaker</i> | <i>feels stronger |
+| 2             |       | Hostile    | Rejection   | Flee        | Attack    |
+| 3-5           |       | Aggressive | Cold        | Flee        | Attack    |
+| 6-8           |       | Neutral    | Neutral     | Freeze      | Threaten  |
+| 9-11          |       | Friendly   | Amicable    | Ignore      | Offer aid |
+| 12            |       | Helpful    | High esteem | Accepts aid | Grovel    |
 
 </details>
 
