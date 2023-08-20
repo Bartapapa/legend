@@ -38,7 +38,9 @@ Not many characters can see in the dark. They need light to be able to act well.
 Each light source has a <b>Light</b> score, which indicates how many characters are sufficiently-lit if they remain nearby.
 
 Candles have a Light score of 1 - they only sufficiently illuminate their holder, and are prone to being quenched; there's a 3-in-6 chance that it turns off if it falls.
+
 Torches have a Light score of 3 - and their flame is more resistant. There's only a 1-in-6 chance that it turns off if it falls.
+
 Lanterns have a Light score of 3 - but cannot be unwillingly quenched due to their protection.
 
 ### Poisons and disease
