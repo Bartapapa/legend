@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: spell oneirism
-title: Compartmentalize mind
+title: Compartmentalize mind - REWORK
 ---
 <b>D:</b> [Dice] hours <b>T:</b> Creature <b>R:</b> Touch
 
