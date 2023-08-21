@@ -1,8 +1,8 @@
 ---
 layout: post
 tags: spell artifice
-title: Command mechanism
+title: Springspeak
 ---
-<b>D:</b> Instantaneous <b>T:</b> [Dice] mechanisms <b>R:</b> 5m
+<b>D:</b> [Dice] minutes <b>T:</b> Self <b>R:</b> Self
 
-Command [dice] mechanisms to immediately follow a one-word order. It will try to accomplish what you say as well as it can, however if it is impossible, this spell has no effect. Mechanical creatures can roll +Wit to resist this effect.
+You understand the whining of springs, the whirring of gears, the squeling of hinges, and what their significance is. A door opening from afar can tell you that enemies are coming. A lock may laugh as you tickle its pins. You can speak back to them (although this sounds like clanking and clicking to the uninitiated) and roll Reaction rolls with mechanisms. This doesn't mean that they like you.
