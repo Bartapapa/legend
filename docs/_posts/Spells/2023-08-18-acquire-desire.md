@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: spell oneirism
-title: Acquire desire
+title: Acquire desire - REWORK
 ---
 <b>D:</b> Instantaneous <b>T:</b> Creature <b>R:</b> 5m
 
