@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: spell entropism
-title: Reveal possibilities
+title: Reveal possibilities - REWORK
 ---
 <b>D:</b> Instantaneous <b>T:</b> Self <b>R:</b> Self
 
