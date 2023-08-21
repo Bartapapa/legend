@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: spell necromancy
-title: Fleshcall
+title: Fleshcall - REWORK
 ---
 <b>D:</b> Concentration <b>T:</b> Creature of [dice] HD or less <b>R:</b> 20m
 
