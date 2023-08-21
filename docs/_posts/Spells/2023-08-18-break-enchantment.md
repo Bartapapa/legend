@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: spell metaarcane
-title: Break enchantment
+title: Break enchantment - REWORK
 ---
 <b>D:</b> Instantaneous <b>T:</b> Enchantment <b>R:</b> 20m
 
