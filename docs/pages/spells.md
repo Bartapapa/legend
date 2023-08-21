@@ -69,7 +69,7 @@ The effecs of the spell are written here. Sometimes, the effect is changed accor
 
 [All spells](https://bartapapa.github.io/legend/spells/all)
 
-[All spells](https://bartapapa.github.io/legend/spells/spells-by-category)
+[Spells by category](https://bartapapa.github.io/legend/spells/spells-by-category)
 
 ***
 
