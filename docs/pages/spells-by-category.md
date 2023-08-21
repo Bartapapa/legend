@@ -66,7 +66,7 @@ permalink: /spells/spells-by-category
 > The study and manipulation of the mind.
 
 {% capture posts %}
-  {% for post in site.tags.onerirism %}
+  {% for post in site.tags.oneirism %}
     |{{ post.title }}#{{ post.url }}
   {% endfor %}
 {% endcapture %}
