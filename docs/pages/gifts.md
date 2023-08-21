@@ -412,6 +412,13 @@ Make up 3 tenets of your faith. These are the tenets you should follow. Your Mag
 </details>
 
 <details markdown="1">
+<summary><b>315. Wildling</b></summary>
+Acquire 1 Magic die.
+
+As an action, you can transform yourself into a natural beast of which you've eaten the heart. You gain the Might and Grace of the animal, but keep your Wit and Lore. For the duration, you lose any abilities that relied on your having your physical body. Your equipment isn't transformed and remains at your feet after your transformation. You can communicate with other animals of the same type as if you shared a language, but you cannot otherwise speak normally.
+</details>
+
+<details markdown="1">
 <summary><b>333. Spellmind</b></summary>
 Acquire a Magic die.
   
