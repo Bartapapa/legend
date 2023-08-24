@@ -4,7 +4,9 @@ layout: default
 
 <div class="parallax">
   <header>
-    
+    <img src="{{site.Sky | relative_url}}" alt="Sky" class="layer1">
+    <img src="{{site.Mountains | relative_url}}" alt="Mountains" class="layer2">
+    <img src="{{site.Rocks | relative_url}}" alt="Rocks" class="layer3">
   </header>
 </div>
 
