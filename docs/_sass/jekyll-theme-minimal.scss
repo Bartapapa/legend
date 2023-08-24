@@ -56,11 +56,45 @@ a:hover small {
   color:#777;
 }
 
-.wrapper {
+.wrapper 
   width:1100px;
   margin:0 auto;
 }
 
+.parallax {
+  height:100vh;
+  overflow-y: auto;
+  overflow-x: hidden;
+  perspective: 10px;
+}
+
+.layer0 {
+  transform: translateZ(-15) scale(2.5);
+}
+
+.layer1 {
+  transform: translateZ(-10) scale(2);
+}
+
+.layer2 {
+  transform: translateZ(-5) scale(1.5);
+}
+
+.layer3 {
+  transform: translateZ(0) scale(1);
+}
+
+.layer0,
+.layer1,
+.layer2,
+.layer3 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  z-index: -1;
+}
+  
 blockquote {
   border-left:1px solid #e5e5e5;
   margin:0;
