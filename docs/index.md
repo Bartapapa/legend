@@ -2,127 +2,14 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<div class="parallax">
+  <header>
+    
+  </header>
+</div>
 
-<a href="{{ site.baseurl }}/base-rules/">Link to Base Rules.</a>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Auctor elit sed vulputate mi sit amet mauris. Libero enim sed faucibus turpis. Lacus sed viverra tellus in hac habitasse platea dictumst. Arcu odio ut sem nulla pharetra. Dapibus ultrices in iaculis nunc. Aliquam etiam erat velit scelerisque in. Enim nulla aliquet porttitor lacus. Urna neque viverra justo nec ultrices dui sapien. Morbi enim nunc faucibus a pellentesque sit amet porttitor eget. Interdum velit euismod in pellentesque massa. Potenti nullam ac tortor vitae purus faucibus ornare suspendisse sed. Elementum tempus egestas sed sed risus pretium quam vulputate. Dui nunc mattis enim ut tellus elementum sagittis vitae et. Enim eu turpis egestas pretium aenean pharetra magna. Et netus et malesuada fames. Purus ut faucibus pulvinar elementum integer enim neque. Id ornare arcu odio ut sem nulla pharetra diam sit.
 
-There should be whitespace between paragraphs.
+Nullam eget felis eget nunc lobortis mattis. Integer vitae justo eget magna fermentum iaculis eu non. Non tellus orci ac auctor augue mauris augue neque. Arcu non sodales neque sodales ut etiam sit amet nisl. Mattis rhoncus urna neque viverra justo. Lectus mauris ultrices eros in cursus turpis. Eu consequat ac felis donec et odio. Dolor sit amet consectetur adipiscing. In eu mi bibendum neque. Feugiat in ante metus dictum at. Urna condimentum mattis pellentesque id nibh tortor. Dolor magna eget est lorem. Egestas purus viverra accumsan in nisl. Interdum posuere lorem ipsum dolor sit amet consectetur. Lacus luctus accumsan tortor posuere ac ut consequat semper.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-<details markdown="1">
-<summary>Design Notes</summary>
-*I really agree with Dungeon Antology's [vision of class design](https://dungeonantology.com/2020/08/09/glog-class-design/). I aim to have few yet impactful abilities for them, and for the classes to fulfil at least one of the 3 classic roles of DnD. — SaltyGoo*
-</details>
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+Ut tortor pretium viverra suspendisse potenti nullam ac tortor. Cursus metus aliquam eleifend mi in nulla. Condimentum id venenatis a condimentum. Platea dictumst quisque sagittis purus sit amet volutpat consequat. Mauris cursus mattis molestie a iaculis at erat pellentesque. Aliquam vestibulum morbi blandit cursus risus at ultrices mi. Velit egestas dui id ornare arcu odio ut sem. Cursus mattis molestie a iaculis at erat. Fermentum leo vel orci porta non pulvinar neque laoreet suspendisse. Dolor magna eget est lorem ipsum dolor sit amet. Justo nec ultrices dui sapien eget. Aliquet bibendum enim facilisis gravida neque convallis. Sed enim ut sem viverra. At erat pellentesque adipiscing commodo. Urna neque viverra justo nec ultrices dui. Commodo sed egestas egestas fringilla phasellus faucibus scelerisque. Blandit cursus risus at ultrices mi tempus imperdiet nulla malesuada. Eleifend quam adipiscing vitae proin.
