@@ -39,6 +39,15 @@ As long as you aren't carrying a Heavy object, you can fly.
 ## Additional abilities
 Choose 1. If you've <i>done something great</i> by the end of the session, get one more.
 
+### Crow's pact
+If you shake hands with someone willing, they can't tell lies to you, nor you to them.
+
+### Artist
+If you merge two objects together, they lose all their traits and you create 1 <i>treasure</i> of the same quality as the lowest-quality item you just merged.
+
+### Crow's cant
+YOu can make simple sounds with your mouth, and they seem perfectly natural. You can talk in this way to other crows, who understand you as if you were speaking normally.
+
 ***
 
 ## Crow society
