@@ -23,11 +23,11 @@ Fancy clothes (d6)
 | 1d6        | Name           | Additional stuff                               |
 |:-----------|:---------------|:-----------------------------------------------|
 | 1          | Gutter noble   | Big boots (d6) <b>and</b> Box of matches (d6)  |
-| 2          | Longshank noble | Thin collar (d6) <b>and</b>                              |
-| 3          | Saltland noble |  <b>and</b>       |
-| 4          | Alpine noble   | Bag of small stones (d6) <b>and</b>           |
-| 5          | Sunkissed noble |    |
-| 6          | High noble     |  |
+| 2          | Longshank noble | Thin collar (d6) <b>and</b> Mouse toy with bell (treasure, d4) |
+| 3          | Saltland noble | Fish skeleton (d6) <b>and</b> Crab shell (armor) |
+| 4          | Alpine noble   | Bag of small stones (d6) <b>and</b> Cured meats (food) |
+| 5          | Sunkissed noble | Very large leaf (d6) <b>and</b> Pocket of sand (d6) |
+| 6          | High noble     | Long needle (d6) <b>and</b> Makeup kit (d6) |
 
 ***
 
@@ -50,6 +50,4 @@ If you have fancy clothes, it acts as armor as long as you don't have any other 
 
 ***
 
-## Crow society
-
-## The Firefly Accord
+## The Cat Duchy
