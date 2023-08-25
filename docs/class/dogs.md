@@ -22,7 +22,7 @@ Big book about X (tool d6)
 
 | 1d6        | Name           | Additional stuff                               |
 |:-----------|:---------------|:-----------------------------------------------|
-| 1          | Trickster      | Wooden whistle (d6) <b>and</b> Keychain (d6)   |
+| 1          | Knight errant  | Wooden whistle (d6) <b>and</b> Keychain (d6)   |
 | 2          | Mailcrow       | Letter opener (d8)                             |
 | 3          | Farmbird       | Scarecrow pipe (d6) <b>and</b> Scarf (d6)      |
 | 4          | Treasure-seeker | Soda can tab jewelry (treasure, d6)           |
