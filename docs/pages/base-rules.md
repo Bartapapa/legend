@@ -70,7 +70,7 @@ A character has 3 <b>Attributes</b>:
 <details markdown="1">
 <summary><b>Inventory</b></summary>
 
-<u><b>Inventory</b></u>. You have 10 slots, which can be filled with objects, or bundles of 3 objects like acorns or bottle caps. <b>Heavy</b> objects take two slots. You'll fill it up with objects, although it can also fill up with <b>Fatigue</b>. If you have to add something to your Inventory and you don't have the space, you're <b>Exhausted</b> and can't move until you take something off.
+<u><b>Inventory</b></u>. You have 10 slots, which can be filled with objects, or bundles of 3 objects like acorns or bottle caps. <b>Heavy</b> objects take two slots. You'll fill it up with objects, although it can also fill up with <b>Fatigue</b>. If you have to add something to your Inventory and you don't have the space, you're <b>Exhausted</b> and can't move until you take something off. If you're exhausted and need to add Fatigue, you instead lower your Vigor by 1.
 </details>
 
 ***
