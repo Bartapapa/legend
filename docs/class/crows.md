@@ -16,7 +16,7 @@ Discover the truth behind a secret.
 ***
 
 ## Core stuff
-Big book about X (tool d6)
+Big book about X (d6)
 
 ## Background
 
