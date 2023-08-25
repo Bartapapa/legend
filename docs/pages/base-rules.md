@@ -34,18 +34,12 @@ That's all!
 
 <details markdown="1">
 <summary><b>Create a character</b></summary>
-A character starts with 6 in all their <b>[Attributes](https://bartapapa.github.io/legend/base-rules#attributes)</b>. You can choose to increase one to 8 by reducing another to 4.
+
+A character starts with 6 in all their [Attributes](https://bartapapa.github.io/legend/base-rules#attributes). You can choose to increase one to 8 by reducing another to 4.
 
 A character also starts with 6 <b>Vigor</b> and 10 <b>Inventory Slots</b>. Use a six-sided die to represent your Vigor.
 
-Choose a <b>[Faction](https://bartapapa.github.io/legend/factions)</b>. 
-
-Choose or roll 2 <b>[Gifts](https://bartapapa.github.io/legend/gifts)</b>, which each take up a slot in your Mind.
-Choose or roll your character's <b>[Failed career](https://bartapapa.github.io/legend/failed-careers)</b>. It takes up a slot in your Mind. It gives you a few starting items, as well as a bonus to one of your attributes.
-Choose, or create, as many Goals as you'd like - you'll be rewarded for completing them.
-
-Each character starts with 3 rations (1 slot), 3 torches (1 slot), and 1 light weapon.
-Roll once for your [bonus gear](https://bartapapa.github.io/legend/base-rules#starting-gear).
+Choose a <b>[Faction](https://bartapapa.github.io/legend/factions)</b>, roll for your <b>Background</b> and choose 1 <b>Faction ability</b>.
 
 You're done!
 </details>
@@ -70,7 +64,7 @@ A character has 3 <b>Attributes</b>:
 <details markdown="1">
 <summary><b>Inventory</b></summary>
 
-<u><b>Inventory</b></u>. You have 10 slots, which can be filled with objects, or bundles of 3 objects like acorns or bottle caps. <b>Heavy</b> objects take two slots. You'll fill it up with objects, although it can also fill up with <b>Fatigue</b>. If you have to add something to your Inventory and you don't have the space, you're <b>Exhausted</b> and can't move until you take something off. If you're exhausted and need to add Fatigue, you instead lower your Vigor by 1.
+<u><b>Inventory</b></u>. You have 10 slots, which can be filled with objects, or bundles of 3 objects like acorns or bottle caps. <b>Heavy</b> objects take two slots. You'll fill your Inventory up with objects, although it can also fill up with <b>Fatigue</b>. If you have to add something to your Inventory and you don't have the space, you're <b>Exhausted</b> and can't move until you take something off. If you're exhausted and need to add Fatigue, you instead lower your Vigor by 1.
 </details>
 
 ***
