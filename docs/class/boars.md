@@ -16,18 +16,18 @@ Protect nature against encroaching civilization.
 ***
 
 ## Core stuff
-Hard hat (armor)
+Pointy stick (d6)
 
 ## Background
 
 | 1d6        | Name           | Additional stuff                               |
 |:-----------|:---------------|:-----------------------------------------------|
-| 1          | Shaman         | Walking stick (d6) <b>and</b> Beetlecloak (armor) |
-| 2          | Tribal warrior | Bag of incense (d6) <b>and</b> Stone symbol (treasure, d4) |
-| 3          | Hunter         | 3 Candles (light) <b>and</b> Dirty map of the Realms Below (d6) |
-| 4          | Gatherer       | Iron pick (d6) <b>and</b> Dried beetle guts (food) |
-| 5          | Witch-doctor   | Bubble level (d6) <b>and</b> Plank of wood (d6) |
-| 6          | Lone traveler  | Heavy cloak (d6) <b>and</b> Bag of black dust (d6) |
+| 1          | Shaman         | Spellbook: Speak with bugs <b>and</b> Jar of caterpillars (food) |
+| 2          | Tribal warrior |  |
+| 3          | Hunter         | Bow and arrows (ranged, heavy, d8) |
+| 4          | Gatherer       |  |
+| 5          | Witch-doctor   |  |
+| 6          | Lone traveler  |  |
 
 ***
 
@@ -43,6 +43,8 @@ Magical effects that have a maximum [size] less than the [size] of your Vigor do
 
 ### Strong hide
 As long as you aren't wearing any armor, you're counted as having 1 armor. Once per day, you can ignore one instance of Vigor damage.
+
+### Ancestral commune
 
 ***
 
