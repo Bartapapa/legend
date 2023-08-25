@@ -39,6 +39,8 @@ When you enter a dungeon (any configuration of interconnected rooms), there's a 
 *  When the Clock reaches <i>0 exactly</i>, it resets to 3 - the Realms Below's attention is elsewhere for the moment.
 *  When the Clock reaches <i>3 exactly</i>, an <b>Omen</b> occurs.
 
+> When the Clock resets to 3, it triggers an Omen.
+
 ### Encounters
 Encounters are <i>dangers of the current area the players are</i>. They can be hostile monsters, patrolling guards - but whatever they are, they're not good news.
 
