@@ -11,12 +11,12 @@ permalink: /factions/rabbits
 ***
 
 ## Path to greatness
-Accomplish a quest, because it was the right thing to do.
+Make an interesting new friend.
 
 ***
 
 ## Core stuff
-Large colorful cape (d6)
+Small wooden instrument (d6)
 
 ## Background
 
@@ -39,14 +39,14 @@ When you stay somewhere where there are other people for a while, you automatica
 ## Faction abilities
 Choose 1.
 
-### Diplomatic immunity
-If you do something mildly against the law, people will tend to let it slide.
+### People-reading
+When you meet someone, you know 1 thing they love, and 1 thing they hate. If using the Lock & Key system, you learn 1 of each. You have a hunch when people are trying to hide their true intentions.
 
-### Unbreakable spirit
-Once per day, for one scene, you can choose to ignore all Fatigue you would gain. Additionally, you're immune to being afraid.
+### Good at multiplying
+You can immediately count how many items are in a pile. You can very quickly do simple calculations (something that is esoteric to any other animal), and if you have 10 minutes, you can do complex calculations.
 
-### Great might
-Once per day, you can automatically roll the maximum result for your Might die. Creatures who have less Might than you will often try to avoid getting into a conflict with you.
+### Folkloric
+If you stay in an inhabited area for an hour, you find out one problem the people have. The first time you enter an area with a proper name, you 
 
 ***
 
