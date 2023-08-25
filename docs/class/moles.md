@@ -50,8 +50,12 @@ When you reach a new level of Depth, you can recover 1 Fatigue. You count any su
 ### Preach
 When you speak aloud for an hour in an inhabited area, you attract an audience of 20 animals (50 if you're underground). They are captivated by you while you continue speaking. Once per day, as you're preaching, you can cast Suggestion as if you had the spellbook, but this targets all creatures listening to you.
 
-### Stubborn
-Magical effects that have a maximum [size] less than the [size] of your Vigor don't affect you. 
+### Commune with the Dirt Heart
+When you're in a room with absolutely no light, and have 10 minutes to whisper quietly, choose 2 of the following things:
+*  Find out the current Clock value.
+*  Roll on the Omen table.
+*  Find out if there are any unexplored rooms left.
+*  Find out about who last set foot in the room you're in.
 
 ***
 
