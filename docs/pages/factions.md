@@ -7,7 +7,7 @@ permalink: /factions/
 ***
 ## <a href="{{ site.baseurl }}/factions/dogs">Dogs</a>
 
-<img align="left" width=300px src="/assets/img/CharacterPortrait.png">
+<img align="left" width=300px src="https://github.com/Bartapapa/legend/blob/main/docs/assets/img/CharacterPortrait.png">
 <img align="right" width=200px src="https://i.pinimg.com/originals/f6/15/11/f61511733e70507edfc2de2f86c33bc7.jpg">
 <img src="assets/img/Sky.jpg" class="layer1">
 
