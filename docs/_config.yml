@@ -4,7 +4,7 @@ plugins:
 
 title: LEGEND
 logo: /assets/img/logo.png
-description: Rules for yet another GloG-based ttrpg.
+description: Discover a world of secret animal societies.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
