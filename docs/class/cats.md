@@ -48,6 +48,12 @@ You have money for days. If you or your friends need any mundane item, you can b
 ### Very fancy
 If you have fancy clothes, it acts as armor as long as you don't have any other armor. You can use the quality of any particularly fancy or valuable tool you have instead of your Wit in Reaction rolls.
 
+### Pillow paws
+As long as you don't have any heavy tools on you, you can be perfectly silent when you move. Additionally, if you spend 10 minutes pawing the surface of any object, it becomes pretty comfortable.
+
+### Golden glint
+You can recognize treasures from far away, even in the dark. You can't tell what they are exactly, but you know it'll be valuable. When you enter a room, you can tell if there's treasure nearby.
+
 ***
 
 ## The Cat Duchy
