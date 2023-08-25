@@ -5,11 +5,23 @@ permalink: /factions/
 ---
 
 ***
-## <a href="{{ site.baseurl }}/factions/dogs">Dogs</a>
 
-<img align="left" width=300px src="https://github.com/Bartapapa/legend/blob/main/docs/assets/img/CharacterPortrait.png">
+<table cellspacing="10">
+    <tr>
+      <td>
+        <img align="left" width=300px src="https://github.com/Bartapapa/legend/blob/main/docs/assets/img/CharacterPortrait.png">
+      </td>
+      <td>
+      ## <a href="{{ site.baseurl }}/factions/dogs">Dogs</a>
 
-Great explorers from the Barking Baronnies, dogs search for glory in all things. Many of them leave the baronnies in search for faraway lands and adventure to be seen as Good Dogs when they proudly return home.
+      Great explorers from the Barking Baronnies, dogs search for glory in all things. Many of them leave the baronnies in search for faraway lands and adventure to be seen as Good Dogs when they proudly return home.
+      </td>
+    </tr>
+  </table>
+
+
+
+
 ***
 ## <a href="{{ site.baseurl }}/factions/cats">Cats</a>
 
