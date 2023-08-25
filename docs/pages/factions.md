@@ -6,7 +6,7 @@ permalink: /factions/
 
 ***
 
-<table cellspacing="10">
+<table cellspacing="200">
     <tr>
       <td>
         <img align="left" width=300px src="https://github.com/Bartapapa/legend/blob/main/docs/assets/img/CharacterPortrait.png">
