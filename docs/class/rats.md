@@ -37,7 +37,6 @@ Plastic net (d6)
 Whenever you stay in an inhabited area for an hour or more, you can contact another rat. The rat can accomplish one favor for you as long as it doesn't put it into too much danger. You can convince it to get into danger if you have sufficient treasure to give it.
 
 ## Faction abilities
-Choose 1.
 
 ### Junkfood
 Any tool that is even slightly edible counts as food for you. You don't need to ever worry about finding enough to eat, bcause you eat pretty much anything.
