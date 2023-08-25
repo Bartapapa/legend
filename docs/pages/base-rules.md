@@ -78,7 +78,12 @@ A character has 3 <b>Attributes</b>:
 
 <details markdown="1">
 <summary><b>Tools</b></summary>
-Some tools have a <b>Quality</b> to them. This is marked by a die in between parentheses. When the character uses this tool to accomplish something, then they add that tool's Quality die when <i>rolling</i>. If multiple tools are used, use the largest Quality die.
+Some tools have a <b>Quality</b> to them. This is marked by a die in between parentheses. When the character uses this tool to accomplish something, then they add that tool's Quality die when <i>rolling</i>. If multiple tools are used, use the largest Quality die. Tools hat have a higher Quality are better than those of lower Quality. Some things can only be found, and never bought or even traded.
+*  <b>d4 Quality</b> - <i>Mediocre</i>. Improvised, barely holding on.
+*  <b>d6 Quality</b> - <i>Standard</i>. Common items and tools.
+*  <b>d8 Quality</b> - <i>Professional</i>. Made by experienced artisans, top-notch quality material.
+*  <b>d10 Quality</b> - <i>Exotic</i>. Made by legendary artisans, far beyond the ability of common animals.
+*  <b>d12 Quality</b> - <i>Legendary</i>. Made by unfathomable forces, through unfathomable means. Unique.
 </details>
 
 <details markdown="1">
