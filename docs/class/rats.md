@@ -16,7 +16,7 @@ Confront and weaken the Tabby Duke's power and representatives.
 ***
 
 ## Core stuff
-Big book about X (d6)
+Plastic net (d6)
 
 ## Background
 
