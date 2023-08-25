@@ -33,26 +33,30 @@ Large colorful cape (d6)
 
 ## Core ability
 
-### Flight
-As long as you aren't carrying a Heavy tool, you can fly.
+### Nose for trouble
+You've got a great sense of smell, and can use your sense of smell as a tool, with a quality of d6. If you smell at a crossroads, the GM will tell you in which direction people need help.
 
 ## Faction abilities
 Choose 1.
 
 ### Diplomatic immunity
-If you do something mildly against the law, people will tend to let it slide.
+If you do something mildly against the law, people will tend to let it slide. If it's <i>really</i> against the law, they'll still let it slide, but you'll have to explain yourself to the Dog Barons before using this ability again.
 
 ### Unbreakable spirit
 Once per day, for one scene, you can choose to ignore all Fatigue you would gain. Additionally, you're immune to being afraid.
 
-### Great might
+### Awesome might
 Once per day, you can automatically roll the maximum result for your Might die. Creatures who have less Might than you will often try to avoid getting into a conflict with you.
+
+### Nosy hound
+Your sense of smell now has a d8 quality. You always recognize smells that you've smelled before, and can track them down if they've been in the area up to a few days ago (give or take with weather conditions).
+
+### Protector
+If a friend would suffer Fatigue or damage when they're right next to you, you can choose to take it in their place.
 
 ***
 
-## Crow society
-
-## The Firefly Accord
+## The Dog Barons
 
 
 
