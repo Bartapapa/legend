@@ -33,13 +33,16 @@ Hard hat (armor)
 
 ## Core ability
 
-### Mole claws
-You can use your claws as a tool, with d6 quality. You dig through soft earth as if you were 5 animals with shovels.
+### Vigorous
+Increase the [size] of your Vigor by one step (from 6, become 8). Once per day, the first time you suffer from Fatigue, ignore it.
 
 ## Faction abilities
 
 ### Stubborn
 Magical effects that have a maximum [size] less than the [size] of your Vigor don't affect you. 
+
+### Strong hide
+As long as you aren't wearing any armor, you're counted as having 1 armor. Once per day, you can ignore one instance of Vigor damage.
 
 ***
 
