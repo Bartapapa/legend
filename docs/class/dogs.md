@@ -37,7 +37,6 @@ Large colorful cape (d6)
 You've got a great sense of smell, and can use your sense of smell as a tool, with a quality of d6. If you smell at a crossroads, the GM will tell you in which direction people need help.
 
 ## Faction abilities
-Choose 1.
 
 ### Puppy eyes
 If you do something mildly against the law, people will tend to let it slide. If it's <i>really</i> against the law, they'll still let it slide, but you'll have to explain yourself to the Dog Barons before using this ability again.
