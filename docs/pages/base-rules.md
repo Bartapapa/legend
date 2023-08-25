@@ -169,4 +169,6 @@ If you have a <b>Spellbook</b>, you can cast the associated spell. Roll Wit and 
   
 On a failure, the spell cannot be cast any more for the day, and needs to be recharged (stated in the spell). If you roll doubles, a <b>Mishap</b> occurs along with the usual effects. The GM determines what happens according to the spell and situation.
 
+For cases where the effects of a spell would be used as a tool in ways that aren't defined by the spell's effects, then use the characters Wit as the Quality die for the spell-tool.
+
 </details>
