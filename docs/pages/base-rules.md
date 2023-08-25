@@ -134,7 +134,7 @@ When first meeting with a creature and the GM isn't sure of the kind of first im
 
 <details markdown="1">
 <summary><b>Resting</b></summary>
-There are two kinds of rests: <b>Sleeps</b> and <b>Naps</b>. To Sleep, you must find a shelter where there is no immediate danger. Sleeping for 8 hours removes all accumulated Fatigue. To Nap, you need an hour in a comfortable place. Napping removes 1 Fatigue.
+There are two kinds of rests: <b>Sleeps</b> and <b>Naps</b>. To Sleep, you must find a shelter where there is no immediate danger. Sleeping for 8 hours removes all accumulated Fatigue. To Nap, you need an hour in a comfortable place. Napping removes 1 Fatigue. You can only Nap once per day.
 
 While resting, you can eat <b>Food</b> in your Inventory. Doing so, you heal all your Vigor to its maximum.
 
