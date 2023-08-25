@@ -39,7 +39,7 @@ You've got a great sense of smell, and can use your sense of smell as a tool, wi
 ## Faction abilities
 Choose 1.
 
-### Diplomatic immunity
+### Puppy eyes
 If you do something mildly against the law, people will tend to let it slide. If it's <i>really</i> against the law, they'll still let it slide, but you'll have to explain yourself to the Dog Barons before using this ability again.
 
 ### Unbreakable spirit
