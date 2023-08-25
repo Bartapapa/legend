@@ -34,9 +34,9 @@ Big book about X (tool d6)
 ## Core ability
 
 ### Flight
-As long as you aren't carrying a Heavy object, you can fly.
+As long as you aren't carrying a Heavy tool, you can fly.
 
-## Additional abilities
+## Faction abilities
 Choose 1. If you've <i>done something great</i> by the end of the session, get one more.
 
 ### Crow's pact
@@ -46,7 +46,7 @@ If you shake hands with someone willing, they can't tell lies to you, nor you to
 If you merge two objects together, they lose all their traits and you create 1 <i>treasure</i> of the same quality as the lowest-quality item you just merged.
 
 ### Crow's cant
-YOu can make simple sounds with your mouth, and they seem perfectly natural. You can talk in this way to other crows, who understand you as if you were speaking normally.
+You can make simple sounds with your mouth, and they seem perfectly natural. You can talk in this way to other crows, who understand you as if you were speaking normally.
 
 ***
 
