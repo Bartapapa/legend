@@ -37,7 +37,6 @@ Fancy clothes (d6)
 You can use Grace instead of Might to attack in close-combat. Additionally, you always have your claws as a tool, with a quality of d6.
 
 ## Faction abilities
-Choose 1.
 
 ### Catnap
 You can Nap as many times as you want per day. If you Nap on a friend, they also heal 1 Fatigue. 
