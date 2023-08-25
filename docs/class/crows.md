@@ -48,8 +48,8 @@ If you merge two objects together, they lose all their traits and you create 1 <
 ### Crow's cant
 You can make simple sounds with your mouth, and they seem perfectly natural. You can talk in this way to other crows, who understand you as if you were speaking normally.
 
-### Shadow veil
-If you don't move while in a shadow, you're invisible to everyone else.
+### Well-versed
+If you stay in an inhabited area for an hour, you find out one problem the people have. The first time you enter an area with a proper name, the GM tells you one tidbit of useful information you didn't already know.
 
 ### Stargazer
 Once per night, as long as you can see the sky, you can ask it one question like 'If I do X, will Y happen?'. The GM will answer you honestly.
