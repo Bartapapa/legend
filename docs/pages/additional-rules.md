@@ -6,6 +6,12 @@ permalink: /additional-rules/
 <small>Additional rules that are used in conjunction with the base rules. Certain spells and abilities refer to some of these rules.</small>
 
 ***
+## Social
+
+### Keys & Locks
+During interactions, NPCs have what are called <b>Keys and Locks</b>. They illustrate what the character <i>wants</i> and <i>hates</i> respectively. When interacting with this character, bringing up one of its Keys or Locks (wittingly or not) has a consequence: a Reaction roll is made, with a number of boons as the number of Keys that have been brought up, and a number of banes as the number of Locks that have been brought up.
+
+***
 ## Adventuring 
 
 ### Light
