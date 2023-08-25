@@ -48,7 +48,10 @@ For every treasure you have in your Inventory, you can ignore 1 Fatigue (stick i
 When you reach a new level of Depth, you can recover 1 Fatigue. You count any subterranean conditions as being comfortable to rest in. By staying in an area underground for an hour, you have a general sense of what is the most dangerous thing that lives there.
 
 ### Preach
-When you speak aloud for an hour in an inhabited area, you attract an audience of 20 animals (50 if you're underground). They are captivated by you while you continue speaking. Once per day, as you're preaching, you can cast Suggestion as if you had the spellbook. 
+When you speak aloud for an hour in an inhabited area, you attract an audience of 20 animals (50 if you're underground). They are captivated by you while you continue speaking. Once per day, as you're preaching, you can cast Suggestion as if you had the spellbook, but this targets all creatures listening to you.
+
+### Stubborn
+Magical effects that have a maximum [size] less than the [size] of your Vigor don't affect you. 
 
 ***
 
