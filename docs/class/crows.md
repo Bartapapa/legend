@@ -19,13 +19,13 @@ Discover the truth behind a great secret.
 Big book about X (tool d6)
 
 ## Background
-| <b>1d6</b> | Name           | Additional stuff                               |
+| 1d6        | Name           | Additional stuff                               |
 |:-----------|:---------------|:-----------------------------------------------|
 | 1          | Trickster      | Wooden whistle (d6) <b>and</b> Keychain (d6)   |
 | 2          | Mailcrow       | Letter opener (d8)                             |
 | 3          | Farmbird       | Scarecrow pipe (d6) <b>and</b> Scarf (d6)      |
-| 4          | Treasure-seeker| Soda can tab jewelry (treasure, d6)            |
-| 5          | +0             | +1                                             |
+| 4          | Treasure-seeker | Soda can tab jewelry (treasure, d6)           |
+| 5          | Druid          | Bark cloak (armor) <b>and</b> Big stick (d6)   |
 | 6          | Firefriend     | Spellbook: Firefly <b>and</b> 1 Jar with a firefly (light) |
 
 ***
