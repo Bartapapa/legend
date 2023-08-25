@@ -10,7 +10,8 @@ permalink: /factions/
 
 
 
-<img src="/assets/img/CharacterPortrait.png"></img>
+<img src="/assets/img/CharacterPortrait.png">
+
 Great explorers from the Barking Baronnies, dogs search for glory in all things. Many of them leave the baronnies in search for faraway lands and adventure to be seen as Good Dogs when they proudly return home.
 ***
 ## <a href="{{ site.baseurl }}/factions/cats">Cats</a>
