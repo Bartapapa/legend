@@ -11,7 +11,7 @@ permalink: /factions/boars
 ***
 
 ## Path to greatness
-Lay your eyes upon a place that hasn't been seen in hundreds of years.
+Protect nature against encroaching civilization.
 
 ***
 
@@ -22,12 +22,12 @@ Hard hat (armor)
 
 | 1d6        | Name           | Additional stuff                               |
 |:-----------|:---------------|:-----------------------------------------------|
-| 1          | Emissary       | Walking stick (d6) <b>and</b> Beetlecloak (armor) |
-| 2          | Parish priest  | Bag of incense (d6) <b>and</b> Stone symbol (treasure, d4) |
-| 3          | Forgotten      | 3 Candles (light) <b>and</b> Dirty map of the Realms Below (d6) |
-| 4          | Deep digger    | Iron pick (d6) <b>and</b> Dried beetle guts (food) |
-| 5          | Architect      | Bubble level (d6) <b>and</b> Plank of wood (d6) |
-| 6          | Cultist        | Heavy cloak (d6) <b>and</b> Bag of black dust (d6) |
+| 1          | Shaman         | Walking stick (d6) <b>and</b> Beetlecloak (armor) |
+| 2          | Tribal warrior | Bag of incense (d6) <b>and</b> Stone symbol (treasure, d4) |
+| 3          | Hunter         | 3 Candles (light) <b>and</b> Dirty map of the Realms Below (d6) |
+| 4          | Gatherer       | Iron pick (d6) <b>and</b> Dried beetle guts (food) |
+| 5          | Witch-doctor   | Bubble level (d6) <b>and</b> Plank of wood (d6) |
+| 6          | Lone traveler  | Heavy cloak (d6) <b>and</b> Bag of black dust (d6) |
 
 ***
 
