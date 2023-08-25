@@ -116,6 +116,8 @@ When exploring or going through a locale, like a house, a dungeon, or the ruins 
 
 When exploring the great outdoors, where the scale becomes entire forests and mountains, actions take up what's called a <b>Watch</b> (or 4 hours). The great outdoors is made up of interconnected <b>Areas</b>. There are 6 Watches in a day: Dawn, Midday, Afternoon, Evening, Dusk, Midnight. Moving from one Area to a connected one takes a Watch. A good sleep takes 2 Watches.
 
+Spending time doing strenuous physical activity causes the character to suffer <b>Fatigue</b>. Fatigue takes up 1 slot in the character's Inventory.
+
 </details>
 
 <details markdown="1">
