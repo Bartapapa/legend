@@ -9,7 +9,7 @@ permalink: /factions/
 <table cellspacing="300">
     <tr>
       <td>
-        <img align="left" src="https://github.com/Bartapapa/legend/blob/main/docs/assets/img/CharacterPortrait.png">
+        <img align="left" width=250px src="/assets/img/CharacterPortrait.png">
       </td>
       <td>
       <h1> <a href="{{ site.baseurl }}/factions/dogs">Dogs</a> </h1>
