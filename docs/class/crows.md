@@ -11,7 +11,7 @@ permalink: /factions/crows
 ***
 
 ## Path to greatness
-Discover the truth behind a great secret.
+Discover the truth behind a secret.
 
 ***
 
