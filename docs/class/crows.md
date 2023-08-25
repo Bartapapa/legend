@@ -19,6 +19,7 @@ Discover the truth behind a great secret.
 Big book about X (tool d6)
 
 ## Background
+
 | 1d6        | Name           | Additional stuff                               |
 |:-----------|:---------------|:-----------------------------------------------|
 | 1          | Trickster      | Wooden whistle (d6) <b>and</b> Keychain (d6)   |
