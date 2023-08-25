@@ -8,9 +8,10 @@ permalink: /factions/crows
 >
 ><p style="text-align: right">- Person who said something</p>
 
-<b><u>Starting equipment:</u></b> 1 Big book (tool d6)
+***
 
-<b><u>Path to greatness:</u></b> Discover the truth behind a great secret.
+## Path to greatness
+Discover the truth behind a great secret.
 
 ***
 
