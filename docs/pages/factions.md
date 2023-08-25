@@ -19,10 +19,6 @@ permalink: /factions/
     </tr>
   </table>
 
-
-
-
-***
 ## <a href="{{ site.baseurl }}/factions/cats">Cats</a>
 
 Sly and proud, most of the Lands That Be Here belong to the Tabby Duke, and adventuring cats roam in search for treasures to bring back to the Duke to be well-seen upon their return.
