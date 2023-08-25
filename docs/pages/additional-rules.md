@@ -30,7 +30,7 @@ A follower is an NPC who helps the player character in different ways according 
 ## Adventuring
 
 ### Exhaustion
-Whenever a character does something particularly straining on their body, such as staying up an entire night, trekking through heat or cold for hours on end, not eating or not drinking for a day, etc, they suffer 1 Wound. 
+Whenever a character does something particularly straining on their body, such as staying up an entire night, trekking through heat or cold for hours on end, not eating or not drinking for a day, etc, they suffer 1 Fatigue. 
 
 ### Light
 Not many characters can see in the dark. They need light to be able to act well. Characters who are unlit and need light to see have a bane on any action involving eyesight. Denizens of the underground never need light to act well.
