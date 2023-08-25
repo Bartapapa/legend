@@ -27,7 +27,7 @@ Big book about X (tool d6)
 | 3          | Farmbird       | Scarecrow pipe (d6) <b>and</b> Scarf (d6)      |
 | 4          | Treasure-seeker | Soda can tab jewelry (treasure, d6)           |
 | 5          | Druid          | Bark cloak (armor) <b>and</b> Big stick (d6)   |
-| 6          | Firefriend     | Spellbook: Firefly <b>and</b> 1 Jar with a firefly (light) |
+| 6          | Firefriend     | Spellbook: Firefly <b>and</b> 1 Jar with a firefly (light, d4) |
 
 ***
 
