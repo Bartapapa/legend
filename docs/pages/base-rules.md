@@ -89,7 +89,14 @@ Some tools have Traits, which give a bit more info on how it can be used. It can
 
 <details markdown="1">
 <summary><b>Combat</b></summary>
+Combat starts when someone first attempts to attack. At the start of combat, roll Grace. If you have at least 1 success, you go before your enemies. If you're surprised, your enemies go first - if you surprise them, you go first.
 
+When attacking someone, roll. Generally, it's a Might roll (if close combat) or a Grace roll (if ranged combat). If you succeed, you deal 1 damage per success. You deal additional damage based on your <i>degree of success</i>, that is to say by how many steps of two your highest success goes over 4.
+
+<details markdown="1">
+<summary><i>Example attack</i></summary>
+You attack with a Big Stick (d6). You roll your Might, which is a d6, as well as the quality of the used tool, which is a d6. By rolling 2d6, you roll a 4 and a 6. It's a complete success! Two successes mean 2 damage, but your 6 is 2 points higher than 4, so it increases your degree of success. With all taken into account, you deal 3 damage (2 successes + 1 degree of success).
+</details>
 
 </details>
 
