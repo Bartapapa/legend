@@ -11,23 +11,23 @@ permalink: /factions/cats
 ***
 
 ## Path to greatness
-Discover the truth behind a great secret.
+Recover a great treasure from a guarded place.
 
 ***
 
 ## Core stuff
-Big book about X (d6)
+Fancy clothes (d6)
 
 ## Background
 
 | 1d6        | Name           | Additional stuff                               |
 |:-----------|:---------------|:-----------------------------------------------|
-| 1          | Trickster      | Wooden whistle (d6) <b>and</b> Keychain (d6)   |
-| 2          | Mailcrow       | Letter opener (d8)                             |
-| 3          | Farmbird       | Scarecrow pipe (d6) <b>and</b> Scarf (d6)      |
-| 4          | Treasure-seeker | Soda can tab jewelry (treasure, d6)           |
-| 5          | Druid          | Bark cloak (armor) <b>and</b> Big stick (d6)   |
-| 6          | Firefriend     | Spellbook: Firefly <b>and</b> 1 Jar with a firefly (light, d4) |
+| 1          | Gutter noble   | Big boots (d6) <b>and</b> Box of matches (d6)  |
+| 2          | Longshank noble | Thin collar (d6) <b>and</b>                              |
+| 3          | Saltland noble |  <b>and</b>       |
+| 4          | Alpine noble   | Bag of small stones (d6) <b>and</b>           |
+| 5          | Sunkissed noble |    |
+| 6          | High noble     |  |
 
 ***
 
@@ -41,6 +41,12 @@ Choose 1.
 
 ### Catnap
 You can Nap as many times as you want per day. If you Nap on a friend, they also heal 1 Fatigue. 
+
+### Fat cat
+You have money for days. If you or your friends need any mundane item, you can buy it, no questions asked.
+
+### Very fancy
+If you have fancy clothes, it acts as armor as long as you don't have any other armor. You can use the quality of any particularly fancy or valuable tool you have instead of your Wit in Reaction rolls.
 
 ***
 
