@@ -37,7 +37,6 @@ Small wooden instrument (d6)
 When you stay somewhere where there are other people for a while, you automatically make a friend. They'll help you with certain things if you ask them nicely.
 
 ## Faction abilities
-Choose 1.
 
 ### People-reading
 When you meet someone, you know 1 thing they love, and 1 thing they hate. If using the Lock & Key system, you learn 1 of each. You have a hunch when people are trying to hide their true intentions.
