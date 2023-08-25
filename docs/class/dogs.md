@@ -22,12 +22,12 @@ Large colorful cape (d6)
 
 | 1d6        | Name           | Additional stuff                               |
 |:-----------|:---------------|:-----------------------------------------------|
-| 1          | Knight errant  | Wooden whistle (d6) <b>and</b> Keychain (d6)   |
-| 2          | Mailcrow       | Letter opener (d8)                             |
-| 3          | Farmbird       | Scarecrow pipe (d6) <b>and</b> Scarf (d6)      |
-| 4          | Treasure-seeker | Soda can tab jewelry (treasure, d6)           |
-| 5          | Druid          | Bark cloak (armor) <b>and</b> Big stick (d6)   |
-| 6          | Firefriend     | Spellbook: Firefly <b>and</b> 1 Jar with a firefly (light, d4) |
+| 1          | Knight errant  | Sword (d8) <b>and</b> Shield (armor)           |
+| 2          | Scrapper       | Long chain (d6) <b>and</b> Tasty junk (treasure, d4) |
+| 3          | Guide          | Blue vest (armor) <b>and</b> Flashlight (light, d6) |
+| 4          | Herder         | Cow bell (d6) <b>and</b> Big stick (d6)        |
+| 5          | Ruffrider      | Spiky collar (d8)                              |
+| 6          |      | Spellbook: Firefly <b>and</b> 1 Jar with a firefly (light, d4) |
 
 ***
 
@@ -37,13 +37,13 @@ Large colorful cape (d6)
 As long as you aren't carrying a Heavy tool, you can fly.
 
 ## Faction abilities
-Choose 1. If you've <i>done something great</i> by the end of the session, get one more.
+Choose 1.
 
-### Crow's pact
-If you shake hands with someone willing, they can't tell lies to you, nor you to them.
+### Diplomatic immunity
+If you do something mildly against the law, people will tend to let it slide.
 
-### Artist
-If you merge two objects together, they lose all their traits and you create 1 <i>treasure</i> of the same quality as the lowest-quality item you just merged.
+### Unbreakable spirit
+Once per day, for one scene, you can choose to ignore all Fatigue you would gain. Additionally, you're immune to being afraid.
 
 ### Crow's cant
 You can make simple sounds with your mouth, and they seem perfectly natural. You can talk in this way to other crows, who understand you as if you were speaking normally.
