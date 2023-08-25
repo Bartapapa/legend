@@ -154,16 +154,8 @@ When you advance, you get to do one of the following:
 
 <details markdown="1">
 <summary><b>Spellcasting</b></summary>
-If you have a <b>Spellbook</b>, you can cast the associated spell.
-
-Some people can cast spells. They have <b>Magic Dice</b> (or <b>MD</b>) that they use to do so. For every <b>Magical</b>b> object the character has in their Inventory or Mind, they gain 1 Magic Dice, which is a d6.
+If you have a <b>Spellbook</b>, you can cast the associated spell. Roll Wit and add a d6. The effects of the spell depend on the [sum] of the results, the [size] of the biggest die, and the [degrees] of success.
   
-<u><b>Casting a spell:</b></u> Whenever you cast a spell, you decide how many MD to invest in it, up to your maximum number of MD or 4, whichever is lower. The effects of the spell depend on the number of [dice] invested, as well as the [sum] of all results.
-
-If an MD rolls a 6, you lose it, and can't use it anymire. Generally, classes recuperate lost MD after a good rest, although some of them don't.
-
-Every time you roll doubles (the same result on 2 different dice), there's a <b>[Mishap](https://bartapapa.github.io/legend/spells)</b>.
+On a failure, the spell cannot be cast any more for the day, and needs to be recharged. If you roll doubles, a <b>Mishap</b> occurs along with the usual effects. The GM determines what happens according to the spell and situation.
 
 </details>
-
-<a href="{{ "/" | absolute_url }}">Home</a>
