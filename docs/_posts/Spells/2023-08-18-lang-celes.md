@@ -3,6 +3,6 @@ layout: post
 tags: spell
 title: Lang celes
 ---
-You speak the language of stars, allowing you to speak a prophecy of [sum] words or less - <i>this prophecy will happen</i>. It is up to the GM to interpret it. When speaking a prophecy, you cannot speak any proper nouns (specific places, specific names, etc) nor designate any specific thing (that tree, this person, etc), although general titles work fine (the warlord, she who banishes night, etc).
+You speak the language of stars, allowing you to ask a question of [sum] words to the stars if they can see you. They'll answer you as honestly as possible, however the stars are fickle and playful, and won't necessarily give you all the details.
 
 <b>Recharge:</b> before going to sleep, tell it one of your deepest regrets. It'll be recharged next morning if the regret was deep enough.
