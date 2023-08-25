@@ -16,7 +16,7 @@ Put yourself in danger for someone else's sake.
 ***
 
 ## Core stuff
-Big book about X (tool d6)
+Large colorful cape (d6)
 
 ## Background
 
