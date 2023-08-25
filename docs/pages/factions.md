@@ -4,21 +4,10 @@ title: Factions
 permalink: /factions/
 ---
 
+## <a href="{{ site.baseurl }}/factions/dogs">Dogs</a>
+
+Great explorers from the Barking Baronnies, dogs search for glory in all things. Many of them leave the baronnies in search for faraway lands and adventure to be seen as Good Dogs when they proudly return home.
 ***
-
-<table cellspacing="300">
-    <tr>
-      <td>
-        <img align="left" width=250px src="/assets/img/CharacterPortrait.png">
-      </td>
-      <td>
-      <h1> <a href="{{ site.baseurl }}/factions/dogs">Dogs</a> </h1>
-
-      <p> Great explorers from the Barking Baronnies, dogs search for glory in all things. Many of them leave the baronnies in search for faraway lands and adventure to be seen as Good Dogs when they proudly return home. </p>
-      </td>
-    </tr>
-  </table>
-
 ## <a href="{{ site.baseurl }}/factions/cats">Cats</a>
 
 Sly and proud, most of the Lands That Be Here belong to the Tabby Duke, and adventuring cats roam in search for treasures to bring back to the Duke to be well-seen upon their return.
