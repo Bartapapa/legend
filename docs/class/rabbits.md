@@ -22,12 +22,12 @@ Small wooden instrument (d6)
 
 | 1d6        | Name           | Additional stuff                               |
 |:-----------|:---------------|:-----------------------------------------------|
-| 1          | Taleteller     | Sword (d8) <b>and</b> Shield (armor)           |
-| 2          | Scrapper       | Long chain (d6) <b>and</b> Tasty junk (treasure, d4) |
-| 3          | Guide          | Blue vest (armor) <b>and</b> Flashlight (light, d6) |
-| 4          | Herder         | Cow bell (d6) <b>and</b> Big stick (d6)        |
-| 5          | Ruffrider      | Spiky collar (d8)                              |
-| 6          |      | Spellbook: Firefly <b>and</b> 1 Jar with a firefly (light, d4) |
+| 1          | Taleteller     | Book of stories (d6) <b>and</b> Small bell (d6)|
+| 2          | Convoy lead    | Map of local area (d6) <b>and</b> Carriage wheel (heavy, d6) |
+| 3          | Acrobat        | Long rope (d6) <b>and</b> Big ball (d6)        |
+| 4          | Dancer         | 3 Colorful trailers (d6) <b>and</b> Supple boots (d6) |
+| 5          | Convoy cook    | Bent ladle (d4) <b>and</b> 3 Carrots (food)    |
+| 6          | Beetle tamer   | Stag beetle (alive, d6) <b>and</b> Twine leash (d6) |
 
 ***
 
@@ -51,14 +51,12 @@ As long as you have a roaring fire and can tell a story for your friends out lou
 ### Hopped up
 You can use your legs as a tool with a quality of d8. Once per scene, you can state that you rolled the maximum of 8 on your die, although you suffer 1 Fatigue after doing so.
 
-### Sprinter
-You always run faster than things you see. Once per scene, you can run faster than something that's supposed to be much faster than you - but you take 1 Fatigue after doing so.
+### Charming
+As long as you do the talking, you roll a d8 on Reaction rolls. Once per day, you can cast Charm as if you had the spellbook.
 
 ***
 
-## Crow society
-
-## The Firefly Accord
+## Nomadic convoys
 
 
 
