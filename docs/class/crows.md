@@ -37,7 +37,6 @@ Big book about X (d6)
 As long as you aren't carrying a Heavy tool, you can fly.
 
 ## Faction abilities
-Choose 1.
 
 ### Crow's pact
 If you shake hands with someone willing, they can't tell lies to you, nor you to them.
