@@ -27,7 +27,7 @@ Large colorful cape (d6)
 | 3          | Guide          | Blue vest (armor) <b>and</b> Flashlight (light, d6) |
 | 4          | Herder         | Cow bell (d6) <b>and</b> Big stick (d6)        |
 | 5          | Ruffrider      | Spiky collar (d8)                              |
-| 6          |      | Spellbook: Firefly <b>and</b> 1 Jar with a firefly (light, d4) |
+| 6          | Warden         | Scaled armor (armor, heavy) <b>and</b> Flag (d6) |
 
 ***
 
