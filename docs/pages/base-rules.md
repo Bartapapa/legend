@@ -88,6 +88,7 @@ Some tools have Traits, which give a bit more info on how it can be used. It can
 *  <b>Light.</b> This illuminates your surroundings.
 *  <b>Armor.</b> Damage you take by being attacked is reduced by 1. If it's Heavy, it's reduced by 2. You can only wear 1 Armor at a time.
 *  <b>Ranged.</b> You can use this tool from far away.
+*  <b>Food.</b> When resting, this heals your Vigor to max.
 </details>
 
 ***
@@ -107,7 +108,7 @@ You attack with a Big Stick (d6). You roll your Might, which is a d6, as well as
 </details>
 
 ***
-## Exploration and Encounters
+## Exploration, Encounters and Resting
 
 <details markdown="1">
 <summary><b>Exploration</b></summary>
@@ -128,6 +129,14 @@ When first meeting with a creature and the GM isn't sure of the kind of first im
 | 6-8           | Neutral    | Neutral     | Freeze      | Threaten  |
 | 9-11          | Friendly   | Amicable    | Ignore      | Offer aid |
 | 12            | Helpful    | High esteem | Accepts aid | Grovel    |
+
+</details>
+
+<details markdown="1">
+<summary><b>Resting</b></summary>
+There are two kinds of rests: <b>Sleeps</b> and <b>Naps</b>. To Sleep, you must find a shelter where there is no immediate danger. Sleeping for 8 hours removes all accumulated Fatigue. To Nap, you need an hour in a comfortable place. Napping removes 1 Fatigue.
+
+While resting, you can eat <b>Food</b> in your Inventory. Doing so, you heal all your Vigor to its maximum.
 
 </details>
 
