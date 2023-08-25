@@ -11,7 +11,7 @@ permalink: /factions/dogs
 ***
 
 ## Path to greatness
-Put yourself in danger for someone else's sake.
+Accomplish a quest, because it was the right thing to do.
 
 ***
 
@@ -45,14 +45,8 @@ If you do something mildly against the law, people will tend to let it slide.
 ### Unbreakable spirit
 Once per day, for one scene, you can choose to ignore all Fatigue you would gain. Additionally, you're immune to being afraid.
 
-### Crow's cant
-You can make simple sounds with your mouth, and they seem perfectly natural. You can talk in this way to other crows, who understand you as if you were speaking normally.
-
-### Shadow veil
-If you don't move while in a shadow, you're invisible to everyone else.
-
-### Stargazer
-Once per night, as long as you can see the sky, you can ask it one question like 'If I do X, will Y happen?'. The GM will answer you honestly.
+### Great might
+Once per day, you can automatically roll the maximum result for your Might die. Creatures who have less Might than you will often try to avoid getting into a conflict with you.
 
 ***
 
