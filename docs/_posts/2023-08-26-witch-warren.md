@@ -23,6 +23,7 @@ Without the mill working, the villagers will have a hard time making food for th
 <details markdown="1">
 <summary><b>Character drives</b></summary>
 Here are some reasons why the different factions could take an interest in Thrushvale's predicament:
+  
 *  <b>Cats:</b> when the mayor left for the forest, he brought with him his shiny golden pendant. When he came back, he didn't have it anymore - it was surely taken by the witch, and you can go grab it for yourself.
 *  <b>Dogs:</b> the dog barons sent you to help the farmers of Thrushvale, who are too far into the wilds of the duchy to be adequately helped.
 *  <b>Crows:</b> the fireflies called upon the Firefly Accord to send you to investigate the forest, as they're too scared to venture in after the disappearance of the last scouting force sent there.
