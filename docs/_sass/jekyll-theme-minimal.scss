@@ -112,6 +112,13 @@ blockquote {
   font-style:italic;
 }
 
+blockquote-gm {
+  border-left:1px solid #d7dbb8;
+  margin:0;
+  padding:0 0 0 20px;
+  font-style:italic;
+}
+
 code, pre {
   font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
   color:#333;
