@@ -11,7 +11,7 @@ permalink: /factions/moles
 ***
 
 ## Path to greatness
-Lay your eyes upon a place that hasn't been seen in hundreds of years.
+Lay your eyes upon a place that hasn't touched light in hundreds of years.
 
 ***
 
