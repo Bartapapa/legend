@@ -16,6 +16,24 @@ In general, for this adventure,
 <blockquotegm>Things that are written like this are bits of advice specifically for you.</blockquotegm>
 
 ## Context
+Thrushvale is a small village of around 100 inhabitants, situated at the edge of the duchy's territory, right south of the mountain range separating it from the Barking Baronnies. To the west of it is a small forest that the villagers would go to - children, woodsmen and frolicking lovers. However, since several weeks now, Thrushvale has suffered recently, as the small river used to spin the watermill has gone dry, and not but a week after, a witch took residence in it, transforming villagers who wander into the woods into toads!
+
+Without the mill working, the villagers will have a hard time making food for the upcoming winter, and they can't see what's going on with the river upstream due to the witch. Not only that, but the town mayor has been turned into a toad, and he looks as if he's about to croak. 
+
+<details markdown="1">
+<summary><b>Character drives</b></summary>
+Here are some reasons why the different factions could take an interest in Thrushvale's predicament:
+*  <b>Cats:</b> when the mayor left for the forest, he brought with him his shiny golden pendant. When he came back, he didn't have it anymore - it was surely taken by the witch, and you can go grab it for yourself.
+*  <b>Dogs:</b> the dog barons sent you to help the farmers of Thrushvale, who are too far into the wilds of the duchy to be adequately helped.
+*  <b>Crows:</b> the fireflies called upon the Firefly Accord to send you to investigate the forest, as they're too scared to venture in after the disappearance of the last scouting force sent there.
+*  <b>Rabbits:</b> these are all new people to meet, and there's surely an interesting story to tell after you deal with whatever's going on here.
+*  <b>Rats:</b> by helping the villagers of Thrushvale, you also show that the Tabby duke is an inadequate protector of their own lands.
+*  <b>Moles:</b> other moles have determined that the dried-up river is an artesian well - now that it's dry, this could be an opportunity to explore its galleries underground once the danger is cleared.
+*  <b>Boars:</b> the bugs of Thrushvale forest have all but disappeared. Investigate what is going on and put a stop to it.
+
+<blockquotegm>Having reasons why one or more characters of the group are interested in doing the adventure, you also have a direct reason as to why they're all together in the first place. Don't stop your players from coming up with their own ideas as to why they're in Thrushvale - perhaps the miller's a friend, or a parent calls upon an uncle or aunt to find a way to turn the children back into what they were before.</blockquotegm>
+
+</details>
 
 ## Location
 
