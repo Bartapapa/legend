@@ -132,20 +132,20 @@ When a tool has the <b>Treasure</b> trait, it also has a Quality. You can exchan
 | Big stick        | d6      |
 | 3 wooden stakes  | d6      |
 
-| Exotic tools     | Quality |
-|:-----------------|:--------|
-| Air bladder      | d6      |
-| Antitoxin        | d8      |
-| Beetle trap      | d8      |
-| Bug repellent    | d6      |
-| Censer           | d6      |
-| Fire oil         | d8      |
-| Folding ladder   | d6      |
-| Snowcoat         | d8      |
-| Manacles         | d6      |
-| Spirit ward      | d8      |
-| Spyglass         | d8      |
-| Tinderbox        | d8      |
+| Exotic tools      | Quality |
+|:------------------|:--------|
+| Air bladder       | d6      |
+| Antitoxin         | d8      |
+| Beetle trap       | d8      |
+| Bug repellent     | d6      |
+| Censer            | d6      |
+| Fire oil          | d8      |
+| Folding ladder    | d6      |
+| Snowcoat          | d8      |
+| Manacles          | d6      |
+| Spirit ward       | d8      |
+| Spyglass          | d8      |
+| Tinderbox         | d8      |
 
 | Weapons | Quality |
 |:-----------------|:--------|
