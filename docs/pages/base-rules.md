@@ -131,8 +131,9 @@ When a tool has the <b>Treasure</b> trait, it also has a Quality. You can exchan
 | Whistle          | d6      |
 | Big stick        | d6      |
 | 3 wooden stakes  | d6      |
+|   |     |
 |:------------------|:--------|
-| Exotic tools      | Quality |
+| <b>Exotic tools</b>      | <b>Quality</b> |
 |:------------------|:--------|
 | Air bladder       | d6      |
 | Antitoxin         | d8      |
@@ -146,8 +147,9 @@ When a tool has the <b>Treasure</b> trait, it also has a Quality. You can exchan
 | Spirit ward       | d8      |
 | Spyglass          | d8      |
 | Tinderbox         | d8      |
+|  |       |
 |:------------------|:--------|
-| Weapons | Quality |
+| <b>Weapons</b> | <b>Quality</b> |
 |:-----------------|:--------|
 | Light weapons (daggers) | d6     |
 | Medium weapons (swords) | d8     |
@@ -155,12 +157,14 @@ When a tool has the <b>Treasure</b> trait, it also has a Quality. You can exchan
 | Light ranged (slings)   | d6     |
 | Heavy ranged (bows)     | d8     |
 |:------------------|:--------|
-| Armor | Cost |
+|  |       |
+| <b>Armor</b> | <b>Cost</b> |
 |:-----------------|:--------|
 | Light armor      | 8       |
 | Heavy armor      | 10      |
 |:------------------|:--------|
-| Light sources    | Quality |
+|  |       |
+| <b>Light sources</b>    | <b>Quality</b> |
 |:-----------------|:--------|
 | Torch            | d4      |
 | Oil Lantern      | d6      |
@@ -168,7 +172,8 @@ When a tool has the <b>Treasure</b> trait, it also has a Quality. You can exchan
 | Oil (for lantern)| cost 2  |
 | Battery (for flashlight)| cost 6  |
 |:------------------|:--------|
-| Lodging and food | Cost    |
+|  |       |
+| <b>Lodging and food</b> | <b>Cost</b>    |
 |:-----------------|:--------|
 | Dormitory bed (per night) | 1 |
 | Private room (per night)  | 2 |
@@ -176,14 +181,16 @@ When a tool has the <b>Treasure</b> trait, it also has a Quality. You can exchan
 | Warm meal        | 1 |
 | Feast            | 6 |
 |:------------------|:--------|
-| Transport        | Cost    |
+|  |       |
+| <b>Transport</b>        | <b>Cost</b>    |
 |:-----------------|:--------|
 | <i>Cost is per person, per area of distance</i> |       |
 | Beetle bus       | 2       |
 | River raft       | 4       |
 | Moletrain        | 6       |
 |:------------------|:--------|
-| Hired help       | Cost    |
+|  |       |
+| <b>Hired help</b>       | <b>Cost</b>    |
 |:-----------------|:--------|
 | <i>Cost is per day</i> |       |
 | Torchbearer      | 1     |
