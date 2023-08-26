@@ -11,7 +11,7 @@ permalink: /factions/boars
 ***
 
 ## Path to greatness
-Protect nature against encroaching civilization.
+Protect nature against encroaching civilization or animals who would overuse its resources.
 
 ***
 
