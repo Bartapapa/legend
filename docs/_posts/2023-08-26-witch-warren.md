@@ -74,5 +74,6 @@ The toad tunnels are far too humid, and stink of frog poo. There's a constant we
 ### Encounters
 
 ### Strange things
+If you cast Make delicious on a toad, they turn into a frog permanently. You need to corrupt a make delicious spell to turn frogs into toads.
 
 ### Character reactions
