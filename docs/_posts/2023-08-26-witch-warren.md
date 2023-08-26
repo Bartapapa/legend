@@ -13,7 +13,7 @@ In general, for this adventure,
 *  List the things you don't like, or don't mesh with your world. Replace them with other things.
 *  Print the context information, maps, character information, as well as the tables.
 
-<blockquotegm><p>Things that are written like this are bits of advice specifically for you.</p></blockquotegm>
+<blockquotegm>Things that are written like this are bits of advice specifically for you.</blockquotegm>
 
 ## Context
 Thrushvale is a small village of around 100 inhabitants, situated at the edge of the duchy's territory, right south of the mountain range separating it from the Barking Baronnies. To the west of it is a small forest that the villagers would go to - children, woodsmen and frolicking lovers. However, since several weeks now, Thrushvale has suffered recently, as the small river used to spin the watermill has gone dry, and not but a week after, a witch took residence in it, transforming villagers who wander into the woods into toads!
@@ -39,7 +39,7 @@ Here are some reasons why the different factions could take an interest in Thrus
 ## Locations
 
 ### Thrushvale
-A small town of around 100 inhabitants situated right at the north-western border of the Duchy, next to the Barking Baronnies.
+A small town of around 100 inhabitants situated right at the north-western border of the Duchy, next to the Barking Baronnies. Its population is mostly cats from the Duchy, but there are several dogs who hail from the baronnies, as well as a few crows, rats and rabbits. The entire town is situated on the slope of a large hill at the foot of a mountain, right next to a river that strolls down, normally spinning a watermill. Right now, all that's left of it is dry mud and stone.
 
 <details markdown="1">
 <summary><b>Rumors heard in town (1d6)</b></summary>
@@ -54,12 +54,18 @@ A small town of around 100 inhabitants situated right at the north-western borde
 </details>
 
 ### Thrushvale forest
+The river that crosses Thrushvale goes through this forest, although it digs into the limestone below and disappears beneath roots and stone near where it enters this forest from the mountain's side. It only reappears near the edge of the eastern part of the forest, where it normally runs down to where Thrushvale is.
 
 ### Claypeak range
+The river that crosses Thrushvale takes its source here, from a waterfall visible on the other side of the mountain, which is a few days' walk from Thrushvale.
 
 ### Witch's warren
+Situated a couple of hours away from the town, Zaggy the witch has taken residence in a burrow of her own making, of which the entrance is right underneath he roots of a large oak tree with great big acorns, that she gathers to cook some food for herself. A few meters away from the entrance is a buzzing beehive made of wood and bark, home to a couple hundred bumblebees, some of them as big as the character's thumbs.
+
+Inside is warm and moist, and actually pretty comfortable with nice wooden furniture that is well-kept, even if there are some mold stains on the wood from the humidity. The interior is well-lit during the night, although Zaggy turns the lights off before she goes to sleep.
 
 ### Toad tunnels
+The toad tunnels are far too humid, and stink of frog poo. There's a constant wetness to the walls, which feel just as slimy and bumpy as a toad's skin. They're constantly dark inside.
 
 ## Characters
 
