@@ -46,6 +46,9 @@ As long as you aren't wearing any armor, you're counted as having 1 armor. Once 
 
 ### Ancestral commune
 
+### Surface explorer
+You know how to find food, find shelter, and protect your friends from any harmful conditions usually found in any area that the GM describes as damp, lush, wooded, grassy, or hilly.
+
 ***
 
-## Clerics of the Dirt Heart
+## Tribes of the duchy's edge
