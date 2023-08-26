@@ -36,7 +36,7 @@ Scurrying in dark pockets of lands unmonitered by the Tabby Duke, the ingenious 
 
 ## <a href="{{ site.baseurl }}/factions/moles">Moles</a>
 
-Whereas the rest of the factions remain on the surface, the moles remain in the dark to pray to the Dirt Mother. Rarely do moles take the tunnels to the surface, and it is often to preach the word of their goddess and return with more devout in their subterrannean lairs.
+Whereas the rest of the factions remain on the surface, the moles remain in the dark to pray to the Dirt Heart. Rarely do moles take the tunnels to the surface, and it is often to preach the word of their goddess and return with more devout in their subterrannean lairs.
 
 ***
 
