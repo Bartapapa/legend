@@ -31,3 +31,15 @@ Hailing mostly from the Lands Faraway, the rabbit nomads wander around in search
 ## <a href="{{ site.baseurl }}/factions/rats">Rats</a>
 
 Scurrying in dark pockets of lands unmonitered by the Tabby Duke, the ingenious rats are always looking to the Longshanks to discover new technologies that they'd be able to use when they return, to prepare for the imminent war.
+
+***
+
+## <a href="{{ site.baseurl }}/factions/moles">Moles</a>
+
+Whereas the rest of the factions remain on the surface, the moles remain in the dark to pray to the Dirt Mother. Rarely do moles take the tunnels to the surface, and it is often to preach the word of their goddess and return with more devout in their subterrannean lairs.
+
+***
+
+## <a href="{{ site.baseurl }}/factions/boars">Boars</a>
+
+On the fringes of the Tabby Duke's duchy and the Barking Baronnies lie the wild, insular tribes of the boars. Their bond with nature is strong, and few of them separate themselves from their tightly-knit families in search of adventure and to protect what remains of the natural world.
