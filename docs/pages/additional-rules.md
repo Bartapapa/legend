@@ -20,7 +20,7 @@ Not many characters can see in the dark. They need light to be able to act well.
 A character who has a light tool can illuminate their surroundings, and can illmuniate up to 3 other characters.
 
 ### Poisons and disease
-Poisons and disease will prevent characters from healing Fatigue when resting. Additionally, some poisons and disease will cause the character to gain Fatigue periodically.
+Poisons and disease will prevent characters from healing Fatigue when resting. Additionally, some poisons and disease will cause the character to gain Fatigue periodically. Not eating or drinking for a day is like being poisoned.
 
 ### Falling
 Characters lose 1 Vigor if they fall more than 3 meters, and an additional Vigor for every meter thereafter. Each heavy object held when falling makes it so you are considered to fall an additional meter.
