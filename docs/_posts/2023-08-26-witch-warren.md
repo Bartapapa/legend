@@ -32,7 +32,11 @@ Here are some reasons why the different factions could take an interest in Thrus
 *  <b>Moles:</b> other moles have determined that the dried-up river is an artesian well - now that it's dry, this could be an opportunity to explore its galleries underground once the danger is cleared.
 *  <b>Boars:</b> the bugs of Thrushvale forest have all but disappeared. Investigate what is going on and put a stop to it.
 
-<blockquotegm><p>Having reasons why one or more characters of the group are interested in doing the adventure, you also have a direct reason as to why they're all together in the first place. Don't stop your players from coming up with their own ideas as to why they're in Thrushvale - perhaps the miller's a friend, or a parent calls upon an uncle or aunt to find a way to turn the children back into what they were before.</p></blockquotegm>
+<blockquotegm>
+
+<p>Having reasons why one or more characters of the group are interested in doing the adventure, you also have a direct reason as to why they're all together in the first place. Don't stop your players from coming up with their own ideas as to why they're in Thrushvale - perhaps the miller's a friend, or a parent calls upon an uncle or aunt to find a way to turn the children back into what they were before.</p>
+
+</blockquotegm>
 
 </details>
 
