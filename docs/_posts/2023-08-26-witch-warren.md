@@ -13,7 +13,7 @@ In general, for this adventure,
 *  List the things you don't like, or don't mesh with your world. Replace them with other things.
 *  Print the context information, maps, character information, as well as the tables.
 
-<blockquotegm>Things that are written like this are bits of advice specifically for you.</blockquotegm>
+<blockquotegm><p>Things that are written like this are bits of advice specifically for you.</p></blockquotegm>
 
 ## Context
 Thrushvale is a small village of around 100 inhabitants, situated at the edge of the duchy's territory, right south of the mountain range separating it from the Barking Baronnies. To the west of it is a small forest that the villagers would go to - children, woodsmen and frolicking lovers. However, since several weeks now, Thrushvale has suffered recently, as the small river used to spin the watermill has gone dry, and not but a week after, a witch took residence in it, transforming villagers who wander into the woods into toads!
@@ -32,7 +32,7 @@ Here are some reasons why the different factions could take an interest in Thrus
 *  <b>Moles:</b> other moles have determined that the dried-up river is an artesian well - now that it's dry, this could be an opportunity to explore its galleries underground once the danger is cleared.
 *  <b>Boars:</b> the bugs of Thrushvale forest have all but disappeared. Investigate what is going on and put a stop to it.
 
-<blockquotegm>Having reasons why one or more characters of the group are interested in doing the adventure, you also have a direct reason as to why they're all together in the first place. Don't stop your players from coming up with their own ideas as to why they're in Thrushvale - perhaps the miller's a friend, or a parent calls upon an uncle or aunt to find a way to turn the children back into what they were before.</blockquotegm>
+<blockquotegm><p>Having reasons why one or more characters of the group are interested in doing the adventure, you also have a direct reason as to why they're all together in the first place. Don't stop your players from coming up with their own ideas as to why they're in Thrushvale - perhaps the miller's a friend, or a parent calls upon an uncle or aunt to find a way to turn the children back into what they were before.</p></blockquotegm>
 
 </details>
 
