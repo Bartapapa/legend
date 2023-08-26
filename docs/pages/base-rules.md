@@ -91,6 +91,111 @@ Some tools have Traits, which give a bit more info on how it can be used. It can
 *  <b>Food.</b> When resting, this heals your Vigor to max.
 </details>
 
+<details markdown="1">
+<summary><b>Treasure</b></summary>
+When a tool has the <b>Treasure</b> trait, it also has a Quality. You can exchange a treasure of one quality size for another object of equal or 3 objets of lower quality. By spending multiple treasures of the same quality, you can exchange it for something of one step higher quality (roll the treasure's quality die and add the results until they add up to the more valuable treasure's quality size).
+</details>
+
+<details markdown="1">
+<summary><b>Basic equipment</b></summary>
+
+| Common tools     | Quality |
+|:-----------------|:--------|
+| Bedroll          | d6      |
+| Bellows          | d6      |
+| Block and tackle | d6      |
+| Book about X     | d8      |
+| Bug lure         | d6      |
+| 3 Bottles        | d6      |
+| Bucket           | d6      |
+| Iron chain       | d6      |
+| Chisel           | d6      |
+| Cookpots         | d6      |
+| Crowbar          | d6      |
+| Bottle of glue   | d6      |
+| Jar of grease    | d6      |
+| Horn             | d6      |
+| Hourglass        | d8      |
+| Iron tongs       | d6      |
+| Lockpicks        | d8      |
+| Metal file       | d6      |
+| Metal glove      | d6      |
+| Mirror           | d8      |
+| Wooden instrument| d6      |
+| Twine net        | d6      |
+| Lock & key       | d6      |
+| Pick             | d6      |
+| Tweed rope       | d6      |
+| Shovel           | d6      |
+| Tent for two     | d6      |
+| Whistle          | d6      |
+| Big stick        | d6      |
+| 3 wooden stakes  | d6      |
+
+| Exotic tools     | Quality |
+|:-----------------|:--------|
+| Air bladder      | d6      |
+| Antitoxin        | d8      |
+| Beetle trap      | d8      |
+| Bug repellent    | d6      |
+| Censer           | d6      |
+| Fire oil         | d8      |
+| Folding ladder   | d6      |
+| Snowcoat         | d8      |
+| Manacles         | d6      |
+| Spirit ward      | d8      |
+| Spyglass         | d8      |
+| Tinderbox        | d8      |
+
+| Weapons | Quality |
+|:-----------------|:--------|
+| Light weapons (daggers) | d6     |
+| Medium weapons (swords) | d8     |
+| Heavy weapons (battleaxes) | d8     |
+| Light ranged (slings)   | d6     |
+| Heavy ranged (bows)     | d8     |
+
+| Armor | Cost |
+|:-----------------|:--------|
+| Light armor      | 8       |
+| Heavy armor      | 10      |
+
+| Light sources    | Quality |
+|:-----------------|:--------|
+| Torch            | d4      |
+| Oil Lantern      | d6      |
+| Flashlight       | d8      |
+| Oil (for lantern)| cost 2  |
+| Battery (for flashlight)| cost 6  |
+
+| Lodging and food | Cost    |
+|:-----------------|:--------|
+| Dormitory bed (per night) | 1 |
+| Private room (per night)  | 2 |
+| 3 Travel food    | 4 |
+| Warm meal        | 1 |
+| Feast            | 6 |
+
+| Transport        | Cost    |
+|:-----------------|:--------|
+| <i>Cost is per person, per area of distance</i> |       |
+| Beetle bus       | 2       |
+| River raft       | 4       |
+| Moletrain        | 6       |
+
+| Hired help       | Cost    |
+|:-----------------|:--------|
+| <i>Cost is per day</i> |       |
+| Torchbearer      | 1     |
+| Laborer          | 1     |
+| Tunneler         | 2     |
+| Smithee          | 4     |
+| Local guide      | 4     |
+| Mercenary        | 4     |
+| Sage             | 6     |
+  
+</details>
+
 ***
 ## Combat
 
