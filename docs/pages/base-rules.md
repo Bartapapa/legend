@@ -131,7 +131,7 @@ When a tool has the <b>Treasure</b> trait, it also has a Quality. You can exchan
 | Whistle          | d6      |
 | Big stick        | d6      |
 | 3 wooden stakes  | d6      |
-
+|:------------------|:--------|
 | Exotic tools      | Quality |
 |:------------------|:--------|
 | Air bladder       | d6      |
@@ -146,7 +146,7 @@ When a tool has the <b>Treasure</b> trait, it also has a Quality. You can exchan
 | Spirit ward       | d8      |
 | Spyglass          | d8      |
 | Tinderbox         | d8      |
-
+|:------------------|:--------|
 | Weapons | Quality |
 |:-----------------|:--------|
 | Light weapons (daggers) | d6     |
@@ -154,12 +154,12 @@ When a tool has the <b>Treasure</b> trait, it also has a Quality. You can exchan
 | Heavy weapons (battleaxes) | d8     |
 | Light ranged (slings)   | d6     |
 | Heavy ranged (bows)     | d8     |
-
+|:------------------|:--------|
 | Armor | Cost |
 |:-----------------|:--------|
 | Light armor      | 8       |
 | Heavy armor      | 10      |
-
+|:------------------|:--------|
 | Light sources    | Quality |
 |:-----------------|:--------|
 | Torch            | d4      |
@@ -167,7 +167,7 @@ When a tool has the <b>Treasure</b> trait, it also has a Quality. You can exchan
 | Flashlight       | d8      |
 | Oil (for lantern)| cost 2  |
 | Battery (for flashlight)| cost 6  |
-
+|:------------------|:--------|
 | Lodging and food | Cost    |
 |:-----------------|:--------|
 | Dormitory bed (per night) | 1 |
@@ -175,14 +175,14 @@ When a tool has the <b>Treasure</b> trait, it also has a Quality. You can exchan
 | 3 Travel food    | 4 |
 | Warm meal        | 1 |
 | Feast            | 6 |
-
+|:------------------|:--------|
 | Transport        | Cost    |
 |:-----------------|:--------|
 | <i>Cost is per person, per area of distance</i> |       |
 | Beetle bus       | 2       |
 | River raft       | 4       |
 | Moletrain        | 6       |
-
+|:------------------|:--------|
 | Hired help       | Cost    |
 |:-----------------|:--------|
 | <i>Cost is per day</i> |       |
