@@ -34,7 +34,7 @@ Roll 1d6 for your <b>Coin</b>.
 
 Choose a <b>[Faction](https://bartapapa.github.io/legend/factions)</b>. Get your Core ability and one Gift according to your Hit Protection, and determine your Background according to your Coin. You get the skill of your Background.
 
-Choose or roll your <b>[Faction](https://bartapapa.github.io/legend/drives)</b>. This is one of the ways for you to get stronger. It can change, if you wish.
+Choose or roll your <b>[Drive](https://bartapapa.github.io/legend/drives)</b>. This is one of the ways for you to get stronger. It can change, if you wish.
 
 You're done!
 </details>
