@@ -3,6 +3,7 @@ layout: post
 title: Drives
 permalink: /drives/
 ---
+<b>Drives</b> are a portion of your character's personality, and why they're doing trying to amass wealth and get notoriety. By choosing a drive, you get an additional way of gaining Adventure points - if by the end of a session, you accomplished your drive, you get 1000 adventure points. You can change drive when you level up - although this normally represents a great shift in your character's perception, so talk about it with your GM.
 
 ***
 ## Sagacity
