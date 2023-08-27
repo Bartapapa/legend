@@ -30,7 +30,7 @@ Roll 3d6, and add the best two results. Do this three times, noting down the res
 Roll 1d6 for your <b>Hit Protection</b>. This is the amount of damage you can take before getting seriously hurt.
 Roll 1d6 for your <b>Coin</b>. 
 
-Choose a <b>[Faction](https://bartapapa.github.io/legend/factions)</b>. Get your Core ability, your Core skill and one Gift according to your Hit Protection, and determine your Background according to your Coin. You get the skills marked by your Background.
+Choose a <b>[Faction](https://bartapapa.github.io/legend/factions)</b>. Get your Core ability and one Gift according to your Hit Protection, and determine your Background according to your Coin. You get the bonus skill of your Background.
 
 Choose or roll your <b>Drive</b>. This is one of the ways for you to get stronger. It can change, if you wish.
 
