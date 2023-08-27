@@ -3,28 +3,18 @@ layout: post
 title: Base Rules
 permalink: /base-rules/
 ---
-<small>Rules inspired by Arnold K's [Goblin Laws of Gaming (GLoG)](http://goblinpunch.blogspot.com/2020/04/lair-of-lamb-final.html), Isaac Williams' [Mausritter](https://mausritter.com/), Salty Goo's [modified GloG](https://saltygoo.github.io/2020/11/09/base-rules/), [Cairn](https://cairnrpg.com/), the general GloG community and many OSR-adjacent systems.</small>
+<small>Rules inspired by Isaac Williams' [Mausritter](https://mausritter.com/), Yochai Gal's [Cairn](https://cairnrpg.com/), as well as [Heart: The City Beneath](https://rowanrookanddecard.itch.io/heart-the-city-beneath-rpg-core-book), the GloG community (notably [Arnold K](https://goblinpunch.blogspot.com/) and [Skerples](https://coinsandscrolls.blogspot.com/))and many OSR-adjacent systems.</small>
 
 ***
 ## How to play
 
 <details markdown="1">
 <summary><b>How to play</b></summary>
-The game's a bit like a conversation between two groups of people - there are <b>players</b>, who incarnate characters in the world, and say what they do, and there is one <b>Game Master</b>, or <b>GM</b>, who describes the situation, gives context and interprets the rules. All you need is pencils, erasers, a handful of six-sided dice (or <b>d6s</b>), and some time on your hands.
+The game's a bit like a conversation between two groups of people - there are <b>players</b>, who incarnate characters in the world, and say what they do, and there is one <b>Game Master</b>, or <b>GM</b>, who describes the situation, gives context and interprets the rules. All you need is pencils, erasers, a handful of tabletop dice (<i>four, six, eight, ten, twelve and twenty-sided dice</i>), and some time on your hands.
 
-When a player decides their character does something risky, the GM can ask them to <b>roll</b>, and to count the number of successes. A <b>Success</b> happens when a die has a result of '4' or more. You generally roll one die related to the <b>Attribute</b> you're using, and an additional die if you're using a <b>Tool</b> to help you.
-*  <b>0 Success</b> - <i>Failure</i>. The character doesn't manage to do what they wanted, and something bad happens.
-*  <b>1 Success</b> - <i>Partial success</i>. The character manages to do what they intended, but something bad happens.
-*  <b>2 Successes</b> - <i>Success</i>. The character manages to do what they intended.
-*  <b>Total result of '9'</b> - <i>Nine Lives</i>. Whatever the result is, the player gets a <b>Life</b> that they can use to reroll a die.
+When a player decides their character does something risky, the GM can ask them to <b>roll</b> a <b>twenty-sided dice</b> (or <b>d20</b>), and compare it to a number. If the result on the die is equal or lower than the compared number, the character <b>Succeeds</b>. Otherwise, they <b>Fail</b>.
 
-Certain situations can grant <b>boons</b> or <b>banes</b>. If a player has a boon, they roll an additional d6. If they have a bane, they remove one success from their pool after rolling.
-
-Some rolls will count your <b>Degrees of success</b>, such as knowing how much damage you deal when you attack or how much information you get from someone you talk to. You get as many degrees of success as you have successes, and gain an additional one according to the result of each of your dice.
-*  <b>6</b> - <i>+1 degree of success.</i>
-*  <b>8</b> - <i>+2 degrees of success.</i>
-*  <b>10</b> - <i>+3 degrees of success.</i>
-*  <b>12</b> - <i>+4 degrees of success.</i>
+Certain situations can grant <b>advantage</b> or <b>disadvantage</b>. If a character has an advantage, they roll the d20 twice and take the best result. If they have a disadvantage, they roll the d20 twice and take the worst result. Advantages and disadvantages cancel each other out on a one-for-one basis, and aren't cumulative.
 
 That's all!
 </details>
@@ -35,11 +25,13 @@ That's all!
 <details markdown="1">
 <summary><b>Create a character</b></summary>
 
-A character starts with 6 in all their [Attributes](https://bartapapa.github.io/legend/base-rules#attributes). You can choose to increase one to 8 by reducing another to 4.
+Roll 3d6, and add the best two results. Do this three times, noting down the result for each [Attribute](https://bartapapa.github.io/legend/base-rules#attributes) in order. This is their <b>Score</b>. You can choose to switch two scores once.
 
-A character also starts with 6 <b>Vigor</b> and 10 <b>Inventory Slots</b>. Use a six-sided die to represent your Vigor.
+Roll 1d6 for your <b>Hit Protection</b>. This is the amount of damage you can take before getting seriously hurt.
+Roll 1d6 for your <b>Coin</b>. 
 
-Choose a <b>[Faction](https://bartapapa.github.io/legend/factions)</b>, roll for your <b>Background</b> and choose 1 <b>Faction ability</b>.
+Choose a <b>[Faction](https://bartapapa.github.io/legend/factions)</b>. Get your Core ability, and one Trait according to your Hit Protection, and determine your Background according to your Coin.
+Choose or roll your <b>Drive</b>. This is how you're going to get stronger. It can change, if you wish.
 
 You're done!
 </details>
@@ -48,14 +40,15 @@ You're done!
 ## Attributes
 
 <details markdown="1">
-<summary><b>Attributes and Vigor</b></summary>
+<summary><b>Attributes</b></summary>
 
 A character has 3 <b>Attributes</b>:
 *  <u><b>Might.</b></u> This is sheer physical strength, hardiness, resistance to pain. Generally used to run fast, break down doors, push someone over, and hold one's breath.
 *  <u><b>Grace.</b></u> This is agility, quickness and reactivity. Generally used to run across tightropes, play the piano, and ride beasts.
 *  <u><b>Wit.</b></u> This is knowledge, perception and charm. Generally used to sense when being observed, compel a guard dog to look the other way or know about something.
 
-<b>Vigor</b> is the amount of damage a character can take before falling unconscious.
+<b>Hit Protection</b> is the amount of damage a character can take before falling unconscious.
+<b>Armor</b> is the amount of damage that is reduced when you get hit by swords, claws, teeth and arrows, but not from explosions, falling, poison clouds and the like.
 </details>
 
 ***
@@ -64,7 +57,7 @@ A character has 3 <b>Attributes</b>:
 <details markdown="1">
 <summary><b>Inventory</b></summary>
 
-<u><b>Inventory</b></u>. You have 10 slots, which can be filled with objects, or bundles of 3 objects like acorns or bottle caps. <b>Heavy</b> objects take two slots. You'll fill your Inventory up with objects, although it can also fill up with <b>Fatigue</b>. If you have to add something to your Inventory and you don't have the space, you're <b>Exhausted</b> and can't move until you take something off. If you're exhausted and need to add Fatigue, you instead lower your Vigor by 1.
+<u><b>Inventory</b></u>. You have 10 slots, which can be filled with objects, or bundles of 3 objects like acorns or bottle caps. <b>Heavy</b> objects take two slots. You'll fill your Inventory up with objects, although it can also fill up with <b>Conditions</b>. If you have to add something to your Inventory and you don't have the space, you're <b>Exhausted</b> and you reduce your HP to 0 while you're exhausted. If you're exhausted and need to add Fatigue, you take 1 Might damage.
 </details>
 
 ***
