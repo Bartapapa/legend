@@ -40,15 +40,6 @@ Whenever you stay in an inhabited area for an hour or more, you can contact anot
 <b>Items:</b> Knotted flail (light melee), Junk crown (treasure 50p)
 <b>Skill:</b> The Tabby duke
 
-| 1d6        | Name           | Additional stuff                               |
-|:-----------|:---------------|:-----------------------------------------------|
-| 1          | Engineer       | Sprung mousetrap (d6, heavy) <b>and</b> Long pointy stick (d6) |
-| 2          | Rat king       | Knotted rat tails (d6) <b>and</b> Junk crown (d6) |
-| 3          | Trash taster   | 3 Acorns (food) <b>and</b> Lollipop stem (d4) |
-| 4          | Tunneler       | Plastic shovel (d6) <b>and</b> Pretty rock (treasure, d4) |
-| 5          | Experiment     | Leather bindings (armor, heavy) <b>and</b> Rusty nail (d4)   |
-| 6          | Flamecatcher   | Spellbook: Scorch <b>and</b> Burnt matchstick (d4) |
-
 ## Gifts (base off of HP)
 
 ### 1. Possum
