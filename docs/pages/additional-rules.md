@@ -17,16 +17,18 @@ During interactions, NPCs have what are called <b>Keys and Locks</b>. They illus
 ### Light
 Not many characters can see in the dark. They need light to be able to act well. Characters who are unlit and need light to see have a bane on any action involving eyesight. Denizens of the underground never need light to act well.
 
-A character who has a light tool can illuminate their surroundings, and can illmuniate up to 3 other characters.
+A character who has a bright tool can illuminate their surroundings, and can illmuniate up to 3 other characters.
 
 ### Poisons and disease
-Poisons and disease will prevent characters from healing Fatigue when resting. Additionally, some poisons and disease will cause the character to gain Fatigue periodically. Not eating or drinking for a day is like being poisoned.
+Poisons and disease will prevent characters from healing Fatigue when resting. Additionally, some poisons and disease will cause the character to gain Fatigue periodically, or deal Ability damage. Not eating or drinking for a day is like being poisoned.
 
 ### Falling
-Characters lose 1 Vigor if they fall more than 3 meters, and an additional Vigor for every meter thereafter. Each heavy object held when falling makes it so you are considered to fall an additional meter.
+Characters take 1d6 damage if they fall more than 3 meters, and an additional 1d6 damage for every 3 meters thereafter. Falling more than 12 meters has a cumulative 1-in-6 per meter risk of outright killing the character - so falling 18 meters is a death sentence.
+
+Each heavy object held when falling makes it so you are considered to fall an additional meter. Falling onto softer surfaces, like sand or snow or hay, makes you be considered to fall half as much distance as what you actually fell. Some surfaces will nullify fall damage.
 
 ### Fire and acid
-These deal 1 damage per turn if touching it, 2 damage if wading in it and 3 damage if engulfed in it.
+These deal 1d6 damage per turn if touching it, 2d6 damage if wading in it and 3d6 damage if engulfed in it.
 
 ***
 ## Exploration
