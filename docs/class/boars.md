@@ -62,6 +62,9 @@ You know how to find food, find shelter, and protect your friends from any harmf
 ### 5. A taste of home
 Over a nap when you eat food that you've prepared yourself, or that someone from your tribe prepared, you count as having taken a long rest. When you taste any food, you can know the food is edible or if it's been poisoned. When someone discovers a new piece of inedible flora, you can declare what special esoteric technique your tribe used to cook it to make it edible.
 
+### 6. Imposing
+Wild creatures and smaller creatures will tend to think you're stronger than them, and avoid you. Completely mindless creatures don't care, and trained creatures know how to deal with this feeling.
+
 ***
 
 ## Tribes of the duchy's edge
