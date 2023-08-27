@@ -54,7 +54,7 @@ A character has 3 <b>Attributes</b>:
 
 <b>Armor</b> is the amount of damage that is reduced when you get hit by swords, claws, teeth and arrows, but not from explosions, falling, poison clouds and the like.
 
-<b>Grit</b> is how many conditions you can ignore (you still 'have them', but they're not in your Inventory and don't affect you. They still need to be removed as per their removal condition). You have 0 Grit at 1st level, but you gain some as you <b>[Level up](https://bartapapa.github.io/legend/base-rules#advancement)</b>
+<b>Grit</b> is how many conditions you can ignore (you still 'have them', but they're not in your Inventory and don't affect you. They still need to be removed as per their removal condition). You have 0 Grit at 1st level, but you gain some as you <b>[Level up](https://bartapapa.github.io/legend/base-rules#advancement)</b>.
 </details>
 
 <details markdown="1">
