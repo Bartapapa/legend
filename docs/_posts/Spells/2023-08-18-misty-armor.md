@@ -3,7 +3,7 @@ layout: post
 tags: spell
 title: Misty armor
 ---
-Name 1 concrete thing (swords, rats, rocks) that could harm you. You are immune to this thing for [sum] minutes. You can choose to share this effect with up to [size] other creatures.
+Name 1 concrete thing (swords, rats, rocks) that could harm you. You are immune to this thing for [sum] minutes. You can choose to share this effect with up to [dice] other creatures.
 
 On a <b>Success</b>, you can name abstract things (time, death, taxes).
 
