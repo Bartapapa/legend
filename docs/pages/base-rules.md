@@ -51,6 +51,7 @@ A character has 3 <b>Attributes</b>:
 *  <u><b>Wit.</b></u> This is knowledge, perception and charm. Generally used to sense when being observed, compel a guard dog to look the other way or know about something.
 
 <b>Hit Protection</b> is the amount of damage a character can take before starting to get seriously wounded. Any damage you take when you have 0 HP is deducted from your Might as <b>Ability damage</b>. If this happens, you must roll Might - on a success, your character can still fight. Otherwise, they receive a <b>Wound</b> (which takes up an Inventory slot), and they are <b>Incapacitated</b> until tended to be a friend and they take at least a nap.
+
 <b>Armor</b> is the amount of damage that is reduced when you get hit by swords, claws, teeth and arrows, but not from explosions, falling, poison clouds and the like.
 </details>
 
