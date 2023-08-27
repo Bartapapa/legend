@@ -120,105 +120,104 @@ If you are <b>dual-wielding</b>, you roll 2d6 and take the best result when you 
 
 | Common tools     | Cost |
 |:-----------------|:--------|
-| Bedroll          | d6      |
-| Bellows          | d6      |
-| Block and tackle | d6      |
-| Book about X     | d8      |
-| Bug lure         | d6      |
-| 3 Bottles        | d6      |
-| Bucket           | d6      |
-| Iron chain       | d6      |
-| Chisel           | d6      |
-| Cookpots         | d6      |
-| Crowbar          | d6      |
-| Bottle of glue   | d6      |
-| Jar of grease    | d6      |
-| Horn             | d6      |
-| Hourglass        | d8      |
-| Iron tongs       | d6      |
-| Lockpicks        | d8      |
-| Metal file       | d6      |
-| Metal glove      | d6      |
-| Mirror           | d8      |
-| Wooden instrument| d6      |
-| Twine net        | d6      |
-| Lock & key       | d6      |
-| Pick             | d6      |
-| Tweed rope       | d6      |
-| Shovel           | d6      |
-| Tent for two     | d6      |
-| Whistle          | d6      |
-| Big stick        | d6      |
-| 3 wooden stakes  | d6      |
+| Bedroll          | 10c      |
+| Bellows          | 10c      |
+| Block and tackle | 20c      |
+| Book about X     | 80c      |
+| Book, blank      | 20c      |
+| Bug lure         | 10c      |
+| Bottle  (light, fragile)  | 1c      |
+| Bucket           | 2c      |
+| Chain (2m)       | 20c     |
+| Chisel           | 5c      |
+| Cookpots         | 10c      |
+| Crowbar          | 10c      |
+| Glue             | 5c      |
+| Grease           | 5c      |
+| Horn             | 10c      |
+| Hourglass        | 100c      |
+| Iron tongs       | 10c      |
+| Lockpicks        | 100c      |
+| Metal file       | 5c      |
+| Metal glove      | 10c      |
+| Mirror           | 200c      |
+| Wooden instrument| 200c      |
+| Twine net        | 10c      |
+| Lock & key       | 20c      |
+| Pick             | 10c      |
+| Rope (6m)        | 10c      |
+| Shovel           | 10c      |
+| Tent for two     | 60c      |
+| Whistle          | 5c      |
+| Walking stick    | 2c      |
+| Wooden stake (light)  | 1c      |
 |   |     |
 |:------------------|:--------|
 | <b>Exotic tools</b>      | <b>Cost</b> |
 |:------------------|:--------|
-| Air bladder       | d6      |
-| Antitoxin         | d8      |
-| Beetle trap       | d8      |
-| Bug repellent     | d6      |
-| Censer            | d6      |
-| Fire oil          | d8      |
-| Folding ladder    | d6      |
-| Snowcoat          | d8      |
-| Manacles          | d6      |
-| Spirit ward       | d8      |
-| Spyglass          | d8      |
-| Tinderbox         | d8      |
+| Air bladder       | 50c     |
+| Antitoxin         | 100c    |
+| Beetle trap       | 50c     |
+| Bug repellent     | 20c      |
+| Censer            | 50c      |
+| Fire oil          | 200c      |
+| Folding ladder (3m) | 50c      |
+| Snowcoat          | 20c      |
+| Manacles          | 30c      |
+| Spirit ward       | 50c      |
+| Spyglass          | 200c      |
+| Tinderbox         | 50c      |
 |  |       |
 |:------------------|:--------|
-| <b>Weapons</b> | <b>Cost</b> |
+| <b>Weapons and armor</b> | <b>Cost</b> |
 |:-----------------|:--------|
-| Light weapons (daggers) | d6     |
-| Medium weapons (swords) | d8     |
-| Heavy weapons (battleaxes) | d8     |
-| Light ranged (slings)   | d6     |
-| Heavy ranged (bows)     | d8     |
-|:------------------|:--------|
-|  |       |
-| <b>Armor</b> | <b>Cost</b> |
-|:-----------------|:--------|
-| Light armor      | 8       |
-| Heavy armor      | 10      |
+| Light weapons | 10c     |
+| Medium weapons  | 20c     |
+| Heavy weapons  | 50c     |
+| Light ranged    | 20c     |
+| Quiver and arrows | 5c     |
+| Stones and pouch  | 1c     |
+| Light armor      | 100c       |
+| Heavy armor      | 400c      |
+| Repairs, <i>per Notch</i>      | 10% base cost      |
 |:------------------|:--------|
 |  |       |
 | <b>Light sources</b>    | <b>Cost</b> |
 |:-----------------|:--------|
-| Torch            | d4      |
-| Oil Lantern      | d6      |
-| Flashlight       | d8      |
-| Oil (for lantern)| cost 2  |
-| Battery (for flashlight)| cost 6  |
+| Torches          | 2c      |
+| Oil Lantern      | 50c      |
+| Flashlight       | 300c      |
+| Oil (for lantern)| 10c  |
+| Battery (for flashlight)| 50c  |
 |:------------------|:--------|
 |  |       |
 | <b>Lodging and food</b> | <b>Cost</b>    |
 |:-----------------|:--------|
-| Dormitory bed (per night) | 1 |
-| Private room (per night)  | 2 |
-| 3 Travel food    | 4 |
-| Warm meal        | 1 |
-| Feast            | 6 |
+| Dormitory bed (per night) | 1c |
+| Private room (per night)  | 5c |
+| Travel food     | 5c |
+| Warm meal        | 5c |
+| Feast            | 50c |
 |:------------------|:--------|
 |  |       |
 | <b>Transport</b>        | <b>Cost</b>    |
 |:-----------------|:--------|
 | <i>Cost is per person, per area of distance</i> |       |
-| Beetle bus       | 2       |
-| River raft       | 4       |
-| Moletrain        | 6       |
+| Beetle bus       | 5c       |
+| River raft       | 10c       |
+| Moletrain        | 50c       |
 |:------------------|:--------|
 |  |       |
 | <b>Hired help</b>       | <b>Cost</b>    |
 |:-----------------|:--------|
 | <i>Cost is per day</i> |       |
-| Torchbearer      | 1     |
-| Laborer          | 1     |
-| Tunneler         | 2     |
-| Smithee          | 4     |
-| Local guide      | 4     |
-| Mercenary        | 4     |
-| Sage             | 6     |
+| Torchbearer      | 1c     |
+| Laborer          | 2c     |
+| Tunneler         | 5c     |
+| Smithee          | 8c     |
+| Local guide      | 10c     |
+| Mercenary        | 10c     |
+| Sage             | 25c     |
   
 </details>
 
