@@ -89,6 +89,18 @@ When a tool has the <b>Treasure</b> trait, it also has a (Price). When you bring
 </details>
 
 <details markdown="1">
+<summary><b>Weapons</b></summary>
+Weapons are separated into different categories.
+*  <b>Light melee.</b> (Daggers, knives, clubs) These take up one hand, and deal 1d6 damage. They can be <b>dual-wielded</b>. They are always considered <i>light</i> items.
+*  <b>Medium melee.</b> (Swords, axes, maces) These take up one hand, and deal 1d8 damage, or 1d10 damage when wielded in two hands.
+*  <b>Heavy melee.</b> (Battleaxes, halberds) These take up two hands, and deal 1d12 damage. They are always considered <i>heavy</i> items.
+*  <b>Light ranged.</b> (Blowguns, slings) These take up one hand, and deal 1d6 damage. An inventory slot is also taken up by <i>Ammunition</i>. They are always considered <i>ranged</i> items.
+*  <b>Heavy ranged.</b> (Longbows, crossbows, rifles) These take up two hands, and deal 1d12 damage. An inventory slot is also taken up by <i>Ammunition</i>. They are always considered <i>heavy</i> and <i>ranged</i> items.
+
+If you are <b>dual-wielding</b>, you roll 2d6 and take the best result when you attack.
+</details>
+
+<details markdown="1">
 <summary><b>Basic equipment</b></summary>
 
 | Common tools     | Cost |
@@ -200,14 +212,9 @@ When a tool has the <b>Treasure</b> trait, it also has a (Price). When you bring
 
 <details markdown="1">
 <summary><b>Combat</b></summary>
-Combat starts when someone first attempts to attack. At the start of combat, roll Grace. If you have at least 1 success, you go before your enemies. If you're surprised, your enemies go first - if you surprise them, you go first.
+Combat starts when someone first attempts to attack. At the start of combat, roll Grace. On a success, you go before your enemies. If you're surprised, your enemies go first - if you surprise them, you go first.
 
-When attacking someone, roll. Generally, it's a Might roll (if close combat) or a Grace roll (if ranged combat). You deal damage equal to your degrees of success.
-
-<details markdown="1">
-<summary><i>Example attack</i></summary>
-You attack with a Big Stick (d6). You roll your Might, which is a d6, as well as the quality of the used tool, which is a d6. By rolling 2d6, you roll a 4 and a 6. It's a complete success! Two successes mean 2 degrees of success, but your 6 grants an additional degree of success. With all taken into account, you deal 3 damage (3 degrees of success).
-</details>
+When you attack someone, you don't need to roll to hit. You immediately roll the damage die of your weapon (if you have no weapon, you do 1 damage. If you're weapon is improvised, you do 1d4) and deal that much damage to your target.
 
 </details>
 
@@ -220,13 +227,13 @@ When exploring or going through a locale, like a house, a dungeon, or the ruins 
 
 When exploring the great outdoors, where the scale becomes entire forests and mountains, actions take up what's called a <b>Watch</b> (or 4 hours). The great outdoors is made up of interconnected <b>Areas</b>. There are 6 Watches in a day: Dawn, Midday, Afternoon, Evening, Dusk, Midnight. Moving from one Area to a connected one takes a Watch. A good sleep takes 2 Watches.
 
-Spending time doing strenuous physical activity causes the character to suffer <b>Fatigue</b>. Fatigue takes up 1 slot in the character's Inventory.
+Spending time doing strenuous physical activity causes the character to suffer <b>Fatigue</b>. Fatigue is a condition that takes up 1 slot in the character's Inventory.
 
 </details>
 
 <details markdown="1">
 <summary><b>Encounters</b></summary>
-When first meeting with a creature and the GM isn't sure of the kind of first impression you're making, they might ask you to roll Wit. How the creature reacts depends on the result. The GM rolls 1d6, and the player rolls 1d6, so that the players don't know the full result.
+When first meeting with a creature and the GM isn't sure of the kind of first impression you're making, they might ask you to roll 2d6. How the creature reacts depends on the result. The GM rolls 1d6, and the player rolls 1d6, so that the players don't know the full result.
 
 | Reaction roll | General | Social | Monster <i>feels weaker</i> | Monster <i>feels stronger</i> |
 |:--------------|:--------|:-------|:-------|:-------|
