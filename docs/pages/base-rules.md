@@ -31,7 +31,8 @@ Roll 1d6 for your <b>Hit Protection</b>. This is the amount of damage you can ta
 Roll 1d6 for your <b>Coin</b>. 
 
 Choose a <b>[Faction](https://bartapapa.github.io/legend/factions)</b>. Get your Core ability, your Core skill and one Gift according to your Hit Protection, and determine your Background according to your Coin. You get the skills marked by your Background.
-Choose or roll your <b>Drive</b>. This is how you're going to get stronger. It can change, if you wish.
+
+Choose or roll your <b>Drive</b>. This is one of the ways for you to get stronger. It can change, if you wish.
 
 You're done!
 </details>
