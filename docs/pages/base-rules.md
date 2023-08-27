@@ -184,9 +184,9 @@ If you are <b>dual-wielding</b>, you roll 2d6 and take the best result when you 
 |  |       |
 | <b>Light sources</b>    | <b>Cost</b> |
 |:-----------------|:--------|
-| Torches          | 2c      |
-| Oil Lantern      | 50c      |
-| Flashlight       | 300c      |
+| Torches (bright) | 2c      |
+| Oil Lantern (bright)      | 50c      |
+| Flashlight (bright)       | 300c      |
 | Oil (for lantern)| 10c  |
 | Battery (for flashlight)| 50c  |
 |:------------------|:--------|
@@ -195,7 +195,7 @@ If you are <b>dual-wielding</b>, you roll 2d6 and take the best result when you 
 |:-----------------|:--------|
 | Dormitory bed (per night) | 1c |
 | Private room (per night)  | 5c |
-| Travel food     | 5c |
+| Travel food      | 5c |
 | Warm meal        | 5c |
 | Feast            | 50c |
 |:------------------|:--------|
@@ -241,7 +241,7 @@ When exploring or going through a locale, like a house, a dungeon, or the ruins 
 
 When exploring the great outdoors, where the scale becomes entire forests and mountains, actions take up what's called a <b>Watch</b> (or 4 hours). The great outdoors is made up of interconnected <b>Areas</b>. There are 6 Watches in a day: Dawn, Midday, Afternoon, Evening, Dusk, Midnight. Moving from one Area to a connected one takes a Watch. A good sleep takes 2 Watches.
 
-Spending time doing strenuous physical activity causes the character to suffer <b>Fatigue</b>. Fatigue is a condition that takes up 1 slot in the character's Inventory.
+Spending time doing strenuous physical activity causes the character to suffer <b>Fatigue</b>. Fatigue is a condition that takes up 1 slot in the character's Inventory, and is removed on a nap.
 
 </details>
 
@@ -261,9 +261,13 @@ When first meeting with a creature and the GM isn't sure of the kind of first im
 
 <details markdown="1">
 <summary><b>Resting</b></summary>
-There are two kinds of rests: <b>Sleeps</b> and <b>Naps</b>. To Sleep, you must find a shelter where there is no immediate danger. Sleeping for 8 hours removes all accumulated Fatigue. To Nap, you need an hour in a comfortable place. Napping removes 1 Fatigue.
+There are three kinds of rests: <b>Sleeps</b>, <b>Naps</b> and <b>Full rests</b>.
 
-While resting, you can eat <b>Food</b> in your Inventory. Doing so, you heal all your Vigor to its maximum.
+You can only sleep if you're in a sheltered, warm and dry place, and you eat some food. Sleeping heals all HP lost. If HP is at maximum, you heal 1d6 Ability damage if someone can tend to you. Sleeping takes <b>4 hours</b>.
+
+You can take a nap pretty much everywhere, although you still have to eat some food. Napping heals 1d6+1 HP. It takes <b>10 minutes</b>.
+
+You can only take a full rest in complete security, on a bed in town. It heals all your HP and ability damage. It takes <b>a week</b>, although you don't need to be only in bed during this time. A week's worth of lodging and food usually costs around 20p.
 
 </details>
 
