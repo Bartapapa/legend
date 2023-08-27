@@ -30,7 +30,7 @@ Roll 3d6, and add the best two results. Do this three times, noting down the res
 Roll 1d6 for your <b>Hit Protection</b>. This is the amount of damage you can take before getting seriously hurt.
 Roll 1d6 for your <b>Coin</b>. 
 
-Choose a <b>[Faction](https://bartapapa.github.io/legend/factions)</b>. Get your Core ability, and one Trait according to your Hit Protection, and determine your Background according to your Coin.
+Choose a <b>[Faction](https://bartapapa.github.io/legend/factions)</b>. Get your Core ability, and one Gift according to your Hit Protection, and determine your Background according to your Coin.
 Choose or roll your <b>Drive</b>. This is how you're going to get stronger. It can change, if you wish.
 
 You're done!
@@ -58,41 +58,40 @@ A character has 3 <b>Attributes</b>:
 <summary><b>Inventory</b></summary>
 
 <u><b>Inventory</b></u>. You have 10 slots, which can be filled with objects, or bundles of 3 objects like acorns or bottle caps. <b>Heavy</b> objects take two slots. You'll fill your Inventory up with objects, although it can also fill up with <b>Conditions</b>. If you have to add something to your Inventory and you don't have the space, you're <b>Exhausted</b> and you reduce your HP to 0 while you're exhausted. If you're exhausted and need to add Fatigue, you take 1 Might damage.
+
+Generally speaking, your Inventory is less of an actual physical space on your character, and more about what your character can use in the game-world. Pretty much every character wears clothes - however, if you want to use your clothing to charm somebody, it should be in your Inventory. Small jewelry like rings can be worn on your character - but it <i>doesn't count</i> until it actually takes up space in your Inventory.
 </details>
 
 ***
-## Tools and Traits
+## Items and Traits
 
 <details markdown="1">
-<summary><b>Tools</b></summary>
-Some tools have a <b>Quality</b> to them. This is marked by a die in between parentheses. When the character uses this tool to accomplish something, then they add that tool's Quality die when <i>rolling</i>. If multiple tools are used, use the largest Quality die. Tools hat have a higher Quality are better than those of lower Quality. Some things can only be found, and never bought or even traded.
-  
-*  <b>d4 Quality</b> - <i>Mediocre</i>. Improvised, barely holding on.
-*  <b>d6 Quality</b> - <i>Standard</i>. Common items and tools.
-*  <b>d8 Quality</b> - <i>Professional</i>. Made by experienced artisans, top-notch quality material.
-*  <b>d10 Quality</b> - <i>Exotic</i>. Made by legendary artisans, far beyond the ability of common animals.
-*  <b>d12 Quality</b> - <i>Legendary</i>. Made by unfathomable forces, through unfathomable means. Unique.
+<summary><b>Items</b></summary>
+Items are things that you're going to gather when you're out there adventuring. They normally take up 1 slot of your Inventory. If you have it in your Inventory, you can use it.
 </details>
 
 <details markdown="1">
 <summary><b>Traits</b></summary>
-Some tools have Traits, which give a bit more info on how it can be used. It can be a <i>Treasure</i> or a <i>Light</i>, for example. Here are a list of common traits and their effects.
+Some tools have Traits, which give a bit more info on how it can be used. It can be <i>Treasure</i> or <i>Bright</i>, for example. Here are a list of common traits and their effects.
 *  <b>Treasure.</b> Many animals will accept to trade goods and services for these.
-*  <b>Light.</b> This illuminates your surroundings.
+*  <b>Light.</b> This can be paired with 2 other items on the same slot.
+*  <b>Heavy.</b> This item takes up 2 slots.
+*  <b>Bright.</b> This illuminates your surroundings.
 *  <b>Armor.</b> Damage you take by being attacked is reduced by 1. If it's Heavy, it's reduced by 2. You can only wear 1 Armor at a time.
-*  <b>Ranged.</b> You can use this tool from far away.
-*  <b>Food.</b> When resting, this heals your Vigor to max.
+*  <b>Shield.</b> Damage you take by being attacked is reduced by 1, although you need a hand free to use it.
+*  <b>Ranged.</b> You can use this item on things that are far away.
+*  <b>Food.</b> Consume this item when resting to heal your HP to max.
 </details>
 
 <details markdown="1">
 <summary><b>Treasure</b></summary>
-When a tool has the <b>Treasure</b> trait, it also has a Quality. You can exchange a treasure of one quality size for another object of equal or 3 objets of lower quality. By spending multiple treasures of the same quality, you can exchange it for something of one step higher quality (roll the treasure's quality die and add the results until they add up to the more valuable treasure's quality size).
+When a tool has the <b>Treasure</b> trait, it also has a (Price). When you bring a treasure out from a dangerous area and into a safe area, you acquire it's Price as Adventure points (distributed evenly among all people who helped you do so). Afterwards, you can trade it to gain its Price as Coin. A treasure cannot be 'rescued' twice.
 </details>
 
 <details markdown="1">
 <summary><b>Basic equipment</b></summary>
 
-| Common tools     | Quality |
+| Common tools     | Cost |
 |:-----------------|:--------|
 | Bedroll          | d6      |
 | Bellows          | d6      |
@@ -126,7 +125,7 @@ When a tool has the <b>Treasure</b> trait, it also has a Quality. You can exchan
 | 3 wooden stakes  | d6      |
 |   |     |
 |:------------------|:--------|
-| <b>Exotic tools</b>      | <b>Quality</b> |
+| <b>Exotic tools</b>      | <b>Cost</b> |
 |:------------------|:--------|
 | Air bladder       | d6      |
 | Antitoxin         | d8      |
@@ -142,7 +141,7 @@ When a tool has the <b>Treasure</b> trait, it also has a Quality. You can exchan
 | Tinderbox         | d8      |
 |  |       |
 |:------------------|:--------|
-| <b>Weapons</b> | <b>Quality</b> |
+| <b>Weapons</b> | <b>Cost</b> |
 |:-----------------|:--------|
 | Light weapons (daggers) | d6     |
 | Medium weapons (swords) | d8     |
@@ -157,7 +156,7 @@ When a tool has the <b>Treasure</b> trait, it also has a Quality. You can exchan
 | Heavy armor      | 10      |
 |:------------------|:--------|
 |  |       |
-| <b>Light sources</b>    | <b>Quality</b> |
+| <b>Light sources</b>    | <b>Cost</b> |
 |:-----------------|:--------|
 | Torch            | d4      |
 | Oil Lantern      | d6      |
