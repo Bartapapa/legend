@@ -12,9 +12,11 @@ permalink: /base-rules/
 <summary><b>How to play</b></summary>
 The game's a bit like a conversation between two groups of people - there are <b>players</b>, who incarnate characters in the world, and say what they do, and there is one <b>Game Master</b>, or <b>GM</b>, who describes the situation, gives context and interprets the rules. All you need is pencils, erasers, a handful of tabletop dice (<i>four, six, eight, ten, twelve and twenty-sided dice</i>), and some time on your hands.
 
-When a player decides their character does something risky, the GM can ask them to <b>roll</b> a <b>twenty-sided dice</b> (or <b>d20</b>), and compare it to a number. If the result on the die is equal or lower than the compared number, the character <b>Succeeds</b>. Otherwise, they <b>Fail</b>.
+When a player decides their character does something risky, the GM can ask them to <b>roll</b> a <b>twenty-sided dice</b> (or <b>d20</b>), and compare it to a number. If the result on the die is equal or lower than the compared number, the character <b>Succeeds</b>. Otherwise, they <b>Fail</b>. If the result is <b>exactly the target number</b>, then it's a critical success and something good happens.
 
 Certain situations can grant <b>advantage</b> or <b>disadvantage</b>. If a character has an advantage, they roll the d20 twice and take the best result. If they have a disadvantage, they roll the d20 twice and take the worst result. Advantages and disadvantages cancel each other out on a one-for-one basis, and aren't cumulative.
+
+Some situations call for an <b>opposed roll</b>, that is to say two characters are competing against one another. One's trying to sneak past, while the other is keeping an eye out, for example. In that case, they <b>both roll</b>, and the <b>successful roll with the highest score</b> wins.
 
 That's all!
 </details>
@@ -30,9 +32,9 @@ Roll 3d6, and add the best two results. Do this three times, noting down the res
 Roll 1d6 for your <b>Hit Protection</b>. This is the amount of damage you can take before getting seriously hurt.
 Roll 1d6 for your <b>Coin</b>. 
 
-Choose a <b>[Faction](https://bartapapa.github.io/legend/factions)</b>. Get your Core ability and one Gift according to your Hit Protection, and determine your Background according to your Coin. You get the bonus skill of your Background.
+Choose a <b>[Faction](https://bartapapa.github.io/legend/factions)</b>. Get your Core ability and one Gift according to your Hit Protection, and determine your Background according to your Coin. You get the skill of your Background.
 
-Choose or roll your <b>Drive</b>. This is one of the ways for you to get stronger. It can change, if you wish.
+Choose or roll your <b>[Faction](https://bartapapa.github.io/legend/drives)</b>. This is one of the ways for you to get stronger. It can change, if you wish.
 
 You're done!
 </details>
@@ -48,7 +50,7 @@ A character has 3 <b>Attributes</b>:
 *  <u><b>Grace.</b></u> This is agility, quickness and reactivity. Generally used to run across tightropes, play the piano, and ride beasts.
 *  <u><b>Wit.</b></u> This is knowledge, perception and charm. Generally used to sense when being observed, compel a guard dog to look the other way or know about something.
 
-<b>Hit Protection</b> is the amount of damage a character can take before falling unconscious.
+<b>Hit Protection</b> is the amount of damage a character can take before starting to get seriously wounded. Any damage you take when you have 0 HP is deducted from your Might as <b>Ability damage</b>. If this happens, you must roll Might - on a success, your character can still fight. Otherwise, they receive a <b>Wound</b> (which takes up an Inventory slot), and they are <b>Incapacitated</b> until tended to be a friend and they take at least a nap.
 <b>Armor</b> is the amount of damage that is reduced when you get hit by swords, claws, teeth and arrows, but not from explosions, falling, poison clouds and the like.
 </details>
 
@@ -263,7 +265,7 @@ When first meeting with a creature and the GM isn't sure of the kind of first im
 <summary><b>Resting</b></summary>
 There are three kinds of rests: <b>Sleeps</b>, <b>Naps</b> and <b>Full rests</b>.
 
-You can only sleep if you're in a sheltered, warm and dry place, and you eat some food. Sleeping heals all HP lost. If HP is at maximum, you heal 1d6 Ability damage if someone can tend to you. Sleeping takes <b>4 hours</b>.
+You can only sleep if you're in a sheltered, warm and dry place, and you eat some food. Sleeping heals all HP lost, and removes Wounds if someone can tend to you. If HP is at maximum, you heal 1d6 Ability damage if someone can tend to you. Sleeping takes <b>4 hours</b>.
 
 You can take a nap pretty much everywhere, although you still have to eat some food. Napping heals 1d6+1 HP. It takes <b>10 minutes</b>.
 
@@ -276,7 +278,9 @@ You can only take a full rest in complete security, on a bed in town. It heals a
 
 <details markdown="1">
 <summary><b>Path to greatness</b></summary>
-Over the course of your adventure, you'll gain Adventure points. When you reach certain amounts of adventure points, you <b>Level up</b>. The following is a table with the total amount of Adventure points you need to level up again.
+Over the course of your adventure, you'll gain <b>Adventure points</b> (or <b>AP</b>). You can get AP by recovering treasure, but also by <b>spending selflessly</b> (donating to charity, helping rebuild a home for others, etc). Each 10c spent in this way grants 1 AP.
+
+When you reach certain amounts of adventure points, you <b>Level up</b>. The following is a table with the total amount of Adventure points you need to level up again.
 
 | Level | Hit dice | Grit | Adventure points |
 |:--------------|:--------|:-------|:-------|
