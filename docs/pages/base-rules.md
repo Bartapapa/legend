@@ -30,14 +30,14 @@ Roll 3d6, and add the best two results. Do this three times, noting down the res
 Roll 1d6 for your <b>Hit Protection</b>. This is the amount of damage you can take before getting seriously hurt.
 Roll 1d6 for your <b>Coin</b>. 
 
-Choose a <b>[Faction](https://bartapapa.github.io/legend/factions)</b>. Get your Core ability, and one Gift according to your Hit Protection, and determine your Background according to your Coin.
+Choose a <b>[Faction](https://bartapapa.github.io/legend/factions)</b>. Get your Core ability, your Core skill and one Gift according to your Hit Protection, and determine your Background according to your Coin. You get the skills marked by your Background.
 Choose or roll your <b>Drive</b>. This is how you're going to get stronger. It can change, if you wish.
 
 You're done!
 </details>
 
 ***
-## Attributes
+## Attributes and Skills
 
 <details markdown="1">
 <summary><b>Attributes</b></summary>
@@ -49,6 +49,13 @@ A character has 3 <b>Attributes</b>:
 
 <b>Hit Protection</b> is the amount of damage a character can take before falling unconscious.
 <b>Armor</b> is the amount of damage that is reduced when you get hit by swords, claws, teeth and arrows, but not from explosions, falling, poison clouds and the like.
+</details>
+
+<details markdown="1">
+<summary><b>Skills</b></summary>
+Skills are special areas of expertise of your character. When you do something that needs special training, is particularly technical, or needs a good grasp of knowledge, you'll roll with disadvantage. If you have a skill that could work contextually, then you roll normally.
+
+You can also get an <i>Expertise</i> with a skill, which is marked by one of your three attributes. When using your skill and you are rolling with that specific attribute, you roll with advantage.
 </details>
 
 ***
@@ -71,6 +78,11 @@ Items are things that you're going to gather when you're out there adventuring. 
 </details>
 
 <details markdown="1">
+<summary><b>Notches</b></summary>
+All items have <b>Notches</b>, which are sort of like an item's Life. Notches represent consumption, wear and tear, and loss of power, depending on the item. A quiver full of arrows will mark Notches to show the depleting amount of arrows, a sword will mark Notches as it's getting chipped and bent, and a spellbook will mark Notches as the spell frees itself from its prison.
+</details>
+
+<details markdown="1">
 <summary><b>Traits</b></summary>
 Some tools have Traits, which give a bit more info on how it can be used. It can be <i>Treasure</i> or <i>Bright</i>, for example. Here are a list of common traits and their effects.
 *  <b>Treasure.</b> Many animals will accept to trade goods and services for these.
@@ -81,6 +93,8 @@ Some tools have Traits, which give a bit more info on how it can be used. It can
 *  <b>Shield.</b> Damage you take by being attacked is reduced by 1, although you need a hand free to use it.
 *  <b>Ranged.</b> You can use this item on things that are far away.
 *  <b>Food.</b> Consume this item when resting to heal your HP to max.
+*  <b>Unbreakable.</b> The item has a total of 6 Notches.
+*  <b>Fragile.</b> The item has only 1 Notch.
 </details>
 
 <details markdown="1">
@@ -247,7 +261,7 @@ When first meeting with a creature and the GM isn't sure of the kind of first im
 
 <details markdown="1">
 <summary><b>Resting</b></summary>
-There are two kinds of rests: <b>Sleeps</b> and <b>Naps</b>. To Sleep, you must find a shelter where there is no immediate danger. Sleeping for 8 hours removes all accumulated Fatigue. To Nap, you need an hour in a comfortable place. Napping removes 1 Fatigue. You can only Nap once per day.
+There are two kinds of rests: <b>Sleeps</b> and <b>Naps</b>. To Sleep, you must find a shelter where there is no immediate danger. Sleeping for 8 hours removes all accumulated Fatigue. To Nap, you need an hour in a comfortable place. Napping removes 1 Fatigue.
 
 While resting, you can eat <b>Food</b> in your Inventory. Doing so, you heal all your Vigor to its maximum.
 
@@ -258,16 +272,28 @@ While resting, you can eat <b>Food</b> in your Inventory. Doing so, you heal all
 
 <details markdown="1">
 <summary><b>Path to greatness</b></summary>
-Over the course of your adventures, you might <i>do something great</i>. During a session, if you manage to do at least one thing that's marked in your <b>Path to greatness</b>, you can <b>Advance.</b>
+Over the course of your adventure, you'll gain Adventure points. When you reach certain amounts of adventure points, you <b>Level up</b>. The following is a table with the total amount of Adventure points you need to level up again.
+
+| Level | Hit dice | Grit | Adventure points |
+|:--------------|:--------|:-------|:-------|
+| 1             | 1d6     | 0      | 0       |
+| 2             | 2d6     | 1      | 1000    |
+| 3             | 3d6     | 2      | 3000    |
+| 4             | 4d6     | 3      | 6000    |
+| 5+            | 4d6     | 4      | +5000   |
 
 </details>
 
 <details markdown="1">
-<summary><b>Advance</b></summary>
-When you advance, you get to do one of the following:
-*  <b>Increase your Vigor</b>. You increase your Vigor by 2, increasing the die used to represent it by one step. Doing so also grants you 2 additional <b>Inventory Slots</b>.
-*  <b>Increase an attribute</b>. You increase a chosen attribute by 2, increasing the die used to represent it.
-*  <b>Gain a faction ability</b>. You can gain a new faction ability as defined by your chosen faction.
+<summary><b>Leveling up</b></summary>
+When you level up, you do the following:
+*  <b>Increase your Hit Protection</b>. You gain a new Hit die, which is a d6. Roll all of your Hit die - if the sum is greater than your previous HP, this becomes your new HP. If it's less, then you increase your HP by 1.
+*  <b>Increase your Attributes</b>. Roll once for each of your attributes - if you <i>Fail</i>, you increase that attribute's Score by 1.
+
+<b>From level 5 onwards</b>, you only need 5000 additional adventure points before leveling up again. However, you don't gain any more Grit or Hit dice. You can choose to do <b>one</b> of the following:
+*  <b>Increase your Hit Protection</b>. You gain +1 HP.
+*  <b>Increase an Attribute</b>. Choose <b>one</b> attribute, and roll. If you <i>Fail</i>, you increase that attribute's Score by 1.
+
 </details>
 
 ***
@@ -276,10 +302,7 @@ When you advance, you get to do one of the following:
 
 <details markdown="1">
 <summary><b>Spellcasting</b></summary>
-If you have a <b>Spellbook</b>, you can cast the associated spell. Roll Wit and add a d6. The effects of the spell depend on the [sum] of the results, the [size] of the biggest die, and the [degrees] of success.
+If you have a <b>Spellbook</b>, you can cast the associated spell. You can roll up to 4 Magic dice (that you acquire by holding <i>magical</i> items in your Inventory). The effects of the spell depend on the number of [dice] used, and the [sum] of the result.
 
-On a failure, the spell cannot be cast any more for the day, and needs to be recharged (stated in the spell). If you roll doubles, a <b>Mishap</b> occurs along with the usual effects. The GM determines what happens according to the spell and situation.
-
-For cases where the effects of a spell would be used as a tool in ways that aren't defined by the spell's effects, then use the character's Wit as the Quality die for the spell-tool.
-
+If you roll doubles when casting a spell, you mark 1 <b>Notch</b> on it. You can only repair it by <b>Recharging</b> it.
 </details>
