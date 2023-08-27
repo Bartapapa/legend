@@ -9,11 +9,10 @@ permalink: /factions/cats
 ><p style="text-align: right">- Person who said something</p>
 
 ***
+## Ability
 
-## Path to greatness
-Recover a great treasure from a guarded place.
-
-***
+### Kitty claws
+You always have your retractable claws as a tool. They count as a light weapon.
 
 ## Core stuff
 Fancy clothes (d6)
@@ -30,28 +29,53 @@ Fancy clothes (d6)
 | 6          | High noble     | Long needle (d6) <b>and</b> Makeup kit (d6) |
 
 ***
+## Backgrounds (base off of Coin)
 
-## Core ability
+### 1. Gutter noble
+<b>Items:</b> Big boots, Box of matches
+<b>Skill:</b> Alleyways
 
-### Kitty claws
-You can use Grace instead of Might to attack in close-combat. Additionally, you always have your claws as a tool, with a quality of d6.
+### 2. Saltland noble
+<b>Items:</b> Fish skeleton, Crab shell (shield)
+<b>Skill:</b> Seafaring
 
-## Faction abilities
+### 3. Alpine noble
+<b>Items:</b> Bag of small stones, Cured meats (food)
+<b>Skill:</b> Mountains
 
-### Catnap
-You can Nap as many times as you want per day. If you Nap on a friend, they also heal 1 Fatigue. 
+### 4. Longshank noble
+<b>Items:</b> Thin collar, Mouse toy with bell
+<b>Skill:</b> Towns
 
-### Fat cat
-You have money for days. If you or your friends need any mundane item, you can buy it, no questions asked.
+### 5. Sunkissed noble
+<b>Items:</b> Very large leaf, Pocket of sand
+<b>Skill:</b> Wastelands
 
-### Very fancy
+### 6. High noble
+<b>Items:</b> Long needle, Makeup kit
+<b>Skill:</b> Families of high esteem
+
+## Gifts (base off of HP)
+
+### 1. Nine lives
+Once per day, if you'd be get the Injured condition, you can ignore it. If you're at 0 HP and you rest, you go back to 1 HP unless something prevents you from doing so.
+
+### 2. Golden glint
+You can recognize treasures from far away, even in the dark. You can't tell what they are exactly, but you know it'll be valuable. When you enter a room, you can tell if there's treasure nearby.
+
+### 3. Very fancy
 If you have fancy clothes, it acts as armor as long as you don't have any other armor. You can use the quality of any particularly fancy or valuable tool you have instead of your Wit in Reaction rolls.
 
-### Pillow paws
+### 4. Pillow paws
 As long as you don't have any heavy tools on you, you can be perfectly silent when you move. Additionally, if you spend 10 minutes pawing the surface of any object, it becomes pretty comfortable.
 
-### Golden glint
-You can recognize treasures from far away, even in the dark. You can't tell what they are exactly, but you know it'll be valuable. When you enter a room, you can tell if there's treasure nearby.
+### 5. Fat cat
+You have money for days. If you or your friends need any mundane item, you can buy it, no questions asked.
+
+### 6. Catnap
+You can Nap as many times as you want per day. If you Nap on a friend, they also heal 1 Fatigue. 
+
+
 
 ***
 
