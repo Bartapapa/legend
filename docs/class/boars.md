@@ -9,11 +9,6 @@ permalink: /factions/boars
 ><p style="text-align: right">- Person who said something</p>
 
 ***
-
-## Path to greatness
-Protect nature against encroaching civilization or animals who would overuse its resources.
-
-***
 ## Ability
 
 ### Vigorous
