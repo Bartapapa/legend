@@ -98,7 +98,7 @@ Some tools have Traits, which give a bit more info on how it can be used. It can
   
 *  <b>Treasure.</b> Many animals will accept to trade goods and services for these.
 *  <b>Light.</b> This can be paired with 2 other items on the same slot.
-*  <b>Heavy.</b> This item takes up 2 slots.
+*  <b>Heavy.</b> This item takes up 2 slots. If it's held in hands, it needs 2 hands to use correctly.
 *  <b>Bright.</b> This illuminates your surroundings.
 *  <b>Armor.</b> Damage you take by being attacked is reduced by 1. If it's Heavy, it's reduced by 2. You can only wear 1 Armor at a time.
 *  <b>Shield.</b> Damage you take by being attacked is reduced by 1, although you need a hand free to use it.
@@ -138,15 +138,15 @@ A <b>Bag</b> is a special kind of item. It doesn't take up space in your Invento
 
 | Common tools     | Cost |
 |:-----------------|:--------|
+| Beast lure       | 10c      |
 | Bedroll          | 10c      |
 | Bellows          | 10c      |
 | Block and tackle | 20c      |
 | Book about X     | 80c      |
 | Book, blank      | 20c      |
-| Bug lure         | 10c      |
 | Bottle  (light, fragile)  | 1c      |
 | Bucket           | 2c      |
-| Chain (2m)       | 20c     |
+| Chain (6m)       | 20c     |
 | Chisel           | 5c      |
 | Cookpots         | 10c      |
 | Crowbar          | 10c      |
@@ -163,7 +163,7 @@ A <b>Bag</b> is a special kind of item. It doesn't take up space in your Invento
 | Twine net        | 10c      |
 | Lock & key       | 20c      |
 | Pick             | 10c      |
-| Rope (6m)        | 10c      |
+| Rope (9m)        | 10c      |
 | Shovel           | 10c      |
 | Tent for two     | 60c      |
 | Whistle          | 5c      |
@@ -178,10 +178,10 @@ A <b>Bag</b> is a special kind of item. It doesn't take up space in your Invento
 | Air bladder       | 50c     |
 | Antitoxin         | 100c    |
 | Beetle trap       | 50c     |
-| Bug repellent     | 20c      |
+| Beast repellent   | 20c      |
 | Censer            | 50c      |
 | Fire oil          | 200c      |
-| Folding ladder (3m) | 50c      |
+| Folding ladder (6m) | 50c      |
 | Snowcoat          | 30c      |
 | Manacles          | 30c      |
 | Spirit ward       | 50c      |
@@ -282,11 +282,11 @@ When first meeting with a creature and the GM isn't sure of the kind of first im
 
 <details markdown="1">
 <summary><b>Resting</b></summary>
-There are three kinds of rests: <b>Sleeps</b>, <b>Naps</b> and <b>Full rests</b>.
+There are three kinds of rests: <b>Short</b>, <b>Long</b> and <b>Full</b>.
 
-You can only sleep if you're in a sheltered, warm and dry place, and you eat some food. Sleeping heals all HP lost, and removes Wounds if someone can tend to you. If HP is at maximum, you heal 1d6 Ability damage if someone can tend to you. Sleeping takes <b>4 hours</b>.
+You can only long rest if you're in a sheltered, warm and dry place, and you eat some food. Long rests heal all HP lost, and remove Wounds if someone can tend to you. If HP is at maximum, you heal 1d6 Ability damage if someone can tend to you. Long rests take <b>4 hours</b>.
 
-You can take a nap pretty much everywhere, although you still have to eat some food. Napping heals 1d6+1 HP. It takes <b>10 minutes</b>.
+You can take a short rest pretty much everywhere, although you still have to eat some food. Short rests heal 1d6+1 HP. It takes <b>10 minutes</b>.
 
 You can only take a full rest in complete security, on a bed in town. It heals all your HP and ability damage. It takes <b>a week</b>, although you don't need to be only in bed during this time. A week's worth of lodging and food usually costs around 20p.
 
