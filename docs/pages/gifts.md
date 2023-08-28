@@ -19,7 +19,7 @@ Familiar
 <summary><b>11. Spellmind</b></summary>
 Acquire 1 Magic die.
   
-When you get this Gift, roll a random spell from the list of spells+<b>Category</b>. You can cast this spell as if you had the spellbook.
+When you get this Gift, roll a random spell from the list of [Arts](https://bartapapa.github.io/legend/spells/spells-by-category#arts). You can cast this spell as if you had the spellbook.
 </details>
 
 <details markdown="1">
@@ -56,7 +56,7 @@ When you fail a Might roll at 0 HP, you're never incapacitated, although you do 
 <summary><b>22. Spellmind</b></summary>
 Acquire 1 Magic die.
   
-When you get this Gift, roll a random spell from the list of spells+<b>Category</b>. You can cast this spell as if you had the spellbook.
+When you get this Gift, roll a random spell from the list of [Charms](https://bartapapa.github.io/legend/spells/spells-by-category#charms). You can cast this spell as if you had the spellbook.
 </details>
 
 <details markdown="1">
@@ -93,7 +93,7 @@ You have a grotesque third eye on your forehead. As long as its open and uncover
 <summary><b>33. Spellmind</b></summary>
 Acquire 1 Magic die.
   
-When you get this Gift, roll a random spell from the list of spells+<b>Category</b>. You can cast this spell as if you had the spellbook.
+When you get this Gift, roll a random spell from the list of [Heresies](https://bartapapa.github.io/legend/spells/spells-by-category#hersies). You can cast this spell as if you had the spellbook.
 </details>
 
 <details markdown="1">
@@ -132,7 +132,7 @@ At the end of a good night's sleep, you can ask 1 question that follows the foll
 <summary><b>44. Spellmind</b></summary>
 Acquire 1 Magic die.
   
-When you get this Gift, roll a random spell from the list of spells+<b>Category</b>. You can cast this spell as if you had the spellbook.
+When you get this Gift, roll a random spell from the list of [Hexes](https://bartapapa.github.io/legend/spells/spells-by-category#hexes). You can cast this spell as if you had the spellbook.
 </details>
 
 <details markdown="1">
@@ -173,7 +173,7 @@ You can automatically stabilize yourself or an ally with proper tools (you still
 <summary><b>55. Spellmind</b></summary>
 Acquire 1 Magic die.
   
-When you get this Gift, roll a random spell from the list of spells+<b>Category</b>. You can cast this spell as if you had the spellbook.
+When you get this Gift, roll a random spell from the list of [Prayers](https://bartapapa.github.io/legend/spells/spells-by-category#prayers). You can cast this spell as if you had the spellbook.
 </details>
 
 <details markdown="1">
@@ -210,5 +210,5 @@ When you meet someone, you know 1 thing they love, and 1 thing they hate. If usi
 <summary><b>66. Spellmind</b></summary>
 Acquire 1 Magic die.
   
-When you get this Gift, roll a random spell from the list of spells+<b>Category</b>. You can cast this spell as if you had the spellbook.
+When you get this Gift, roll a random spell from the list of [Theorems](https://bartapapa.github.io/legend/spells/spells-by-category#theorems). You can cast this spell as if you had the spellbook.
 </details>
