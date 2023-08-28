@@ -6,7 +6,7 @@ permalink: /spells/spells-by-category
 
 ## Arts
 
-> Magic using implements and tools to properly channel them.
+> Magic using implements and tools to properly channel them, and techniques of war.
 
 {% capture posts %}
   {% for post in site.tags.art %}
