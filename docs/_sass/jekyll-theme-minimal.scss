@@ -61,6 +61,15 @@ a:hover small {
   margin:0 auto;
 }
 
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+  padding: 10px
+}
+
 .parallax-wrapper {
   height: 100vh;
   overflow-y: auto;
