@@ -4,68 +4,151 @@ title: Gifts
 permalink: /gifts/
 ---
 
-A character is defined by several <b>Gifts</b> which give unique ways of playing a character, new abilities, and alter a few others. The following is a list of Gifts that you can either choose from or roll on. Your GM might add a few, take others out, it doesn't really matter. If you don't find a trait that you'd like in here, talk about it with your GM and see if you can work something out together.
+## Gifts
 
-***
+Choose or roll d66 (don't add the results, just read them from left-to-right)
 
-Choose or roll d666 (don't add the results, just read them from left-to-right)
+OBVIOUS CHOICES (need 36)
+
+8 Hatred of X
+9 War-weary (use drugs as food when resting)
+10 Charming
+11 Liar
+12 Skeleton
+13 Automaton
+14 Prophecized
+15 [Beast] speaker
+16 Alert
+17 Assassin
+18 Mysteries
+19 Automaton
+20 Omen
+21 Always ready
+22 Acrobat
+23 Web of contacts
+24 Night eyes
+25 Throng
+31 Explorer (choose 3 adjectives between etc etc etc)
+32 Third eye
+33 Dreamer
+34 Challenge
+35 Field medic
+36 Bonded
+
+SPELLS
+Wildling
+Boar's spiritual commune
+Mole's dirt heart commune
+Spirit beast
+Familiar
 
 <details markdown="1">
-<summary><b>111. Spellmind</b></summary>
-Acquire a Magic die.
+<summary><b>11. Spellmind</b></summary>
+Acquire 1 Magic die.
   
-When you get this Gift, roll a random spell from the list of spells. This spell takes up a slot in your Mind.
+When you get this Gift, roll a random spell from the list of spells+<b>Category</b>. You can cast this spell as if you had the spellbook.
 </details>
+
+<details markdown="1">
+<summary><b>12. Immortal</b></summary>
+You're immortal to age, and cannot be magically aged. You can ponder a question about history, a named character or a named object over Lunch. Roll a d6 - if 6, the GM gives you a concise and honest answer (although not necessarily a complete one).
+</details>
+
+<details markdown="1">
+<summary><b>13. Dwarfism</b></summary>
+You're half as small as the average human. You can't wield heavy weapons (melee or otherwise) or polearms, and need two hands to wield medium weapons.
+</details>
+
+<details markdown="1">
+<summary><b>14. Fleet-footed</b></summary>
+If you so wish, you can walk around as if you weighed only 5 kilograms - most pressure plates won't activate, branches won't bend, snow won't cave in, etc. You can only do this if you don't have anything particularly heavy in your Inventory.
+</details>
+
+<details markdown="1">
+<summary><b>15. Rage</b></summary>
+Whenever combat starts or you suffer from a strong emotion, you can enter a state of rage. You feel nothing else than it, and can't be charmed or mentally controlled. You add your Might bonus to all damage dealt (yes, even spells and ranged weapons). You need to attack or cast a damaging spell every turn, otherwise you attack yourself.
+</details>
+
+<details markdown="1">
+<summary><b>16. Oathbound</b></summary>
+State your principal duty. When you roll for an action that pertains to your principal duty (or to avoid doing something that goes against your principal duty), you can change one of the results to a 6, and count it as if it were natural. You can only do this once per rest.
+</details>
+
+<details markdown="1">
+<summary><b>21. Hard to kill</b></summary>
+When you fail a Might roll at 0 HP, you're never incapacitated, although you do gain an Injury. You can let yourself be incapacitated - you won't die by being left alone, and you'll wake up a few hours later.
+</details>
+
+<details markdown="1">
+<summary><b>22. Spellmind</b></summary>
+Acquire 1 Magic die.
+  
+When you get this Gift, roll a random spell from the list of spells+<b>Category</b>. You can cast this spell as if you had the spellbook.
+</details>
+
+<details markdown="1">
+<summary><b>33. Spellmind</b></summary>
+Acquire 1 Magic die.
+  
+When you get this Gift, roll a random spell from the list of spells+<b>Category</b>. You can cast this spell as if you had the spellbook.
+</details>
+
+<details markdown="1">
+<summary><b>44. Spellmind</b></summary>
+Acquire 1 Magic die.
+  
+When you get this Gift, roll a random spell from the list of spells+<b>Category</b>. You can cast this spell as if you had the spellbook.
+</details>
+
+<details markdown="1">
+<summary><b>55. Spellmind</b></summary>
+Acquire 1 Magic die.
+  
+When you get this Gift, roll a random spell from the list of spells+<b>Category</b>. You can cast this spell as if you had the spellbook.
+</details>
+
+<details markdown="1">
+<summary><b>66. Spellmind</b></summary>
+Acquire 1 Magic die.
+  
+When you get this Gift, roll a random spell from the list of spells+<b>Category</b>. You can cast this spell as if you had the spellbook.
+</details>
+
+
+
+
 
 <details markdown="1">
 <summary><b>112. Floating</b></summary>
 You constantly hover a few inches above ground. You can hover across very still water. If you are surprised or if you fall though, you touch the ground as normal.
 </details>
 
-<details markdown="1">
-<summary><b>113. Immortal</b></summary>
-You're immortal to age, and cannot be magically aged. You can ponder a question about history, a named character or a named object over Lunch. Roll a d6 - if 6, the GM gives you a concise and honest answer (although not necessarily a complete one).
-</details>
 
-<details markdown="1">
-<summary><b>114. Fleet-footed</b></summary>
-If you so wish, you can walk around as if you weighed only 5 kilograms. You can only do this if you don't have anything particularly heavy in your Inventory.
-</details>
 
-<details markdown="1">
-<summary><b>115. Dwarfism</b></summary>
-You're half as small as the average human. You can't wield heavy weapons (melee or otherwise) or polearms, and need two hands to wield medium weapons.
-</details>
+
+
+
 
 <details markdown="1">
 <summary><b>116. Battlescarred</b></summary>
 All Scars in your Inventory count as Armor. You can only have a maximum of 5 Armor as per usual. When you interact with warriors and your scars are visible, you can either use +Wit for your reaction roll or +Scars.
 </details>
 
-<details markdown="1">
-<summary><b>121. Oathbound</b></summary>
-State your principal duty. When you roll for an action that pertains to your principal duty (or to avoid doing something that goes against your principal duty), you can change one of the results to a 6, and count it as if it were natural. You can only do this once per rest.
-</details>
+
 
 <details markdown="1">
 <summary><b>122. Bloodthirsty</b></summary>
 Whenever combat arises, keep a score of how many enemies you've killed. At the end of combat, you heal that much HP. If your HP is at its max, you instead heal Wounds.
 </details>
 
-<details markdown="1">
-<summary><b>123. Rage</b></summary>
-Whenever combat starts or you suffer from a strong emotion, you can enter a state of rage. You feel nothing else than it, and can't be charmed or mentally controlled. You don't roll attack rolls - you immediately deal damage. You need to attack or cast a spell every turn, otherwise you attack yourself. Any attack against you doesn't need an attack roll, either.
-</details>
+
 
 <details markdown="1">
 <summary><b>124. Cautious</b></summary>
 If you don't attack or cast a spell during your turn, your Armor is 5 (unless it was already higher). You can always ask the GM, "Is this situation about to get violent?", and they'll give you an honest answer.
 </details>
 
-<details markdown="1">
-<summary><b>125. Hard to kill</b></summary>
-You don't need to roll to Stabilize (you do however still need to spend your turn). When you have a Scar related to your attacker, you only take 1 Wound when they deeal damage to you, ignoring how much actual damage they dealt.
-</details>
+
 
 <details markdown="1">
 <summary><b>126. Vandal</b></summary>
