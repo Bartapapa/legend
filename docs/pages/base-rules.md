@@ -32,7 +32,7 @@ Roll 1d6*10 for your starting <b>Coin</b>.
 
 You start with Travel rations, Torches and a Light melee weapon of your choice.
 
-Choose or roll a <b>[Background](https://bartapapa.github.io/legend/backgrounds)</b>, which gives you 2 starting items as well as a starting skill.
+Choose or roll a <b>[Failed career](https://bartapapa.github.io/legend/failed-careers)</b>, which gives you 2 starting items as well as a starting skill.
 
 Choose or roll a <b>[Gift](https://bartapapa.github.io/legend/gifts)</b>, which gives your character a unique ability.
 
