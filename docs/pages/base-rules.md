@@ -107,7 +107,7 @@ Some tools have Traits, which give a bit more info on how it can be used. It can
 *  <b>Unbreakable.</b> The item has a total of 6 Notches.
 *  <b>Fragile.</b> The item has only 1 Notch.
 *  <b>Magical.</b> You gain 1 Magic dice when holding this item. All spellbooks are magical.
-*  
+
 </details>
 
 <details markdown="1">
