@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: spell
+tags: spell hex
 title: Misty armor
 ---
 Name 1 concrete thing (swords, rats, rocks) that could harm you. You are immune to this thing for [sum] minutes. You can choose to share this effect with up to [dice] other creatures.
