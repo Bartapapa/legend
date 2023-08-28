@@ -4,12 +4,12 @@ title: Spells by category
 permalink: /spells/spells-by-category
 ---
 
-## Druidism
+## Arts
 
-> The study and manipulation of wildlife, plantlife and natural phenomena.
+> Magic using implements and tools to properly channel them.
 
 {% capture posts %}
-  {% for post in site.tags.druidism %}
+  {% for post in site.tags.art %}
     |{{ post.title }}#{{ post.url }}
   {% endfor %}
 {% endcapture %}
@@ -23,12 +23,12 @@ permalink: /spells/spells-by-category
 {% endfor %} 
 </ol>
 
-## Elementalism
+## Charms
 
-> The study and manipulation of the elemental forces.
+> Enchantments and spells affecting the spirit.
 
 {% capture posts %}
-  {% for post in site.tags.elementalism %}
+  {% for post in site.tags.charm %}
     |{{ post.title }}#{{ post.url }}
   {% endfor %}
 {% endcapture %}
@@ -42,12 +42,12 @@ permalink: /spells/spells-by-category
 {% endfor %} 
 </ol>
 
-## Entropism
+## Heresies
 
-> The study and manipulation of fate, space, and the stars.
+> Spells that corrupt the soul and the natural order.
 
 {% capture posts %}
-  {% for post in site.tags.entropism %}
+  {% for post in site.tags.heresy %}
     |{{ post.title }}#{{ post.url }}
   {% endfor %}
 {% endcapture %}
@@ -61,12 +61,12 @@ permalink: /spells/spells-by-category
 {% endfor %} 
 </ol>
 
-## Oneirism
+## Hexes
 
-> The study and manipulation of the mind.
+> Curses, jinxes and bad juju.
 
 {% capture posts %}
-  {% for post in site.tags.oneirism %}
+  {% for post in site.tags.hex %}
     |{{ post.title }}#{{ post.url }}
   {% endfor %}
 {% endcapture %}
@@ -80,12 +80,12 @@ permalink: /spells/spells-by-category
 {% endfor %} 
 </ol>
 
-## Thaumaturgy
+## Prayers
 
-> The use of powers of greater beings.
+> Spells given from greater powers.
 
 {% capture posts %}
-  {% for post in site.tags.thaumaturgy %}
+  {% for post in site.tags.prayer %}
     |{{ post.title }}#{{ post.url }}
   {% endfor %}
 {% endcapture %}
@@ -99,69 +99,12 @@ permalink: /spells/spells-by-category
 {% endfor %} 
 </ol>
 
-## Vivimancy
+## Theorems
 
-> The study and manipulation of the flesh soul.
-
-{% capture posts %}
-  {% for post in site.tags.vivimancy %}
-    |{{ post.title }}#{{ post.url }}
-  {% endfor %}
-{% endcapture %}
-{% assign sortedposts = posts | split: '|' | sort %}
-<ol>
-{% for post in sortedposts %}
-{% assign postitems = post | split: '#' %}
-{% unless forloop.first %}
-  <li> <a href="{{ site.baseurl }}{{ postitems[1] }}">{{ postitems[0] }}</a></li> 
-{% endunless %}
-{% endfor %} 
-</ol>
-
-## Necromancy
-
-> The study and manipulation of the spirit soul.
+> Spells created through mathematics, calculation and the study of hypergeometry.
 
 {% capture posts %}
-  {% for post in site.tags.necromancy %}
-    |{{ post.title }}#{{ post.url }}
-  {% endfor %}
-{% endcapture %}
-{% assign sortedposts = posts | split: '|' | sort %}
-<ol>
-{% for post in sortedposts %}
-{% assign postitems = post | split: '#' %}
-{% unless forloop.first %}
-  <li> <a href="{{ site.baseurl }}{{ postitems[1] }}">{{ postitems[0] }}</a></li> 
-{% endunless %}
-{% endfor %} 
-</ol>
-
-## Artifice
-
-> The use of magic for utilitarian means.
-
-{% capture posts %}
-  {% for post in site.tags.artifice %}
-    |{{ post.title }}#{{ post.url }}
-  {% endfor %}
-{% endcapture %}
-{% assign sortedposts = posts | split: '|' | sort %}
-<ol>
-{% for post in sortedposts %}
-{% assign postitems = post | split: '#' %}
-{% unless forloop.first %}
-  <li> <a href="{{ site.baseurl }}{{ postitems[1] }}">{{ postitems[0] }}</a></li> 
-{% endunless %}
-{% endfor %} 
-</ol>
-
-## Meta-arcane
-
-> The study and manipulation of magic itself.
-
-{% capture posts %}
-  {% for post in site.tags.metaarcane %}
+  {% for post in site.tags.theorem %}
     |{{ post.title }}#{{ post.url }}
   {% endfor %}
 {% endcapture %}
