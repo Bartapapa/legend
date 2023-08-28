@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: spell
+tags: spell charm
 title: Speak with bugs
 ---
 You can speak with insects and arachnids for [dice] hours, who can speak back to you. This is unsettling for anyone involved.
