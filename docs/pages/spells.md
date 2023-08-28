@@ -15,19 +15,8 @@ If you roll doubles when casting a spell without a spellbook (such as with the S
 
 ***
 
-{% capture posts %}
-  {% for post in site.tags.spell %}
-    |{{ post.title }}#{{ post.url }}
-  {% endfor %}
-{% endcapture %}
-{% assign sortedposts = posts | split: '|' | sort %}
-<ol>
-{% for post in sortedposts %}
-{% assign postitems = post | split: '#' %}
-{% unless forloop.first %}
-  <li> <a href="{{ site.baseurl }}{{ postitems[1] }}">{{ postitems[0] }}</a></li> 
-{% endunless %}
-{% endfor %} 
-</ol>
+[All spells](https://bartapapa.github.io/legend/spells/all)
+
+[Spells by category](https://bartapapa.github.io/legend/spells/spells-by-category)
 
 
