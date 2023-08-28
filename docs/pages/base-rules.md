@@ -129,6 +129,11 @@ If you are <b>dual-wielding</b>, you roll 2d6 and take the best result when you 
 </details>
 
 <details markdown="1">
+<summary><b>Bags</b></summary>
+A <b>Bag</b> is a special kind of item. It doesn't take up space in your Inventory, and actually grants you 4 Inventory slots. They count as normal inventory slots, however they cannot contain any Conditions. You can't wear Armor if you have a Bag. In order to take out an item that's in your bag, you're going to need to spend a round rummaging in there.
+</details>
+
+<details markdown="1">
 <summary><b>Basic equipment</b></summary>
 
 | Common tools     | Cost |
@@ -164,6 +169,8 @@ If you are <b>dual-wielding</b>, you roll 2d6 and take the best result when you 
 | Whistle          | 5c      |
 | Walking stick    | 2c      |
 | Wooden stake (light)  | 1c      |
+| Travel bag       | 10c      |
+| Waterproof bag   | 50c      |
 |   |     |
 |:------------------|:--------|
 | <b>Exotic tools</b>      | <b>Cost</b> |
@@ -175,7 +182,7 @@ If you are <b>dual-wielding</b>, you roll 2d6 and take the best result when you 
 | Censer            | 50c      |
 | Fire oil          | 200c      |
 | Folding ladder (3m) | 50c      |
-| Snowcoat          | 20c      |
+| Snowcoat          | 30c      |
 | Manacles          | 30c      |
 | Spirit ward       | 50c      |
 | Spyglass          | 200c      |
@@ -317,7 +324,12 @@ When you level up, you do the following:
 
 ***
 
-## Spellcasting
+## Magic
+
+<details markdown="1">
+<summary><b>Magic dice</b></summary>
+You gain Magic dice by having <b>Magical</b> items in your Inventory. Magic dice
+</details>
 
 <details markdown="1">
 <summary><b>Spellcasting</b></summary>
