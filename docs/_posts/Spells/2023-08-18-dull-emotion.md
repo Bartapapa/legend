@@ -1,9 +1,9 @@
 ---
 layout: post
-tags: spell
+tags: spell charm
 title: Dull emotion
 ---
-A touched animal cannot feel one emotion (anger, fear, love) that you choose for [sum] hours. If [sum] > 12, the duration is permanent.
+A touched person cannot feel one emotion (anger, fear, love) that you choose for [sum] hours. If [sum] > 12, the duration is permanent.
 
 <b>Recharge:</b> have it touch someone who's feeling the last emotion you dulled.
 
