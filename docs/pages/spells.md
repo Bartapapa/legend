@@ -6,10 +6,11 @@ permalink: /spells/
 
 <details markdown="1">
 <summary><b>How spellcasting works</b></summary>
-If you have a <b>Spellbook</b>, you can cast the associated spell. Roll Wit and add a d6. The effects of the spell depend on the [sum] of the results, the [size] of the biggest die, and the [degrees] of success.
-  
-On a failure, the spell cannot be cast any more for the day, and needs to be recharged (stated in the spell). If you roll doubles, a <b>Mishap</b> occurs along with the usual effects. The GM determines what happens according to the spell and situation.
+If you have a <b>Spellbook</b>, you can cast the associated spell. You can roll up to 4 Magic dice (that you acquire by holding <i>magical</i> items in your Inventory). The effects of the spell depend on the number of [dice] used, and the [sum] of the result.
 
+If you roll doubles when casting a spell, you mark 1 <b>Notch</b> on it. You can only repair it by <b>Recharging</b> it. If it gets 3 Notches, it is destroyed and is unrepairable.
+
+If you roll doubles when casting a spell without a spellbook (such as with the Spellmind gift), then you take 1d6 Wit damage. Make a Wit save - if unsuccessful, you get the <b>Mad</b> Condition, that can be removed after a full rest. This takes up a slot.
 </details>
 
 ***
