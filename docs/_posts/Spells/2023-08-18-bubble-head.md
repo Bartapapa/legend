@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: spell
+tags: spell charm
 title: Bubble head
 ---
 [Dice] creatures you touch gain a bubble of air around their head.  This bubble contains [sum] minutes of clean air and can be used to breathe underwater.  It can also be used above water to protect from noxious fumes or inhaled poisons. 
