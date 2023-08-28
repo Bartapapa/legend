@@ -8,31 +8,6 @@ permalink: /gifts/
 
 Choose or roll d66 (don't add the results, just read them from left-to-right)
 
-OBVIOUS CHOICES (need 36)
-
-10 Charming
-11 Liar
-12 Skeleton
-13 Automaton
-14 Prophecized
-15 [Beast] speaker
-16 Alert
-17 Assassin
-18 Mysteries
-19 Automaton
-20 Omen
-21 Always ready
-22 Acrobat
-23 Web of contacts
-24 Night eyes
-25 Throng
-31 Explorer (choose 3 adjectives between etc etc etc)
-32 Third eye
-33 Dreamer
-34 Challenge
-35 Field medic
-36 Bonded
-
 SPELLS
 Wildling
 Boar's spiritual commune
