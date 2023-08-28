@@ -187,6 +187,7 @@ A <b>Bag</b> is a special kind of item. It doesn't take up space in your Invento
 | Spirit ward       | 50c      |
 | Spyglass          | 200c      |
 | Tinderbox         | 50c      |
+| Medical tools     | 200c      |
 |  |       |
 |:------------------|:--------|
 | <b>Weapons and armor</b> | <b>Cost</b> |
