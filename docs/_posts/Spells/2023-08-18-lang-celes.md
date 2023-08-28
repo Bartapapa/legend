@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: spell
+tags: spell theorem
 title: Lang celes
 ---
 You speak the language of stars, allowing you to speak a prophecy [sum] words total - <i>this prophecy will happen</i>. It is up to the GM to interpret it. When speaking a prophecy, you cannot speak any proper nouns (specific places, specific names, etc) nor designate any specific thing (that tree, this person, etc), although general titles work fine (the warlord, she who banishes night, etc).
