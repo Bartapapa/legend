@@ -3,7 +3,7 @@ layout: post
 title: Base Rules
 permalink: /base-rules/
 ---
-<small>Rules inspired by Isaac Williams' [Mausritter](https://mausritter.com/), Yochai Gal's [Cairn](https://cairnrpg.com/), as well as [Heart: The City Beneath](https://rowanrookanddecard.itch.io/heart-the-city-beneath-rpg-core-book), the GloG community (notably [Arnold K](https://goblinpunch.blogspot.com/) and [Skerples](https://coinsandscrolls.blogspot.com/))and many OSR-adjacent systems.</small>
+<small>Rules inspired by Isaac Williams' [Mausritter](https://mausritter.com/), Yochai Gal's [Cairn](https://cairnrpg.com/), as well as Claymore's [FIST](https://claymorerpgs.itch.io/fist), Ben Milton's [Knave](https://www.drivethrurpg.com/product/250888/Knave), the GloG community (notably [Arnold K](https://goblinpunch.blogspot.com/) and [Skerples](https://coinsandscrolls.blogspot.com/))and many OSR-adjacent systems.</small>
 
 ***
 ## How to play
@@ -12,11 +12,9 @@ permalink: /base-rules/
 <summary><b>How to play</b></summary>
 The game's a bit like a conversation between two groups of people - there are <b>players</b>, who incarnate characters in the world, and say what they do, and there is one <b>Game Master</b>, or <b>GM</b>, who describes the situation, gives context and interprets the rules. All you need is pencils, erasers, a handful of tabletop dice (<i>four, six, eight, ten, twelve and twenty-sided dice</i>), and some time on your hands.
 
-When a player decides their character does something risky, the GM can ask them to <b>roll</b> a <b>twenty-sided dice</b> (or <b>d20</b>), and compare it to a number. If the result on the die is equal or lower than the compared number, the character <b>Succeeds</b>. Otherwise, they <b>Fail</b>. If the result is <b>exactly the target number</b>, then it's a critical success and something good happens.
+When a player decides their character does something risky or technical, the GM can ask them to <b>roll</b> a <b>twenty-sided dice</b> (or <b>d20</b>), and compare it to a number, named the <b>Difficulty</b>. If the result on the die is equal or greater than the compared number, the character <b>Succeeds</b>. Otherwise, they <b>Fail</b>. If the result is <b>a natural 20</b> (which means the d20 rolls its greatest result, 20), then it's a <b>critical success</b> and something good happens. However, <b>rolling a natural 1</b> is a <b>fumble</b> and not only does the character fail, but something bad happens as well.
 
 Certain situations can grant <b>advantage</b> or <b>disadvantage</b>. If a character has an advantage, they roll the d20 twice and take the best result. If they have a disadvantage, they roll the d20 twice and take the worst result. Advantages and disadvantages cancel each other out on a one-for-one basis, and aren't cumulative.
-
-Some situations call for an <b>opposed roll</b>, that is to say two characters are competing against one another. One's trying to sneak past, while the other is keeping an eye out, for example. In that case, they <b>both roll</b>, and the <b>successful roll with the highest score</b> wins.
 
 That's all!
 </details>
@@ -27,14 +25,20 @@ That's all!
 <details markdown="1">
 <summary><b>Create a character</b></summary>
 
-Roll 3d6, and add the best two results. Do this three times, noting down the result for each [Attribute](https://bartapapa.github.io/legend/base-rules#attributes) in order. This is their <b>Score</b>. You can choose to switch two scores once.
+Roll 3d6, and take the <b>lowest</b> result. Do this three times, noting down the result for each [Attribute](https://bartapapa.github.io/legend/base-rules#attributes) in order. This is their <b>Bonus</b>. You can choose to switch two bonuses at character creation. Fill in each attribute's <b>Defense</b> by adding 10 to their Bonus.
 
 Roll 1d6 for your <b>Hit Protection</b>. This is the amount of damage you can take before getting seriously hurt.
-Roll 1d6 for your <b>Coin</b>. 
+Roll 1d6*10 for your starting <b>Coin</b>.
 
-Choose a <b>[Faction](https://bartapapa.github.io/legend/factions)</b>. Get your Core ability and one Gift according to your Hit Protection, and determine your Background according to your Coin. You get the skill of your Background.
+You start with Travel rations, Torches and a Light melee weapon of your choice.
+
+Choose or roll a <b>[Background](https://bartapapa.github.io/legend/backgrounds)</b>, which gives you 2 starting items as well as a starting skill.
+
+Choose or roll a <b>[Gift](https://bartapapa.github.io/legend/gifts)</b>, which gives your character a unique ability.
 
 Choose or roll your <b>[Drive](https://bartapapa.github.io/legend/drives)</b>. This is one of the ways for you to get stronger. It can change, if you wish.
+
+Each time you <b>Roll</b> instead of choosing your background, gift or drive, you can <b>reroll</b> one of your previous rolls, such as HP, Coin or one attribute. Take the best result.
 
 You're done!
 </details>
@@ -70,7 +74,7 @@ You can also get an <i>Expertise</i> with a skill, which is marked by one of you
 <details markdown="1">
 <summary><b>Inventory</b></summary>
 
-<u><b>Inventory</b></u>. You have 10 slots, which can be filled with objects, or bundles of 3 objects like acorns or bottle caps. <b>Heavy</b> objects take two slots. You'll fill your Inventory up with objects, although it can also fill up with <b>Conditions</b>. If you have to add something to your Inventory and you don't have the space, you're <b>Exhausted</b> and you reduce your HP to 0 while you're exhausted. If you're exhausted and need to add Fatigue, you take 1 Might damage.
+<u><b>Inventory</b></u>. You have 10 slots, which can be filled with objects, or bundles of 3 similar objects like bottles or knives. <b>Heavy</b> objects take two slots. You'll fill your Inventory up with objects, although it can also fill up with <b>Conditions</b>. If you have to add something to your Inventory and you don't have the space, you're <b>Exhausted</b> and you reduce your HP to 0 while you're exhausted. If you're exhausted and need to add Fatigue, you take 1 Might damage.
 
 Generally speaking, your Inventory is less of an actual physical space on your character, and more about what your character can use in the game-world. Pretty much every character wears clothes - however, if you want to use your clothing to charm somebody, it should be in your Inventory. Small jewelry like rings can be worn on your character - but it <i>doesn't count</i> until it actually takes up space in your Inventory.
 </details>
