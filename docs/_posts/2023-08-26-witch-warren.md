@@ -8,13 +8,13 @@ title: Witch's Warren
 <div class="row">
 <div class="column">
   
-## Advice for GMs
+<h2>Advice for GMs</h2>
 If this is your first time reading an adventure to play, then welcome! Hopefully this will teach you some basic tools and give you tips on how to manage certain situations. This adventure can be taken as-is without any modifications on your part - but if you want it to cater to a different atmosphere, world or location, go right ahead! Part of GMing is 'hacking' things that are already written and making the changes you think are the best for your group.
 
 </div>
 <div class="column">
   
-## Context
+<h2>Context</h2>
 Thrushvale is a small village of around 100 inhabitants, situated at the edge of the duchy's territory, right south of the mountain range separating it from the Barking Baronnies. To the west of it is a small forest that the villagers would go to - children, woodsmen and frolicking lovers. However, since several weeks now, Thrushvale has suffered recently, as the small river used to spin the watermill has gone dry, and not but a week after, a witch took residence in it, transforming villagers who wander into the woods into toads!
 
 Without the mill working, the villagers will have a hard time making food for the upcoming winter, and they can't see what's going on with the river upstream due to the witch. Not only that, but the town mayor has been turned into a toad, and he looks as if he's about to croak. 
