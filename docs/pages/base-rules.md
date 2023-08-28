@@ -95,6 +95,7 @@ All items have <b>Notches</b>, which are sort of like an item's Life. Notches re
 <details markdown="1">
 <summary><b>Traits</b></summary>
 Some tools have Traits, which give a bit more info on how it can be used. It can be <i>Treasure</i> or <i>Bright</i>, for example. Here are a list of common traits and their effects.
+  
 *  <b>Treasure.</b> Many animals will accept to trade goods and services for these.
 *  <b>Light.</b> This can be paired with 2 other items on the same slot.
 *  <b>Heavy.</b> This item takes up 2 slots.
@@ -106,6 +107,7 @@ Some tools have Traits, which give a bit more info on how it can be used. It can
 *  <b>Unbreakable.</b> The item has a total of 6 Notches.
 *  <b>Fragile.</b> The item has only 1 Notch.
 *  <b>Magical.</b> You gain 1 Magic dice when holding this item. All spellbooks are magical.
+*  
 </details>
 
 <details markdown="1">
@@ -116,6 +118,7 @@ When a tool has the <b>Treasure</b> trait, it also has a (Price). When you bring
 <details markdown="1">
 <summary><b>Weapons</b></summary>
 Weapons are separated into different categories.
+  
 *  <b>Light melee.</b> (Daggers, knives, clubs) These take up one hand, and deal 1d6 damage. They can be <b>dual-wielded</b>. They are always considered <i>light</i> items.
 *  <b>Medium melee.</b> (Swords, axes, maces) These take up one hand, and deal 1d8 damage, or 1d10 damage when wielded in two hands.
 *  <b>Heavy melee.</b> (Battleaxes, halberds) These take up two hands, and deal 1d12 damage. They are always considered <i>heavy</i> items.
