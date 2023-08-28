@@ -16,6 +16,8 @@ When a player decides their character does something risky or technical, the GM 
 
 Certain situations can grant <b>advantage</b> or <b>disadvantage</b>. If a character has an advantage, they roll the d20 twice and take the best result. If they have a disadvantage, they roll the d20 twice and take the worst result. Advantages and disadvantages cancel each other out on a one-for-one basis, and aren't cumulative.
 
+Sometimes you're going to be asked to roll a <b>Save</b>. Roll a d20, and the associated bonus indicated by the kind of save, and compare to 15. If the result is 15 or more, you pass. Otherwise, you fail.
+
 That's all!
 </details>
 
@@ -54,7 +56,7 @@ A character has 3 <b>Attributes</b>:
 *  <u><b>Grace.</b></u> This is agility, quickness and reactivity. Generally used to run across tightropes, play the piano, and ride beasts.
 *  <u><b>Wit.</b></u> This is knowledge, perception and charm. Generally used to sense when being observed, compel a guard dog to look the other way or know about something.
 
-<b>Hit Protection</b> is the amount of damage a character can take before starting to get seriously wounded. Any damage you take when you have 0 HP is deducted from your Might as <b>Ability damage</b>. If this happens, you must roll Might - on a success, your character can still fight. Otherwise, they receive a <b>Wound</b> (which takes up an Inventory slot), and they are <b>Incapacitated</b> until tended to be a friend and they take at least a nap.
+<b>Hit Protection</b> is the amount of damage a character can take before starting to get seriously wounded. Any damage you take when you have 0 HP is deducted from your Might as <b>Ability damage</b>. If this happens, you must roll a Might save - on a success, your character can still fight. Otherwise, they receive a <b>Wound</b> (which takes up an Inventory slot), and they are <b>Incapacitated</b> until tended to be a friend and they take at least a nap. If your Might reaches -10, you are dead.
 
 <b>Armor</b> is the amount of damage that is reduced when you get hit by swords, claws, teeth and arrows, but not from explosions, falling, poison clouds and the like.
 
@@ -289,6 +291,19 @@ You can only long rest if you're in a sheltered, warm and dry place, and you eat
 You can take a short rest pretty much everywhere, although you still have to eat some food. Short rests heal 1d6+1 HP. It takes <b>10 minutes</b>.
 
 You can only take a full rest in complete security, on a bed in town. It heals all your HP and ability damage. It takes <b>a week</b>, although you don't need to be only in bed during this time. A week's worth of lodging and food usually costs around 20p.
+
+</details>
+
+***
+## Followers
+
+<details markdown="1">
+<summary><b>Followers</b></summary>
+Followers, well, follow you around. You don't control them, however they will act in your favor. They do not demand payment, although they still must be fed and treated equally.
+
+A default follower has 1d6 HP, 1 in all attributes, 6 Inventory slots and a Loyalty score of 5.
+
+Loyalty is another attribute followers have, that they have to roll a save for if ever they must not flee or if you ask them to do something riskier than what they bargained for. Loyalty can fluctuate over time, to a max of 10 and a minimum of 0. If your follower has 0 Loyalty, they leave, betray you, etc.
 
 </details>
 
