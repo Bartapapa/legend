@@ -329,12 +329,12 @@ When you level up, you do the following:
 
 <details markdown="1">
 <summary><b>Magic dice</b></summary>
-You gain Magic dice by having <b>Magical</b> items in your Inventory. Magic dice
+You gain Magic dice by having <b>Magical</b> items in your Inventory. When you roll magic dice, you <b>lose</b> them when their result turns up as '4' or more, preventing them from being used again until they are recuperated. You recuperate lost magic dice after a long rest.
 </details>
 
 <details markdown="1">
 <summary><b>Spellcasting</b></summary>
-If you have a <b>Spellbook</b>, you can cast the associated spell. You can roll up to 4 Magic dice (that you acquire by holding <i>magical</i> items in your Inventory). The effects of the spell depend on the number of [dice] used, and the [sum] of the result.
+If you have a <b>Spellbook</b>, you can cast the associated spell. You can roll up to 4 Magic dice. The effects of the spell depend on the number of [dice] used, and the [sum] of the result.
 
 If you roll doubles when casting a spell, you mark 1 <b>Notch</b> on it. You can only repair it by <b>Recharging</b> it.
 </details>
