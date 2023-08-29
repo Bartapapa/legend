@@ -96,7 +96,7 @@ All items have <b>Notches</b>, which are sort of like an item's Life. Notches re
 <summary><b>Traits</b></summary>
 Some tools have Traits, which give a bit more info on how it can be used. It can be <i>Treasure</i> or <i>Bright</i>, for example. Here are a list of common traits and their effects.
   
-*  <b>Treasure.</b> Many animals will accept to trade goods and services for these.
+*  <b>Treasure.</b> Many people will accept to trade goods and services for these.
 *  <b>Light.</b> This can be paired with 2 other items on the same slot.
 *  <b>Heavy.</b> This item takes up 2 slots. If it's held in hands, it needs 2 hands to use correctly.
 *  <b>Bright.</b> This illuminates your surroundings.
@@ -210,9 +210,7 @@ A <b>Bag</b> is a special kind of item. It doesn't take up space in your Invento
 |:-----------------|:--------|
 | Torches (bright) | 2c      |
 | Oil Lantern (bright)      | 50c      |
-| Flashlight (bright)       | 300c      |
 | Oil (for lantern)| 10c  |
-| Battery (for flashlight)| 50c  |
 |:------------------|:--------|
 |  |       |
 | <b>Lodging and food</b> | <b>Cost</b>    |
@@ -227,9 +225,9 @@ A <b>Bag</b> is a special kind of item. It doesn't take up space in your Invento
 | <b>Transport</b>        | <b>Cost</b>    |
 |:-----------------|:--------|
 | <i>Cost is per person, per area of distance</i> |       |
-| Beetle bus       | 5c       |
-| River raft       | 10c       |
-| Moletrain        | 50c       |
+| Horse-pulled wagon | 5c       |
+| River raft         | 10c       |
+| Train              | 50c       |
 |:------------------|:--------|
 |  |       |
 | <b>Hired help</b>       | <b>Cost</b>    |
