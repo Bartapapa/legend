@@ -344,7 +344,7 @@ When you level up, you do the following:
 <summary><b>Completing drives</b></summary>
 At the end of a session, look at your drive and its list of advancements that you haven't completed yet. If you've completed one, cross it off and choose a gift of the same type as the advancement you completed. You can't take the same gift twice. 
 
-You can have as many minor gifts as you want, but you can only have 1 major gift.
+You can have up to 4 minor gifts, but you can only have 1 major gift.
 </details>
 
 ***
