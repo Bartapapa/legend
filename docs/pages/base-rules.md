@@ -36,9 +36,9 @@ You start with Travel rations, Torches and a Light melee weapon of your choice.
 
 Choose or roll a <b>[Failed career](https://bartapapa.github.io/legend/failed-careers)</b>, which gives you 2 starting items as well as a starting skill.
 
-Choose or roll 2 <b>[Drives](https://bartapapa.github.io/legend/drives)</b>. This is one of the ways for you to get unique abilities. You can change them at the end of sessions/
+Choose or roll your <b>[Drive](https://bartapapa.github.io/legend/drives)</b>. Then, choose or roll 2 advances. You can choose or roll some new ones at the end of a session.
 
-Each time you <b>Roll</b> instead of choosing your background or drives, you can <b>reroll</b> one of your previous rolls, such as HP, Coin or one attribute. Take the best result.
+Each time you <b>Roll</b> instead of choosing your background or drive, you can <b>reroll</b> one of your previous rolls, such as HP, Coin or one attribute. Take the best result.
 
 You're done!
 </details>
