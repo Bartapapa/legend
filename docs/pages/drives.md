@@ -239,7 +239,7 @@ permalink: /drives/
 4. <b></b> -
 5. <b></b> -
 6. <b></b> -
-7. <b></b> - Acquire 1 Magic dice. Choose between Bubble Head, Find Lost, or Calculate Possibility. You can cast this spell as if you had the spellbook.
+7. <b>Spellmind</b> - Acquire 1 Magic dice. Choose between Bubble Head, Find Lost, or Calculate Possibility. You can cast this spell as if you had the spellbook.
 8. <b>Skill</b> - Acquire 1 of the following skills: Roads, Taverns or Common people.
 
 <h3>Major gifts</h3>
