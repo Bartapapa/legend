@@ -36,7 +36,7 @@ You start with Travel rations, Torches and a Light melee weapon of your choice.
 
 Choose or roll a <b>[Failed career](https://bartapapa.github.io/legend/failed-careers)</b>, which gives you 2 starting items as well as a starting skill.
 
-Choose or roll your <b>[Drive](https://bartapapa.github.io/legend/drives)</b>. Then, choose or roll 2 advances. You can choose or roll some new ones at the end of a session.
+Choose or roll your <b>[Drive](https://bartapapa.github.io/legend/drives)</b>.
 
 Each time you <b>Roll</b> instead of choosing your background or drive, you can <b>reroll</b> one of your previous rolls, such as HP, Coin or one attribute. Take the best result.
 
@@ -343,7 +343,9 @@ When you level up, you do the following:
 
 <details markdown="1">
 <summary><b>Completing drives</b></summary>
-When you complete a drive, you acquire an ability from the same category as the completed drive. Minor drives give minor abilities, while major drives give major abilities. You can choose, or roll, the ability you unlock.
+At the end of a session, look at your drive and its list of advancements that you haven't completed yet. If you've completed one, cross it off and choose a gift of the same type as the advancement you completed. You can't take the same gift twice. 
+
+You can have as many minor gifts as you want, but you can only have 1 major gift.
 </details>
 
 ***
