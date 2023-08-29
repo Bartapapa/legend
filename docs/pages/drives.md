@@ -233,7 +233,7 @@ permalink: /drives/
 
 <h3>Minor gifts</h3>
 
-1. <b>Always ready</b> - 
+1. <b>Always ready</b> - Whenever you leave town, you can spend up to 100c. Doing so, you acquire an unnamed package, that takes up a slot in your Inventory. Whenever you wish, you can decide to open up the unnamed package, which reveals that it was something that you could've purchased with the money you spent and could've been held in such a box. You can have bundles of items inside if you wish. 
 2. <b></b> - 
 3. <b></b> - 
 4. <b></b> -
