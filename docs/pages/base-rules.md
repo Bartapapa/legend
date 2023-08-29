@@ -342,9 +342,11 @@ When you level up, you do the following:
 
 <details markdown="1">
 <summary><b>Completing drives</b></summary>
-At the end of a session, look at your drive and its list of advancements that you haven't completed yet. If you've completed one, cross it off and choose a gift of the same type as the advancement you completed. You can't take the same gift twice. 
+At the end of a session, look at your drive and its list of advancements that you haven't completed yet. If you've completed one, cross it off.
 
-You can have up to 4 minor gifts, but you can only have 1 major gift.
+If it was a minor advancement, you can choose to either gain 1/10th of the AP you need to get to the next level (if level 2, you need 2000 more AP to get to level 3, so you'd get 200 AP), or to get 1 Luck point, which can be spent to reroll <i>any</i> d20 rolled, even if it isn't yours.
+
+If it was a major advancement, you can choose the major gift it grants you. You can only have one major gift.
 </details>
 
 ***
