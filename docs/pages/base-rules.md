@@ -201,6 +201,7 @@ A <b>Bag</b> is a special kind of item. It doesn't take up space in your Invento
 | Light ranged    | 20c     |
 | Quiver and arrows | 5c     |
 | Stones and pouch  | 1c     |
+| Powder horn and bullets | 10c    |
 | Light armor      | 100c       |
 | Heavy armor      | 400c      |
 | Repairs, <i>per Notch</i>      | 10% base cost      |
