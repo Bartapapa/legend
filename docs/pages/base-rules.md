@@ -3,7 +3,7 @@ layout: post
 title: Base Rules
 permalink: /base-rules/
 ---
-<small>Rules inspired by Isaac Williams' [Mausritter](https://mausritter.com/), Yochai Gal's [Cairn](https://cairnrpg.com/), as well as Claymore's [FIST](https://claymorerpgs.itch.io/fist), Ben Milton's [Knave](https://www.drivethrurpg.com/product/250888/Knave), the GloG community (notably [Arnold K](https://goblinpunch.blogspot.com/) and [Skerples](https://coinsandscrolls.blogspot.com/))and many OSR-adjacent systems.</small>
+<small>Rules inspired by Isaac Williams' [Mausritter](https://mausritter.com/), Yochai Gal's [Cairn](https://cairnrpg.com/), as well as [Heart: The City Beneath](https://rowanrookanddecard.com/product/heart-the-city-beneath-rpg/), Ben Milton's [Knave](https://www.drivethrurpg.com/product/250888/Knave), the GloG community (notably [Arnold K](https://goblinpunch.blogspot.com/) and [Skerples](https://coinsandscrolls.blogspot.com/))and many OSR-adjacent systems.</small>
 
 ***
 ## How to play
@@ -36,9 +36,9 @@ You start with Travel rations, Torches and a Light melee weapon of your choice.
 
 Choose or roll a <b>[Failed career](https://bartapapa.github.io/legend/failed-careers)</b>, which gives you 2 starting items as well as a starting skill.
 
-Choose or roll your <b>[Drive](https://bartapapa.github.io/legend/drives)</b>. This is one of the ways for you to get stronger. It can change, if you wish.
+Choose or roll 2 <b>[Drives](https://bartapapa.github.io/legend/drives)</b>. This is one of the ways for you to get unique abilities. You can change them at the end of sessions/
 
-Each time you <b>Roll</b> instead of choosing your background, gift or drive, you can <b>reroll</b> one of your previous rolls, such as HP, Coin or one attribute. Take the best result.
+Each time you <b>Roll</b> instead of choosing your background or drives, you can <b>reroll</b> one of your previous rolls, such as HP, Coin or one attribute. Take the best result.
 
 You're done!
 </details>
@@ -339,6 +339,11 @@ When you level up, you do the following:
 *  <b>Increase your Hit Protection</b>. You gain +1 HP.
 *  <b>Increase an Attribute</b>. Choose <b>one</b> attribute, and roll a save. If you <i>Fail</i>, you increase that attribute's Bonus and Defense by 1.
 
+</details>
+
+<details markdown="1">
+<summary><b>Completing drives</b></summary>
+When you complete a drive, you acquire an ability from the same category as the completed drive. Minor drives give minor abilities, while major drives give major abilities. You can choose, or roll, the ability you unlock.
 </details>
 
 ***
