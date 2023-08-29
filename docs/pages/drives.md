@@ -20,20 +20,20 @@ permalink: /drives/
 4. <b>Minor</b> - Sabotage someone's connections.
 5. <b>Minor</b> - Display your wealth ostentatiously.
 6. <b>Minor</b> - Make an offer someone can't refuse.
-7. <b>Minor</b> -
-8. <b>Minor</b> -
-9. <b>Minor</b> -
-10. <b>Minor</b> -
-11. <b>Minor</b> -
-12. <b>Minor</b> -
-13. <b>Minor</b> -
-14. <b>Minor</b> -
-15. <b>Minor</b> -
+7. <b>Minor</b> - Host and pay for an extravagant party in town.
+8. <b>Minor</b> - Marry into wealth.
+9. <b>Minor</b> - Steal something off of someone without them noticing.
+10. <b>Minor</b> - Have an NPC be deeply indebted to you.
+11. <b>Minor</b> - Have all your items taken from you.
+12. <b>Minor</b> - Invoke the name of one of your contacts to get what you want.
+13. <b>Minor</b> - Be part of a restricted group of NPCs.
+14. <b>Minor</b> - Spend 1000c on something frivolous.
+15. <b>Minor</b> - Gain access to useful information thanks to one of your contacts.
 16. <b>Major</b> - Ally yourself with a powerful contact.
 17. <b>Major</b> - Sell your soul in exchange for something you want.
 18. <b>Major</b> - Betray a powerful contact.
 19. <b>Major</b> - Become a lord, or receive a similarly powerful title.
-20. <b>Major</b> -
+20. <b>Major</b> - Successfully lead a heist that was thought to be impossible.
 
 <h3>Minor gifts</h3>
 
@@ -44,11 +44,7 @@ permalink: /drives/
 5. <b></b> -
 6. <b></b> -
 7. <b></b> -
-8. <b></b> -
-9. <b></b> -
-10. <b></b> -
-11. <b></b> -
-12. <b></b> -
+8. <b></b> - Skill
 
 <h3>Major gifts</h3>
 
@@ -81,12 +77,12 @@ permalink: /drives/
 12. <b>Minor</b> - Get into trouble as someone discovers your shady past.
 13. <b>Minor</b> - Let your curiosity lead you into danger.
 14. <b>Minor</b> - Witness something no mortal mind can fathom.
-15. <b>Minor</b> -
+15. <b>Minor</b> - Discover a link between two otherwise distinct objects.
 16. <b>Major</b> - Become completely insane.
 17. <b>Major</b> - Find out the truth behind a great secret.
 18. <b>Major</b> - Participate in the elaboration of a conspiracy.
 19. <b>Major</b> - Discover a source of forgotten knowledge.
-20. <b>Major</b> -
+20. <b>Major</b> - Discover precisely how to become immortal.
 
 <h3>Minor gifts</h3>
 
@@ -97,11 +93,7 @@ permalink: /drives/
 5. <b></b> -
 6. <b></b> -
 7. <b></b> -
-8. <b></b> -
-9. <b></b> -
-10. <b></b> -
-11. <b></b> -
-12. <b></b> -
+8. <b></b> - Skill
 
 <h3>Major gifts</h3>
 
@@ -138,8 +130,8 @@ permalink: /drives/
 16. <b>Major</b> - Establish a lasting bond with a wild beast.
 17. <b>Major</b> - Burn a city to the ground, so that nature may take its place.
 18. <b>Major</b> - Make it possible for lush vegetation to grow naturally where it couldn't beforehand.
-19. <b>Major</b> - 
-20. <b>Major</b> -
+19. <b>Major</b> - Bring about a natural disaster.
+20. <b>Major</b> - Become an archdruid, or acquire a title of similar natural significance.
 
 <h3>Minor gifts</h3>
 
@@ -149,12 +141,8 @@ permalink: /drives/
 4. <b></b> -
 5. <b></b> -
 6. <b></b> -
-7. <b></b> -
-8. <b></b> -
-9. <b></b> -
-10. <b></b> -
-11. <b></b> -
-12. <b></b> -
+7. <b></b> - 
+8. <b></b> - Skill
 
 <h3>Major gifts</h3>
 
@@ -191,23 +179,19 @@ permalink: /drives/
 16. <b>Major</b> - Protect a town, putting your life on the line.
 17. <b>Major</b> - Lead a town to prosperity.
 18. <b>Major</b> - Die for a greater cause.
-19. <b>Major</b> - Fall from grace.
-20. <b>Major</b> - Redeem yourself.
+19. <b>Major</b> - Succeed, when all hope seemed lost.
+20. <b>Major</b> - Fall from grace.
 
 <h3>Minor gifts</h3>
 
-1. <b></b> - 
+1. <b>Challenge</b> - 
 2. <b></b> - 
 3. <b></b> - 
 4. <b></b> -
 5. <b></b> -
 6. <b></b> -
 7. <b></b> -
-8. <b></b> -
-9. <b></b> -
-10. <b></b> -
-11. <b></b> -
-12. <b></b> -
+8. <b></b> - Skill
 
 <h3>Major gifts</h3>
 
@@ -227,7 +211,7 @@ permalink: /drives/
 <h3>Advances</h3>
 
 1. <b>Minor</b> - Engage in reckless abandon in drink, drugs or sex.
-2. <b>Minor</b> - Reach an area that's at a total Depth of 4.
+2. <b>Minor</b> - Reach an area that's at a total Depth of 4 or more.
 3. <b>Minor</b> - Spend 1000c on entertainment, drink and food.
 4. <b>Minor</b> - Lose a limb.
 5. <b>Minor</b> - Cross a dangerous path.
@@ -238,14 +222,14 @@ permalink: /drives/
 10. <b>Minor</b> - Win an unarmed brawl in town.
 11. <b>Minor</b> - Establish a connection between two areas.
 12. <b>Minor</b> - Have a romantic relationship with an NPC.
-13. <b>Minor</b> -
-14. <b>Minor</b> -
-15. <b>Minor</b> -
+13. <b>Minor</b> - Invent something useful.
+14. <b>Minor</b> - Complete a non-monetary quest from an influential NPC.
+15. <b>Minor</b> - Spread merriment and joy where there were none.
 16. <b>Major</b> - Acquire a rare, powerful magic item.
 17. <b>Major</b> - Be the sole survivor of an atrocious event.
-18. <b>Major</b> - Die, and return.
-19. <b>Major</b> - 
-20. <b>Major</b> -
+18. <b>Major</b> - Return from the brink of death.
+19. <b>Major</b> - Fulfill a prophecy.
+20. <b>Major</b> - Defeat a powerful foe with a loophole.
 
 <h3>Minor gifts</h3>
 
@@ -256,11 +240,7 @@ permalink: /drives/
 5. <b></b> -
 6. <b></b> -
 7. <b></b> -
-8. <b></b> -
-9. <b></b> -
-10. <b></b> -
-11. <b></b> -
-12. <b></b> -
+8. <b></b> - Skill
 
 <h3>Major gifts</h3>
 
@@ -280,25 +260,25 @@ permalink: /drives/
 <h3>Advances</h3>
 
 1. <b>Minor</b> - Charm someone with true tales of your exploits.
-2. <b>Minor</b> - Slay a beast of 6 to 11 HD.
+2. <b>Minor</b> - Slay a creature that's 5 times your size.
 3. <b>Minor</b> - Defeat a powerful foe one-on-one.
 4. <b>Minor</b> - Squander your reputation in front of many.
 5. <b>Minor</b> - Refuse to back down when it would be beneficial to do so.
 6. <b>Minor</b> - Rush into danger before anyone else.
 7. <b>Minor</b> - Succeed at a task that someone else recently failed to achieve.
 8. <b>Minor</b> - Establish a connection between two areas.
-9. <b>Minor</b> - Kill 5 things in one blow.
-10. <b>Minor</b> -
-11. <b>Minor</b> -
-12. <b>Minor</b> -
-13. <b>Minor</b> -
-14. <b>Minor</b> -
-15. <b>Minor</b> -
-16. <b>Major</b> - Slay a beast of 12 HD or higher.
+9. <b>Minor</b> - Kill 5 creatures in one blow.
+10. <b>Minor</b> - Make a huge comeback.
+11. <b>Minor</b> - Have your name spoken of in 3 towns.
+12. <b>Minor</b> - Take full credit for the success of a quest.
+13. <b>Minor</b> - Survive what should've killed you.
+14. <b>Minor</b> - Gloat and monologue aloud, when it would be better not to do so.
+15. <b>Minor</b> - Defeat someone so completely that you destroy their reputation.
+16. <b>Major</b> - Slay a creature of 12 HD or higher.
 17. <b>Major</b> - Have a landmark named after you.
-18. <b>Major</b> - Have your exploits catalogued over a long period of time - do it yourself or hire someone to ofllow you around.
-19. <b>Major</b> - Lead an army.
-20. <b>Major</b> - 
+18. <b>Major</b> - Have your exploits catalogued over a long period of time - do it yourself or hire someone to follow you around.
+19. <b>Major</b> - Destroy an opposing faction.
+20. <b>Major</b> - Start a war.
 
 <h3>Minor gifts</h3>
 
@@ -309,15 +289,11 @@ permalink: /drives/
 5. <b></b> -
 6. <b></b> -
 7. <b></b> -
-8. <b></b> -
-9. <b></b> -
-10. <b></b> -
-11. <b></b> -
-12. <b></b> -
+8. <b></b> - Skill
 
 <h3>Major gifts</h3>
 
-1. <b></b> - 
+1. <b>Legendary weapon</b> - Choose one of your weapons. Give it a cool name. It becomes Magical, and gets a special ability related to the situation in which it becomes legendary - talk with your GM. Anyone who lays eyes on the weapon will be able to recognize it henceforth.
 2. <b></b> - 
 3. <b></b> - 
 4. <b></b> -
@@ -338,18 +314,18 @@ permalink: /drives/
 4. <b>Minor</b> - Invoke your lord's name to get what you want.
 5. <b>Minor</b> - Let suffering continue, against your own or your allies' wishes.
 6. <b>Minor</b> - Perform a strange action that has dire consequences for you and your allies.
-7. <b>Minor</b> - Claim you're doing something on behalf of your masters, even though it's for selfish reasons.
+7. <b>Minor</b> - Claim you're doing something on behalf of your lord, even though it's for selfish reasons.
 8. <b>Minor</b> - Involve an NPC in your lord's schemes.
 9. <b>Minor</b> - Spread your lord's name in town, and preach.
 10. <b>Minor</b> - Bring bodily harm to those who oppose your lord.
 11. <b>Minor</b> - Establish a connection to a place important to your lord.
 12. <b>Minor</b> - Witness first-hand the tragic extent of your failings.
-13. <b>Minor</b> - Teach someone a valuable lesson according to your lord.
-14. <b>Minor</b> -
-15. <b>Minor</b> -
+13. <b>Minor</b> - Teach someone a valuable lesson according to your philosophies.
+14. <b>Minor</b> - Be rewarded for following your lord's orders.
+15. <b>Minor</b> - Have an audience with your lord.
 16. <b>Major</b> - Destroy something important to your lord.
 17. <b>Major</b> - Perform a truly despicable act in your lord's name.
-18. <b>Major</b> - Convert an influential NPC to follow your lord.
+18. <b>Major</b> - Convert an powerful NPC to follow your lord.
 19. <b>Major</b> - Complete a major objective for your lord, that takes 2 or more sessions to complete.
 20. <b>Major</b> - Eliminate, or completely undermine, a faction opposed to your lord.
 
@@ -362,11 +338,7 @@ permalink: /drives/
 5. <b></b> -
 6. <b></b> -
 7. <b></b> -
-8. <b></b> -
-9. <b></b> -
-10. <b></b> -
-11. <b></b> -
-12. <b></b> -
+8. <b></b> - Skill
 
 <h3>Major gifts</h3>
 
@@ -385,26 +357,26 @@ permalink: /drives/
 
 <h3>Advances</h3>
 
-1. <b>Minor</b> - 
+1. <b>Minor</b> - Openly commit crimes.
 2. <b>Minor</b> - Lead an NPC to revolt against orders given by a superior.
 3. <b>Minor</b> - Free a group of NPCs that have been imprisoned.
 4. <b>Minor</b> - Destroy an important symbol of a perceived oppressor.
 5. <b>Minor</b> - Destroy the equivalent of 1000c's worth of items in an hour.
-6. <b>Minor</b> - 
-7. <b>Minor</b> -
-8. <b>Minor</b> -
+6. <b>Minor</b> - Afflict someone with a horrible curse.
+7. <b>Minor</b> - Perform a dangerous ritual for power.
+8. <b>Minor</b> - Interrogate an NPC for information.
 9. <b>Minor</b> - Bathe in fresh blood.
-10. <b>Minor</b> - 
-11. <b>Minor</b> -
-12. <b>Minor</b> -
-13. <b>Minor</b> -
-14. <b>Minor</b> -
-15. <b>Minor</b> -
+10. <b>Minor</b> - Betray an NPC who trusted you.
+11. <b>Minor</b> - Refrain from killing something, so that it may suffer more later.
+12. <b>Minor</b> - Kill for selfish reasons.
+13. <b>Minor</b> - Steal from the vulnerable to get something you want, but don't need.
+14. <b>Minor</b> - Pledge yourself to a master and take an oath.
+15. <b>Minor</b> - Attract followers who aid you in your design.
 16. <b>Major</b> - Burn a city to the ground.
-17. <b>Major</b> - 
-18. <b>Major</b> - 
-19. <b>Major</b> - 
-20. <b>Major</b> -
+17. <b>Major</b> - Lead a revolution.
+18. <b>Major</b> - Have an atrocious event named after you.
+19. <b>Major</b> - Become the Greater Evil.
+20. <b>Major</b> - Redeem yourself.
 
 <h3>Minor gifts</h3>
 
@@ -415,15 +387,11 @@ permalink: /drives/
 5. <b></b> -
 6. <b></b> -
 7. <b></b> -
-8. <b></b> -
-9. <b></b> -
-10. <b></b> -
-11. <b></b> -
-12. <b></b> -
+8. <b></b> - Skill
 
 <h3>Major gifts</h3>
 
-1. <b></b> - 
+1. <b>Blackguard</b> - 
 2. <b></b> - 
 3. <b></b> - 
 4. <b></b> -
