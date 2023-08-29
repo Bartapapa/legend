@@ -37,14 +37,14 @@ permalink: /drives/
 
 <h3>Minor gifts</h3>
 
-1. <b></b> - 
+1. <b>Web of contacts</b> - Once per town, you can declare that you know someone who can help you with your predicament. They might not like you. When you stay in town for a week, you automatically have a web of contacts who'll do up to mildly illegal things for you, but expect compensation in return. 
 2. <b></b> - 
 3. <b></b> - 
 4. <b></b> -
 5. <b></b> -
 6. <b></b> -
 7. <b>Spellmind</b> - Acquire 1 Magic dice. Choose between Fool's Gold, Charm, or Break Down Stronghold. You can cast this spell as if you had the spellbook.
-8. <b></b> - Skill
+8. <b>Skill</b> - Acquire 1 of the following skills: Important names, Rare treasures or Currencies.
 
 <h3>Major gifts</h3>
 
@@ -86,18 +86,18 @@ permalink: /drives/
 
 <h3>Minor gifts</h3>
 
-1. <b>Mysteries</b> - 
+1. <b></b> - 
 2. <b></b> - 
 3. <b></b> - 
 4. <b></b> -
 5. <b></b> -
 6. <b></b> -
 7. <b>Spellmind</b> - Acquire 1 Magic dice. Choose between Collect Memory, See Invisibility, or Divination. You can cast this spell as if you had the spellbook.
-8. <b></b> - Skill
+8. <b>Skill</b> - Acquire 1 of the following skills: Ancient legends, Advanced mathematics or Dark rituals.
 
 <h3>Major gifts</h3>
 
-1. <b></b> - 
+1. <b>Mysteries</b> - You have a new attribute - Mysteries. Whenever you come across something unanswered in the world, note down one Big Question and increase your Mysteries bonus by 1. A Big Question is anything that has a meaningful, and interesting, answer. Whenever you're in an archive of knowledge, you can roll a Mysteries save. If successful, the GM gives you an honest answer to one of your Big Questions. This ability can't be used to accomplish advancements.
 2. <b></b> - 
 3. <b></b> - 
 4. <b></b> -
@@ -142,7 +142,7 @@ permalink: /drives/
 5. <b></b> -
 6. <b></b> -
 7. <b>Spellmind</b> - Acquire 1 Magic dice. Choose between Sense Life, Speak With Bugs, or Starlight. You can cast this spell as if you had the spellbook.
-8. <b></b> - Skill
+8. <b>Skill</b> - Acquire 1 of the following skills: Wild beasts, Sylvan spirits or Geography.
 
 <h3>Major gifts</h3>
 
@@ -191,7 +191,7 @@ permalink: /drives/
 5. <b></b> -
 6. <b></b> -
 7. <b>Spellmind</b> - Acquire 1 Magic dice. Choose between Iron Bindings, Statue, or Bridge. You can cast this spell as if you had the spellbook.
-8. <b></b> - Skill
+8. <b>Skill</b> - Acquire 1 of the following skills: Heroes of old, Legendary implements or Folklore.
 
 <h3>Major gifts</h3>
 
@@ -240,7 +240,7 @@ permalink: /drives/
 5. <b></b> -
 6. <b></b> -
 7. <b></b> - Acquire 1 Magic dice. Choose between Bubble Head, Find Lost, or Calculate Possibility. You can cast this spell as if you had the spellbook.
-8. <b></b> - Skill
+8. <b>Skill</b> - Acquire 1 of the following skills: Roads, Taverns or Common people.
 
 <h3>Major gifts</h3>
 
@@ -289,7 +289,7 @@ permalink: /drives/
 5. <b></b> -
 6. <b></b> -
 7. <b>Spellmind</b> - Acquire 1 Magic dice. Choose between Raindrop Cut, Fracture Stone, or Lightning Strike. You can cast this spell as if you had the spellbook.
-8. <b></b> - Skill
+8. <b>Skill</b> - Acquire 1 of the following skills: Warfare, Legendary beasts or Powerful people.
 
 <h3>Major gifts</h3>
 
@@ -338,7 +338,7 @@ permalink: /drives/
 5. <b></b> -
 6. <b></b> -
 7. <b>Spellmind</b> - Acquire 1 Magic dice. Choose between Suggestion, Heal, or Abjuring Armor. You can cast this spell as if you had the spellbook.
-8. <b></b> - Skill
+8. <b>Skill</b> - Acquire 1 of the following skills: Theology, Gods of old or Evil spirits.
 
 <h3>Major gifts</h3>
 
@@ -387,7 +387,7 @@ permalink: /drives/
 5. <b></b> -
 6. <b></b> -
 7. <b>Spellmind</b> - Acquire 1 Magic dice. Choose between Raise Dead, Appel Du Vide, or Invisibility. You can cast this spell as if you had the spellbook.
-8. <b></b> - Skill
+8. <b>Skill</b> - Acquire 1 of the following skills: Demonology, Law or Cataclysms.
 
 <h3>Major gifts</h3>
 
