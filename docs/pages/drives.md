@@ -43,7 +43,7 @@ permalink: /drives/
 4. <b></b> -
 5. <b></b> -
 6. <b></b> -
-7. <b></b> -
+7. <b>Spellmind</b> - Acquire 1 Magic dice. Choose between Fool's Gold, Charm, or Break Down Stronghold. You can cast this spell as if you had the spellbook.
 8. <b></b> - Skill
 
 <h3>Major gifts</h3>
@@ -92,7 +92,7 @@ permalink: /drives/
 4. <b></b> -
 5. <b></b> -
 6. <b></b> -
-7. <b></b> -
+7. <b>Spellmind</b> - Acquire 1 Magic dice. Choose between Collect Memory, See Invisibility, or Divination. You can cast this spell as if you had the spellbook.
 8. <b></b> - Skill
 
 <h3>Major gifts</h3>
@@ -135,13 +135,13 @@ permalink: /drives/
 
 <h3>Minor gifts</h3>
 
-1. <b></b> - 
+1. <b>Speak with [animal]</b> - When acquiring this gift, choose a type of animal. Dogs. Crabs. Birds. You can speak to these perfectly, and they can speak to you. You can speak to similar animals, but they have heavy accents. Animals of the same class (like 'mammals') can still be understood, but barely.
 2. <b></b> - 
 3. <b></b> - 
 4. <b></b> -
 5. <b></b> -
 6. <b></b> -
-7. <b></b> - 
+7. <b>Spellmind</b> - Acquire 1 Magic dice. Choose between Sense Life, Speak With Bugs, or Starlight. You can cast this spell as if you had the spellbook.
 8. <b></b> - Skill
 
 <h3>Major gifts</h3>
@@ -184,13 +184,13 @@ permalink: /drives/
 
 <h3>Minor gifts</h3>
 
-1. <b>Challenge</b> - 
+1. <b>Challenge</b> - When you <i>demand</i> that someone oppose you in a challenge of wits, strength or violence, they must accept or suffer consequences. Consequences for a normal person are light humiliation - for people higher up in social standing, rank, or divine influence, the consequences can be demotion, shame, even death. You can challenge anything that understands you and is capable of being offended. 
 2. <b></b> - 
 3. <b></b> - 
 4. <b></b> -
 5. <b></b> -
 6. <b></b> -
-7. <b></b> -
+7. <b>Spellmind</b> - Acquire 1 Magic dice. Choose between Iron Bindings, Statue, or Bridge. You can cast this spell as if you had the spellbook.
 8. <b></b> - Skill
 
 <h3>Major gifts</h3>
@@ -239,14 +239,14 @@ permalink: /drives/
 4. <b></b> -
 5. <b></b> -
 6. <b></b> -
-7. <b></b> -
+7. <b></b> - Acquire 1 Magic dice. Choose between Bubble Head, Find Lost, or Calculate Possibility. You can cast this spell as if you had the spellbook.
 8. <b></b> - Skill
 
 <h3>Major gifts</h3>
 
 1. <b></b> - 
 2. <b></b> - 
-3. <b></b> - 
+3. <b>Spellmind</b> - 
 4. <b></b> -
 
 </details> 
@@ -288,7 +288,7 @@ permalink: /drives/
 4. <b></b> -
 5. <b></b> -
 6. <b></b> -
-7. <b></b> -
+7. <b>Spellmind</b> - Acquire 1 Magic dice. Choose between Raindrop Cut, Fracture Stone, or Lightning Strike. You can cast this spell as if you had the spellbook.
 8. <b></b> - Skill
 
 <h3>Major gifts</h3>
@@ -337,7 +337,7 @@ permalink: /drives/
 4. <b></b> -
 5. <b></b> -
 6. <b></b> -
-7. <b></b> -
+7. <b>Spellmind</b> - Acquire 1 Magic dice. Choose between Suggestion, Heal, or Abjuring Armor. You can cast this spell as if you had the spellbook.
 8. <b></b> - Skill
 
 <h3>Major gifts</h3>
@@ -386,7 +386,7 @@ permalink: /drives/
 4. <b></b> -
 5. <b></b> -
 6. <b></b> -
-7. <b></b> -
+7. <b>Spellmind</b> - Acquire 1 Magic dice. Choose between Raise Dead, Appel Du Vide, or Invisibility. You can cast this spell as if you had the spellbook.
 8. <b></b> - Skill
 
 <h3>Major gifts</h3>
