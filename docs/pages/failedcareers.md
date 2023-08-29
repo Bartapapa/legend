@@ -211,7 +211,7 @@ Skill: Performance
 <summary><b>45. Smithy</b></summary>
 Name the mine that was overrun by creatures, preventing the import of metal.
 
-Bonus item: Heavy hammer (medium melee), 
+Bonus item: Heavy hammer (medium melee), Iron tongs
 
 Skill: Metallurgy
 </details>
