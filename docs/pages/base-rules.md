@@ -122,17 +122,20 @@ When a tool has the <b>Treasure</b> trait, it also has a (Price). When you bring
 Weapons are separated into different categories.
   
 *  <b>Light melee.</b> (Daggers, knives, clubs) These take up one hand, and deal 1d6 damage. They can be <b>dual-wielded</b>. They are always considered <i>light</i> items.
-*  <b>Medium melee.</b> (Swords, axes, maces) These take up one hand, and deal 1d8 damage, or 1d10 damage when wielded in two hands.
-*  <b>Heavy melee.</b> (Battleaxes, halberds) These take up two hands, and deal 1d12 damage. They are always considered <i>heavy</i> items.
-*  <b>Light ranged.</b> (Blowguns, slings) These take up one hand, and deal 1d6 damage. An inventory slot is also taken up by <i>Ammunition</i>. They are always considered <i>ranged</i> items.
-*  <b>Heavy ranged.</b> (Longbows, crossbows, rifles) These take up two hands, and deal 1d12 damage. An inventory slot is also taken up by <i>Ammunition</i>. They are always considered <i>heavy</i> and <i>ranged</i> items.
+*  <b>Medium melee.</b> (Swords, axes, maces) These take up one hand, and deal 1d8 damage.
+*  <b>Heavy melee.</b> (Battleaxes, halberds) These take up two hands, and deal 1d10 damage. They are always considered <i>heavy</i> items.
+*  <b>Light ranged.</b> (Blowguns, slings, revolvers) These take up one hand, and deal 1d6 damage. An inventory slot is also taken up by <i>Ammunition</i>. They are always considered <i>ranged</i> items.
+*  <b>Medium ranged.</b> (Bows) These take up two hands, and deal 1d8 damage. An inventory slot is also taken by <i>Ammunition</i>. They are always considered <i>ranged</i> items.
+*  <b>Heavy ranged.</b> (Longbows, crossbows, rifles) These take up two hands, and deal 1d10 damage. An inventory slot is also taken up by <i>Ammunition</i>. They are always considered <i>heavy</i> and <i>ranged</i> items.
 
 If you are <b>dual-wielding</b>, you roll 2d6 and take the best result when you attack.
+
+Damage can be <b>Enhanced</b> or <b>Impaired</b> in certain conditions. If it is enhanced, you deal 1d12 damage. If it is impaired, you deal 1d4 damage.
 </details>
 
 <details markdown="1">
 <summary><b>Bags</b></summary>
-A <b>Bag</b> is a special kind of item. It doesn't take up space in your Inventory, and actually grants you 4 Inventory slots. They count as normal inventory slots, however they cannot contain any Conditions. You can't wear Armor if you have a Bag. In order to take out an item that's in your bag, you're going to need to spend a round rummaging in there.
+A <b>Bag</b> is a special kind of item. It doesn't take up space in your Inventory, and actually grants you 5 Inventory slots. They count as normal inventory slots, however they cannot contain any Conditions. You can't wear Armor if you have a Bag. In order to take out an item that's in your bag, you're going to need to spend a round rummaging in there.
 </details>
 
 <details markdown="1">
@@ -284,13 +287,15 @@ When first meeting with a creature and the GM isn't sure of the kind of first im
 
 <details markdown="1">
 <summary><b>Resting</b></summary>
-There are three kinds of rests: <b>Short</b>, <b>Long</b> and <b>Full</b>.
+If you don't eat or drink for a day, you are <b>Deprived</b>. Each additional day spent without doing these gives 1 Fatigue (for each incomplete necessity), which takes up a slot in your Inventory. If you can't add more Fatigue, you take 1 Might damage per Fatigue. If you complete these necessities, you're not Deprived anymore.
 
-You can only long rest if you're in a sheltered, warm and dry place, and you eat some food. Long rests heal all HP lost, and remove Wounds if someone can tend to you. If HP is at maximum, you heal 1d6 Ability damage if someone can tend to you. Long rests take <b>4 hours</b>.
+There are three kinds of rests: <b>Short</b>, <b>Long</b> and <b>Full</b>. You benefit from the effects of a rest if you're not <b>Deprived</b>.
 
-You can take a short rest pretty much everywhere, although you still have to eat some food. Short rests heal 1d6+1 HP. It takes <b>10 minutes</b>.
+You can short rest pretty much everywhere, although you have to <b>eat</b> something. This takes 10 minutes. You heal 1d6+1 HP, and 1 Fatigue.
 
-You can only take a full rest in complete security, on a bed in town. It heals all your HP and ability damage. It takes <b>a week</b>, although you don't need to be only in bed during this time. A week's worth of lodging and food usually costs around 20p.
+You can only long rest if you're in a sheltered, warm and dry place, and you <b>eat</b> some food. This takes 4 hours. You heal all lost HP, as well as all Fatigue. If your HP is at maximum, you heal 1d6+1 Ability damage if someone can tend to you.
+
+You can only take a full rest in complete security, on a bed in town. It heals all your HP, Fatigue and ability damage. It takes <b>a week</b>, although you don't need to be only in bed during this time. A week's worth of lodging and food usually costs around 20p.
 
 </details>
 
