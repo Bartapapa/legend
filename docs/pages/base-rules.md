@@ -248,9 +248,9 @@ A <b>Bag</b> is a special kind of item. It doesn't take up space in your Invento
 
 <details markdown="1">
 <summary><b>Combat</b></summary>
-Combat starts when someone first attempts to attack. At the start of combat, roll Grace. On a success, you go before your enemies. If you're surprised, your enemies go first - if you surprise them, you go first.
+Combat starts when someone first attempts to attack. At the start of combat, roll a Grace save. On a success, you go before your enemies. If you're surprised, your enemies go first - if you surprise them, you go first.
 
-When you attack someone, you don't need to roll to hit. You immediately roll the damage die of your weapon (if you have no weapon, you do 1 damage. If you're weapon is improvised, you do 1d4) and deal that much damage to your target.
+When you attack someone, you don't need to roll to hit. You immediately roll the damage die of your weapon (if you have no weapon, you do 1 damage. If your weapon is improvised, you do 1d4) and deal that much damage to your target, minus their Armor.
 
 </details>
 
@@ -302,7 +302,7 @@ You can only take a full rest in complete security, on a bed in town. It heals a
 <summary><b>Followers</b></summary>
 Followers, well, follow you around. You don't control them, however they will act in your favor. They do not demand payment, although they still must be fed and treated equally.
 
-A default follower has 1d6 HP, 1 in all attributes, 6 Inventory slots and a Loyalty score of 5.
+A default follower has 1 HD (1d6 HP), 1 in all attributes, 6 Inventory slots and a Loyalty score of 5.
 
 Loyalty is another attribute followers have, that they have to roll a save for if ever they must not flee or if you ask them to do something riskier than what they bargained for. Loyalty can fluctuate over time, to a max of 10 and a minimum of 0. If your follower has 0 Loyalty, they leave, betray you, etc.
 
