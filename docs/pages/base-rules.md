@@ -36,8 +36,6 @@ You start with Travel rations, Torches and a Light melee weapon of your choice.
 
 Choose or roll a <b>[Failed career](https://bartapapa.github.io/legend/failed-careers)</b>, which gives you 2 starting items as well as a starting skill.
 
-Choose or roll a <b>[Gift](https://bartapapa.github.io/legend/gifts)</b>, which gives your character a unique ability.
-
 Choose or roll your <b>[Drive](https://bartapapa.github.io/legend/drives)</b>. This is one of the ways for you to get stronger. It can change, if you wish.
 
 Each time you <b>Roll</b> instead of choosing your background, gift or drive, you can <b>reroll</b> one of your previous rolls, such as HP, Coin or one attribute. Take the best result.
