@@ -98,7 +98,7 @@ permalink: /drives/
 <h3>Major gifts</h3>
 
 1. <b>Mysteries</b> - You have a new attribute - Mysteries. Whenever you come across something unanswered in the world, note down one Big Question and increase your Mysteries bonus by 1. A Big Question is anything that has a meaningful, and interesting, answer. Whenever you're in an archive of knowledge, you can roll a Mysteries save. If successful, the GM gives you an honest answer to one of your Big Questions. This ability can't be used to accomplish advancements.
-2. <b>Arcane ritual</b> - You know how to carve spells on the inside of your head. By spending a week with a spellbook in town, you can carry the spell into your skull and let it feed off of your life force. Reduce your Might, Grace or Wit by 1, as well as its respective defense. You destroy the spellbook, but keep the magic die and can now cast the spell without a spellbook.
+2. <b>Arcane ritual</b> - You know how to carve spells on the inside of your head. By spending a week with a spellbook in town, you can carry the spell into your skull and let it feed off of your life force. Reduce your Might, Grace or Wit by 1, as well as its respective defense. You destroy the spellbook, but keep the magic die and can now cast the spell without a spellbook. You cannot reduce an attribute to less than 0.
 3. <b></b> - 
 4. <b></b> -
 
