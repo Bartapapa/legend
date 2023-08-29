@@ -3,7 +3,7 @@ layout: post
 title: Drives
 permalink: /drives/
 ---
-<b>Drives</b> are a portion of your character's personality, and why they're doing trying to amass wealth and get notoriety. By choosing a drive, you get an additional way of gaining Adventure points - if by the end of a session, you accomplished your drive, you get 1000 adventure points. You can change drive when you level up - although this normally represents a great shift in your character's perception, so talk about it with your GM.
+<b>Drives</b> are a portion of your character's personality, and why they're doing trying to amass wealth and get notoriety. By choosing a drive, you get an additional way of gaining Adventure points - if by the end of a session, you accomplished one of your advances, you get a gift. You can change drive when you level up - although this normally represents a great shift in your character's perception, so talk about it with your GM.
 
 ***
 ## 1. Wealth
@@ -35,20 +35,9 @@ permalink: /drives/
 19. <b>Major</b> - Become a lord, or receive a similarly powerful title.
 20. <b>Major</b> - Successfully lead a heist that was thought to be impossible.
 
-<h3>Minor gifts</h3>
-
-1. <b>Web of contacts</b> - Once per town, you can declare that you know someone who can help you with your predicament. They might not like you. When you stay in town for a week, you automatically have a web of contacts who'll do up to mildly illegal things for you, but expect compensation in return. 
-2. <b></b> - 
-3. <b></b> - 
-4. <b></b> -
-5. <b></b> -
-6. <b></b> -
-7. <b>Spellmind</b> - Acquire 1 Magic dice. Choose between Fool's Gold, Charm, or Break Down Stronghold. You can cast this spell as if you had the spellbook.
-8. <b>Skill</b> - Acquire 1 of the following skills: Important names, Rare treasures or Currencies.
-
 <h3>Major gifts</h3>
 
-1. <b></b> - 
+1. <b>Keep</b> - you become the proprietor of a deed that makes you the legal owner of a parcel of land over which you rule. Your specific situation makes it so that you don't have to pay tithes to any superior ruler. People take care of your keep in your absence, and you can furnish it as you want, as long as you have money to do so. It comes with a banquet hall, many bedrooms and many secret passages that you know of.
 2. <b></b> - 
 3. <b></b> - 
 4. <b></b> -
@@ -84,21 +73,10 @@ permalink: /drives/
 19. <b>Major</b> - Discover a source of forgotten knowledge.
 20. <b>Major</b> - Discover precisely how to become immortal.
 
-<h3>Minor gifts</h3>
-
-1. <b></b> - 
-2. <b></b> - 
-3. <b></b> - 
-4. <b></b> -
-5. <b></b> -
-6. <b></b> -
-7. <b>Spellmind</b> - Acquire 1 Magic dice. Choose between Collect Memory, See Invisibility, or Divination. You can cast this spell as if you had the spellbook.
-8. <b>Skill</b> - Acquire 1 of the following skills: Ancient legends, Advanced mathematics or Dark rituals.
-
 <h3>Major gifts</h3>
 
 1. <b>Mysteries</b> - You have a new attribute - Mysteries. Whenever you come across something unanswered in the world, note down one Big Question and increase your Mysteries bonus by 1. A Big Question is anything that has a meaningful, and interesting, answer. Whenever you're in an archive of knowledge, you can roll a Mysteries save. If successful, the GM gives you an honest answer to one of your Big Questions. This ability can't be used to accomplish advancements.
-2. <b>Arcane ritual</b> - You know how to carve spells on the inside of your head. By spending a week with a spellbook in town, you can carry the spell into your skull and let it feed off of your life force. Reduce your Might, Grace or Wit by 1, as well as its respective defense. You destroy the spellbook, but keep the magic die and can now cast the spell without a spellbook. You cannot reduce an attribute to less than 0 in this way.
+2. <b></b> - 
 3. <b></b> - 
 4. <b></b> -
 
@@ -133,20 +111,9 @@ permalink: /drives/
 19. <b>Major</b> - Bring about a natural disaster.
 20. <b>Major</b> - Become an archdruid, or acquire a title of similar natural significance.
 
-<h3>Minor gifts</h3>
-
-1. <b>Speak with [animal]</b> - When acquiring this gift, choose a type of animal. Dogs. Crabs. Birds. You can speak to these perfectly, and they can speak to you. You can speak to similar animals, but they have heavy accents. Animals of the same class (like 'mammals') can still be understood, but barely.
-2. <b></b> - 
-3. <b></b> - 
-4. <b></b> -
-5. <b></b> -
-6. <b></b> -
-7. <b>Spellmind</b> - Acquire 1 Magic dice. Choose between Sense Life, Speak With Bugs, or Starlight. You can cast this spell as if you had the spellbook.
-8. <b>Skill</b> - Acquire 1 of the following skills: Wild beasts, Sylvan spirits or Geography.
-
 <h3>Major gifts</h3>
 
-1. <b></b> - 
+1. <b>Beast-bonded</b> - You gain a follower, which is a beast between the size of a dog and a bear that you choose. It has above average intelligence. You can communicate between each other perfectly, despite not being able to speak. It has your HD, your HP, 6 Inventory slots and is loyal to the death. Its natural weapons deal 1d8 damage.
 2. <b></b> - 
 3. <b></b> - 
 4. <b></b> -
@@ -181,17 +148,6 @@ permalink: /drives/
 18. <b>Major</b> - Die for a greater cause.
 19. <b>Major</b> - Succeed, when all hope seemed lost.
 20. <b>Major</b> - Fall from grace.
-
-<h3>Minor gifts</h3>
-
-1. <b>Challenge</b> - When you <i>demand</i> that someone oppose you in a challenge of wits, strength or violence, they must accept or suffer consequences. Consequences for a normal person are light humiliation - for people higher up in social standing, rank, or divine influence, the consequences can be demotion, shame, even death. You can challenge anything that understands you and is capable of being offended. 
-2. <b></b> - 
-3. <b></b> - 
-4. <b></b> -
-5. <b></b> -
-6. <b></b> -
-7. <b>Spellmind</b> - Acquire 1 Magic dice. Choose between Iron Bindings, Statue, or Bridge. You can cast this spell as if you had the spellbook.
-8. <b>Skill</b> - Acquire 1 of the following skills: Heroes of old, Legendary implements or Folklore.
 
 <h3>Major gifts</h3>
 
@@ -231,17 +187,6 @@ permalink: /drives/
 19. <b>Major</b> - Fulfill a prophecy.
 20. <b>Major</b> - Defeat a powerful foe with a loophole.
 
-<h3>Minor gifts</h3>
-
-1. <b>Always ready</b> - Whenever you leave town, you can spend up to 100c. Doing so, you acquire an unnamed package, that takes up a slot in your Inventory. Whenever you wish, you can decide to open up the unnamed package, which reveals that it was something that you could've purchased with the money you spent and could've been held in such a box. You can have bundles of items inside if you wish. 
-2. <b></b> - 
-3. <b></b> - 
-4. <b></b> -
-5. <b></b> -
-6. <b></b> -
-7. <b>Spellmind</b> - Acquire 1 Magic dice. Choose between Bubble Head, Find Lost, or Calculate Possibility. You can cast this spell as if you had the spellbook.
-8. <b>Skill</b> - Acquire 1 of the following skills: Roads, Taverns or Common people.
-
 <h3>Major gifts</h3>
 
 1. <b></b> - 
@@ -279,17 +224,6 @@ permalink: /drives/
 18. <b>Major</b> - Have your exploits catalogued over a long period of time - do it yourself or hire someone to follow you around.
 19. <b>Major</b> - Destroy an opposing faction.
 20. <b>Major</b> - Start a war.
-
-<h3>Minor gifts</h3>
-
-1. <b></b> - 
-2. <b></b> - 
-3. <b></b> - 
-4. <b></b> -
-5. <b></b> -
-6. <b></b> -
-7. <b>Spellmind</b> - Acquire 1 Magic dice. Choose between Raindrop Cut, Fracture Stone, or Lightning Strike. You can cast this spell as if you had the spellbook.
-8. <b>Skill</b> - Acquire 1 of the following skills: Warfare, Legendary beasts or Powerful people.
 
 <h3>Major gifts</h3>
 
@@ -329,17 +263,6 @@ permalink: /drives/
 19. <b>Major</b> - Complete a major objective for your lord, that takes 2 or more sessions to complete.
 20. <b>Major</b> - Eliminate, or completely undermine, a faction opposed to your lord.
 
-<h3>Minor gifts</h3>
-
-1. <b></b> - 
-2. <b></b> - 
-3. <b></b> - 
-4. <b></b> -
-5. <b></b> -
-6. <b></b> -
-7. <b>Spellmind</b> - Acquire 1 Magic dice. Choose between Suggestion, Heal, or Abjuring Armor. You can cast this spell as if you had the spellbook.
-8. <b>Skill</b> - Acquire 1 of the following skills: Theology, Gods of old or Evil spirits.
-
 <h3>Major gifts</h3>
 
 1. <b></b> - 
@@ -378,20 +301,9 @@ permalink: /drives/
 19. <b>Major</b> - Become the Greater Evil.
 20. <b>Major</b> - Redeem yourself.
 
-<h3>Minor gifts</h3>
-
-1. <b></b> - 
-2. <b></b> - 
-3. <b></b> - 
-4. <b></b> -
-5. <b></b> -
-6. <b></b> -
-7. <b>Spellmind</b> - Acquire 1 Magic dice. Choose between Raise Dead, Appel Du Vide, or Invisibility. You can cast this spell as if you had the spellbook.
-8. <b>Skill</b> - Acquire 1 of the following skills: Demonology, Law or Cataclysms.
-
 <h3>Major gifts</h3>
 
-1. <b>Blackguard</b> - 
+1. <b>Blackguard</b> - You desecrate holy areas by your presence. You can turn water into blood. Creatures weaker than you justly fear you.
 2. <b></b> - 
 3. <b></b> - 
 4. <b></b> -
