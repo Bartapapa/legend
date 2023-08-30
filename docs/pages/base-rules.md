@@ -333,7 +333,7 @@ When you level up, you do the following:
 <summary><b>After level 4</b></summary>
 What do you do after level 4? Well, you <b>retire.</b> You won the game, congratulations. Your character becomes a helpful NPC who lives comfortably somewhere with the riches they've accumulated. Roll a new character to join the group.
 
-...That, or you become [legendary](https://bartapapa.github.io/legend/additional-rules#legendary).
+...That, or you become [legendary](https://bartapapa.github.io/legend/additional-rules#connecting-areas).
 
 </details>
 
