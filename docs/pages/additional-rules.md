@@ -28,17 +28,16 @@ Characters take 1d6 damage if they fall more than 3 meters, and an additional 1d
 Each heavy object held when falling makes it so you are considered to fall an additional meter. Falling onto softer surfaces, like sand or snow or hay, makes you be considered to fall half as much distance as what you actually fell. Some surfaces will nullify fall damage.
 
 ### Fire and acid
-These deal 1d6 damage per turn if touching it, 2d6 damage if wading in it and 3d6 damage if engulfed in it.
+These deal 1d6 damage per turn if touching it, 2d6 damage if wading in it and 3d6 damage if engulfed in it. Stronger fires or acids, like hellfire or a dragon's corrosive spittle, can increase the die size to represent its increased potency.
 
 ***
 ## Exploration
 <small>Rules adapted from Arnold K's [Underclock](https://goblinpunch.blogspot.com/2023/04/the-underclock-fixing-random-encounter.html).</small>
-All animals know what the Realms Below are - a dark, humid place that hates you the only way hundreds of tons of stone and caustic juices brewed over millennia could.
 
 ### The Clock
-When you enter a dungeon (any configuration of interconnected rooms), there's a Clock that starts at 20. Whenever 10 in-game minutes pass, or the party makes too much noise, roll 1d6 and reduce the Clock by that amount. The noise of combat doesn't provoke rolls on the Clock.
+When you enter a dungeon (any configuration of interconnected rooms) or start adventuring in the great outdoors, there's a Clock that starts at 20. Whenever a unit of time passes (a 4-hour <b>Watch</b> outdoors, or a 10-minute <b>Turn</b> inside a dungeon), a d6 is rolled and the result is subtracted from the Clock. The noise of combat doesn't provoke rolls on the Clock.
 *  When the Clock reaches <i>below 0</i>, an <b>Encounter</b> happens. After the encounter is resolved, the Clock resets to 20.
-*  When the Clock reaches <i>0 exactly</i>, it resets to 3 - the Realms Below's attention is elsewhere for the moment.
+*  When the Clock reaches <i>0 exactly</i>, it resets to 3 - the World's attention is elsewhere for the moment.
 *  When the Clock reaches <i>3 exactly</i>, an <b>Omen</b> occurs.
 
 > When the Clock resets to 3, it triggers an Omen.
@@ -50,5 +49,5 @@ Encounters are <i>dangers of the current area the players are</i>. They can be h
 Omens are <i>clues as to what dangers are in the current area</i>. Sounds of skittering, traces of thick cobwebs, etc. They are here to help the players understand what awaits them.
 
 ### Depth
-The deeper you go, the easier it is to feel the hate of the Realms Below. A dungeon has a Depth score, with 0 being on the surface, and 10 being the bowels of the world, untouched by light and by surface critters alike. The Clock is reduced by a dungeon's Depth when it is initialized and any time it resets.
+The deeper you go, the easier it is to feel the hate of the Natural Realms. Whether this is 'deep' as in vertical depth or 'deep' as in how far it is from the civilized world doesn't matter. Areas (and the dungeons therein) have a Depth score, which ranges from d6 to d12, passing through d8 and d10. d12 is reserved for those areas that hate all that is outside it. Instead of rolling the normal d6 to count down the clock, you roll the area's Depth die.
 
