@@ -60,13 +60,25 @@ Creating paths is something else. The Natural Realms hate people trying to organ
 ## Legend
 
 ### Strongholds
-<b>Keeps</b>
-<b>Towers</b>
-<b>Churches</b>
-<b>Towns</b>
-Generally, a new area
+<small>Rules adapted from Skerples' [Castle-building rules](https://coinsandscrolls.blogspot.com/2017/09/osr-building-castles.html).</small>
+
+Starting from level 5 and onwards, a character has amassed enough wealth, and has gotten a bit of notoriety (either by doing quests, unwittingly helping local barons, or just amassing such wealth that it'd be a stupid idea for surroundings dukes to not take that into account). If they want, they can buy or build a <b>Stronghold</b>. Now, not anywhere, no - land isn't bought. It is given, or taken and defended. However, ruins and dungeons can be re-made into dungeons. Transform them into quarries, take the dressed stone, re-use them to build new walls and floors, etc. Pillage an entire dungeon for all it's worth, and you'll get plenty of resources.
+
+Depending on the size of the dungeon or ruins you excavate, you'll get more or less stone. The general guideline is:
+
+<b>For every 100 2m stone cubes, you need:</b>
+* 1 year of time
+* 100 laborers
+* 10 masons
+* 1 architect
+* 1000c a month for general expenses (food, temporary shelters, specialists, smiths, etc)
+
+Wages taken into account, this adds up to <b>1650c</b> per month. Rearrange these cubes in whatever fashion you wish (walls, fortifications, rooms, corridors, etc), or generally keep in mind that 100 cubes is worth 5 small rooms and 1 big room, with corridors to connect. Round to the nearest 50 stone cubes when making larger constructions.
+
+Upkeep is 10c a month per 100 cubes, for servants and general costs to prevent the roofs from leaking, the pipes from stinking, and the doors from creaking.
+
+Make a keep. A tower. A church. Really, it can be what you want. Make your mark on the world. Your stronghold replaces (or creates) the area in which it's placed.
 
 ### Apprentice
-
-### Army
+Starting from level 5 and onwards, a character has garnered enough fame to be recognizeable, and perhaps be a person of interest for many an up-and-coming whatever-it-is-you-do. By spending time in pretty much any town, you can 
 
