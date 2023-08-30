@@ -56,3 +56,17 @@ In the great outdoors, areas are interconnected by <b>Roads</b> and <b>Paths</b>
 
 Creating paths is something else. The Natural Realms hate people trying to organize it, and will stop at nothing to remind explorers of the reasons why they should've stayed home. When you want to create a path, you have to either decide if you have a destination or not. If you do, declare what's your destination. If you don't, the GM will create an area for when you 'arrive'. Whatever the decision is, determine who is your guide. The guide can change over the course of this process. The GM determines a <b>Difficulty</b>, which is a number between 5 (for straightforward hikes) and 20 (for complex, dangerous segments). The party will face obstacles that they must overcome in order to proceed. If all characters manage to overcome the obstacle, then a d8 is rolled, and the difficulty is reduced by that result. If at least one character doesn't manage to overcome the obstacle, the party must find another path around - meaning they only roll a d4. In the case of a success, if the party has a guide or has someone with a skill related to the area, then they can roll a d12. A watch passes as they overcome the obstacle (and so the Clock ticks down according to the Depth the characters are at). If the Difficulty was reduced to 0, then a path has been created in between either the chosen destination or the created landmark. Otherwise, another obstacle comes, and the characters must overcome that one. This process repeats itself until the difficulty is reduced to 0.
 
+***
+## Legend
+
+### Strongholds
+<b>Keeps</b>
+<b>Towers</b>
+<b>Churches</b>
+<b>Towns</b>
+Generally, a new area
+
+### Apprentice
+
+### Army
+
