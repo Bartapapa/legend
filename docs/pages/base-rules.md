@@ -36,10 +36,6 @@ You start with Travel rations, Torches and a Light melee weapon of your choice.
 
 Choose or roll a <b>[Failed career](https://bartapapa.github.io/legend/failed-careers)</b>, which gives you 2 starting items as well as a starting skill.
 
-Choose or roll your <b>[Drive](https://bartapapa.github.io/legend/drives)</b>.
-
-Each time you <b>Roll</b> instead of choosing your background or drive, you can <b>reroll</b> one of your previous rolls, such as HP, Coin or one attribute. Take the best result.
-
 You're done!
 </details>
 
@@ -132,11 +128,6 @@ Damage can be <b>Enhanced</b> or <b>Impaired</b> in certain conditions. If it is
 </details>
 
 <details markdown="1">
-<summary><b>Bags</b></summary>
-A <b>Bag</b> is a special kind of item. It doesn't take up space in your Inventory, and actually grants you 5 Inventory slots. They count as normal inventory slots, however they cannot contain any Conditions. You can't wear Armor if you have a Bag. In order to take out an item that's in your bag, you're going to need to spend a round rummaging in there.
-</details>
-
-<details markdown="1">
 <summary><b>Basic equipment</b></summary>
 
 | Common tools     | Cost |
@@ -172,8 +163,6 @@ A <b>Bag</b> is a special kind of item. It doesn't take up space in your Invento
 | Whistle          | 5c      |
 | Walking stick    | 2c      |
 | Wooden stake (light)  | 1c      |
-| Travel bag       | 10c      |
-| Waterproof bag   | 50c      |
 |   |     |
 |:------------------|:--------|
 | <b>Exotic tools</b>      | <b>Cost</b> |
@@ -262,7 +251,7 @@ When you attack someone, you don't need to roll to hit. You immediately roll the
 <summary><b>Exploration</b></summary>
 When exploring or going through a locale, like a house, a dungeon, or the ruins of a village inside a forest, the locale is divided into interconnected <b>Rooms</b>. Actions that are spent inside a Room take <b>10 minutes</b>, such as investigating, fighting, or gleaning info from the blood on the walls.
 
-When exploring the great outdoors, where the scale becomes entire forests and mountains, actions take up what's called a <b>Watch</b> (or 4 hours). The great outdoors is made up of interconnected <b>Areas</b>. There are 6 Watches in a day: Dawn, Midday, Afternoon, Evening, Dusk, Midnight. Moving from one Area to a connected one takes a Watch. A good sleep takes 2 Watches.
+When exploring the great outdoors, where the scale becomes entire forests and mountains, actions take up what's called a <b>Watch</b> (or 4 hours). The great outdoors is made up of interconnected <b>Areas</b>. There are 6 Watches in a day: Dawn, Midday, Afternoon, Evening, Dusk, Midnight. A long rest takes 2 Watches. Moving from one area to another connected by a road takes 1 Watch. Moving from one area to another connected by a path takes 2 Watches. Trying to find a path between two areas is [it's own thing](https://bartapapa.github.io/legend/additional-rules#exploration).
 
 Spending time doing strenuous physical activity causes the character to suffer <b>Fatigue</b>. Fatigue is a condition that takes up 1 slot in the character's Inventory, and is removed on a nap.
 
@@ -290,7 +279,7 @@ There are three kinds of rests: <b>Short</b>, <b>Long</b> and <b>Full</b>. You b
 
 You can short rest pretty much everywhere, although you have to <b>eat</b> something. This takes 10 minutes. You heal 1d6+1 HP, and 1 Fatigue.
 
-You can only long rest if you're in a sheltered, warm and dry place, and you <b>eat</b> some food. This takes 4 hours. You heal all lost HP, as well as all Fatigue. If your HP is at maximum, you heal 1d6+1 Ability damage if someone can tend to you.
+You can only long rest if you're in a sheltered, warm and dry place, and you <b>eat</b> some food. This takes 8 hours. You heal all lost HP, as well as all Fatigue. If your HP is at maximum, you heal 1d6+1 Ability damage if someone can tend to you.
 
 You can only take a full rest in complete security, on a bed in town. It heals all your HP, Fatigue and ability damage. It takes <b>a week</b>, although you don't need to be only in bed during this time. A week's worth of lodging and food usually costs around 20p.
 
