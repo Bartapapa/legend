@@ -9,3 +9,5 @@ One manufactured object disassembles itself in front of you, organizing its piec
 *  2 MD: moderate technology - objects with many steps to its construction, swords, carriages.
 *  3 MD: complex technology - peak of engineering, automatic crossbows, first train locomotives.
 *  4 MD: alien high-technology - indistinguishable from magic, ray guns, usb keys.
+
+<b>Recharge:</b> put back together something disassembled by this spell, without any help.
