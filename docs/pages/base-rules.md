@@ -136,7 +136,7 @@ Damage can be <b>Enhanced</b> or <b>Impaired</b> in certain conditions. If it is
 | Bedroll          | 10c      |
 | Bellows          | 10c      |
 | Block and tackle | 20c      |
-| Book about X     | 80c      |
+| Book about X     | 50c      |
 | Book, blank      | 20c      |
 | Bottle  (light, fragile)  | 1c      |
 | Bucket           | 2c      |
