@@ -9,4 +9,6 @@ At 1 [die], you can split arrows or stones flying at you, or stay dry in a rains
 
 You may also cast this spell as a reaction to any ranged attack against you, even outside your turn.
 
+<b>Recharge:</b> break the last blade used to cast this spell.
+
 <small>Adapted from Red Kangaroo's [Sword Mage](https://attnam.blogspot.com/2018/07/class-sword-mage.html).</small>
