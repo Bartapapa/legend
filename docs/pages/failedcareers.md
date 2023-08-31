@@ -5,6 +5,7 @@ permalink: /failed-careers/
 ---
 
 A character also had a past before becoming an adventurer, or was trained with a purpose. These are these different careers, before they inevitably failed and aventuring became your only option. When you acquire a failed career, it takes up 1 slot in your Mind. You can also get additional bonuses from them, like items or attribute bonuses.
+
 ***
 
 Choose or roll d66 (don't add the results, just read them from left-to-right)
