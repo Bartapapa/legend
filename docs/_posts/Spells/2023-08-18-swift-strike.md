@@ -7,4 +7,6 @@ You can perform [dice] bonus attacks on your next turn. If you forgo one of thos
 
 This spell can also be used to do clothing damage or cut letters on the enemy's skin before they can react.
 
+<b>Recharge:</b> use no weapons for a day.
+
 <small>Adapted from Red Kangaroo's [Sword Mage](https://attnam.blogspot.com/2018/07/class-sword-mage.html).</small>
