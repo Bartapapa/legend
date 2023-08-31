@@ -9,4 +9,6 @@ At 1 [die], you ignore pressure plates (or similar mechanisms) and dangerous or 
 
 You may also cast this spell as a reaction to any melee attack against you, even outside your turn.
 
+<b>Recharge:</b> stay naked, with only the spellbook, in hurricane-force winds for an hour.
+
 <small>Adapted from Red Kangaroo's [Sword Mage](https://attnam.blogspot.com/2018/07/class-sword-mage.html).</small>
