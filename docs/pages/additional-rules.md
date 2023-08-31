@@ -62,23 +62,22 @@ Creating paths is something else. The Natural Realms hate people trying to organ
 ### Strongholds
 <small>Rules adapted from Skerples' [Castle-building rules](https://coinsandscrolls.blogspot.com/2017/09/osr-building-castles.html).</small>
 
-Starting from level 5 and onwards, a character has amassed enough wealth, and has gotten a bit of notoriety (either by doing quests, unwittingly helping local barons, or just amassing such wealth that it'd be a stupid idea for surroundings dukes to not take that into account). If they want, they can buy or build a <b>Stronghold</b>. Now, not anywhere, no - land isn't bought. It is given, or taken and defended. However, ruins and dungeons can be re-made into dungeons. Transform them into quarries, take the dressed stone, re-use them to build new walls and floors, etc. Pillage an entire dungeon for all it's worth, and you'll get plenty of resources.
+If a character doesn't know what to do with their wealth, then they can always <b>build a stronghold</b>. Land isn't bought - it is either given, or taken and defended, so be careful where you build your stronghold. However, you'll have to build it where stone can be recuperated - otherwise, you'll have to pay double price for the transport of materials and the entire logisitcs. Popular places to build strongholds are ruins, former castles, and dungeons.
 
-Depending on the size of the dungeon or ruins you excavate, you'll get more or less stone. The general guideline is:
-
-<b>For every 100 2m stone cubes, you need:</b>
+<b>What you'll need:</b>
 * 1 year of time
 * 100 laborers
 * 10 masons
 * 1 architect
 * 1000c a month for general expenses (food, temporary shelters, specialists, smiths, etc)
 
-Wages taken into account, this adds up to <b>1650c</b> per month. Rearrange these cubes in whatever fashion you wish (walls, fortifications, rooms, corridors, etc), or generally keep in mind that 100 cubes is worth 5 small rooms and 1 big room, with corridors to connect. Round to the nearest 50 stone cubes when making larger constructions.
+Wages taken into account, this adds up to <b>1650c</b> per month. This much money allows you to build 5 small rooms (around 16m square) or 2 large rooms (around 160m square) or 3 small rooms and 1 large room, as well as all the corridors attaching them. Upkeep, whatever the choice is, is 10c a month (per choice), for servants and general costs to prevent the roofs from leaking, the pipes from stinking, and the doors from creaking.
 
-Upkeep is 10c a month per 100 cubes, for servants and general costs to prevent the roofs from leaking, the pipes from stinking, and the doors from creaking.
+Small rooms have 2 furniture slots, and large rooms have 15. Comfortable bedding for a single person takes 1 furniture slot. You can fill it up by buying furniture and large things. When you first create your stronghold, your expenses also cover the creation of a kitchen (2 furniture slots), 2 beds (1 furniture slot each) as well as a large chimney (1 furniture slot) and dining room. A room completely filled with furniture still has ample space for moving around.
+
+If you want your stronghold to be outfitted with specialized rooms (smithee, observatory, greenhouse, etc) you'll need to pay an additional 150 per month to have the associated specialist and to buy the tools for outfitting the room; Specialized rooms are self-contained small rooms with no furniture slots, but has everything that you'd need in order to partake in a certain profession.
 
 Make a keep. A tower. A church. Really, it can be what you want. Make your mark on the world. Your stronghold replaces (or creates) the area in which it's placed.
 
-### Apprentice
-Starting from level 5 and onwards, a character has garnered enough fame to be recognizeable, and perhaps be a person of interest for many an up-and-coming whatever-it-is-you-do. By spending time in pretty much any town, you can 
+When the stronghold is done, you'll attract 1d6 (+1 for each level above 4) followers over the following month, inspired by you. You can take them on adventures if you wish.
 
