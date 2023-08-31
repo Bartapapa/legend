@@ -13,6 +13,8 @@ Target is raised as a specific type of undead that is obedient to the caster. Th
 
   Undead typically have reduced stats compared to their living form. Undead of 5 HD or less are nearly mindless. If you die while undead are under your control, the spell's duration expires, or you try to end the spell, there is a [HD]-in-10 chance the undead remains active. Otherwise, it collapses.
 
-  Instead of letting the spell expire, you can keep the [dice] you spent on the spell invested. The spell's duration becomes permanent as long as those [dice] remain invested. Alternatively, if you spend 4 [dice] to raise a 1 or 2 HD creature, the spell's duration becomes permanent and no [dice] need to be invested. Creatures may retain some special abilities they had in life. 
+  Instead of letting the spell expire, you can keep the [dice] you spent on the spell invested. The spell's duration becomes permanent as long as those [dice] remain invested. Alternatively, if you spend 4 [dice] to raise a 1 or 2 HD creature, the spell's duration becomes permanent and no [dice] need to be invested. Creatures may retain some special abilities they had in life.
+
+  <b>Recharge:</b> dig it deep into the dirt near a graveyard, and wait a night. One of the corpses in the graveyard will be holding this book next time it is found.
 
 <small>From Skerple's [Necromancer](https://coinsandscrolls.blogspot.com/2017/11/osr-necromancers.html).</small>
