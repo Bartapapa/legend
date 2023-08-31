@@ -22,4 +22,6 @@ For the next [sum] rounds, target creature transforms through a wide variety of 
 
 When the spell's effect ends, the creature is stunned for 1d6 rounds.
 
+<b>Recharge:</b> get water to its triple point.
+
 <small>Adapted from Skerples' [100 Orthodox spells](https://coinsandscrolls.blogspot.com/2017/03/osr-100-orthodox-spells.html).</small>
