@@ -324,7 +324,7 @@ When you level up, you do the following:
 *  <b>Increase your Attributes</b>. Roll one save for each of your attributes - if you <i>Fail</i>, you increase that attribute's Bonus and Defense by 1. You can only increase a bonus and defense to 10 and 20 respectively.
 
 <b>From level 5 onwards</b>, you only need 5000 additional adventure points before leveling up again. However, you don't gain any more Grit or Hit dice. You can choose to do <b>one</b> of the following:
-*  <b>Increase your Hit Protection</b>. You gain +1 HP. You cannot have more than 30 Max HP.
+*  <b>Increase your Hit Protection</b>. You gain +1 HP. You cannot have more than 25 Max HP.
 *  <b>Increase an Attribute</b>. Choose <b>one</b> attribute, and roll a save. If you <i>Fail</i>, you increase that attribute's Bonus and Defense by 1. You can only increase a bonus and defense to 10 and 20 respectively.
 
 </details>
