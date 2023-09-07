@@ -50,7 +50,7 @@ A character has 3 <b>Attributes</b>:
 *  <u><b>Grace.</b></u> This is agility, quickness and reactivity. Generally used to run across tightropes, play the piano, and ride beasts.
 *  <u><b>Wit.</b></u> This is knowledge, perception and charm. Generally used to sense when being observed, compel a guard dog to look the other way or know about something.
 
-<b>Hit Protection</b> is the amount of damage a character can take before starting to get seriously wounded. Any damage you take when you have 0 HP is deducted from your Might as <b>Ability damage</b>. If this happens, you must roll a Might save - on a success, your character can still fight. Otherwise, they receive a <b>Wound</b> (which takes up an Inventory slot), and they are <b>Incapacitated</b> until tended to be a friend and they take at least a nap. If your Might reaches -10, you are dead.
+<b>Hit Protection</b> is the amount of damage a character can take before starting to get seriously wounded. Any damage you take when you have 0 HP is deducted from your Might as <b>Ability damage</b>. If this happens, you must roll a Might save - on a success, your character can still fight. Otherwise, they receive a <b>Wound</b> (which takes up an Inventory slot), and they are <b>Incapacitated</b> until tended to be a friend and they take at least a nap. If your Might defense reaches 0, you are dead.
 
 <b>Armor</b> is the amount of damage that is reduced when you get hit by swords, claws, teeth and arrows, but not from explosions, falling, poison clouds and the like.
 
@@ -319,6 +319,8 @@ When you reach certain amounts of adventure points, you <b>Level up</b>. The fol
 
 <details markdown="1">
 <summary><b>Leveling up</b></summary>
+Legends is a game about normal people becoming powerful movers of the world by luck, skill, and sheer will. At the end of a session, you gain 1 XP if you fight a dangerous foe, if you recuperate a named treasure, or discover an entirely new location. If you acted according to one of your <b>Drives</b>, you also get 1 XP. If you resolve one of your <b>Bonds</b>, again, you get 1 XP. The GM can change these in order to better reflect the world and what the players are wishing for in the story. By spending XP, you can <b>Advance</b>.
+
 When you level up, you do the following:
 *  <b>Increase your Hit Protection</b>. You gain a new Hit die, which is a d6. Roll all of your Hit die - if the sum is greater than your previous HP, this becomes your new HP. If it's less, then you increase your HP by 1. You cannot have more than 30 Max HP.
 *  <b>Increase your Attributes</b>. Roll one save for each of your attributes - if you <i>Fail</i>, you increase that attribute's Bonus and Defense by 1. You can only increase a bonus and defense to 10 and 20 respectively.
@@ -326,6 +328,12 @@ When you level up, you do the following:
 <b>From level 5 onwards</b>, you only need 5000 additional adventure points before leveling up again. However, you don't gain any more Grit or Hit dice. You can choose to do <b>one</b> of the following:
 *  <b>Increase your Hit Protection</b>. You gain +1 HP. You cannot have more than 25 Max HP.
 *  <b>Increase an Attribute</b>. Choose <b>one</b> attribute, and roll a save. If you <i>Fail</i>, you increase that attribute's Bonus and Defense by 1. You can only increase a bonus and defense to 10 and 20 respectively.
+
+</details>
+
+<details markdown="1">
+<summary><b>Advancement</b></summary>
+When you advance, you spend as much XP as the total number of advancements you'll have acquired after this one. For example, if you just created your character, it'll cost you 1. If you've advanced 4 times, the next one will cost you 5.
 
 </details>
 
