@@ -108,7 +108,17 @@ Some tools have Traits, which give a bit more info on how it can be used. It can
 
 <details markdown="1">
 <summary><b>Treasure</b></summary>
-When a tool has the <b>Treasure</b> trait, it also has a (Price). When you bring a treasure out from a dangerous area and into a safe area, you acquire it's Price as Adventure points (distributed evenly among all people who helped you do so). Afterwards, you can trade it to gain its Price as Coin. A treasure cannot be 'rescued' twice.
+When a tool has the <b>Treasure</b> trait, it also has a (Value), which is defined by a die size going from d4 (nearly worthless) to d12 (extremely valuable). You can exchange treasures of a certain price against items of the same of inferior prices. You can also roll the treasure's Value die in order to pay for something that is 1 die size larger than it. To do so, your total result needs to be equal to or greater than the Value die of the object you want - you can roll multiple treasures in this way.
+
+Treasures can also have specific traits, that certain NPCs and buildings will seek out.
+*  <b>Civilized</b>. Cut gemstones, coin, paintings and deeds.
+*  <b>Wild</b>. Unicorn horn, displacer rat tentacle, tank turtle shell and eye of newt.
+*  <b>Technological</b>. Chess-playing automaton, clockwork heart, golden stopwatch and shrieking engine.
+*  <b>Occult</b>. Pickled crow feet, sacrificial dagger, wizard skull, and flayed human skin.
+*  <b>Aberrant</b>. Black hole pearl, fractal blade, acidic lime-green goop, and bottled whisper from beyond the stars.
+*  <b>Dungeon</b>. Obsidian skull, adamantium doorknob, orb of annihilation, and drow silkmail.
+*  <b>Religious</b>. Platinum prayer beads, decrepit tome of tenets, prayer rug and saint fingerbones.
+
 </details>
 
 <details markdown="1">
@@ -132,104 +142,104 @@ Damage can be <b>Enhanced</b> or <b>Impaired</b> in certain conditions. If it is
 
 | Common tools     | Cost |
 |:-----------------|:--------|
-| Beast lure       | 10c      |
-| Bedroll          | 10c      |
-| Bellows          | 10c      |
-| Block and tackle | 20c      |
-| Book about X     | 50c      |
-| Book, blank      | 20c      |
-| Bottle  (light, fragile)  | 1c      |
-| Bucket           | 2c      |
-| Chain (6m)       | 20c     |
-| Chisel           | 5c      |
-| Cookpots         | 10c      |
-| Crowbar          | 10c      |
-| Glue             | 5c      |
-| Grease           | 5c      |
-| Horn             | 10c      |
-| Hourglass        | 100c      |
-| Iron tongs       | 10c      |
-| Lockpicks        | 100c      |
-| Metal file       | 5c      |
-| Metal glove      | 10c      |
-| Mirror           | 200c      |
-| Wooden instrument| 200c      |
-| Twine net        | 10c      |
-| Lock & key       | 20c      |
-| Pick             | 10c      |
-| Rope (9m)        | 10c      |
-| Shovel           | 10c      |
-| Tent for two     | 60c      |
-| Whistle          | 5c      |
-| Walking stick    | 2c      |
-| Wooden stake (light)  | 1c      |
+| Beast lure       | d4      |
+| Bedroll          | d4      |
+| Bellows          | d4      |
+| Block and tackle | d4      |
+| Book about X     | d8      |
+| Book, blank      | d6      |
+| Bottle  (light, fragile)  | none      |
+| Bucket           | none      |
+| Chain (6m)       | d6     |
+| Chisel           | d4      |
+| Cookpots         | d4      |
+| Crowbar          | d4      |
+| Glue             | d4      |
+| Grease           | d4      |
+| Horn             | d4      |
+| Hourglass        | d8      |
+| Iron tongs       | d4      |
+| Lockpicks        | d8      |
+| Metal file       | d4      |
+| Metal glove      | d4      |
+| Mirror           | d8      |
+| Wooden instrument| d8      |
+| Twine net        | d4      |
+| Lock & key       | d6      |
+| Pick             | d4      |
+| Rope (9m)        | d4      |
+| Shovel           | d4      |
+| Tent for two     | d6      |
+| Whistle          | d4      |
+| Walking stick    | none      |
+| Wooden stake (light)  | none      |
 |   |     |
 |:------------------|:--------|
 | <b>Exotic tools</b>      | <b>Cost</b> |
 |:------------------|:--------|
-| Air bladder       | 50c     |
-| Antitoxin         | 100c    |
-| Beetle trap       | 50c     |
-| Beast repellent   | 20c      |
-| Censer            | 50c      |
-| Fire oil          | 200c      |
-| Folding ladder (6m) | 50c      |
-| Snowcoat          | 30c      |
-| Manacles          | 30c      |
-| Spirit ward       | 50c      |
-| Spyglass          | 200c      |
-| Tinderbox         | 50c      |
-| Medical tools     | 200c      |
+| Air bladder       | d6     |
+| Antitoxin         | d8    |
+| Beetle trap       | d6     |
+| Beast repellent   | d6      |
+| Censer            | d6      |
+| Fire oil          | d8      |
+| Folding ladder (6m) | d6      |
+| Snowcoat          | d6      |
+| Manacles          | d6      |
+| Spirit ward       | d6      |
+| Spyglass          | d8      |
+| Tinderbox         | d6      |
+| Medical tools     | d8      |
 |  |       |
 |:------------------|:--------|
 | <b>Weapons and armor</b> | <b>Cost</b> |
 |:-----------------|:--------|
-| Light weapons | 10c     |
-| Medium weapons  | 20c     |
-| Heavy weapons  | 50c     |
-| Light ranged    | 20c     |
-| Quiver and arrows | 5c     |
-| Stones and pouch  | 1c     |
-| Powder horn and bullets | 10c    |
-| Light armor      | 100c       |
-| Heavy armor      | 400c      |
-| Repairs, <i>per Notch</i>      | 10% base cost      |
+| Light weapons | d4     |
+| Medium weapons  | d6     |
+| Heavy weapons  | d6     |
+| Light ranged    | d6     |
+| Quiver and arrows | d4     |
+| Stones and pouch  | none     |
+| Powder horn and bullets | d4    |
+| Light armor      | d6       |
+| Heavy armor      | d10      |
+| Repairs, <i>per Notch</i>      | d4      |
 |:------------------|:--------|
 |  |       |
 | <b>Light sources</b>    | <b>Cost</b> |
 |:-----------------|:--------|
-| Torches (bright) | 2c      |
-| Oil Lantern (bright)      | 50c      |
-| Oil (for lantern)| 10c  |
+| Torches (bright) | none      |
+| Oil Lantern (bright)      | d6      |
+| Oil (for lantern)| d4  |
 |:------------------|:--------|
 |  |       |
 | <b>Lodging and food</b> | <b>Cost</b>    |
 |:-----------------|:--------|
-| Dormitory bed (per night) | 1c |
-| Private room (per night)  | 5c |
-| Travel food      | 5c |
-| Warm meal        | 5c |
-| Feast            | 50c |
+| Dormitory bed (per night) | none |
+| Private room (per night)  | d4 |
+| Travel food      | d4 |
+| Warm meal        | d4 |
+| Feast            | d6 |
 |:------------------|:--------|
 |  |       |
 | <b>Transport</b>        | <b>Cost</b>    |
 |:-----------------|:--------|
 | <i>Cost is per person, per area of distance</i> |       |
-| Horse-pulled wagon | 5c       |
-| River raft         | 10c       |
-| Train              | 50c       |
+| Horse-pulled wagon | d4       |
+| River raft         | d6       |
+| Train              | d6       |
 |:------------------|:--------|
 |  |       |
 | <b>Hired help</b>       | <b>Cost</b>    |
 |:-----------------|:--------|
-| <i>Cost is per day</i> |       |
-| Torchbearer      | 1c     |
-| Laborer          | 2c     |
-| Tunneler         | 5c     |
-| Smithee          | 8c     |
-| Local guide      | 10c     |
-| Mercenary        | 10c     |
-| Sage             | 25c     |
+| <i>Cost is per expedition</i> |       |
+| Torchbearer      | d6     |
+| Laborer          | d6     |
+| Tunneler         | d6     |
+| Smithee          | d6     |
+| Local guide      | d8     |
+| Mercenary        | d8     |
+| Sage             | d8     |
   
 </details>
 
