@@ -57,25 +57,11 @@ In the great outdoors, areas are interconnected by <b>Roads</b> and <b>Paths</b>
 Creating paths is something else. The Natural Realms hate people trying to organize it, and will stop at nothing to remind explorers of the reasons why they should've stayed home. When you want to create a path, you have to either decide if you have a destination or not. If you do, declare what's your destination. If you don't, the GM will create an area for when you 'arrive'. Whatever the decision is, determine who is your guide. The guide can change over the course of this process. The GM determines a <b>Difficulty</b>, which is a number between 5 (for straightforward hikes) and 20 (for complex, dangerous segments). The party will face obstacles that they must overcome in order to proceed. If all characters manage to overcome the obstacle, then a d8 is rolled, and the difficulty is reduced by that result. If at least one character doesn't manage to overcome the obstacle, the party must find another path around - meaning they only roll a d4. In the case of a success, if the party has a guide or has someone with a skill related to the area, then they can roll a d12. A watch passes as they overcome the obstacle (and so the Clock ticks down according to the Depth the characters are at). If the Difficulty was reduced to 0, then a path has been created in between either the chosen destination or the created landmark. Otherwise, another obstacle comes, and the characters must overcome that one. This process repeats itself until the difficulty is reduced to 0.
 
 ***
-## Legend
+## Freeform advancement
 
-### Strongholds
-<small>Rules adapted from Skerples' [Castle-building rules](https://coinsandscrolls.blogspot.com/2017/09/osr-building-castles.html).</small>
+You may allow for another form of checking when a character accomplishes a drive or another task of your choosing. Essentially, you can allow your players to check anything that is written on their character sheets - inventory items, their name, etc. A character can accumulate 3 checks on the same element - when this is done, the player and the GM discuss what kind of advancement they would like, and work something out.
 
-If a character doesn't know what to do with their wealth, then they can always <b>build a stronghold</b>. Land isn't bought - it is either given, or taken and defended, so be careful where you build your stronghold. However, you'll have to build it where stone can be recuperated - otherwise, you'll have to pay double price for the transport of materials and the entire logisitcs. Popular places to build strongholds are ruins, former castles, and dungeons.
-
-<b>What you'll need:</b>
-* 1 year of time
-* 100 laborers
-* 10 masons
-* 1 architect
-* 1000c a month for general expenses (food, temporary shelters, specialists, smiths, etc)
-
-Wages taken into account, this adds up to <b>1650c</b> per month. This much money allows you to build 5 small rooms (around 16m square) or 2 large rooms (around 160m square) or 3 small rooms and 1 large room, as well as all the corridors attaching them. Upkeep, whatever the choice is, is 10c a month (per choice), for servants and general costs to prevent the roofs from leaking, the pipes from stinking, and the doors from creaking.
-
-Small rooms have 2 furniture slots, and large rooms have 15. Comfortable bedding for a single person takes 1 furniture slot. You can fill it up by buying furniture and large things. When you first create your stronghold, your expenses also cover the creation of a kitchen (2 furniture slots), 2 beds (1 furniture slot each) as well as a large chimney (1 furniture slot) and dining room. A room completely filled with furniture still has ample space for moving around.
-
-If you want your stronghold to be outfitted with specialized rooms (smithee, observatory, greenhouse, etc) you'll need to pay an additional 150 per month to have the associated specialist and to buy the tools for outfitting the room; Specialized rooms are self-contained small rooms with no furniture slots, but has everything that you'd need in order to partake in a certain profession.
+Checking a weapon could make it magical, for example, as the character attunes to its latent energies. Checking a name could grant a title to the character, which may have social or even metaphysical benefits. Checking a tool could make it indestructible, or allow the character specifically to use it in a certain way (or cast a spell with it).
 
 Make a keep. A tower. A church. Really, it can be what you want. Make your mark on the world. Your stronghold replaces (or creates) the area in which it's placed.
 
