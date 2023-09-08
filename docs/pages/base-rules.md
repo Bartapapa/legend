@@ -36,6 +36,8 @@ You start with Travel rations, Torches and a Light melee weapon of your choice.
 
 Choose or roll a <b>[Failed career](https://bartapapa.github.io/legend/failed-careers)</b>, which gives you 2 starting items as well as a starting skill.
 
+Choose or roll a <b>Drive</b>, which gives you an additional way of [advancing](https://bartapapa.github.io/legend/base-rules#advancement).
+
 You're done!
 </details>
 
@@ -315,7 +317,14 @@ Loyalty is another attribute followers have, that they have to roll a save for i
 <summary><b>Checking</b></summary>
 Over the course of a session, characters will be able to 'check' their HP, their Might, their Grace or their Wit. These different elements have different conditions in order to check them.
 
+* HP: To check HP, you must have suffered the Injured condition during combat or another similarly dangerous situation, or fallen to 0 HP exactly (without taking Might damage).
+* Might: To check Might, you must have rolled a natural 1 on a Might roll or solved a difficult problem using only brawn and raw muscular power.
+* Grace: To check Grace, you must have rolled a natural 1 on a Grace roll or solved a difficult problem using skill and fine dexterity.
+* Wit: To check Wit, you must have rolled a natural 1 on a Wit roll or solved a difficult problem using charisma and deep knowledge.
+
 Your character's <b>Drive</b> also allows you to check one unchecked element as you see fit if you do it over the course of a session.
+
+Look [here](https://bartapapa.github.io/legend/additional-rules#freeform-advancement) for additional rules on freeform advancement.
 </details>
 
 <details markdown="1">
