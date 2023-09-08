@@ -312,46 +312,18 @@ Loyalty is another attribute followers have, that they have to roll a save for i
 ## Advancement
 
 <details markdown="1">
-<summary><b>Path to greatness</b></summary>
-Over the course of your adventure, you'll gain <b>Adventure points</b> (or <b>AP</b>). You can get AP by recovering treasure, but also by <b>spending selflessly</b> (donating to charity, helping rebuild a home for others, etc). Each 10c spent in this way grants 1 AP.
+<summary><b>Checking</b></summary>
+Over the course of a session, characters will be able to 'check' their HP, their Might, their Grace or their Wit. These different elements have different conditions in order to check them.
 
-When you reach certain amounts of adventure points, you <b>Level up</b>. The following is a table with the total amount of Adventure points you need to level up again.
-
-| Level | Hit dice | Grit | Adventure points |
-|:--------------|:--------|:-------|:-------|
-| 1             | 1d6     | 0      | 0       |
-| 2             | 2d6     | 1      | 1000    |
-| 3             | 3d6     | 2      | 3000    |
-| 4             | 4d6     | 3      | 6000    |
-| 5+            | 4d6     | 4      | +5000   |
-
+Your character's <b>Drive</b> also allows you to check one unchecked element as you see fit if you do it over the course of a session.
 </details>
 
 <details markdown="1">
-<summary><b>Leveling up</b></summary>
-Legends is a game about normal people becoming powerful movers of the world by luck, skill, and sheer will. At the end of a session, you gain 1 XP if you fight a dangerous foe, if you recuperate a named treasure, or discover an entirely new location. If you acted according to one of your <b>Drives</b>, you also get 1 XP. If you resolve one of your <b>Bonds</b>, again, you get 1 XP. The GM can change these in order to better reflect the world and what the players are wishing for in the story. By spending XP, you can <b>Advance</b>.
+<summary><b>Advancing</b></summary>
+At the end of a session, the players look at their checks:
 
-When you level up, you do the following:
-*  <b>Increase your Hit Protection</b>. You gain a new Hit die, which is a d6. Roll all of your Hit die - if the sum is greater than your previous HP, this becomes your new HP. If it's less, then you increase your HP by 1. You cannot have more than 30 Max HP.
-*  <b>Increase your Attributes</b>. Roll one save for each of your attributes - if you <i>Fail</i>, you increase that attribute's Bonus and Defense by 1. You can only increase a bonus and defense to 10 and 20 respectively.
-
-<b>From level 5 onwards</b>, you only need 5000 additional adventure points before leveling up again. However, you don't gain any more Grit or Hit dice. You can choose to do <b>one</b> of the following:
-*  <b>Increase your Hit Protection</b>. You gain +1 HP. You cannot have more than 25 Max HP.
-*  <b>Increase an Attribute</b>. Choose <b>one</b> attribute, and roll a save. If you <i>Fail</i>, you increase that attribute's Bonus and Defense by 1. You can only increase a bonus and defense to 10 and 20 respectively.
-
-</details>
-
-<details markdown="1">
-<summary><b>Advancement</b></summary>
-When you advance, you spend as much XP as the total number of advancements you'll have acquired after this one. For example, if you just created your character, it'll cost you 1. If you've advanced 4 times, the next one will cost you 5.
-
-</details>
-
-<details markdown="1">
-<summary><b>After level 4</b></summary>
-What do you do after level 4? Well, you <b>retire.</b> You won the game, congratulations. Your character becomes a helpful NPC who lives comfortably somewhere with the riches they've accumulated. Roll a new character to join the group.
-
-...That, or you become [legendary](https://bartapapa.github.io/legend/additional-rules#legend).
+*  If HP is checked, roll your Health dice (this is normally 1d6). If the result is greater than your previous HP, this becomes your new HP. If the result is less than your previous HP, you instead gain +1 HP. If you hit 6, 12 or 18 HP, you gain another Heal dice (which is a d6). You cannot have more than 20 HP.
+*  If Might, Grace or Wit is checked, roll a corresponding save using their bonus. If you <b>Fail</b>, then increase the bonus and defense of that attribute by 1. You cannot have more than +10 (20).
 
 </details>
 
