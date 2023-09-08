@@ -52,11 +52,11 @@ A character has 3 <b>Attributes</b>:
 *  <u><b>Grace.</b></u> This is agility, quickness and reactivity. Generally used to run across tightropes, play the piano, and ride beasts.
 *  <u><b>Wit.</b></u> This is knowledge, perception and charm. Generally used to sense when being observed, compel a guard dog to look the other way or know about something.
 
-<b>Hit Protection</b> is the amount of damage a character can take before starting to get seriously wounded. Any damage you take when you have 0 HP is deducted from your Might as <b>Ability damage</b>. If this happens, you must roll a Might save - on a success, your character can still fight. Otherwise, they receive a <b>Wound</b> (which takes up an Inventory slot), and they are <b>Incapacitated</b> until tended to be a friend and they take at least a nap. If your Might defense reaches 0, you are dead.
+<b>Hit Protection</b> is the amount of damage a character can take before starting to get seriously wounded. It is determined by your <b>Vitality</b>, which is a number between 1 and 4, which determines the number of d6s you roll to calculate your HP. You can get more by [advancing](https://bartapapa.github.io/legend/base-rules#advancement). You can ignore a number of conditions equal to your Vitality (however, they are still only removed when their removal condition has been completed).
+
+Any damage you take when you have 0 HP is deducted from your Might as <b>Ability damage</b>. If this happens, you must roll a Might save - on a success, your character can still fight. Otherwise, they receive a <b>Wound</b> (which takes up an Inventory slot), and they are <b>Incapacitated</b> until tended to be a friend and they take at least a nap. If your Might defense reaches 0, you are dead.
 
 <b>Armor</b> is the amount of damage that is reduced when you get hit by swords, claws, teeth and arrows, but not from explosions, falling, poison clouds and the like.
-
-<b>Grit</b> is how many conditions you can ignore (you still 'have them', but they're not in your Inventory and don't affect you. They still need to be removed as per their removal condition). You have 0 Grit at 1st level, but you gain some as you <b>[Level up](https://bartapapa.github.io/legend/base-rules#advancement)</b>.
 </details>
 
 <details markdown="1">
@@ -317,10 +317,10 @@ Loyalty is another attribute followers have, that they have to roll a save for i
 <summary><b>Checking</b></summary>
 Over the course of a session, characters will be able to 'check' their HP, their Might, their Grace or their Wit. These different elements have different conditions in order to check them.
 
-* <b>HP:</b> To check HP, you must have suffered the Injured condition during combat or another similarly dangerous situation, or fallen to 0 HP exactly (without taking Might damage).
-* <b>Might:</b> To check Might, you must have rolled a natural 1 on a Might roll or solved a difficult problem using only brawn and raw muscular power.
-* <b>Grace:</b> To check Grace, you must have rolled a natural 1 on a Grace roll or solved a difficult problem using skill and fine dexterity.
-* <b>Wit:</b> To check Wit, you must have rolled a natural 1 on a Wit roll or solved a difficult problem using charisma and deep knowledge.
+* <b>HP:</b> To check HP, you must have suffered a Wound during combat or another similarly dangerous situation, or fallen to 0 HP exactly (without taking Might damage).
+* <b>Might:</b> To check Might, you must have rolled a natural 1 on a Might roll or rolled a natural 20 in a life-or-death situation.
+* <b>Grace:</b> To check Grace, you must have rolled a natural 1 on a Grace roll or rolled a natural 20 in a life-or-death situation.
+* <b>Wit:</b> To check Wit, you must have rolled a natural 1 on a Wit roll or rolled a natural 20 in a life-or-death situation.
 
 Your character's <b>Drive</b> also allows you to check one unchecked element as you see fit if you do it over the course of a session.
 
