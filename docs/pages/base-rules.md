@@ -108,7 +108,7 @@ Some tools have Traits, which give a bit more info on how it can be used. It can
 
 <details markdown="1">
 <summary><b>Treasure</b></summary>
-When a tool has the <b>Treasure</b> trait, it also has a (Value), which is defined by a die size going from d4 (nearly worthless) to d12 (extremely valuable). You can exchange treasures of a certain price against items of the same of inferior prices. You can also roll the treasure's Value die in order to pay for something that is 1 die size larger than it. To do so, your total result needs to be equal to or greater than the Value die of the object you want - you can roll multiple treasures in this way.
+When a tool has the <b>Treasure</b> trait, it also has a (Value), which is defined by a die size going from d4 (common) to d12 (extremely valuable). You can exchange treasures of a certain price against items of the same price. You can't pay for something with a different die value - you don't pay for a boat in coin, just as you don't pay for a round at the tavern with silver ingots.
 
 Treasures can also have specific traits, that certain NPCs and buildings will seek out.
 *  <b>Civilized</b>. Cut gemstones, coin, paintings and deeds.
