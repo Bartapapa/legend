@@ -57,6 +57,39 @@ In the great outdoors, areas are interconnected by <b>Roads</b> and <b>Paths</b>
 Creating paths is something else. The Natural Realms hate people trying to organize it, and will stop at nothing to remind explorers of the reasons why they should've stayed home. When you want to create a path, you have to either decide if you have a destination or not. If you do, declare what's your destination. If you don't, the GM will create an area for when you 'arrive'. Whatever the decision is, determine who is your guide. The guide can change over the course of this process. The GM determines a <b>Difficulty</b>, which is a number between 5 (for straightforward hikes) and 20 (for complex, dangerous segments). The party will face obstacles that they must overcome in order to proceed. If all characters manage to overcome the obstacle, then a d8 is rolled, and the difficulty is reduced by that result. If at least one character doesn't manage to overcome the obstacle, the party must find another path around - meaning they only roll a d4. In the case of a success, if the party has a guide or has someone with a skill related to the area, then they can roll a d12. A watch passes as they overcome the obstacle (and so the Clock ticks down according to the Depth the characters are at). If the Difficulty was reduced to 0, then a path has been created in between either the chosen destination or the created landmark. Otherwise, another obstacle comes, and the characters must overcome that one. This process repeats itself until the difficulty is reduced to 0.
 
 ***
+
+## Advanced combat
+<small>Rules adapted from Emanuel Galletto's [Dark Souls RPG](https://drive.google.com/drive/folders/0B2bP0GsXwg9xZnNIUjBYemVzLU0?resourcekey=0-Ssu9cfnxeIXiK6948_FRIw).</small>
+For players who enjoy a bit more granularity in their combat, it is possible to use these rules for advanced combat which bring more depth.
+
+At the start of combat, all combatants must choose whether they are <b>Reckless</b>, <b>Skirmishing</b> or <b>Retreated</b>.
+* <b>Reckless</b> combatants can use melee weapons, deal more damage, and have access to specific reckless actions, but can be hit by both melee and ranged attacks and cannot use ranged weapons.
+* <b>Skirmishing</b> combatants can use melee or ranged weapons, but can be hit by both melee and ranged attacks. To be targeted, the dice used needs to have a result equal or greater than 3.
+* <b>Retreated</b> combatants can only use ranged weapons, but can only be hit by other ranged attacks. To be targeted, the dice used needs to have a result equal or greater than 5.
+
+Each player combatant rolls their <b>Combat die</b>, which are d6s. They roll a number of Combat die equal to the <b>second highest</b> bonus granted by one of their attributes. Monsters usually roll a number of combat die equal to their HD. They separate their combat die into 6 pools - 1 pool of '1's, 1 pool of '2's, etc. Some pools may have no dice.
+
+Each round lasts 6 turns. If players won initiative, they act first - otherwise, monsters act first.
+
+When acting, a character can spend any dice of equal or greater value than the current turn to use a <b>Combat maneuver</b>, which are special actions. A character can only spend 1 Combat die per turn.
+
+When the 6th turn finishes, another round starts. All active combatants roll their Combat die again, and the cycle continues until combat is finished.
+
+<details markdown="1">
+<summary><b>List of combat maneuvers</b></summary>
+
+* <b>Attack:</b> a character can attack by spending one Combat die. They can use certain weapons depending on whether they're Reckless, Skirmishing or Retreated. They can target certain combatants depending on whether they're using a melee or ranged weapon. If the combatant is Reckless, they roll the damage die twice and take the better result. A character can spend a die of the same result as the one spent to make it a powerful attack, allowing the character to enhance the damage (rolling a d12).
+* <b>Move:</b> a character can spend a Combat die to change state to either Reckless, Skirmishing or Retreated. They can also change their held weapon while doing so. The spent die's result must be at least 3 to be Skirmishing, or 5 to be Retreated.
+* <b>Block:</b> If the character has a shield and is the target of an attack, they can burn any Combat die, regardless of its value) and reduce the damage by the die's result.
+* <b>Dodge:</b> If the character is targeted by an attack, they can burn a Combat die with a result equal to the current turn number to nullify the attack. If the character has a full Inventory, they cannot Dodge.
+* <b>Cast a spell:</b> a character can cast a spell by spending a combat die equal to the current turn number.
+* <b>Create advantage:</b> you can create an advantage by describing what you do and spend one Combat die. Doing so, choose an ally or an enemy. If an ally, they can change the result of one of their dice. If an enemy, they remove one of their combat die.
+* <b>Use item:</b> a character can spend one Combat die to use an item that's immediately accessible or interact with the world around them.
+
+</details>
+
+***
+
 ## Freeform advancement
 
 You may allow for another form of checking when a character accomplishes a drive or another task of your choosing. Essentially, you can allow your players to check anything that is written on their character sheets - inventory items, their name, etc. A character can accumulate 3 checks on the same element - when this is done, the player and the GM discuss what kind of advancement they would like, and work something out.
