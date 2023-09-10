@@ -67,7 +67,7 @@ At the start of combat, all combatants must choose whether they are <b>Reckless<
 * <b>Skirmishing</b> combatants can use melee or ranged weapons, but can be hit by both melee and ranged attacks. To be targeted, the dice used needs to have a result equal or greater than 3.
 * <b>Retreated</b> combatants can only use ranged weapons, but can only be hit by other ranged attacks. To be targeted, the dice used needs to have a result equal or greater than 5.
 
-Each player combatant rolls their <b>Combat die</b>, which are d6s. They roll a number of Combat die equal to the <b>second highest</b> bonus granted by one of their attributes. Monsters usually roll a number of combat die equal to their HD. They separate their combat die into 6 pools - 1 pool of '1's, 1 pool of '2's, etc. Some pools may have no dice.
+Each player combatant rolls their <b>Combat die</b>, which are d6s. They roll a number of Combat die equal to the <b>second highest</b> bonus granted by one of their attributes. Monsters usually roll a number of combat die equal to their HD. Group up the die by their results.
 
 Each round lasts 6 turns. If players won initiative, they act first - otherwise, monsters act first.
 
