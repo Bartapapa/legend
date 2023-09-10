@@ -102,6 +102,8 @@ Treasures can also have specific traits, that certain NPCs and buildings will se
 *  <b>Dungeon</b>. Obsidian skull, adamantium doorknob, orb of annihilation, and drow silkmail.
 *  <b>Religious</b>. Platinum prayer beads, decrepit tome of tenets, prayer rug and saint fingerbones.
 
+Some treasures are <b>Divisible</b>, which means that they can be used to buy multiple things of their worth. For example, a <b>Wad of bills</b> could be something like 3d6, while a <b>Bag of coins</b> could be 2d4. When you buy something of that value, you reduce the number of dice by one.
+
 ### Weaponry
 
 Weapons are separated into different categories.
