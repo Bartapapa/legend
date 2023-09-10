@@ -300,6 +300,6 @@ At the end of a session, the players look at their checks:
 
 You gain Magic dice by having <b>Magical</b> items in your Inventory. When you roll magic dice, you <b>lose</b> them when their result turns up as '4' or more, preventing them from being used again until they are recuperated. You recuperate lost magic dice after a long rest.
 
-If you have a <b>Spellbook</b>, you can cast the associated spell. You can roll up to 4 Magic dice. The effects of the spell depend on the number of [dice] used, and the [sum] of the result.
+If you have a <b>Spellbook</b>, you can cast the associated spell. You can roll up to 4 Magic dice. The effects of the spell depend on the number of [dice] used, and the [sum] of the result. While Spellbooks take up one inventory slot for one spell, <b>Grimoires</b> take up one inventory slot for 3 pre-determined spells - although they generally come with strange effects. Spellbooks, like Grimoires, aren't bought - they're given, found or stolen. Grimoires are especially rare.
 
 If you roll doubles when casting a spell, you mark 1 <b>Notch</b> on it. You can only repair it by <b>Recharging</b> it.
