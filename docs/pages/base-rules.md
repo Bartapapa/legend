@@ -331,7 +331,7 @@ Look [here](https://bartapapa.github.io/legend/additional-rules#freeform-advance
 <summary><b>Advancing</b></summary>
 At the end of a session, the players look at their checks:
 
-*  If HP is checked, roll your Health dice (this is normally 1d6). If the result is greater than your previous HP, this becomes your new HP. If the result is less than your previous HP, you instead gain +1 HP. If you hit 6, 12 or 18 HP, you gain another Heal dice (which is a d6). You cannot have more than 20 HP.
+*  If HP is checked, roll your Health dice (this is normally 1d6). If the result is greater than your previous HP, this becomes your new HP. If the result is less than your previous HP, you instead gain +1 HP. If you hit 6, 12 or 18 HP, you gain another Health dice (+1 [Vitality](https://bartapapa.github.io/legend/base-rules#attributes-and-skills)). You cannot have more than 20 HP.
 *  If Might, Grace or Wit is checked, roll a corresponding save using their bonus. If you <b>Fail</b>, then increase the bonus and defense of that attribute by 1. You cannot have more than +10 (20).
 
 </details>
