@@ -61,9 +61,5 @@ Creating paths is something else. The Natural Realms hate people trying to organ
 
 You may allow for another form of checking when a character accomplishes a drive or another task of your choosing. Essentially, you can allow your players to check anything that is written on their character sheets - inventory items, their name, etc. A character can accumulate 3 checks on the same element - when this is done, the player and the GM discuss what kind of advancement they would like, and work something out.
 
-Checking a weapon could make it magical, for example, as the character attunes to its latent energies. Checking a name could grant a title to the character, which may have social or even metaphysical benefits. Checking a tool could make it indestructible, or allow the character specifically to use it in a certain way (or cast a spell with it).
-
-Make a keep. A tower. A church. Really, it can be what you want. Make your mark on the world. Your stronghold replaces (or creates) the area in which it's placed.
-
-When the stronghold is done, you'll attract 1d6 (+1 for each level above 4) followers over the following month, inspired by you. You can take them on adventures if you wish.
+Checking a weapon could make it magical, for example, as the character attunes to its latent energies. Checking your name could grant a special, unique ability that your character discovers. Checking a tool could make it indestructible, or allow the character specifically to use it in a certain way (or cast a spell with it).
 
