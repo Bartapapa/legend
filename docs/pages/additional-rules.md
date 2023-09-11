@@ -86,6 +86,7 @@ When the 6th turn finishes, another round starts. All active combatants roll the
 * <b>Cast a spell:</b> a character can cast a spell by spending a combat die equal to the current turn number.
 * <b>Create advantage:</b> you can create an advantage by describing what you do and spend one Combat die. Doing so, choose an ally or an enemy. If an ally, they can change the result of one of their dice. If an enemy, they remove one of their lowest-result combat die. Only players, as well as particularly cunning monsters can use this action.
 * <b>Use item:</b> a character can spend one Combat die to use an item that's immediately accessible or interact with the world around them.
+* <b>Breathe:</b> a character can use this action, not spending any die, to increase their lowest die by 1.
 
 </details>
 
