@@ -83,7 +83,7 @@ When the 6th turn finishes, another round starts. All active combatants roll the
 * <b>Block:</b> If the character has a shield and is the target of an attack, they can burn any Combat die, regardless of its value) and reduce the damage by the die's result.
 * <b>Dodge:</b> If the character is targeted by an attack, they can burn a Combat die with a result equal to the current turn number to nullify the attack. If the character has a full Inventory, they cannot Dodge.
 * <b>Cast a spell:</b> a character can cast a spell by spending a combat die equal to the current turn number.
-* <b>Create advantage:</b> you can create an advantage by describing what you do and spend one Combat die. Doing so, choose an ally or an enemy. If an ally, they can change the result of one of their dice. If an enemy, they remove one of their combat die.
+* <b>Create advantage:</b> you can create an advantage by describing what you do and spend one Combat die. Doing so, choose an ally or an enemy. If an ally, they can change the result of one of their dice. If an enemy, they remove one of their lowest-result combat die.
 * <b>Use item:</b> a character can spend one Combat die to use an item that's immediately accessible or interact with the world around them.
 
 </details>
