@@ -73,7 +73,7 @@ Each round lasts 6 turns. If players won initiative, they act first - otherwise,
 
 When acting, a character can spend any dice of equal or greater value than the current turn to use a <b>Combat maneuver</b>, which are special actions. A character can only spend 1 Combat die per turn.
 
-When the 6th turn finishes, another round starts. All active combatants roll their Combat die again, and the cycle continues until combat is finished.
+When the 6th turn finishes, or when nobody has any Combat die left, another round starts. All active combatants roll their Combat die again, and the cycle continues until combat is finished.
 
 <details markdown="1">
 <summary><b>List of combat maneuvers</b></summary>
