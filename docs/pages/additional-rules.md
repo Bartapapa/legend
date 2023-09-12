@@ -71,7 +71,7 @@ Each player combatant rolls their <b>Combat die</b>, which are d6s. They roll a 
 
 Each round lasts 6 turns. If players won initiative, they act first - otherwise, monsters act first.
 
-When acting, a character can spend any dice of equal or greater value than the current turn to use a <b>Combat maneuver</b>, which are special actions. A character can only spend 1 Combat die per turn. When a turn ends, all dice equal to the ending turn's number are lost.
+When acting, a character can spend any dice of equal or greater value than the current turn to use a <b>Combat maneuver</b>, which are special actions. A character can only spend 1 Combat die per turn.
 
 When the 6th turn finishes, or when nobody has any Combat die left, another round starts. All active combatants roll their Combat die again, and the cycle continues until combat is finished.
 
@@ -79,14 +79,14 @@ When the 6th turn finishes, or when nobody has any Combat die left, another roun
 <summary><b>List of combat maneuvers</b></summary>
 
 * <b>Attack:</b> a character can attack by spending one Combat die. They can use certain weapons depending on whether they're Reckless, Skirmishing or Retreated. They can target certain combatants depending on whether they're using a melee or ranged weapon. If the combatant is Reckless, they roll the damage die twice and take the better result. A character can spend a die of the same result as the one spent to make it a powerful attack, allowing the character to enhance the damage (rolling a d12).
-  * <b>Block:</b> If the character has a shield and is the target of an attack, they can burn any Combat die, regardless of its value) and reduce the damage by the die's result.
+  * <b>Block:</b> If the character has a shield and is the target of an attack, they can burn any Combat die (regardless of its value) and reduce the damage by the die's result.
   * <b>Dodge:</b> If the character is targeted by an attack, they can burn a Combat die with a result equal to the current turn number to nullify the attack. If the character has a full Inventory, they cannot Dodge. Only players, and particularly agile monsters can use this action.
 * <b>Move:</b> a character can spend a Combat die to change state to either Reckless, Skirmishing or Retreated. They can also change their held weapon while doing so. The spent die's result must be at least 3 to be Skirmishing, or 5 to be Retreated.
-* <b>Charge:</b> a Reckless character can charge towards a Retreated target by spending a combat die. Doing so, they change the target's state to Skirmishing, and immediately attack them as if they had done the Attack action. Only players and particularly quick monsters can use this action.
+* <b>Charge:</b> a Reckless character can charge towards a Retreated target by spending a combat die (of a '5' result or higher). Doing so, they change the target's state to Skirmishing, and immediately attack them as if they had done the Attack action. Only players and particularly quick monsters can use this action.
 * <b>Cast a spell:</b> a character can cast a spell by spending a combat die equal to the current turn number.
-* <b>Create advantage:</b> you can create an advantage by describing what you do and spend one Combat die. Doing so, choose an ally or an enemy. If an ally, they can change the result of one of their dice. If an enemy, they remove one of their lowest-result combat die. Only players, as well as particularly cunning monsters can use this action.
+* <b>Create advantage:</b> you can create an advantage by describing what you do and spend one Combat die equal to the current turn number. Doing so, choose an ally or an enemy. If an ally, they can change the result of one of their dice. If an enemy, they remove one of their lowest-result combat die. Only players, as well as particularly cunning monsters can use this action.
 * <b>Use item:</b> a character can spend one Combat die to use an item that's immediately accessible or interact with the world around them.
-* <b>Breathe:</b> a character can use this action, not spending any die, to increase their lowest die to the next highest result they have.
+* <b>Breathe:</b> a character can use this action, not spending any die, to increase all their lowest die to the number of the turn after this one.
 * <b>Pass:</b> don't do anything for the turn.
 
 </details>
