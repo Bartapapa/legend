@@ -25,7 +25,6 @@ That's all!
 Roll 3d6, and take the <b>lowest</b> result. Do this three times, noting down the result for each [Attribute](https://bartapapa.github.io/legend/base-rules#attributes) in order. This is their <b>Bonus</b>. You can choose to switch two bonuses at character creation. Fill in each attribute's <b>Defense</b> by adding 10 to their Bonus.
 
 Roll 1d6 for your <b>Hit Protection</b>. This is the amount of damage you can take before getting seriously hurt.
-Roll 1d6*10 for your starting <b>Coin</b>.
 
 You start with Travel rations, Torches and a Light melee weapon of your choice.
 
