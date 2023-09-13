@@ -52,9 +52,13 @@ Here's a vague map of the county. It takes around 2 days' worth of walking to cr
 
 <b>Notes:</b>
 
-## Notable NPCs
+## Notable Characters
 
 ### General Desmon Caillois
+
+### The Headless Three
+
+### Witch-Doctor Varice
 
 
 
