@@ -174,10 +174,12 @@ Damage can be <b>Enhanced</b> or <b>Impaired</b> in certain conditions. If it is
 |:------------------|:--------|
 | <b>Weapons and armor</b> | <b>Cost</b> |
 |:-----------------|:--------|
-| Light weapons | d4     |
-| Medium weapons  | d6     |
-| Heavy weapons  | d6     |
-| Light ranged    | d6     |
+| Light melee | d4     |
+| Medium melee  | d6     |
+| Heavy melee  | d6     |
+| Light ranged    | d4     |
+| Medium ranged    | d6     |
+| Heavy ranged    | d8     |
 | Quiver and arrows | d4     |
 | Stones and pouch  | none     |
 | Powder horn and bullets | d4    |
