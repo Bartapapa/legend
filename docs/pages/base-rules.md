@@ -259,7 +259,7 @@ There are three kinds of rests: <b>Short</b>, <b>Long</b> and <b>Full</b>. You b
 
 You can short rest pretty much everywhere, although you have to <b>eat</b> something. This takes 10 minutes. You heal 1d6+1 HP, and 1 Fatigue.
 
-You can only long rest if you're in a sheltered, warm and dry place, and you <b>eat</b> some food. This takes 8 hours. You heal all lost HP, as well as all Fatigue.
+You can only long rest if you're in a sheltered, warm and safe place, and you <b>eat</b> some food. Areas where monsters live are never safe. This takes 8 hours. You heal all lost HP, as well as all Fatigue.
 
 You can only take a full rest in complete security, on a bed in town. It heals all your HP and Fatigue. It takes <b>a week</b>, although you don't need to be only in bed during this time. A week's worth of lodging and food usually costs generally costs a d6 treasure. Certain buildings in towns, known as <b>Havens</b>, can also heal your ability damage during this time. By default, you heal 1d6+1 ability damage of any ability you choose. Some Havens offer more efficient services, in exchange for treasure.
 
