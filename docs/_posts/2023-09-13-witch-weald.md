@@ -1,7 +1,8 @@
 ---
 layout: post
 tags: adventure
-title: Witch's Warren
+title: Witch's Weald
+permalink: /adventures/witch-weald
 ---
 <small>This is an adventure site suitable for beginner characters, and is suited for beginner players and game masters.</small>
 
