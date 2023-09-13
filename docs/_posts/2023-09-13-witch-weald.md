@@ -33,6 +33,22 @@ Here's a vague map of the county. It takes around 2 days' worth of walking to cr
 
 ### Port-Henry
 
+>And had I been a sailor,
+>Erring at the whims of the waves
+>I would face any danger
+>If it led me back ere safe.
+>
+><p style="text-align: right">- Letters to myself, by Léon de Varangue</p>
+
+<b>Sanctuary?</b> Yes.
+
+<b>NPCs and buildings:</b>
+* Chirurgeon Hippolyte (d6 Treasure - heal 1d6 Might damage, remove Injuries)
+* Port-de-Sel (d6 Civilized treasure - traverse the Wallowing Sea)
+* Saint-Alban's Asylum (d6 Religious - heal 1d6 Wit damage, remove Madness)
+
+<b>Notes:</b>
+
 ## Notable NPCs
 
 ### General Desmon Caillois
